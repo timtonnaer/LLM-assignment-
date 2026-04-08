@@ -1,0 +1,902 @@
+[
+  {
+    "sentence": "The financial services industry has in recent years experienced an unprecedented increase in regulations and supervision, both in the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The cumulative effect of the new and currently proposed legislation and regulations could require the Firm to make further changes to its businesses or operations, which could result in a significant loss of revenue for the Firm and impose additional compliance and other costs on the Firm or otherwise reduce the Firm s profitability.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These changes could also: limit the products and services that the Firm offers; reduce the liquidity that the Firm is able to offer its clients or counterparties through its market-making activities; impede the Firm s ability to pursue business opportunities in which it might otherwise consider engaging; require the Firm to dispose of or curtail certain 8 businesses; affect the value of assets that the Firm holds; require the Firm to increase its prices and therefore reduce demand for its products; or otherwise adversely affect the Firm s businesses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "To the extent that these initiatives have been, or continue to be, imposed on a limited subset of financial institutions (based on size, activities, geography or other criteria), the requirements to which the Firm may be subject under such laws and regulations could require the Firm to restructure further its businesses, or further re-price or curtail the products or services that it offers to customers, which could result in the Firm not being able to compete effectively with other institutions that are not impacted in the same way.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These requirements, and any future laws or regulations that seek to impose restrictions on the way the Firm organizes its business units or increase the capital or liquidity requirements on non-U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "subsidiaries of the Firm, could hinder the Firm s ability to efficiently manage its operations, increase its funding and liquidity costs and thereby decrease the Firm s net income.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, recent legislative and regulatory initiatives within the EU, including those relating to the resolution of financial institutions, the establishment by non-EU financial institutions of intermediate holding companies in the EU, the separation of trading activities from core banking services, mandatory on-exchange trading, position limits and reporting rules for derivatives, governance and accountability regimes, conduct of business requirements and restrictions on compensation, could require the Firm to make significant modifications to its non-U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "and abroad have increased the uncertainty regarding the regulatory environment in which the Firm will operate.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "include the possibility of regulatory reform related to the financial services industry, it is too early to determine the full extent to which these measures will ultimately modify or reduce the regulatory requirements currently imposed on the Firm, and the resulting possible effect on the Firm and its business and operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "s planned departure from the EU has engendered significant uncertainty concerning the regulatory framework under which global financial services institutions, including JPMorgan Chase, will need to conduct their business and operations in the EU after the U.K.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Firm s businesses and operations are subject to heightened governmental and regulatory oversight and scrutiny.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "government officials have indicated and demonstrated a willingness to bring criminal actions against financial institutions, including the Firm, and have increasingly sought, and obtained, resolutions that include criminal pleas or other admissions of wrongdoing from those institutions, such as the Firm s agreement in May 2015 to plead guilty to a single violation of federal antitrust law in connection with its settlements with certain government authorities relating to its foreign exchange sales and trading activities and controls related to those activities, and the non-prosecution agreement entered into by a subsidiary of the Firm with the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Department of Justice in November 2016 in connection with settlements to resolve various governmental investigations relating to a former hiring program for candidates referred by clients, potential clients and government officials in the Asia Pacific region.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "authorities, could have significant collateral consequences for a subject financial institution, including loss of customers and business, or the inability to offer certain products or services, or losing permission to operate certain businesses, for a period of time (absent the forbearance of, or the granting of waivers by, applicable regulators).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Firm expects that it and the financial services industry as a whole will continue to be subject to regulatory scrutiny and governmental investigations and enforcement actions and that violations of law will more frequently be met with formal and punitive enforcement action, including the imposition of significant monetary and other sanctions, rather than with informal supervisory action.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, if the Firm fails to meet the requirements of the various governmental settlements to which it is subject, or more 9 Part I generally, to maintain risk and control procedures and processes that meet the heightened standards established by its regulators and other government agencies, it could be required to enter into further orders and settlements, pay additional fines, penalties or judgments, or accept material regulatory restrictions on its businesses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Requirements for the orderly resolution of the Firm could require JPMorgan Chase to restructure or reorganize its businesses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Under Title I of the Dodd-Frank Act Title I and Federal Reserve and FDIC rules, the Firm is required to prepare and submit periodically to the Federal Reserve and the FDIC a detailed plan (the Resolution Plan for the rapid and orderly resolution, without extraordinary government support, of JPMorgan Chase Co.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Bankruptcy Code and other applicable insolvency laws in the event of future material financial distress of the Firm.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In April 2016, the Federal Reserve and the FDIC jointly provided firm-specific feedback on the 2015 Resolution Plans of eight systemically important domestic banking institutions, and determined that five of these 2015 Resolution Plans, including that of the Firm, were not credible or would not facilitate an orderly resolution under the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition to the identified deficiencies, the Federal Reserve and the FDIC also identified certain shortcomings which were required to be satisfactorily addressed in the Firm s Resolution Plan due on July 1, 2017.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "On October 1, 2016, the Firm filed with the Federal Reserve and the FDIC its submission (the 2016 Resolution Submission describing how the Firm remediated the identified deficiencies and providing a status report of its actions to address the identified shortcomings.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "On December 13, 2016, the Federal Reserve and the FDIC advised the Firm of their determinations that the Firm s 2016 Resolution Submission adequately remediated the deficiencies in the Firm s 2015 Resolution Plan identified by the agencies.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "On July 1, 2017, the Firm will file with the Federal Reserve and the FDIC its 2017 Resolution Plan which will, among other things, describe how the Firm has remediated the remaining shortcomings identified by the agencies in April 2016.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If the Federal Reserve and the FDIC were to jointly determine that the Firm did not remediate the identified shortcomings, or that the Firm s 2017 Resolution Plan, or any future update of that plan, is not credible, and the Firm is unable to remedy the identified deficiencies in a timely manner, the regulators may jointly impose more stringent capital, leverage or liquidity requirements on the Firm or restrictions on growth, activities or operations of the Firm, and could, if such deficiencies are not remedied within two years after such a determination, require the Firm to restructure, reorganize or divest businesses, legal entities, operational systems and/or intercompany transactions in ways that could materially and adversely affect the Firm s operations and strategy.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, in order to continue to maintain a Title I Resolution Plan that the Federal Reserve and FDIC determine is credible, the Firm may need to make additional changes to its legal entity structure and to certain intercompany and external activities, which could result in increased funding or operational costs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Holders of JPMorgan Chase s debt and equity securities will absorb losses if JPMorgan Chase were to enter into a resolution.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Federal Reserve has issued final rules (the TLAC rules regarding the minimum levels of unsecured external long-term debt and other loss-absorbing capacity that bank holding companies are required to have issued and outstanding, as well as guidelines defining the terms of qualifying debt instruments, to ensure that adequate levels of debt are maintained at the holding company level for purposes of recapitalizing the Firm s operating subsidiaries eligible LTD ).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "were to enter into a resolution, either in a proceeding under Chapter 11 of the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Bankruptcy Code or in a receivership administered by the FDIC under Title II of the Dodd-Frank Act, holders of eligible LTD and other debt and equity securities of the Firm will absorb the losses of JPMorgan Chase Co.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Under the Firm s Resolution Plan, the Firm s preferred resolution strategy contemplates that only JPMorgan Chase Co.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "s subsidiaries would be recapitalized as needed so that they could continue normal operations or subsequently be wound down in an orderly manner.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "s losses and any losses incurred by its subsidiaries would be imposed first on holders of JPMorgan Chase Co.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Claims of holders of those debt securities would have a junior position to the claims of creditors of JPMorgan Chase Co.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "s subsidiaries and to the claims of priority (as determined by statute) and secured creditors of JPMorgan Chase Co.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "and its other subsidiaries, and only after any claims of priority and secured creditors of JPMorgan Chase Co.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "were to enter into a resolution, none of JPMorgan Chase Co., the Federal Reserve or the FDIC is obligated to follow the Firm s preferred resolution strategy under its Resolution Plan.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The FDIC has similarly indicated that a single point of entry recapitalization model could be a desirable strategy to resolve a systemically important financial institution, such as JPMorgan Chase Co., under Title II of the Dodd-Frank Act.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Pursuant to that strategy, the FDIC would use its power to create a bridge entity for JPMorgan Chase Co.; 10 transfer the systemically important and viable parts of its business, principally the stock of JPMorgan Chase Co.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "s main operating subsidiaries and any intercompany claims against such subsidiaries, to the bridge entity; recapitalize those subsidiaries using assets of JPMorgan Chase Co.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "that have been transferred to the bridge entity; and exchange external debt claims against JPMorgan Chase Co.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Under this Title II resolution strategy, the value of the stock of the bridge entity that would be redistributed to holders of eligible LTD and other debt securities of JPMorgan Chase Co.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "may not be sufficient to repay all or part of the principal amount and interest on such securities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "To date, the FDIC has not formally adopted a single point of entry resolution strategy and it is not obligated to follow such a strategy in a Title II resolution of JPMorgan Chase Co.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Market Risk JPMorgan Chase s results of operations have been, and may continue to be, adversely affected by U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "and abroad have increased the uncertainty regarding the economic environment in which the Firm will operate.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although certain of the proposals being considered in the U.S., such as tax reform or increased expenditure on infrastructure projects, could lead to higher levels of U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "domestic economic growth, others, such as protectionist trade policies or isolationist foreign policies, could contract economic growth.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The uncertainty around the manner and extent to which these economic policies are ultimately enacted could impact market volatility and affect the Firm s businesses, both directly and through their impact on the businesses and activities of the Firm s clients and customers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the effects of various referenda in Europe, including the vote by the U.K.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "electorate to leave the EU, as well as the uncertainties regarding the outcome of Eurozone presidential elections in 2017, have triggered political and economic uncertainty in the Eurozone.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There is no assurance that such uncertainty, and any resultant market volatility, will not adversely affect the Firm s results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In the Firm s wholesale businesses, market and economic factors can affect the volume of transactions that the Firm executes for its clients and, therefore, the revenue that the Firm receives, as well as the willingness of other financial institutions and investors to participate in loan syndications or underwritings managed by the Firm.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The revenue derived from these positions is affected by many factors, including the Firm s success in effectively hedging its market and other risks; volatility in interest rates and equity, debt and commodities markets; interest rate and credit spreads; and the availability of liquidity in the capital markets, all of which are affected by global economic and market conditions, political events and regulatory restrictions on market-making activities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the Firm s market-making businesses can expose the Firm to unexpected market, credit and operational risks that could cause the Firm to suffer unexpected losses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Severe declines in asset values, unanticipated credit events, or unforeseen circumstances that may cause previously uncorrelated factors to become correlated (and vice versa) may create losses resulting from risks not having been appropriately taken into account in the development, structuring or pricing of a financial instrument.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "interest rates or a downturn in financial markets could affect the valuations of the client assets that the Firm manages or holds in custody, which, in turn, could affect the Firm s revenue from fees that are based on the amount of assets under management or custody.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Macroeconomic or market concerns, as well as legislative and regulatory developments (such as, for example, the recently-adopted SEC rules relating to money-market funds), may also prompt outflows from the Firm s funds or accounts or cause clients to invest funds in products that generate lower revenue.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "An increasing or high interest rate environment, while generally increasing the net interest income earned by the Firm, may under certain circumstances also result in lower levels of commercial and residential loan originations and diminished returns on the investment securities portfolio (to the extent that the Firm is unable to reinvest contemporaneously in higher-yielding assets), thereby adversely affecting the Firm s revenues and capital levels.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Conversely, a low interest rate environment may compress net interest margins, reducing the amounts that the Firm earns on its investment securities portfolio, or reducing the value of its mortgage servicing rights MSRs asset, thereby reducing the Firm s net interest income and other revenues.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "interest 11 Part I rates, the rate of unemployment, housing prices, the level of consumer confidence, changes in consumer spending and the number of personal bankruptcies.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "economy could diminish demand for the products and services offered by the Firm s consumer businesses, or increase the cost to provide such products and services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, adverse economic conditions, such as economic dislocations in certain geographies due to high levels of unemployment resulting from declining industrial or manufacturing activity, or other market or economic factors, could lead to an increase in mortgage, credit card, auto, student and other loan delinquencies and higher net charge-offs, which can reduce the Firm s earnings.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Firm s earnings from its consumer businesses could also be adversely affected by changes in government policies that affect consumers, including those relating to medical insurance, immigration, employment status and taxation, as well as governmental policies aimed at the economy more broadly, such as infrastructure spending and global trade, which could result in, among other things, higher inflation or reductions in consumer disposable income.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Federal Reserve has recently observed that market volatility may be exacerbated by regulatory restrictions, as market participants that are subject to the Volcker Rule are likely to decrease their market-making activities, and thereby constrain market liquidity, during periods of market stress.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, in a difficult or less liquid market environment, the Firm s risk management strategies may not be effective because other market participants may be attempting to use the same or similar strategies to deal with the challenging market conditions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Credit Risk The financial condition of JPMorgan Chase s clients and counterparties, particularly other financial institutions, could adversely affect the Firm.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Firm routinely executes transactions with clients and counterparties in the financial services industry, including brokers and dealers, commercial banks, investment banks, mutual and hedge funds, investment managers and other types of financial institutions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Many of these transactions expose the Firm to the credit risk of its counterparties and, in some cases, disputes and litigation in the event of a default by the counterparty or client.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Disputes with counterparties may also arise regarding the terms or the settlement procedures of derivative contracts, including with respect to the value of underlying collateral, which could cause the Firm to incur unexpected costs, including transaction, operational, legal and litigation costs, or result in credit losses, all of which may impair the Firm s ability to manage effectively its credit risk exposure from these products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The failure of a significant market participant, or concerns about a default by such an institution, could also lead to significant liquidity problems for, or losses or defaults by, other institutions, which in turn could adversely affect the Firm.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As part of providing clearing services, the Firm is a member of a number of CCPs, and may be required to pay a portion of the losses incurred by such organizations as a result of the default of other members.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, disputes with obligors concerning the valuation of collateral could increase in 12 times of significant market stress, volatility or illiquidity, and the Firm could suffer losses during such periods if it is unable to realize the fair value of collateral or manage declines in the value of collateral.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "JPMorgan Chase has exposure to increased levels of risk when clients or counterparties are engaged in similar business activities or activities in the same geographic region, or when they have similar economic features that would cause their ability to meet contractual obligations to be similarly affected by changes in economic conditions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although the Firm regularly monitors various segments of its exposures to assess potential concentration or contagion risks, the Firm s efforts to diversify or hedge its exposures against concentration risks may not be successful.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The inability to reduce the Firm s positions may not only increase the market and credit risks associated with such positions, but may also increase the level of risk-weighted assets RWA on the Firm s balance sheet, thereby increasing its capital requirements and funding costs, all of which could adversely affect the operations and profitability of the Firm s businesses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the Firm s cost of funding could be affected by actions that the Firm may take in order to satisfy applicable liquidity coverage ratio and net stable funding ratio requirements, to lower its GSIB systemic risk score, to satisfy the amount of eligible LTD that the Firm must have outstanding under the TLAC rules, to address obligations under the Firm s Resolution Plan or to satisfy regulatory requirements in non-U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "JPMorgan Chase is a holding company and depends on the cash flows of its subsidiaries to fund payments of dividends on its equity securities, principal and interest payments on its debt securities and redemptions and repurchases of its outstanding securities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "has established a new intermediate holding company, JPMorgan Chase Holdings LLC (the IHC ), and has contributed to the IHC the stock of substantially all of its direct subsidiaries (other than JPMorgan Chase Bank, N.A.) as well as other assets and intercompany indebtedness owing to it.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "is obligated to contribute to the IHC substantially all the net proceeds received by it from securities issuances (including, without limitation, issuances of senior and subordinated debt securities and of preferred and common stock).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "s ability to pay interest on its debt securities and dividends on its equity securities, to redeem or repurchase its outstanding securities and to fulfill its other payment obligations is dependent on it receiving dividends from JPMorgan Chase Bank, N.A.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "is subject to restrictions on its dividend distributions, capital adequacy and liquidity coverage requirements, and other regulatory restrictions on its ability to make payments to JPMorgan Chase Co., and the IHC is prohibited from paying dividends or extending credit to JPMorgan Chase Co.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "if certain capital or liquidity thresholds are breached or if limits are otherwise imposed by the Firm s management or Board of Directors.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "and the IHC could reduce or hinder its ability to pay dividends and satisfy its debt and other obligations, or result in JPMorgan Chase Co.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "seeking protection under bankruptcy laws at a time earlier than 13 Part I would have been the case absent the existence of such thresholds.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A violation of law or regulation by another financial institution is likely to give rise to an investigation by regulators and other governmental agencies of the same or similar practices by the Firm.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, various regulatory and governmental agencies have made inquiries to the Firm about its sales practices with retail customers, including, among other matters, the Firm s incentive compensation structures related to such practices.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, a single event may give rise to numerous and overlapping investigations and proceedings, either by multiple federal and state agencies and officials in the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Other Business Risks Any significant failure by the Firm s management to anticipate and respond quickly and appropriately to changes in the Firm s operating environment or trends affecting the financial services industry, to make prudent decisions regarding the Firm s strategy or to execute on that strategy could adversely affect the Firm s competitive standing and its earnings and future results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Firm operates in many jurisdictions and offers a wide variety of products and services to its clients and customers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Firm s strategies concerning the products and services that it will offer, the geographies in which it will operate, the types of clients and customers that it will serve and the counterparties with which it will do business, and the methods and distribution channels by which it will offer its products and services, will all affect the Firm s competitive standing and its results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If the Firm s management makes choices about the Firm s business strategies and goals that later prove to have been incorrect, does not accurately assess the competitive landscape and the industry trends affecting the Firm or does not formulate effective business plans to address the Firm s near- and longer-term strategic priorities, as well as the changing regulatory and market environments in which the Firm operates both in the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "and abroad, the franchise values and growth prospects of the Firm s businesses will suffer and revenues will decline.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The prospects of the Firm will also depend on management s ability to execute effectively against the Firm s strategic plans and to manage the Firm s resources to grow revenues, control expenses and return capital to the Firm s shareholders.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any significant failure by the Firm s Board of Directors to exercise appropriate oversight of management s strategic decisions, or any significant failure by the Firm s management to develop and execute on the Firm s strategic plans and business initiatives, or the ineffectual 14 implementation of business decisions, the failure of the Firm s products or services or dealings with customers to meet customer expectations, inadequate responses to regulatory requirements, the failure to react quickly to changes in market conditions or structure, or the failure to develop the necessary operational, technology, risk, financial, and managerial resources necessary to grow and manage the Firm and its various businesses could adversely affect the Firm s competitive standing and negatively affect the Firm s earnings and future results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "JPMorgan Chase s operations are subject to risk of loss from unfavorable economic, monetary and political developments in the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These activities can expose the Firm to enhanced sovereign, credit-related, operational and reputation risks, including the risks that a governmental entity may default on or restructure its obligations, claim that actions taken by government officials were beyond the legal authority of those officials or repudiate transactions authorized by a previous incumbent government, any or all of which could adversely affect the Firm s financial condition and results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, governments in particular countries or regions in which the Firm or its client do business may choose to adopt protectionist economic or trade policies in response to concerns about domestic economic conditions which could lead to diminished cross-border trade and financing activity within that country or region, all of which could negatively affect the Firm s business and earnings in those jurisdictions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Political and economic uncertainty can also undermine consumer, business and investor confidence, and thereby contribute to market volatility.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "s planned departure from the EU could have an adverse effect on global financial markets and may adversely impact global economic conditions more generally.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "and the EU, including with respect to the ability of financial services companies to engage in business in the EU from legal entities organized in or operating from the U.K., it is possible that under some scenarios, the Firm may need to make changes to its legal entity structure and operations and the locations in which it operates, which might result in a less efficient operating model across the Firm s European legal entities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Accordingly, it is possible that political or economic developments in certain countries, even in countries in which the Firm does not conduct business or have operations or engages in only limited activities, may adversely affect the Firm.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Firm must comply with economic sanctions and embargo programs administered by OFAC and similar multi-national bodies and governmental agencies outside U.S., including, most recently, sanctions targeted at individuals and companies in Russia.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A violation of a sanction or embargo program could subject the Firm, and individual employees, to regulatory enforcement actions as well as significant civil and criminal penalties.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, these countries, as well as certain more developed countries, have recently been more susceptible to unfavorable political, social or economic developments; these developments have in the past resulted in, and may in the future lead to, social unrest, 15 Part I general strikes and demonstrations, crime and corruption, security and personal safety issues, outbreaks of hostilities, overthrow of incumbent governments, terrorist attacks or other forms of internal discord, all of which can adversely affect the Firm s operations or investments in such countries.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Less developed legal and regulatory systems in certain countries can also have adverse consequences on the Firm s operations in those countries, including, among others, the absence of a statutory or regulatory basis or guidance for engaging in specific types of business or transactions; the promulgation of conflicting or ambiguous laws and regulations or the inconsistent application or interpretation of existing laws and regulations; uncertainty as to the enforceability of contractual obligations; difficulty in competing in economies in which the government controls or protects all or a portion of the local economy or specific businesses, or where graft or corruption may be pervasive; and the threat of arbitrary regulatory investigations, civil litigations or criminal prosecutions, the termination of licenses required to operate in the local market or the suspension of business relationships with governmental bodies.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "JPMorgan Chase relies on the effectiveness and integrity of its processes, operational systems and employees, and those of third parties, and certain failures of such processes or systems, or errors or misconduct by such employees, could materially and adversely affect the Firm s operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Firm s front- and back-office trading systems similarly rely on their access to, and on the functionality of, the operational systems maintained by third parties such as clearing and payment systems, central counterparties, securities exchanges and data processing and technology companies.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If the Firm s financial, accounting, trading or other data processing systems, or the operational systems of third parties on which the Firm s businesses are dependent, are unable to meet these increasingly demanding standards, or if they fail or have other significant shortcomings, the Firm could be materially and adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The effective functioning of the Firm s operational systems is also dependent on the competence and reliability of its employees, as well as the employees of third parties on whom the Firm relies for technological support, and the Firm could be materially and adversely affected by a significant operational breakdown or failure caused by human error or misconduct by an employee of the Firm or a third party.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Third parties with which the Firm does business, including retailers, data aggregators and other third parties with which the Firm s customers do business, can also be sources of operational risk to the Firm, particularly where activities of customers or such third parties are beyond the Firm s security and control systems, such as through the use of the internet, personal smart phones and other mobile devices or services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As the Firm s interconnectivity with customers and other third parties increases, the Firm increasingly faces the risk of operational failure with respect to their systems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Security breaches affecting the Firm s customers, or systems breakdowns or failures, security breaches or human error or misconduct affecting such other third 16 parties, may require the Firm to take steps to protect the integrity of its own operational systems or to safeguard confidential information of the Firm or its customers, thereby increasing the Firm s operational costs and potentially diminishing customer satisfaction.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Furthermore, the Firm may not be able to ensure that all of its clients, suppliers, counterparties and other third parties have appropriate controls in place to protect the confidentiality of the information exchanged between them and the Firm, particularly where such information is transmitted by electronic means.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If personal, confidential or proprietary information of clients, customers, employees or others were to be mishandled or misused (in situations where, for example, such information was erroneously provided to parties who are not permitted to have the information, or where such information was intercepted or otherwise compromised by third parties), the Firm could be exposed to litigation or regulatory sanctions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Accordingly, any failure or perceived failure by the Firm to comply with applicable privacy or data protection laws and regulations may subject it to inquiries, examinations and investigations that could result in requirements to modify or cease certain operations or practices or significant liabilities, fines or penalties, and could damage the Firm s reputation and otherwise adversely affect its businesses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Firm may be subject to disruptions of its operational systems arising from events that are wholly or partially beyond the Firm s control, which may include, for example, security breaches (as discussed further below); electrical or telecommunications outages; failures of computer servers or other damage to the Firm s property or assets; natural disasters or severe weather conditions; health emergencies or pandemics; or events arising from local or larger-scale political events, including outbreaks of hostilities or terrorist acts.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A breach in the security of JPMorgan Chase s systems, or those of other market participants, could disrupt the Firm s businesses, result in the disclosure of confidential information, damage the Firm s reputation and create significant financial and legal exposure for the Firm.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although JPMorgan Chase devotes significant resources to maintain and regularly upgrade its systems and processes that are designed to protect the security of the Firm s computer systems, software, networks and other technology assets, as well as the confidentiality, integrity and availability of information belonging to the Firm and its customers and clients, there is no assurance that all of the Firm s security measures will provide absolute security.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "JPMorgan Chase and other companies, as well as governmental and political organizations, have reported significant breaches in the security of their websites, networks or other systems, some of which have involved sophisticated and targeted attacks intended to obtain unauthorized access to confidential information, destroy data, disrupt or degrade service, sabotage systems or cause other damage, including through the introduction of computer viruses or malware, cyberattacks and other means.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Despite the Firm s efforts to ensure the security and integrity of its systems, it is possible that the Firm may not be able to anticipate, detect or recognize threats to its systems or to implement effective preventive measures against all security breaches of these types inside or outside the Firm, especially because the techniques used change frequently or are not recognized until launched, and because cyberattacks can originate from a wide variety of sources, including third parties who are or may be involved in organized crime or linked to terrorist organizations or hostile foreign governments, and such third parties may seek to gain access to the Firm s systems either directly or using equipment or security passwords belonging to employees, customers, third-party service providers or other users of the Firm s systems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These risks may increase in the future as the Firm continues to increase its mobile-payment and other internet-based product offerings and 17 Part I expands its internal usage of web-based products and applications.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Given the breadth of the Firm s operations, the high volume of transactions that it processes, the large number of customers, counterparties and third-party service providers with which the Firm does business, and the proliferation and increasing sophistication of cyberattacks, a particular cyberattack could occur and persist for an extended period of time before being detected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The extent of a particular cyberattack and the steps that the Firm may need to take to investigate the attack may not be immediately clear, and it may take a significant amount of time before such an investigation could be completed and full and reliable information about the attack is known.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "During such time the Firm may not necessarily know the extent of the harm or how best to remediate it, and certain errors or actions could be repeated or compounded before they are discovered and remediated, any or all of which could further increase the costs and consequences of a cyberattack.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A successful penetration or circumvention of the security of the Firm s systems or the systems of another market participant could cause serious negative consequences for the Firm, including significant disruption of the Firm s operations and those of its clients, customers and counterparties, misappropriation of confidential information of the Firm or that of its clients, customers, counterparties or employees, or damage to computers or systems of the Firm and those of its clients, customers and counterparties, and could result in violations of applicable privacy and other laws, financial loss to the Firm or to its customers, loss of confidence in the Firm s security measures, customer dissatisfaction, significant litigation exposure and harm to the Firm s reputation, all of which could have a material adverse effect on the Firm.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "However, as with any risk management framework, there are inherent limitations to the Firm s risk management strategies because there may exist, or develop in the future, risks that the Firm has not appropriately anticipated or identified.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Firm establishes allowances for probable credit losses inherent in its credit exposures, and also employs stress testing and other techniques to determine the capital and liquidity necessary to protect the Firm in the event of adverse economic or market events.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In times of market stress, including difficult or less liquid market environments, or in the event of other unforeseen circumstances, previously uncorrelated indicators may become correlated, or conversely, previously correlated indicators may make unrelated movements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Many of the models used by the Firm are subject to review not only by the Firm s Model Risk function but also by the Firm s regulators in order that the Firm may utilize such models in connection with the Firm s calculations of market risk RWA, credit risk RWA and operational risk RWA under Basel III.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "18 In addition, the Firm must comply with enhanced standards for the assessment and management of risks associated with vendors and other third parties that provide services to the Firm.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Failure by the Firm to appropriately assess and manage third party relationships, especially those involving significant banking functions, shared services or other critical activities, could result in potential liability to clients and customers, fines, penalties or judgments imposed by the Firm s regulators, increased operating expenses and harm to the Firm s reputation, any of which could materially and adversely affect the Firm.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Other Risks Actions or inaction by employees of the Firm may cause harm to the Firm s clients and customers, damage the Firm s reputation, negatively impact the Firm s culture and lead to liability and regulatory and other governmental actions against the Firm.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "JPMorgan Chase s employees interact with clients, customers and counterparties every day, and they are expected through their conduct to demonstrate the Firm s values and exhibit the culture and behaviors that are an integral part of the Firm s How We Do Business Principles, including the Firm s commitment to do first class business in a first class way .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If an employee takes an action (including a failure to act) that does not comply with the Firm s Code of Conduct, is inconsistent with the Firm s How We Do Business Principles or that otherwise harms clients, consumers or the market, such as improperly selling and marketing the Firm s product or services, acting illegally with others to establish market prices, improperly hiring individuals related to politically exposed persons or misappropriating Firm property or confidential or proprietary information or technology belonging to the Firm, its customers or third parties, such activities could give rise to litigation, regulatory or other governmental investigations or enforcement actions, and judgments, settlements, fines or penalties, and lead to requirements that the Firm restructure certain of its operations and activities, all of which could harm the Firm s reputation or result in collateral consequences.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although the Firm endeavors to embed culture and conduct risk management throughout an employee s life cycle, including recruiting, onboarding, training and development, and performance management, as well as through the Firm s promotion and compensation processes, employees of the Firm have, from time to time in the past, engaged in improper or illegal conduct resulting in litigation as well as settlements involving consent orders, deferred prosecution agreements and non-prosecution agreements, as well as other civil and criminal settlements with regulators and other governmental entities, and there is no assurance that further inappropriate actions by employees will not occur or that any such actions will always be deterred or quickly prevented.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The financial services industry is highly competitive, and JPMorgan Chase s inability to compete successfully may adversely affect its results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Technological advances and the growth of e-commerce have made it possible for non-depository institutions to offer products and services that traditionally were banking products, and for financial institutions and other companies to provide electronic and internet-based financial solutions, including electronic securities trading, payment processing and online automated algorithmic-based investment advice.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Ongoing or increased competition, on the basis of the quality and variety of products and services offered, transaction execution, innovation, reputation, price or other factors, may put downward pressure on prices and fees for the Firm s products and services or may cause the Firm to lose market share.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "are typically subject to different, and in some cases, less stringent, legislative and regulatory regimes.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "19 Part I JPMorgan Chase s ability to attract and retain qualified employees is critical to its success.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "There is the potential for changes in immigration policies in multiple jurisdictions around the world, including the U.S., and to the extent that immigration policies were to unduly restrict or otherwise make it more difficult for qualified employees to work in, or transfer among, jurisdictions in which the Firm has operations or conducts its business, the Firm could be adversely affected.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "If the Firm were unable to continue to attract or retain qualified employees, including successors to the Chief Executive Officer or members of the Operating Committee, the Firm s performance, including its competitive position, could be materially and adversely affected.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Any such lapses or deficiencies may materially and adversely affect the Firm s business and results of operations or financial condition, restrict its ability to access the capital markets, require the Firm to expend significant resources to correct the lapses or deficiencies, expose the Firm to regulatory or legal proceedings, subject it to fines, penalties or judgments, harm the Firm s reputation, or otherwise cause a decline in investor confidence.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In addition, the Firm s reputation or prospects may be significantly damaged by adverse publicity or negative information regarding the Firm, whether or not true, that may be posted on social media, non-mainstream news services or other parts of the internet, and this risk can be magnified by the speed and pervasiveness with which information is disseminated through those channels.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Management of potential conflicts of interest has become increasingly complex as the Firm continues to expand its business activities through more numerous transactions, obligations and interests with and among the Firm s clients.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "The failure or perceived failure to adequately address or appropriately disclose conflicts of interest has given rise to litigation and enforcement actions.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Likewise, the failure or perceived failure to deliver appropriate standards of service and quality, to treat customers and clients fairly, to provide fiduciary products or services in accordance with the applicable legal and regulatory standards, or to handle or use confidential information of customers or clients appropriately or in compliance with applicable data protection and privacy laws and regulations has given rise to litigation and enforcement actions.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In the future, a failure or perceived failure to appropriately address conflicts or fiduciary obligations could result in customer dissatisfaction, litigation and heightened regulatory scrutiny and enforcement actions, all of which can lead to lost 20 revenue and higher operating costs and cause serious harm to the Firm s reputation.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "For example, the role played by financial services firms during and after the financial crisis, including concerns that consumers have been treated unfairly by financial institutions or that a financial institution had acted inappropriately with respect to the methods employed in offering products to customers, have damaged the reputation of the industry as a whole.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "sentence": "May Not Be Completed or Completed On the Terms and Conditions Contemplated, or With the Expected Benefits We are currently pursuing a potential acquisition of Rockwell Automation, Inc.",
+    "risk_type": "financing",
+    "nature": "new_risk",
+    "style": "vague"
+  },
+  {
+    "sentence": "If the proposed transaction were to proceed, we can make no assurance as to the completion, terms, timing, costs or benefits anticipated from any such acquisition.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Unforeseen developments, including delays in obtaining various tax, regulatory and other approvals, could delay any acquisition, or cause it to occur on terms and conditions that are less favorable, or at a higher cost, than expected.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "In addition, the Company may encounter difficulties in integration and may not realize the degree or timing of the anticipated benefits of the acquisition.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "7 We Operate in Businesses That Are Subject to Competitive Pressures That Could Affect Prices or Demand for Our Products Our businesses operate in markets that are highly competitive and potentially volatile, and we compete on the basis of product performance, quality, service and/or price across the industries and markets served.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Various companies compete with us in one or more product lines and the number of competitors varies by product line.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In 2017 and in past years, we have made various acquisitions, including the valves controls business, and entered into joint venture arrangements intended to complement or expand our business, and may continue to do so in the future.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "While we 8 monitor market prices of the commodities we require and attempt to mitigate price exposure through hedging activities, this risk could adversely affect our operating results.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our Operations Depend on Production Facilities Throughout the World, a Majority of Which Are Located Outside the United States and Subject to Increased Risks of Disrupted Production Causing Delays in Shipments and Loss of Customers and Revenue We manage businesses with manufacturing facilities worldwide, a majority of which are located outside the United States, and also source certain materials internationally.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Emerging market sales represent over one-third of total sales and serving a global customer base requires that we place more materials sourcing and production in emerging markets to capitalize on market opportunities and maintain our best-cost position.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "and Abroad Subject Us to Economic Risk as Our Results of Operations May Be Adversely Affected by Changes in Local Government Regulations and Policies and Foreign Currency Fluctuations We sell, manufacture, engineer and purchase products globally, with significant sales in both mature and emerging markets.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "and international operations are subject to changes in local government regulations and policies, including those related to tariffs and trade barriers, investments, taxation, exchange controls and repatriation of earnings, which could adversely affect our results.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In addition, changes in the relative values of currencies occur from time to time and have affected our operating results and could do so in the future.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "While we monitor our exchange rate exposures and attempt to mitigate this exposure through hedging activities, this risk could adversely affect our operating results.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "9 Our Business Success Depends on the Ability to Attract, Develop and Retain Key Personnel Our success depends in part on the efforts and abilities of our management and key employees.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Security Breaches or Disruptions of Our Information Technology Systems Could Adversely Affect Our Business The Company utilizes a variety of information technology systems to manage and operate its businesses.",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "vague"
+  }
+]

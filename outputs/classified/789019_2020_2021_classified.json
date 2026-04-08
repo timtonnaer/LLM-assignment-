@@ -1,0 +1,482 @@
+[
+  {
+    "sentence": "STRATEGIC AND COMPETITIVE RISKS We face intense competition across all markets for our products and services, which may lead to lower revenue or operating margins.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "22 PART I Item 1A Business model competition Companies compete with us based on a growing variety of business models.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Maintaining the utility, compatibility, and performance of our cloud-based services on the growing array of computing devices, including PCs, smartphones, tablets, gaming consoles, and other devices, as well as sensors and other IoT endpoints.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "23 PART I Item 1A RISKS RELATING TO THE EVOLUTION OF OUR BUSINESS We make significant investments in products and services that may not achieve expected returns.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We will continue to make significant investments in research, development, and marketing for existing products, services, and technologies, including the Windows operating system, Microsoft 365, Office, Bing, SQL Server, Windows Server, Azure, Office 365, Xbox, LinkedIn, and other products and services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "GitHub for 7.5 billion, in March 2021 we completed our acquisition of ZeniMax Media Inc.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "for 8.1 billion, and in April 2021 we announced a definitive agreement to acquire Nuance Communications, Inc.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These acquisitions and other transactions and arrangements involve significant challenges and risks, including that they do not advance our business strategy, that we get an unsatisfactory return on our investment, that we have difficulty integrating and retaining new employees, business systems, and technology, that they distract management from our other businesses, or that announced transactions may not be completed.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have in the past recorded, and may in the future be required to record, a significant charge in our consolidated financial statements during the period in which any impairment of our goodwill or amortizable intangible assets is determined, negatively affecting our results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "24 PART I Item 1A CYBERSECURITY, DATA PRIVACY, AND PLATFORM ABUSE RISKS Cyberattacks and security vulnerabilities could lead to reduced revenue, increased costs, liability claims, or harm to our reputation or competitive position.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Nation state and state sponsored actors can deploy significant resources to plan and carry out exploits.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Employees or third parties may intentionally compromise our or our users security or systems or reveal confidential information.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Malicious actors may employ the IT supply chain to introduce malware through software updates or compromised supplier accounts or hardware.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Cyberthreats are constantly evolving and becoming increasingly sophisticated and complex, increasing the difficulty of detecting and successfully defending against them.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Breaches of our facilities, network, or data security could disrupt the security of our systems and business applications, impair our ability to provide services to our customers and protect the privacy of their data, result in product development delays, compromise confidential or technical business information harming our reputation or competitive position, result in theft or misuse of our intellectual property or other assets, require us to allocate more resources to improve technologies or remediate the impacts of attacks, or otherwise adversely affect our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The cyberattacks uncovered in late 2020 known as Solorigate or Nobelium are an example of a supply chain attack where malware was introduced to a software provider s customers, including us, through software updates.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The attackers were later able to create false credentials that appeared legitimate to certain customers systems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may be targets of further attacks similar to Solorigate/Nobelium as both a supplier and consumer of IT.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "25 PART I Item 1A Security of our products, services, devices, and customers data The security of our products and services is important in our customers decisions to purchase or use our products or services across cloud and on-premises environments.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, adversaries can attack our customers on-premises or cloud environments, sometimes exploiting previously unknown zero day vulnerabilities, such as occurred in early calendar year 2021 with several of our Exchange Server on-premises products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Vulnerabilities in these or any product can persist even after we have issued security patches if customers have not installed the most recent updates, or if the attackers exploited the vulnerabilities before patching to install additional malware to further compromise customers systems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Adversaries will continue to attack customers using our cloud services as customers embrace digital transformation.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Adversaries that acquire user account information can use that information to compromise our users accounts, including where accounts share the same attributes as passwords.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Inadequate account security practices may also result in unauthorized access, and user activity may result in ransomware or other malicious software impacting a customer s use of our products or services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our customers operate complex IT systems with third-party hardware and software from multiple vendors that may include systems acquired over many years.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "They expect our products and services to support all these systems and products, including those that no longer incorporate the strongest current security advances or standards.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As a result, we may not be able to discontinue support in our services for a product, service, standard, or feature solely because a more secure alternative is available.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Failure to utilize the most current security advances and standards can increase our customers vulnerability to attack.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, customers of widely varied size and technical sophistication use our technology, and consequently may have limited capabilities and resources to help them adopt and implement state of the art cybersecurity practices and technologies.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, we must account for this wide variation of technical sophistication when defining default settings for our products and services, including security default settings, as these settings may limit or otherwise impact other aspects of IT operations and some customers may have limited capability to review and reset these defaults.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Solorigate/Nobelium or similar cyberattacks may adversely impact our customers even if our production services are not directly compromised.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are committed to notifying our customers whose systems have been impacted as we become aware and have available information and actions for customers to help protect themselves.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may not be able to detect the existence or extent of these attacks for all of our customers or have information on how to detect or track an attack, especially where an attack involves on-premises software such as Exchange Server where we may have no or limited visibility into our customers computing environments.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Development and deployment of defensive measures To defend against security threats to our internal IT systems, our cloud-based services, and our customers systems, we must continuously engineer more secure products and services, enhance security and reliability features, improve the deployment of software updates to address security vulnerabilities in our own products as well as those provided by others, develop mitigation technologies that help to secure customers from attacks even when software updates are not deployed, maintain the digital security infrastructure that protects the integrity of our network, products, and services, and provide security tools such as firewalls, anti-virus software, and advanced security and information about the need to deploy security measures and the impact of doing so.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "26 PART I Item 1A The cost of measures to protect products and customer-facing services could reduce our operating margins.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Despite our efforts to protect customer and user data, perceptions that the collection, use, and retention of personal information is not satisfactorily protected could inhibit sales of our products or services and could limit adoption of our cloud-based solutions by consumers, businesses, and government entities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Advertising, professional, and social platform abuses For platform products and services that provide content or host ads that come from or can be influenced by third parties, including GitHub, LinkedIn, Microsoft Advertising, MSN, and Xbox, our reputation or user engagement may be negatively affected by activity that is hostile or inappropriate.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "27 PART I Item 1A Digital safety and service misuse Our hosted consumer services as well as our enterprise services may be used by third parties to disseminate harmful or illegal content in violation of our terms or applicable law.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "IoT products and services may contain defects in design, manufacture, or operation that make them insecure or ineffective for their intended purposes.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "OPERATIONAL RISKS We may have excessive outages, data losses, and disruptions of our online services if we fail to maintain an adequate operations infrastructure.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These demands continue to increase as we introduce new products and services and support the growth of existing services such as Bing, Azure, Microsoft Account services, Microsoft 365, Microsoft Teams, Dynamics 365, OneDrive, SharePoint Online, Skype, Xbox, and Outlook.com.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our hardware products such as Xbox consoles, Surface devices, and other devices we design and market are highly complex and can have defects in design, manufacture, or associated software.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "28 PART I Item 1A Our software products and services also may experience quality or reliability problems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If a component from a sole-source supplier is delayed or becomes unavailable, whether because of supplier capacity constraint, industry shortages, legal or regulatory changes that restrict supply sources, or other reasons, we may not obtain timely replacement supplies, resulting in reduced sales or inadequate datacenter capacity.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "LEGAL, REGULATORY, AND LITIGATION RISKS Government litigation and regulatory activity relating to competition rules may limit how we design and market our products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Government regulatory actions and court decisions such as these may result in fines or hinder our ability to provide the benefits of our software to consumers and businesses, reducing the attractiveness of our products and the revenue that come from them.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "29 PART I Item 1A We may be required to make available licenses to our proprietary technologies on terms that do not reflect their fair market value or do not protect our associated intellectual property.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our global operations subject us to potential consequences under anti-corruption, trade, and other laws and regulations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Increasing trade laws, policies, sanctions, and other regulatory requirements also affect our operations in and outside the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Economic sanctions in the U.S., the EU, and other countries prohibit most business with restricted entities or countries such as Crimea, Cuba, Iran, North Korea, and Syria.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "export controls restrict Microsoft from offering many of its products and services to, or making investments in, certain entities in specified countries.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "import controls restrict us from integrating certain information and communication technologies into our supply chain and allow for government review of transactions involving information and communications technology from countries determined to be foreign adversaries.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Non-compliance could result in reputational harm, operational delays, monetary fines, loss of export privileges, or criminal sanctions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Other regulatory areas that may apply to our products and online services offerings include requirements related to user privacy, telecommunications, data storage and protection, advertising, and online content.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Regulators may assert that our collection, use, and management of customer and other data is inconsistent with their laws and regulations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Legislative and regulatory action is emerging in the areas of AI and content moderation, which could increase costs or restrict opportunity.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If our products do not meet customer expectations or global accessibility requirements, we could lose sales opportunities or face regulatory or legal actions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "30 PART I Item 1A Laws and regulations relating to the handling of personal data may impede the adoption of our services or result in increased costs, legal claims, fines against us, or reputational damage .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "such as California , Colorado, and Virginia , ha ve adopted, or are considering adopting or expanding , laws and regulations imposing obligations regarding the handling of personal data.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These claims may arise from a wide variety of business practices and initiatives, including major new product releases such as Windows, significant business transactions, warranty or product claims, and employment practices.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, compliance with the 2017 United States Tax Cuts and Jobs Act TCJA and possible future legislative changes may require the collection of information not regularly produced within the Company, the use of estimates in our consolidated financial statements, and the exercise of significant judgment in accounting for its provisions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As regulations and guidance evolve with respect to the TCJA or possible future legislative changes , and as we gather more information and perform more analysis, our results may differ from previous estimates and may materially affect our consolidated financial statements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "INTELLECTUAL PROPERTY RISKS We may not be able to protect our source code from copying if there is an unauthorized disclosure.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We expend significant resources to patent the intellectual property we create with the expectation that we will generate revenues by incorporating that intellectual property in our products or services or, in some instances, by licensing or cross-licensing our patents to others in return for a royalty and/or increased freedom to operate.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Similarly, licensees of our patents may fail to satisfy their obligations to pay us royalties or may contest the scope and extent of their obligations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The royalties we can obtain to monetize our intellectual property may decline because of the evolution of technology, price changes in products using licensed patents, greater value from cross-licensing, or the difficulty of discovering infringements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "32 PART I Item 1A Third parties may claim we infringe their intellectual property rights.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "GENERAL RISKS If our reputation or our brands are damaged, our business and operating results may be harmed .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Challenging economic conditions also may impair the ability of our customers to pay for products and services they have purchased.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "government credit rating due to an actual or threatened default on government debt, our investment portfolio may be adversely affected and we could determine that more of our investments have experienced a decline in fair value, requiring impairment charges that could adversely affect our consolidated financial statements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Providing our customers with more services and solutions in the cloud puts a premium on the resilience of our systems and strength of our business continuity management plans and magnifies the potential impact of prolonged service outages in our consolidated financial statements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These conditions also may add uncertainty to the timing and budget for technology investment decisions by our customers and may cause supply chain disruptions for hardware manufacturers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Geopolitical change may result in changing regulatory systems and requirements and market interventions that could impact our operating strategies, access to national, regional, and global markets, hiring, and profitability.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The COVID-19 pandemic continues to have widespread, rapidly evolving, and unpredictable impacts on global society, economies, financial markets, and business practices.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Federal and state governments have implemented measures to contain the virus, including social distancing, travel restrictions, and vaccination programs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Even as efforts to contain the pandemic have made progress and some restrictions have relaxed, new variants of the virus are causing additional outbreaks.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Measures to contain the virus that impact us, our partners, distributors, and suppliers may further intensify these impacts and other risks described in these Risk Factors.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "34 PART I Item 1A The long-term effects of climate change on the global economy and the IT industry in particular are unclear.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Emerging nationalist and protectionist trends and concerns about human rights and political expression in specific countries may significantly alter the trade and commercial environments.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Changes to trade policy or agreements as a result of populism, protectionism, or economic nationalism may result in higher tariffs, local sourcing initiatives, and non-local sourcing restrictions, export controls, investment restrictions, or other developments that make it more difficult to sell our products in foreign countries.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  }
+]

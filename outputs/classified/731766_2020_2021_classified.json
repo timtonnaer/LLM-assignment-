@@ -1,0 +1,800 @@
+[
+  {
+    "sentence": "These forward-looking statements involve risks and uncertainties which may cause our actual results to differ materially from the expectations expressed or implied in the forward-looking statements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any forward-looking statement in this report speaks only as of the date of this report and, except as required by law, we undertake no obligation to update any forward-looking statement to reflect events or circumstances, including unanticipated events, after the date of this report.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The following discussion contains cautionary statements regarding our business, which investors and others should consider.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "By their nature, forward-looking statements are not guarantees of future performance or results and are subject to risks, uncertainties and assumptions which are difficult to predict or quantify.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "12 Table of Contents Risks Related to Our Business and Our Industry We are subject to risks associated with public health crises, large-scale medical emergencies and pandemics, such as the COVID-19 pandemic, which could have a material adverse effect on our business, results of operations, financial condition and financial performance.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The ongoing COVID-19 global health crisis continues to have major impacts on health systems, businesses, governments and customer and consumer activities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have mobilized the full strength of our resources to deliver the best care for patients, support for our members and care provider partners, keep our employees safe and deliver innovative solutions and support for the communities we serve and the entire health system.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The impact to our business is primarily dependent upon the ultimate pacing, intensity and duration of the crisis, and the timing for widespread availability and effectiveness of a vaccine, factors which remain uncertain at this time.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These factors continue to affect the related treatment, testing, coverage and other services we provide for the people we serve.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As the crisis abates, we may experience an increase in medical care costs as people seek care which was deferred during the pandemic and individuals with chronic conditions may require additional care needs resulting from missed treatments.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The premiums and fees we charge, including premiums dependent upon documented health conditions, may not be sufficient to cover the medical and administrative costs associated with COVID-19 and other care services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, we have experienced and may continue to experience reduced demand for certain services Optum provides to care providers, health plans and employers as a result of reduced clinical and claims activity and changes in business priorities resulting from COVID-19.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The COVID-19 pandemic has resulted in our customers having to close or severely curtail their operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Among other impacts, we have experienced and may continue to experience loss of commercial and pharmacy care services members due to customer reductions in workforce and an adverse impact on the timing and collectability of premium payments.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, governments have modified, and may continue to modify, regulatory standards around various aspects of health care in response to COVID-19, and these changing standards may create challenges for us to ensure timely compliance and meet various contractual obligations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further disruptions in public and private infrastructure, including supply chains providing medical supplies and pharmaceutical products, could adversely disrupt our business operations or increase our operating costs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, the enactment of emergency powers by governments could disrupt our business operations, including restricting pharmaceuticals or other supplies, and could increase the risk of shortages of necessary items.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although we cannot predict the pacing, intensity and duration of COVID-19, the pandemic s disruption to business activities, employment and economic effects, and near and long-term impacts on the patterns of care and services across the healthcare system could continue to have material and adverse effects on our business, results of operations, financial position or cash flows.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our OptumHealth business negotiates risk-based arrangements with commercial third-party payers which are also included in premium revenues.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Under a typical arrangement, OptumHealth receives a fixed percentage of a third-party payer s premiums to cover all or a defined portion of the medical costs provided to members.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we fail to predict accurately, or effectively price for or manage, the costs of providing care under risk-based arrangements, our results of operations could be materially and adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We manage medical costs through underwriting criteria, product design, negotiation of competitive provider contracts and care management programs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our premium revenue on commercial policies and Medicaid contracts is typically based on a fixed monthly rate per individual served for a 12-month period and is generally priced one to six months before the contract commences.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These factors may include medical cost inflation, increased use of services, increased cost of individual services, large-scale medical emergencies, pandemics, such as COVID-19, the introduction of new or costly drugs, treatments and technology, new treatment guidelines, new mandated benefits (such as the expansion of essential benefits coverage) or other regulatory changes and insured population characteristics.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Relatively small differences between predicted and actual medical costs or 13 Table of Contents utilization rates as a percentage of revenues can result in significant changes in our financial results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, if our 2020 medical costs for commercial insured products had been 1 higher than our actual medical costs, without proportionally higher revenues from such products, our annual net earnings for 2020 would have been reduced by approximately 290 million, excluding any offsetting impact from risk adjustment or from reduced premium rebates due to minimum MLRs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the financial results we report for any particular period include estimates of costs incurred for which claims are still outstanding.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If the data we rely upon to run our businesses is found to be inaccurate or unreliable or if we fail to maintain or protect our information systems and data integrity effectively, we could experience failures in our health, wellness and information technology products; lose existing customers; have difficulty attracting new customers; experience problems in determining medical cost estimates and establishing appropriate pricing; have difficulty preventing, detecting and controlling fraud; have disputes with customers, physicians and other health care professionals; become subject to regulatory sanctions or penalties; incur increases in operating expenses or suffer other adverse consequences.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Certain of our businesses sell and install software products which may contain unexpected design defects or may encounter unexpected complications during installation or when used with other technologies utilized by the customer.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we sustain cyber-attacks or other privacy or data security incidents resulting in security breaches disrupting our operations or resulting in the unintended dissemination of protected personal information or proprietary or confidential information, we could suffer a loss of revenue and increased costs, exposure to significant liability, reputational harm and other serious negative consequences.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We routinely process, store and transmit large amounts of data in our operations, including protected personal information subject to privacy, security or data breach notification laws, as well as proprietary or confidential information relating to our business or third parties.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have programs in place which are intended to detect, contain and respond to data security incidents and provide employee awareness training regarding phishing, malware and other cyber risks to protect against cyber risks and security breaches.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "However, because the techniques used to obtain unauthorized access, disable or degrade service, or sabotage systems change frequently and are increasing in sophistication, we may be unable to anticipate these techniques, detect breaches for long periods of time or implement adequate preventive measures.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Experienced computer programmers and hackers may be able to penetrate our security controls and access, misappropriate or otherwise compromise protected personal information or proprietary or 14 Table of Contents confidential information or that of third parties, create system disruptions or cause system shutdowns, negatively affecting our operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "They also may be able to develop and deploy viruses, worms and other malicious software programs attacking our systems or otherwise exploit any security vulnerabilities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Hardware, software, or applications we develop or procure from third parties may contain defects in design or manufacture or other problems which could unexpectedly compromise information security.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, we are subject to heightened vulnerability to cybersecurity attacks associated with increased numbers of employees working from home.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our facilities and services may also be vulnerable to security incidents or security attacks; acts of vandalism or theft; coordinated attacks by activist entities; financial fraud schemes; misplaced or lost data; human error; malicious social engineering; or other events which could negatively affect our systems, our customers data, proprietary or confidential information relating to our business or third parties, or our operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In certain circumstances we may rely on third-party vendors to process, store and transmit large amounts of data for our business whose operations are subject to similar risks.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, breaches of our security measures and the unauthorized dissemination of sensitive personal information, proprietary information or confidential information about us or our customers or other third parties, could expose our customers private information and our customers to the risk of financial or medical identity theft, or expose us or other third parties to a risk of loss or misuse of this information, result in litigation and liability, including regulatory penalties, for us, damage our brand and reputation, or otherwise harm our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we fail to compete effectively to maintain or increase our market share, including maintaining or increasing enrollments in businesses providing health benefits, our results of operations, financial position and cash flows could be materially and adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In particular geographies or segments, our competitors, compared to us, may have greater capabilities, resources or market share; a more established reputation; superior supplier or health care professional arrangements; better existing business relationships; lower profit margin or financial return expectations; or other factors which give such competitors a competitive advantage.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our competitive position may also be adversely affected by significant merger and acquisition activity in the industries in which we operate, both among our competitors and suppliers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we do not continue to innovate and provide products and services, which are useful and relevant to consumers and our customers, we may not remain competitive, and we risk losing market share to existing competitors and disruptive new market entrants.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, new direct-to-consumer business models from competing businesses may make it more difficult for us to directly engage consumers in the selection and management of their health care benefits and health care usage.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may face challenges from new technologies and market entrants which could affect our existing relationship with health plan enrollees in these areas.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any failure by us to continue to develop innovative care models could result in competitive disadvantages and loss of market share.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our business, results of operations, financial position and cash flows could be materially and adversely affected if we do not compete effectively in our markets, if we set rates too high or too low in highly competitive markets, if we do not design and price our products properly and competitively, if we are unable to innovate and deliver products and services demonstrating value to our customers, if we do not provide a satisfactory level of services, if membership or demand for other services does not increase as we expect or declines, or if we lose accounts with more profitable products while retaining or increasing membership in accounts with less profitable products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, certain activities related to network design, provider participation in networks and provider payments could result in disputes, which may be costly, divert management s attention from our operations and result in negative publicity.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In any particular market, physicians and health care providers could refuse to contract, demand higher payments, or take other actions which could result in higher medical costs, less desirable products for customers or difficulty meeting regulatory or accreditation requirements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In some markets, certain health care providers, particularly hospitals, physician and hospital organizations or multi-specialty physician groups, may have significant market positions or near monopolies which could result 15 Table of Contents in diminished bargaining power on our part.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Such organizations or groups of physicians may compete directly with us, which could adversely affect our business, and our results of operations, financial position and cash flows by impacting our relationships with these providers or affecting the way we price our products and estimate our costs, which might require us to incur costs to change our operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our health care benefits businesses have risk-based arrangements with some physicians, hospitals and other health care providers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These arrangements limit our exposure to the risk of increasing medical costs, but expose us to risk related to the adequacy of the financial and medical care resources of the health care provider.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "To the extent a risk-based health care provider organization faces financial difficulties or otherwise is unable to perform its obligations under the arrangement, we may be held responsible for unpaid health care claims which should have been the responsibility of the health care provider and for which we have already paid the provider.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In those cases, we do not have a pre-established understanding about the amount of compensation due to the provider for services rendered to our members.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In some states, the amount of compensation due to these out-of-network providers is defined by law or regulation, but in most instances the amount is either not defined or is established by a standard which does not clearly specify dollar terms.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In some instances, providers may believe they are underpaid for their services and may either litigate or arbitrate their dispute with us or try to recover from our members the difference between what we have paid them and the amount they charged us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The physicians who practice medicine or contract with our affiliated physician organizations could terminate their provider contracts or otherwise become unable or unwilling to continue practicing medicine or contracting with us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although we record 16 Table of Contents liabilities for our estimates of the probable costs resulting from self-insured matters, it is possible the level of actual losses will significantly exceed the liabilities recorded.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, certain legal actions could result in adverse publicity which could damage our reputation and materially and adversely affect our ability to retain our current business or grow our market share in some markets and businesses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we fail to meet the needs of our alliance or joint venture partners, including by developing additional products and services, providing high levels of service, pricing our products and services competitively or responding effectively to applicable federal and state regulatory changes, our alliances and joint ventures could be damaged or terminated which in turn could adversely impact our reputation, business and results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, if we fail to identify and successfully complete transactions, which further our strategic objectives, we may be required to expend resources to develop products and technology internally, we may be placed at a competitive disadvantage or we may be adversely affected by negative market perceptions, any of which may have a material adverse effect on our results of operations, financial position or cash flows.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Success in completing acquisitions is also dependent on effectively integrating the acquired business into our existing operations, including our internal control environment and culture, or otherwise leveraging its operations which may present challenges different from those presented by organic growth and may be difficult for us to manage.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, even with appropriate diligence, pre-acquisition practices of an acquired business may expose us to legal challenges and investigations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, in January 2021, an indictment for alleged violations of antitrust laws was issued by the DOJ against our subsidiary, Surgical Care Affiliates (SCA), based on conduct alleged to have begun more than five years prior to our acquisition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are vigorously defending this lawsuit, but if SCA is found liable, we may be subject to criminal fines or reputational harm.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As we expand and operate our business outside of the United States, we are presented with challenges differing from those presented by acquisitions of domestic businesses, including challenges in adapting to new markets, languages, business, labor and cultural practices and regulatory environments.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These challenges vary widely by country and, outside of the United States, may include political instability, government intervention, discriminatory regulation and currency exchange controls or other restrictions, which could prevent us from transferring funds from these operations out of the countries in which our acquired businesses operate, or converting local currencies we hold into U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, high unemployment has caused lower enrollment or lower rates of renewal in our employer group benefits and pharmacy services 17 Table of Contents plans.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A reduction in state Medicaid reimbursement rates could be implemented retroactively to apply to payments already negotiated or received from the government and could materially and adversely affect our results of operations, financial position and cash flows.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A prolonged unfavorable economic environment also could adversely impact the financial position of hospitals and other care providers which could materially and adversely affect our contracted rates with these parties and increase our medical costs or materially and adversely affect their ability to purchase our service offerings.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, unfavorable economic conditions could adversely impact the customers of our Optum businesses, including health plans, hospitals, care providers, employers and others which could, in turn, materially and adversely affect Optum s financial results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our failure to attract, develop, retain, and manage the succession of key employees and executives could adversely affect our business, results of operations and future performance.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are dependent on our ability to attract, develop and retain qualified employees and executives, including those with diverse backgrounds, experiences and skill sets, to operate and expand our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Experienced and highly skilled employees and executives in the health care and technology industries are in high demand and the market for their services is extremely competitive.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may have difficulty in replacing key executives because of the limited number of qualified individuals in these industries with the breadth of skills and experience required to operate and successfully expand our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Adverse changes to our corporate culture could harm our business operations and our ability to retain key employees and executives.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While we have development and succession plans in place for our key employees and executives, these plans do not guarantee the services of our key employees and executives will continue to be available to us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we are unable to attract, develop, retain and effectively manage the development and succession plans for key employees and executives, our business, results of operations and future performance could be adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our investment portfolio may suffer losses which could adversely affect our results of operations, financial position and cash flows.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Volatility in interest rates affects our interest income and the market value of our investments in debt securities of varying maturities which constitute the vast majority of the fair value of our investments as of December 31, 2020.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, a delay in payment of principal or interest by issuers, or defaults by issuers (primarily issuers of our investments in corporate and municipal bonds), could reduce our investment income and require us to write down the value of our investments which could adversely affect our profitability and equity.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There can be no assurance our investments will produce total positive returns or we will not sell investments at prices which are less than their carrying values.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "18 Table of Contents If the value of our intangible assets is materially impaired, our results of operations, equity and credit ratings could be materially and adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As of December 31, 2020, our goodwill and other intangible assets had a carrying value of 82 billion, representing 42 of our total consolidated assets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The value of our goodwill may be materially and adversely impacted if businesses we acquire perform in a manner inconsistent with our assumptions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our ratings reflect each credit rating agency s opinion of our financial strength, operating performance and ability to meet our debt obligations or obligations to policyholders.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There can be no assurance our current credit ratings will be maintained in the future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Risks Related to the Regulation of Our Business Our business activities are highly regulated and new laws or regulations or changes in existing laws or regulations or their enforcement or application could materially and adversely affect our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Under state guaranty association laws, certain insurance companies can be assessed (up to prescribed limits) for certain obligations to the policyholders and claimants of impaired or insolvent insurance companies who write the same line or similar lines of business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any such assessment could expose our insurance entities and other insurers to the risk they would be required to pay a portion of an impaired or insolvent insurance company s claims through state guaranty associations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, some of our Optum and UnitedHealthcare businesses hold government contracts or provide services related to government contracts and are subject to U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our relationships with these government agencies are subject to the terms of contracts we hold with the agencies and to laws and regulations regarding government contracts.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Among others, certain laws and regulations restrict or prohibit companies from performing work for government agencies which might be viewed as an actual or potential conflict of interest.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "19 Table of Contents Certain of our Optum businesses are also subject to regulations distinct from those faced by our insurance and HMO subsidiaries, some of which could impact our relationships with physicians, hospitals and customers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These regulations include state telemedicine regulations; debt collection laws; banking regulations; distributor and producer licensing requirements; state corporate practice of medicine doctrines; fee-splitting rules; and health care facility licensure and certificate of need requirements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, legislative, administrative and public policy changes to the ACA are being considered, and we cannot predict if the ACA will be further modified.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Litigation challenges have been brought seeking to invalidate the ACA in whole or in part.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "During the fourth quarter of 2020, the Supreme Court heard oral arguments in the case.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, the integration into our businesses of entities we acquire may affect the way in which existing laws and rules apply to us, including by subjecting us to laws and rules which did not previously apply to us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The broad latitude given to the agencies administering, interpreting and enforcing current and future regulations governing our businesses could force us to change how we do business, restrict revenue and enrollment growth, increase our health care and administrative costs and capital requirements, or expose us to increased liability in courts for coverage determinations, contract interpretation and other actions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Geographic and product expansions of our businesses may be subject to state and federal regulatory approvals.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These regulatory regimes encompass, among other matters, local and cross-border taxation, licensing, tariffs, intellectual property, investment, capital (including minimum solvency margin and reserve requirements), management control, labor, anti-fraud, anti-corruption and privacy and data protection regulations (including requirements for cross-border data transfers) which vary by jurisdiction.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, our UnitedHealthcare Global business subjects us to Brazilian laws and regulations affecting hospitals, managed care and insurance industries and to regulation by Brazilian regulators, including the national regulatory agency for private health insurance and plans, the Ag ncia Nacional de Sa de Suplementar, while our Banm dica business is subject to Chilean, Colombian and Peruvian laws, regulations and regulators applicable to hospitals and private insurance.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any international regulator may take an approach to the interpretation, implementation and enforcement of industry regulations which could differ from the approach taken by U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "laws regulating the conduct and activities of U.S.-based businesses operating abroad, such as the FCPA, which prohibits offering, promising, providing or authorizing others to give anything of value to a foreign government official to obtain or retain business or otherwise secure a business advantage.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "regulators could adversely affect our ability to market our products and services, or to do so at targeted operating margins which may have a material adverse effect on our business, financial condition and results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As a result of our participation in various government health care programs, both as a payer and as a service provider to payers, we are exposed to additional risks associated with program funding, enrollments, payment adjustments, audits and government investigations which could materially and adversely affect our business, results of operations, financial position and cash flows.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "20 Table of Contents The government health care programs in which we participate generally are subject to frequent changes, including changes which may reduce the number of persons enrolled or eligible for coverage, reduce the amount of reimbursement or payment levels, reduce our participation in certain service areas or markets, or increase our administrative or medical costs under such programs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we are not successful in obtaining renewals of state Medicaid managed care contracts, we risk losing the members who were enrolled in those Medicaid plans.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, as part of the ACA, CMS has a system providing various quality bonus payments to Medicare Advantage plans meeting certain quality star ratings at the individual plan or local contract level.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The star rating system considers various measures adopted by CMS, including, among others, quality of care, preventive services, chronic illness management, handling of appeals and customer satisfaction.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we do not maintain or continue to improve our star ratings, our plans may not be eligible for quality bonuses and we may experience a negative impact on our revenues and the benefits our plans can offer, which could materially and adversely affect the marketability of our plans, our membership levels, results of operations, financial position and cash flows.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any changes in standards or care delivery models applying to government health care programs, including Medicare and Medicaid, or our inability to improve our quality scores and star ratings to meet government performance requirements or to match the performance of our competitors could result in limitations to our participation in or exclusion from these or other government programs, which in turn could materially and adversely affect our results of operations, financial position and cash flows.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Certain of our local plans have been selected for such audits, which in the past have resulted and in the future could result in retrospective adjustments to payments made to our health plans, fines, corrective action plans or other adverse action by CMS.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Such investigations, audits, reviews or assessments sometimes arise out of, or prompt claims by private litigants or whistleblowers who, among other allegations, we failed to disclose certain business practices or, as a government contractor, submitted false or erroneous claims to the government.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Governmental investigations, audits, reviews and assessments could lead to government actions, which have resulted in, and in the future could result in, adverse publicity, the assessment of damages, civil or criminal fines or penalties, or other sanctions, including restrictions or changes in the way we conduct business, loss of licensure or exclusion from participation in government programs, any of which could have a material adverse effect on our business, results of operations, financial position and cash flows.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "21 Table of Contents Our businesses providing pharmacy care services face regulatory and operational risks and uncertainties which may differ from the risks of our other businesses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Each business is subject to federal and state anti-kickback, beneficiary inducement and other laws governing the relationships of the business with pharmaceutical manufacturers, physicians, pharmacies, customers and consumers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, federal and state legislatures regularly consider new regulations for the industry which could materially affect current industry practices, including potential new legislation and regulations regarding the receipt or disclosure of rebates and other fees from pharmaceutical companies, the development and use of formularies and other utilization management tools, the use of average wholesale prices or other pricing benchmarks, pricing for specialty pharmaceuticals, limited access to networks and pharmacy network reimbursement methodologies.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "As a provider of pharmacy benefit management services, OptumRx is also subject to an increasing number of licensure, registration and other laws and accreditation standards impacting the business practices of a pharmacy benefit manager.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "In addition, our pharmacy care services businesses provide services to sponsors of health benefit plans subject to ERISA.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "A private party or the DOL, which is the agency who enforces ERISA, could assert the fiduciary obligations imposed by the statute apply to some or all of the services provided by our pharmacy care services businesses even where those businesses are not contractually obligated to assume fiduciary obligations.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "If a court were to determine fiduciary obligations apply, we could be subject to claims for breaches of fiduciary obligations or claims we entered into certain prohibited transactions.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "If we fail to comply with applicable privacy, security and data laws, regulations and standards, including with respect to third-party service providers utilizing protected personal information on our behalf, our business, reputation, results of operations, financial position and cash flows could be materially and adversely affected.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Compliance with new privacy and security laws, regulations and requirements may result in increased operating costs, and may constrain or require us to alter our business model or operations.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "We expect there will continue to be new proposed laws, regulations and industry standards concerning privacy, data protection and information security in the European Union, Brazil, Chile, India and other jurisdictions, and we cannot yet determine the impacts such future laws, regulations and standards may have on our businesses or the businesses of our customers.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Many of our businesses are also subject to the Payment Card Industry Data Security Standard, which is a multifaceted security standard designed to protect payment card account data.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Through our Optum businesses, including our Optum Labs business, we maintain a database of administrative and clinical data statistically de-identified in accordance with HIPAA standards.",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Noncompliance or findings of noncompliance with applicable laws, regulations or requirements, or the occurrence of any privacy or security breach involving the misappropriation, loss or 22 Table of Contents other unauthorized disclosure of protected personal information, whether by us or by one of our third-party service providers, could have a material adverse effect on our reputation and business and, among other consequences, could subject us to mandatory disclosure to the media, loss of existing or new customers, significant increases in the cost of managing and remediating privacy or security incidents and material fines, penalties and litigation awards.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Many of these subsidiaries are regulated by state departments of insurance or similar regulatory authorities.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In most states, we are required to seek approval by state regulatory authorities before we transfer money or pay dividends from our regulated subsidiaries exceeding specified amounts.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  }
+]

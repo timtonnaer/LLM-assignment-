@@ -1,0 +1,1286 @@
+[
+  {
+    "sentence": "A breakdown of our information technology systems, cyberattack or information security breach could compromise the confidentiality, integrity and availability of our information technology systems, network-connected control systems and/or our data, interrupt the operation of our business and/or affect our reputation.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "27 Our intellectual property positions may be challenged, invalidated or circumvented, or we may fail to prevail in current and future intellectual property litigation.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Concentration of sales at certain of our wholesaler distributors and consolidation of private payers may negatively affect our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Risks Related to Research and Development We may not be able to develop commercial products despite significant investments in R D.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Some of our pharmaceutical pipeline and our commercial product sales rely on collaborations with third parties, which may adversely affect the development and sales of our products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The COVID-19 pandemic and the resulting measures implemented in response to the pandemic are adversely affecting, and are expected to continue to adversely affect, our business (including our R D, clinical trials, operations, manufacturing, supply chains, distribution systems, product development and sales activities), the business activities 28 of our suppliers, customers, third-party payers and our patients.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Federal, state and local, and international governmental policies and initiatives designed to reduce the transmission of COVID-19 also have resulted in the cancellation or delay of diagnostic, elective, specialty and other procedures and appointments to avoid non-essential patient exposure to medical environments and potential infection with COVID-19 and to focus limited resources and personnel capacity toward the treatment of COVID-19.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These measures and challenges will likely continue to varying degrees and have significantly reduced patient access to, and administration of, certain of our drugs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As COVID-19 infection rates ebb and flow, we anticipate there could be periodic backlogs of patients seeking appointments with physicians relating to a variety of medical conditions, and as a result, patients seeking treatment with certain of our products may have to navigate lower provider capacity, and this lower provider capacity could have a continued adverse effect on our sales.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There was a resurgence in COVID-19 infections in numerous jurisdictions in 2022, resulting in the reinstatement of stricter restrictions and shutdowns in a number of jurisdictions, including in the United States, Europe and Asia Pacific regions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "New variants of the SARS-CoV-2 virus have emerged, including the delta and omicron variants and its subvariants, and have been shown to be present in many geographies and appear to spread more easily and quickly than other variants.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The rapid reallocation of resources for the treatment and prevention of COVID-19 (including the production of COVID-19 vaccines or related therapies, such as our agreement to contribute to the production of COVID-19 antibody therapies for Lilly) and/or disruptions and shortages in the global supply chain caused by the pandemic, could also result in increased competition for, or reduced availability of, materials or components used in the development, manufacturing, distribution or administration of our products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, during the second quarter of 2021, an industry-wide shortage of certain lab kit supplies necessary for some activities that support our 29 clinical trials has developed that we are actively monitoring and managing.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The COVID-19 pandemic and the volatile global economic conditions stemming from it may precipitate or amplify the other risks described in this Risk Factors section, which could materially adversely affect our business, operations and financial condition and results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A breakdown of our information technology systems, cyberattack or information security breach could compromise the confidentiality, integrity and availability of our information technology systems, network-connected control systems and/or our data, interrupt the operation of our business and/or affect our reputation.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, as the majority of our employees work remotely for some portion of their jobs in our hybrid work environment, our reliance on our and third-party information technology systems has increased substantially and is expected to continue to increase.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In 2022 we identified a number of security vulnerabilities introduced into our information systems as a result of flaws that we subsequently identified in software that we purchased and installed, and these flaws required that we apply emergency patches to certain of our systems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While we did not experience any significant adverse effects as a result of these vulnerabilities, there can be no assurance that we will timely identify and address any future vulnerabilities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our systems are also subject to frequent perimeter network reconnaissance and scanning, phishing and other cyberattacks.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Attacks such as those experienced by governmental entities (including those that approve and/or regulate our products, such as the EMA) and other multi-national companies, including some of our peers, could leave us unable to utilize key business systems or access or protect important data and could have a material adverse effect on our ability to operate our business, including developing, gaining regulatory approval for, manufacturing, selling and/or distributing our products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In late 2020, SolarWinds Corporation, a leading provider of software for monitoring and managing information technology infrastructure, disclosed that it had suffered a cybersecurity incident whereby attackers had inserted malicious code into legitimate software updates for its products that were installed by myriad private and government customers, enabling the attackers to access a backdoor to such systems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In 2022, Okta, Inc., a provider of software that helps companies manage user authentication, disclosed that several hundred of its corporate customers were vulnerable to a security breach that allowed 30 attackers to access Okta s internal network.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although this breach did not have a significant effect on our business, there can be no assurance that a similar future breach would not result in a material adverse effect on our business or results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Intentional or inadvertent data privacy or security breaches (including cyberattacks) resulting from attacks or lapses by employees, service providers (including providers of information technology-specific services), business partners, nation states (including groups associated with or supported by foreign intelligence agencies), organized crime organizations, hacktivists or others, create risks that our sensitive data may be exposed to unauthorized persons, our competitors or the public.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "System vulnerabilities and/or cybersecurity breaches experienced by our third-party service providers have constituted a substantial share of the information security risks that have affected us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, in the first half of 2021, a supplier experienced a data breach in which an unauthorized third party acquired access to certain information provided to the supplier in the course of its provision of services to us, including business documents and certain personally identifiable patient information (not including social security or other financial or health insurance information).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In the third quarter of 2022, another service provider experienced a similar cybersecurity breach in which an attacker exfiltrated certain data (including non-significant Amgen data) from the service provider s systems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although these supplier data breaches have not resulted in material adverse effects on our business, there can be no assurance that a similar future cybersecurity incident would not result in a material adverse effect on our business or results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, the timeliness of our awareness of a cybersecurity incident affects our ability to respond to and work to mitigate the severity of such events.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, in 2020 and 2022, two of our vendors experienced cyberattacks and each initially reported to us that neither event involved our data.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "However, upon further investigation, they each subsequently informed us that the attackers had accessed limited, non-significant Amgen information.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although neither of these breaches had a significant adverse effect on our business, in the future we may again not receive timely reporting of cybersecurity events and such events could have a material adverse effect on our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Cyberattackers are also increasingly exploiting vulnerabilities in commercially available software from shared or open-source code.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Domestic and global government regulators, our business partners, suppliers with whom we do business, companies that provide us or our partners with business services and companies we have acquired or may acquire face similar risks, and security breaches of their systems or service outages could adversely affect our security, leave us without access to important systems, products, raw materials, components, services or information or expose our confidential data or sensitive personal information.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "31 We are also subject to various laws and regulations globally regarding privacy and data protection, including laws and regulations relating to the collection, storage, handling, use, disclosure, transfer and security of personal data.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, we are subject to the EU s GDPR, which became effective in May 2018, and the CCPA, which became effective in January 2020, both of which provide for substantial penalties for noncompliance.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The CCPA was amended in late 2020, to create the California Privacy Rights Act to create opt in requirements for the use of sensitive personal data and the formation of a new dedicated agency for the enforcement of the law, the California Privacy Protection Agency.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Virginia, Colorado, Utah and Connecticut have all subsequently passed similar consumer privacy laws, which went into effect in Virginia as of January 1, 2023, and will go into effect in Colorado, Utah and Connecticut later in 2023.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, in China, the Personal Information Protection Law and the Data Security Law, which regulate data processing activities associated with personal and nonpersonal data, are in effect and build upon the existing Cybersecurity Law.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our sales and operations are subject to the risks of doing business internationally, including in emerging markets .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As we continue our expansion efforts in emerging markets around the world, through acquisitions and l icensing transactions as well as through the development and introduction, both independently and through collaborations such as our collaboration with BeiGene, of our products in new markets, we face numerous risks to our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, in 2022 and continuing through early 2023, the Asia Pacific region also experienced a surge of COVID-19 infections.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While one country in the region initially responded to the surge by activating strict containment measures, in late 2022 that country abruptly reversed those measures, resulting in a significant COVID-19 outbreak, causing issues such as lack of capacity at hospitals that could lead to a local health emergencies.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If relations between the United States and other governments deteriorate, our business and investments in such markets may also be adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may also be required to increase our reliance on third-party agents and unfamiliar operations and arrangements including those previously utilized by companies we partner with or acquire in emerging markets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our expansion efforts in China and emerging markets around the world are dependent upon the establishment of an environment that is predictable, navigable and supportive of biopharmaceutical innovation, sustained access for our products and predictable pricing controls.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Between 2020 and 2022, we experienced delays in our applications to the Human Genetic Resources Administration of China that sought approval to conduct clinical trials in China.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "government, numerous state governments, the EU and other countries in which we conduct business have imposed a wide range of economic sanctions that restrict commerce and business dealings with Russia, certain regions of Ukraine and certain entities and individuals.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "This conflict may also precipitate or amplify the other risks described herein, including risks relating to cybersecurity, global economic conditions, clinical trials and supply chains, which could adversely affect our business, operations and financial condition and results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "32 RISKS RELATED TO GOVERNMENT REGULATIONS AND THIRD-PARTY POLICIES Our sales depend on coverage and reimbursement from government and commercial third-party payers, and pricing and reimbursement pressures have affected, and are likely to continue to affect, our profitability.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, pressures on healthcare budgets from the pandemic, the economic downturn and inflation continue and are likely to increase across the markets we serve.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Payers are increasingly focused on costs, which have resulted, and are expected to continue to result, in lower reimbursement rates for our products or narrower populations for which payers will reimburse.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In the United States, particularly over the past few years, a number of legislative and regulatory proposals have been introduced and/or signed into law that attempt to lower drug prices.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "government to set prices for certain drugs in Medicare, redesigns Medicare Part D benefits to shift a greater portion of the costs to manufacturers and enables the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "government to impose penalties if drug prices are increased at a rate faster than inflation.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additional proposals focused on drug pricing continue to be debated, and additional executive orders focused on drug pricing and competition are likely to be adopted and implemented in some form.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Government actions or ballot initiatives at the state level also represent a highly active area of policymaking and experimentation, including pursuit of proposals that limit drug reimbursement under state run Medicaid programs based on reference prices or permitting importation of drugs from Canada.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are unable to predict which or how many policy, regulatory, administrative or legislative changes may ultimately be, or effectively estimate the consequences to our business if, enacted and implemented.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "However, to the extent that payer actions further decrease or modify the coverage or reimbursement available for our products, require that we pay increased rebates or shift other costs to us, limit or affect our decisions regarding the pricing of or otherwise reduce the use of our products, such actions could have a material adverse effect on our business and results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "federal coverage and reimbursement policies and practices have affected and are likely to continue to affect access to, pricing of and sales of our products A substantial portion of our U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, in August 2022, the IRA was enacted and includes provisions requiring that: (1) beginning in 2026, mandatory price setting be introduced in Medicare for certain drugs paid for under Parts B and D, whereby manufacturers must accept a price established by the government or face penalties on all U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "sales (starting with 10 drugs in 2026, adding 15 in 2027 and 2028, and adding 20 in 2029 and subsequent years such that by 2031 approximately 100 drugs could be subject to such set prices); (2) starting in 2024, Medicare Part D be redesigned to cap beneficiary out-of-pocket costs and, beginning January 1, 2025, Federal reinsurance be reduced in the catastrophic phase (resulting in a shift and increase of such costs to Part D plans and manufacturers, including by requiring manufacturer discounts on certain drugs); and (3) beginning October 1, 2022, manufacturers will owe rebates on drugs reimbursed under Medicare Part D if price increases outpace inflation, and beginning January 1, 2023, will owe rebates on drugs reimbursed under Medicare Part B if price increases outpace inflation.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The IRA s drug pricing controls and Medicare redesign is likely to have a material adverse effect on our sales (particularly for our products that are more substantially reliant on Medicare reimbursement), our business and our results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "However, as the degree of impact from this legislation on our business depends on a number of implementation decisions, the extent of the IRA s impact on our sales and, in turn, our business remains unclear.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, following the passage of the IRA, the environment remains dynamic, and in October 2022, the Administration issued an Executive Order on Lowering Prescription Drug Costs for Americans that calls for the HHS to issue a report within 90 days on Innovation Center models that would lower drug costs and promote access to innovative drug therapies for Medicare and Medicaid beneficiaries.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "This Executive Order follows a 2021 Executive Order that included a timeline designed to increase competition in the healthcare sector, including by calling for the FDA to develop prescription drug importation programs and the FTC to apply greater scrutiny of anticompetitive activity.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Responses to this order, including by the HHS, which released a report with drug pricing proposals that seek to promote competition, and by the USPTO, which has taken steps to strengthen coordination with the FDA to address impediments to generic drug and biosimilar competition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In September 2021, HHS released a plan to address drug pricing that included potential future mandatory models that link payment for prescription drugs and biologics to certain factors, including the overall cost of care.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "33 We also face risks related to the reporting of pricing data that affects reimbursement of and discounts provided for our products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "government price reporting regulations are complex and may require biopharmaceutical manufacturers to update certain previously submitted data.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, as a result of restating previously reported price data, we may be required to pay additional rebates and provide additional discounts.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Changing reimbursement and pricing actions in various states have negatively affected and may continue to negatively affect access to and have affected and may continue to affect sales of our products At the state level, government actions or ballot initiatives can also affect how our products are covered and reimbursed and/or create additional pressure on our pricing decisions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A number of states have adopted, and many other states are considering, drug importation programs or other pricing actions, including proposals designed to require biopharmaceutical manufacturers to report to the state proprietary pricing information or provide advance notice of certain price increases.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, a California law requires biopharmaceutical manufacturers to notify health insurers and government health plans at least 60 days before scheduled prescription drug price increases that exceed certain thresholds.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additional proposals directed at Medicaid seek to penalize manufacturers for pricing drugs above a certain threshold or limit spending on biopharmaceutical products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "New York has established a Medicaid drug spending cap, and Massachusetts implemented a new review and supplemental rebate negotiation process.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Six states (Colorado, Maine, New Hampshire, Maryland, Oregon and Washington) have enacted laws that establish Prescription Drug Affordability Boards (PDABs) to study drug prices and identify drugs that pose affordability challenges, and in three states (Colorado, Maryland and Washington) include authority for the state PDAB to set upper payment limits on certain drugs in state regulated plans.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, Colorado, Florida, Maine, New Hampshire, New Mexico and Vermont have enacted laws, and several other states have proposed bills, to implement importation of drugs from Canada.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The FDA has met with representatives from Colorado, Florida, Maine and New Mexico to discuss those states proposed importation programs, and the FDA may be working towards approving such plans.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "commercial payer actions have affected and may continue to affect access to and sales of our products Payers, including healthcare insurers, PBMs, integrated healthcare delivery systems (vertically-integrated organizations built from consolidations of healthcare insurers and PBMs) and group purchasing organizations, increasingly seek ways to reduce their costs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Such measures include more limited benefit plan designs, high deductible plans, higher patient co-pay or coinsurance obligations and more significant limitations on patients use of manufacturer commercial co-pay assistance programs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, CMS finalized a policy for plan years starting on or after January 1, 2021 that has caused commercial payers to more widely adopt co-pay accumulator adjustment programs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Payers, including PBMs, have sought, and continue to seek, price discounts or rebates in connection with the placement of our products on their formularies or those they manage, and to also impose restrictions on access to or usage of our products (such as Step Therapy), require that patients receive the payer s prior authorization before covering the product, and/or chosen to exclude certain indications for which our products are approved.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, some payers require physicians to demonstrate or document that the patients for whom Repatha has been prescribed meet their utilization criteria, and these requirements have served to limit and may continue to limit patient access to Repatha treatment.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In an effort to reduce barriers to access, we reduced the net price of Repatha by providing greater discounts and rebates to payers (including PBMs that administer Medicare Part D prescription drug plans), and in response to a very high percentage of Medicare patients abandoning their Repatha prescriptions rather than paying their co-pay, we introduced a set of new National Drug Codes to make Repatha available at a lower list price.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, despite these net and list price reductions, some payers have restricted, and may continue to restrict, patient access and may seek further discounts or rebates or take other actions, such as changing formulary coverage for Repatha, that could reduce our sales of Repatha.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These factors have limited, and may continue to limit, patient affordability and use, negatively affecting Repatha sales.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, in the United States, as of the beginning of 2023, the top five integrated health plans and PBMs controlled about 92 of all pharmacy prescriptions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "This high degree of 34 consolidation among insurers and PBMs and other payers, including through integrated healthcare delivery systems and/or with specialty or mail-order pharmacies and pharmacy retailers, has increased the negotiating leverage such entities have over us and other biopharmaceutical manufacturers and has resulted in greater price discounts, rebates and service fees realized by those payers from our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Each of CVS, Express Scripts and United Health Group (among the top five integrated health plans and PBMs), each have Rebate Management Organizations that further increase their leverage to negotiate deeper discounts.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Ultimately, additional discounts, rebates, fees, coverage changes, plan changes, restrictions or exclusions imposed by these commercial payers could have a material adverse effect on our product sales, business and results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, on June 7, 2022, the FTC launched an inquiry into the business practices of PBMs, and the results of such inquiry could have an effect on manufacturer interactions with PBMs, resulting in changes to access for certain medicines.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "See our Concentration of sales at certain of our wholesaler distributors and consolidation of private payers may negatively affect our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our business is also affected by policies implemented by private healthcare entities that process Medicare claims, including Medicare Administrative Contractors.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, in the second quarter of 2022, several Medicare Administrative Contractors issued notice, in contravention of TEZSPIRE s FDA approved labeling, that TEZSPIRE would be added to their self-administered drug exclusion lists.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although the Medicare Administrative Contractors subsequently removed TEZSPIRE from their exclusion lists, these exclusions, if reintroduced and/or implemented, would result in Medicare beneficiaries with severe asthma losing access to TEZSPIRE coverage under Medicare Part B and potentially also under Medicare Advantage.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Pressures to decrease drug expenditures may further intensify as the COVID-19 pandemic has strained government budgets and as economic conditions continue to worsen in certain regions, including in Europe where high inflation and the energy crisis relating to the Russia Ukraine conflict are challenging the economies in that region.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "International reference pricing has been widely used by many countries outside the United States to control costs based on an external benchmark of a product s price in other countries.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "International reference pricing policies can change quickly and frequently and may not reflect differences in the burden of disease, indications, market structures or affordability differences across countries or regions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, despite the EMA s approval of Repatha for the treatment of patients with established atherosclerotic disease, prior to 2020, the reimbursement of Repatha in France was limited to a narrower patient population (such as those with homozygous familial hypercholesterolemia (HoFH)) following a national health technology assessment.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Many countries decide on reimbursement between potentially competing products through national or regional tenders that often result in one product receiving most or all of the sales in that country or region.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Failure to obtain coverage and reimbursement for our products, a deterioration in their existing coverage and reimbursement or a decline in the timeliness or certainty of payment by payers to physicians and other providers has negatively affected, and may further negatively affect, the ability or willingness of healthcare providers to prescribe our products for their patients and otherwise negatively affect the use of our products or the prices we realize for them.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Such health technology assessment organizations have 35 recommended, and may in the future recommend, reimbursement for certain of our products for a narrower indication than was approved by applicable regulatory agencies or may recommend against reimbursement entirely.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Significant disputes can and have arisen with tax authorities involving issues regarding the timing and amount of deductions, the use of tax credits and allocations of income and expenses among various tax jurisdictions because of differing interpretations of tax laws, regulations and relevant facts, and such tax authorities (including the IRS) are becoming more aggressive in their audits and are particularly focused on such matters.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In 2017, we received an RAR and a modified RAR from the IRS for the years 2010 2012, proposing significant adjustments that primarily relate to the allocation of profits between certain of our entities in the United States and the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Tax Court to contest two duplicate Statutory Notices of Deficiency (Notices) for the years 2010 2012 that we received in May and July 2021 which seek to increase our U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In 2020, we received an RAR and a modified RAR from the IRS for the years 2013 2015, also proposing significant adjustments that primarily relate to the allocation of profits between certain of our entities in the United States and the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We disagreed with the proposed adjustments and calculations and pursued resolution with the IRS appeals office but were unable to reach resolution.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Tax Court to contest a Notice for the years 2013 2015 that we previously reported receiving in April 2022 that seeks to increase our U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We firmly believe that the IRS positions set forth in the 2010 2012 and 2013 2015 Notices are without merit.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are currently also under examination by the IRS for the years 2016 2018 with respect to issues similar to those for the 2010 through 2015 period.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, we are under examination by a number of state and foreign tax jurisdictions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Final resolution of these complex tax matters is not likely within the next 12 months.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We continue to believe our accrual for income tax liabilities is appropriate based on past experience, interpretations of tax law, application of the tax law to our facts and judgments about potential actions by tax authorities; however, due to the complexity of the provision for income taxes and uncertain resolution of these matters, the ultimate outcome of any tax matters may result in payments substantially greater than amounts accrued and could have a material adverse effect on the results of our operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, there are several upcoming provisions in the 2017 Tax Act, including increases in the tax rates on foreign earnings and export income scheduled to take effect at the end of 2025, that could result in an increase in our effective tax rate.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Administration and Congress continue to discuss changes to existing tax law that could substantially increase the taxes we pay in the United States.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, the OECD reached an agreement to align countries on a minimum corporate tax rate and an expansion of the taxing rights of market countries.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Some individual countries, including those in the EU, have proposed 36 legislation to implement the global minimum tax agreement.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In other countries such as the United States, however, the implementation of the OECD agreement remains highly uncertain.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If enacted, either by all OECD participants or unilaterally by individual countries, the agreement could result in tax increases or double taxation that could affect our United States or foreign tax liabilities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "territory of Puerto Rico or other jurisdictions, including the changes and potential changes discussed above, could result in tax increases where we do business and could have a material adverse effect on the results of our operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We expect that our products and product candidates will compete with existing drugs, new drugs currently in development, drugs currently approved for other indications that may later be approved for the same indications as those of our products and drugs approved for other indications that are used off-label.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "With the proliferation of companies pursuing biopharmaceuticals, several of our biosimilar products have entered, and a number of our product candidates may enter, markets with one or more competitors or with competitors soon to arrive.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As a result, our products have been competing and may continue to compete, and our product candidates may compete, against products or product candidates that offer higher rebates or discounts, lower prices, equivalent or superior efficacy, better safety profiles, easier administration, earlier market availability or other competitive 37 features.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we are unable to compete effectively, this could reduce our sales, which could have a material adverse effect on our business and results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, the COVID-19 pandemic has resulted in increased interest in compulsory licenses, march-in rights or other governmental interventions, both in the United States and internationally, related to the procurement of drugs, and the World Trade Organization has agreed to a waiver of COVID-19 vaccine intellectual property protections through the Trade-Related Aspects of Intellectual Property Rights waiver process.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Alternatively, patents held by other entities have contributed, and may in the future contribute, to a decision by us to not pursue all of the same labeled indications as are held by these companies.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "38 We currently face competition from biosimilars and generics and expect to face increasing competition from biosimilars and generics in the future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In September 2022, the EMA and the EU Heads of Medicines Agencies (HMA) issued a joint statement providing that biosimilar medicines approved in the EU are interchangeable with their reference products and other biosimilars of the same reference product.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "This EMA-HMA statement could further contribute to the prescribing of biosimilars and to greater competition in Europe.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, six biosimilar versions of Neulasta are now approved in the United States, and we expect that other biosimilar versions of Neulasta may be marketed or receive approval in the future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Some companies currently developing or already marketing biosimilars may seek to obtain interchangeable status from the FDA, which could potentially allow pharmacists to substitute those biosimilars for our reference products without prior approval from the prescriber in most states under state law.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The FDA approved the first interchangeable biosimilar in 2021 and has subsequently granted interchangeability designations to three additional biosimilars.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In 2019, the FDA issued draft guidance that provides that comparative immunogenicity studies will not generally be expected for biosimilar and interchangeable insulin products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "This has opened the door for other product-specific guidance development and the removal of the expectation for certain studies, which may contribute to increased biosimilar competition for our innovative products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, in August 2022, the FDA designated a monoclonal antibody biosimilar as interchangeable without requiring a switching study to support the interchangeability determination.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, in September 2022, the FDA indicated that while comparative clinical trials will continue to be a requirement for many biosimilar development programs, the agency is focused on reducing the need for them in the future through a range of statistical, analytical and pharmacologic approaches.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, critics of the 12-year exclusivity period in the biosimilar pathway law will likely continue to seek to shorten the data exclusivity period and/or to encourage the FDA to interpret narrowly the law s provisions regarding which new products receive data exclusivity.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In 2019, the Administration agreed to remove from the United States-Mexico-Canada Agreement a requirement for at least 10 years of data exclusivity for biologic products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If the FDA were to decide that umbrella exclusivity does not apply to biological reference products or were to make other changes to the exclusivity period, 39 this could expose us to biosimilar competition at an earlier time.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, in 2021 the FDA sent a letter to the USPTO describing ways to strengthen coordination between the two agencies, offered training to help identify prior art, and seeking USPTO s views on practices that extend market exclusivities, whether pharmaceutical patent examiners need additional resources, and the effect of post-grant challenges at the Patent Trial and Appeal Board on drug patents.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The USPTO responded in July 2022 with a letter to the FDA stating that it is prepared to create formal mechanisms to collaborate with the FDA on patent issues that may affect the timing of generic and biosimilar entry.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In January 2023, the USPTO held a joint listening session with the FDA on USPTO-FDA collaboration efforts.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Upon the expiration or loss of patent protection and/or applicable exclusivity for one of our products, we can lose the majority of revenues for that product in a very short period of time.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, if one of our products is the subject of an FDA Written Request for pediatric studies and we are unable to adequately complete these studies, we may not obtain the pediatric exclusivity award that extends unexpired regulatory exclusivity for the product (and existing patents for a small molecule product) by an additional six months.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Concentration of sales at certain of our wholesaler distributors and consolidation of private payers may negatively affect our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "40 RISKS RELATED TO RESEARCH AND DEVELOPMENT We may not be able to develop commercial products despite significant investments in R D.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Product candidates, including biosimilar product candidates, or new indications for existing products (collectively, product candidates) that appear promising in the early phases of development have failed to reach the market for a number of reasons, such as: the product candidate did not demonstrate acceptable clinical trial results even though it achieved its primary endpoints and/or demonstrated positive preclinical or early clinical trial results, for reasons that could include changes in the standard of care of medicine or expectations of health authorities; the product candidate was not effective or not more effective than currently available or potentially competitive therapies in treating a specified condition or illness; the product candidate was not cost effective in light of existing or potentially competitive therapeutics; the product candidate had harmful side effects in animals or humans; the necessary regulatory bodies, such as the FDA or EMA, did not approve the product candidate for an intended use; reimbursement for the product candidate is limited despite regulatory approval; the product candidate was not economical for us to manufacture and commercialize; other parties had or may have had proprietary rights relating to our product candidate, such as patent rights, and did not let us sell it on reasonable terms, or at all; we and certain of our licensees, partners, contracted organizations or independent investigators failed to effectively conduct clinical development or clinical manufacturing activities; the pathway to regulatory approval or reimbursement for product candidates was uncertain or not well-defined; the biosimilar product candidate failed to demonstrate the requisite biosimilarity to the applicable reference product, or was otherwise determined by a regulatory authority to not meet applicable standards for approval; and a companion diagnostic device that is required with the use of a product candidate is not approved by the necessary regulatory authority.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, we may have difficulty finding a sufficient number of clinical trial sites and/or patients to participate in our clinical trials, particularly if competitors are conducting clinical trials in similar patient populations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Delays and complications in 41 planned clinical trials can result in increased development costs, associated delays in regulatory approvals and in product candidates reaching the market and revisions to existing product labels.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, to increase the number of patients available for enrollment in our clinical trials, we have opened, and will continue to open, clinical sites and enroll patients in a number of locations where our experience conducting clinical trials is more limited, including India, China, South Korea, the Philippines, Singapore and some Central and South American countries, either through utilization of third-party contract clinical trial providers entirely or in combination with local staff.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Conducting clinical trials in locations where we have limited experience requires substantial time and resources to understand the unique regulatory environments of individual countries.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, regional disruptions, including natural and man-made disasters, health emergencies (such as novel viruses or pandemics such as the one we are currently experiencing with COVID-19), or geopolitical conflicts (such as the ongoing armed conflict in Ukraine) have significantly disrupted the timing of clinical trials, and in the future could disrupt the timing, execution and outcome of clinical trials.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we fail to adequately manage the design, execution and diverse regulatory aspects of our clinical trials or to manage the production or distribution of our clinical supply, or such sites experience disruptions as a result of a natural/man-made disaster, health emergency or geopolitical conflict, corresponding regulatory approvals may be delayed or we may fail to gain approval for our product candidates or could lose our ability to market existing products in certain therapeutic areas or altogether.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "See Some of our pharmaceutical pipeline and our commercial product sales rely on collaborations with third parties, which may adversely affect the development and sales of our products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, the views of regulatory agencies relating to the requirements for accelerated approval may change over time, and trial designs that were sufficient to support accelerated approvals for some oncology products may not be considered sufficient 42 for later candidates.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additional clinical trials we initiate, including those required by the FDA, could result in substantial additional expense, and the outcomes could result in further label restrictions or the loss of regulatory approval for an approved indication, each of which could have a material adverse effect on our product sales, business and results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, a therapeutic oncology product candidate may be evaluated for its ability to reduce or eliminate minimal residual disease (MRD), or to extend the length of time during and after the treatment that a patient lives without the disease worsening, measured by PFS.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, in May 2021, we announced that the FDA approved LUMAKRAS under accelerated approval for the treatment of adult patients with KRAS G12C-mutated local advanced or metastatic NSCLC, as determined by an FDA-approved test, who have received at least one prior systemic therapy.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Continued approval for this indication is contingent upon verification and description of clinical benefit in confirmatory trials, including a requirement by the FDA that we complete a post-marketing trial to investigate whether a lower dose will have a similar clinical effect to the results demonstrated in our pre-marketing trial.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have since received the data from such post-marketing trial and intend to submit it to the FDA, as required.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we are unable to fulfill the regulators requirements that were conditions of a product s accelerated or conditional approval and/or if regulators reevaluate the data or risk-benefit profile of our product, the conditional approval may not result in full approval or may be revoked or not renewed.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "REMS and other risk management programs are designed to help ensure that a drug s benefits outweigh the risks and vary in the elements they contain.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, after an imbalance in positively adjudicated CV serious adverse events was observed in one of the phase 3 clinical trials for EVENITY but not in another, larger phase 3 study, in April 2019 the FDA approved EVENITY for the 44 treatment of osteoporosis in postmenopausal women at high risk for fracture, along with a post-marketing requirement.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Discussions within the FDA and other regulatory authorities, and between regulatory authorities and sponsors, continue as to the evidence needed to demonstrate biosimilarity or interchangeability for specific products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Delays or uncertainties in the development or implementation of such pathways, or changes in existing regulatory pathways, including degradation of regulatory standards, could result in delays or difficulties in getting our biosimilar products approved by regulatory authorities, subject us to unanticipated development costs or otherwise reduce the value of the investments we have made in the biosimilars area.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, we cannot predict the extent to which any potential legislative or policy initiatives would affect the biosimilar pathway or have a material adverse effect on our development of biosimilars or on our marketed biosimilars.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, some of our products or product candidates, including many of our oncology product candidates and products, including LUMAKRAS/LUMYKRAS and bemarituzumab, may also require the use of a companion or other diagnostic device such as a device that determines whether the patient is eligible to use our drug or that helps ensure its safe and effective use.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Some of our pharmaceutical pipeline and our commercial product sales rely on collaborations with third parties, which may adversely affect the development and sales of our products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "45 Failures by these parties to meet their contractual, regulatory, or other obligations to us or any disruption in the relationships between us and these third parties, could have a material adverse effect on our pharmaceutical pipeline and business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "This could result in the loss of intellectual property rights or protection, delay the development and sale of potential pharmaceutical products, affect the sale and delivery of our commercialized products and lead to lengthy and expensive litigation, administrative proceedings or arbitration.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We seek innovation through significant investment in both internal R D and external transactions, including collaborations, partnerships, alliances, licenses, joint ventures, mergers and acquisitions (collectively, acquisition activity).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, antitrust scrutiny by regulatory agencies and changes to regulatory approval process in the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "and foreign jurisdictions may cause approvals to take longer than anticipated to obtain, not be obtained at all, or contain burdensome conditions, which may jeopardize, delay or reduce the anticipated benefits of acquisitions to us and could impede the execution of our business strategy.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, failures or difficulties in integrating or retaining new personnel or in integrating the operations of the businesses, products or assets we acquire (including related technology, commercial operations, compliance programs, manufacturing, distribution and general business operations and procedures and ESG activities) may affect our ability to realize the benefits of the transaction and grow our business and may result in us incurring asset impairment or restructuring charges.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These and other challenges may arise in connection with our acquisitions of Otezla, Five Prime, Teneobio, ChemoCentryx, Horizon and/or our collaborations with BeiGene and KKC, or with other acquisition activities, which could have a material adverse effect on our business, results of operations and stock price.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In recent years, Puerto Rico has been affected by a number of natural disasters, including Hurricane Maria (2017), earthquakes (2020) and Hurricane Fiona (2022).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These natural disasters have affected, and may continue to affect, public and private properties and Puerto Rico s electric grid and communications networks.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While the critical manufacturing areas of our commercial manufacturing facility were not significantly affected by these natural disasters, the restoration of electrical service on the island after Hurricane Maria was a slow process, and our facility relied on backup diesel powered generators for some time.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In 2021, the baseload power generation units of the Puerto Rico Electric Power Authority malfunctioned due to the 46 lack of adequate maintenance for over a decade, leading to selective outages across the island.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In September 2022, Hurricane Fiona caused further damage to the island s utility infrastructure which again resulted in widespread power outages and water supply issues.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although these events did not directly have a material effect on our business, they have resulted in disruptions to our third-party suppliers on the island.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further instability of the electric grid could require us to increase our use of our generators or to use them exclusively.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, future storms, earthquakes or other natural or man-made disasters or events (including political unrest or labor shortages) could have a more significant effect on our manufacturing operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In March 2020, the Governor of Puerto Rico issued Executive Orders requiring the lockdown of businesses and government facilities, imposing restrictions on business operations and a curfew on residents in response to COVID-19.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Hurricanes Maria and Fiona, the 2020 earthquakes, the COVID-19 pandemic and the ILA strike have also placed greater stress on the island s already challenged economy.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Beginning in 2016, the government of Puerto Rico defaulted on its roughly 72 billion of debt.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Congress passed the Puerto Rico Oversight, Management, and Economic Stability Act, which established a financial oversight board for Puerto Rico.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "After years of negotiations with bondholders and other creditors, this financial oversight board reached an agreement with the same, which was confirmed by the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although our ability to manufacture and supply our products has not, to date, been significantly affected by natural disasters, unreliable electric utility services, strikes, pandemic lockdowns or the island s economic challenges, these, or a combination of these challenges, or other issues that create a substantial disruption to our ability to operate our Puerto Rico manufacturing facility or get supplies and manufactured products transported to and from that location, could make it more expensive or difficult for us to operate in Puerto Rico, and could materially and adversely affect our ability to supply our products and affect our product sales.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "See Manufacturing difficulties, disruptions or delays could limit supply of our products and limit our product sales .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Among the reasons we may be unable to obtain these raw materials, medical devices and components include: regulatory requirements or action by regulatory agencies or others; adverse financial or other strategic developments at or affecting the supplier, including bankruptcy; unexpected demand for or shortage of raw materials, medical devices or components; failure to comply with our quality standards which results in quality and product failures, product contamination and/or recall; a material shortage, contamination, recall and/or restrictions on the use of certain biologically derived substances or other raw materials; discovery of previously unknown or undetected imperfections in raw materials, medical devices or components; cyberattacks on supplier systems; natural or other disasters, including hurricanes, earthquakes, volcanoes or fires; labor disputes or shortages, including from the effects of health emergencies (such as novel viruses or pandemics such as the one we are currently experiencing with COVID-19) or natural disasters; and geopolitical conflicts.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, in prior years we have experienced shortages in certain components necessary for the formulation, fill and finish of certain of our products in our Puerto Rico facility, and we have also experienced shortages related to single use systems and packaging which has caused disruptions to our manufacturing plans.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further quality issues that result in 47 unexpected additional demand for certain components have resulted in shortages and in the future may lead to shortages of required raw materials or components (such as we have experienced with EPOGEN glass vials).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our ability to adequately and timely manufacture and supply our products (and product candidates to support our clinical trials) is dependent on the uninterrupted and efficient operation of our facilities and those of our third-party contract manufacturers, which may be affected by: capacity of manufacturing facilities; contamination by microorganisms or viruses, or foreign particles from the manufacturing process; natural or other disasters, including hurricanes, earthquakes, volcanoes or fires; labor disputes or shortages, including the effects of health emergencies (such as novel viruses or pandemics such as the one we are currently experiencing with COVID-19) or natural disasters; compliance with regulatory requirements; changes in forecasts of future demand; timing and actual number of production runs and production success rates and yields; updates of manufacturing specifications; contractual disputes with our suppliers and contract manufacturers; timing and outcome of product quality testing; power failures and/or other utility failures; cyberattacks on supplier systems; breakdown, failure, substandard performance or improper installation or operation of equipment (including our information technology systems and network-connected control systems or those of our contract manufacturers or third-party service providers); delays in the ability of the FDA or foreign regulatory agencies to provide us necessary reviews, inspections and approvals, including as a result of a subsequent extended U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If any of these or other problems affect production in one or more of our facilities or those of our third-party contract manufacturers, or if we do not accurately forecast demand for our products or the amount of our product candidates required in clinical trials, we may be unable to start or increase production in our unaffected facilities to meet demand.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "48 Our manufacturing processes, those of our third-party contract manufacturers and those of certain of our third-party service providers must undergo regulatory approval processes and are subject to continued review by the FDA and other regulatory authorities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, we rely on commercial transportation, including air and sea freight, for the distribution of our products to our customers, which has been negatively affected by the ongoing COVID-19 pandemic and may be negatively affected by natural disasters or geopolitical security threats.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Stakeholders, including our investors and our employees, have increasingly focused on, and are expected to continue to focus on, our ESG practices.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While we have achieved most of our goals set in prior years, whether we can achieve our current and future ESG goals continues to be uncertain and remains subject to numerous risks, including evolving regulatory requirements and social expectations affecting ESG practices, our ability to recruit, develop and retain a diverse workforce, the availability of suppliers and collaboration partners that can meet our ESG goals, the effects of the organic growth of our business and potential 49 acquisitions of other businesses on our ESG performance, and the availability and cost of technologies or resources, such as carbon credits, that support our goals.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, impacts on the commodity market and supply chains caused by the armed conflict in Ukraine could limit the availability of electric vehicle components, impairing our ability to meet some of our environmental sustainability goals.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Many of our operations and facilities, including those essential to our manufacturing, R D and distribution activities, are in locations that are subject to natural disasters, including droughts, fires, extreme temperatures, hurricanes, tropical storms and/or floods.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "For example, in 2017 Hurricane Maria caused catastrophic damage, compounded in 2022 by Hurricane Fiona, to the U.S.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The economic downturn resulting from the COVID-19 pandemic precipitated a global recession, and together with high rates of inflation and energy supply issues experienced in certain regions, have led to regional and/or global macroeconomic challenges, the effects of which may be of an extended duration.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In particular, acute rising energy costs may further adversely affect productivity and economic conditions in Europe.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Additionally, financial pressures may cause government or other third-party payers to more aggressively seek cost containment measures in healthcare and other settings.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Job losses or other economic hardships (including inflation) may also affect patients ability to afford healthcare as a result of increased co-pay or deductible obligations, greater cost sensitivity to existing co-pay or deductible obligations, lost healthcare insurance coverage or for other reasons.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The current inflationary environment related to increased aggregate demand, supply chain constraints and the effects from the armed conflict in Ukraine (including the effects of the sanctions that were implemented in response to the conflict and the resulting impacts on the commodity market and supply chains) have also increased our operating expenses and may continue to affect our operating expenses.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our operational costs, including the cost of energy, materials, labor, distribution and our other operational and facilities costs are subject to market conditions and are being adversely affected by inflationary pressures.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "A significant worsening of global economic conditions could precipitate or materially amplify the other risks described herein .",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We maintain a significant portfolio of investments disclosed as cash equivalents and marketable securities on our consolidated balance sheets.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We have certain assets, including equity investments, that are exposed to market fluctuations that could, in a sustained 50 or recurrent series of market disruptions, result in impairments.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We expect to access the capital markets, from time to time, to supplement our existing funds and cash generated from operations to satisfy our needs for working capital; capital expenditure and debt service requirements; our plans to pay dividends and repurchase stock; and other business initiatives we strategically plan to pursue, including acquisitions (such as our acquisition of Horizon) and licensing activities.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In the event of adverse capital and credit market conditions, we may be unable to obtain capital market financing on similar favorable terms, or at all, which could have a material adverse effect on our business and results of operations or our ability to complete business acquisitions.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  }
+]

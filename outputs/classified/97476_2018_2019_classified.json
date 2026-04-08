@@ -1,0 +1,170 @@
+[
+  {
+    "sentence": "Like other companies, we are susceptible to any potential downturn associated with increasing protectionism, trade tensions and macroeconomic weakness , including any potential downturn associated with the pending withdrawal of the United Kingdom from the European Union.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These may affect the general economic climate and our performance and the performance of our customers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Similarly, the price of our securities is subject to volatility due to fluctuations in general market conditions, actual financial results that do n ot meet our and/or the investment community s expectations, changes in our and/or the investment community s expectations for our future results, dividends or share repurchases, and other factors, many of which are beyond our control.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "8 Our global operations subject us to risks associated with domestic or international political, social, economic or other conditions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are exposed to political, social and economic conditions, security risks, terrorism or other hostile acts, health conditions, labor conditions, and possible disruptions in transportation, communications and information technology networks of the various countries in which we operate.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, certain countries where we operate have experienced, and other countries may experience, increasing protectionism that may impact global trade, including tariffs, import or export restrictions, trade embargoes and sanctions, restrictions on cross-border investment and other trade barriers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These events could, among other things, compromise our information technology networks; result in corrupt or lost data or the unauthorized release of our, our customers or our suppliers confidential or proprietary information; cause a disruption to our manufacturing and other operations; result in the release of personal data; or cause us to incur costs associated with increased protection, remediation, regulatory inquiries or penalties, any of which could adversely affect our operating results and our reputation.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We make significant investments in research and development to improve existing technology and products, develop new products to meet changing customer demands, and improve our production processes.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In some cases, we might not realize a return or the expected return on our investments because they are generally made before commercial viability can be assured.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, projects that are commercially viable may not contribute to our operating results until at least a few years after they are completed.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "9 Our inability to timely implement new manufacturing technologies or install manufacturing equipment could adversely affect our results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We subcontract a po rtion of our wafer fabrication and assembly and testing of our products, and we depend on third parties to provide advanced logic manufacturing process technology development.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We do not have long-term contracts with all of these suppliers, and the number o f alternate suppliers is limited.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Reliance on these suppliers involves risks, including possible shortages of capacity in periods of high demand, suppliers inability to develop and deliver advanced logic manufacturing process technology in a timely, cost effective, and appropriate manner and the possibility of suppliers imposition of increased costs on us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Claims based on warranty, product liability, epidemic or delivery failures, or other grounds relating to our products, manufacturing, services, designs, communications or cybersecurity could lead to significant expenses as we defend the claims or pay damage awards or settlements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any such claims may also cause us to write off the value of related inventory.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, it is possible for a customer to recall a product containing a TI part, for example, with respect to products used in automotive applications or handheld electronics, which may cause us to incur costs and expenses relating to the recall.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any of these events could adversely affect our results of operations, financial condition and reputation.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A number of factors could cause our tax rate to increase, including a change in the jurisdictions in which our profits are earned and taxed; a change in the mix of profits from those jurisdictions; changes in available tax credits or deductions, including for amounts relating to stock compensation; changes in applicable tax rates; changes in tariff regulations or surcharges; changes in accounting principles; or adverse resolution of audits by taxing authorities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Each quarter we forecast our tax expense based on our forecast of our performance for the year.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If in the future we repatriate any of our earnings represented by non-cash, operating assets such as inventory and fixed assets, we might incur incremental non-U.S.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "10 Our results of operations and financial condition could be advers ely affected if a customer or a distributor suffers a loss with respect to our inventory.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "In 2018, about 65 percent of our revenue was generated from sales of our products through distributors.",
+    "risk_type": "supply_chain",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Disputes with or the loss of significant distributors could be disruptive or harmful to our current business.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "11 Our results of operations and liquidity could be affected by changes in the financial markets.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our continued success depends in part on the retention and recruitment of skilled personnel, as well as the effective management of succession for key employees.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Skilled and experienced personnel in our industry, including engineering, management, marketing, technical and staff personnel, are in high demand and competition for their talents is intense.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Charges associated with impairments of goodwill or intangible assets could adversely affect our financial condition and results of operations.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  }
+]

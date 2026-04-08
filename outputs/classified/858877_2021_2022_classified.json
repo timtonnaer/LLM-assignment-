@@ -1,0 +1,566 @@
+[
+  {
+    "sentence": "Beginning in the second half of fiscal 2020, the COVID-19 pandemic impacted our financial results and business operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We continue to manage through significant supply constraints seen industry-wide due to component shortages which have resulted in extended lead times and higher supply chain costs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Shelter-in-place and/or lockdown orders globally and other measures have and could in the future impact our supply chain.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The extent of the impact of the COVID-19 pandemic on our operational and financial performance is currently uncertain and will depend on many factors outside our control, including, without limitation, the timing, extent, trajectory and duration of the pandemic, the efficacy of available vaccines, the imposition of protective public safety measures, and the impact of the pandemic on the global economy.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These factors include: Fluctuations in demand for our products and services, especially with respect to service providers and Internet businesses, in part due to changes in the global economic environment Changes in sales and implementation cycles for our products and reduced visibility into our customers spending plans and associated revenue Our ability to maintain appropriate inventory levels and purchase commitments Price and product competition in the communications and networking industries, which can change rapidly due to technological innovation and different business models from various geographic regions The overall movement toward industry consolidation among both our competitors and our customers The introduction and market acceptance of new technologies and products, and our success in new and evolving markets, and in emerging technologies, as well as the adoption of new standards The transformation of our business to deliver more software and subscription offerings where revenue is recognized over time Variations in sales channels, product costs, mix of products sold, or mix of direct sales and indirect sales 14 Table of Contents The timing, size, and mix of orders from customers Manufacturing and customer lead times Fluctuations in our gross margins, and the factors that contribute to such fluctuations The ability of our customers, channel partners, contract manufacturers and suppliers to obtain financing or to fund capital expenditures, especially during a period of global credit market disruption or in the event of customer, channel partner, contract manufacturer or supplier financial problems Actual events, circumstances, outcomes, and amounts differing from judgments, assumptions, and estimates used in determining the values of certain assets (including the amounts of related valuation allowances), liabilities, and other items reflected in our Consolidated Financial Statements How well we execute on our strategy and operating plans and the impact of changes in our business model that could result in significant restructuring charges Our ability to achieve targeted cost reductions Benefits anticipated from our investments Changes in tax laws or accounting rules, or interpretations thereof As a consequence, operating results for a particular future period are difficult to predict, and, therefore, prior results are not necessarily indicative of results to be expected in future periods.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Challenging economic conditions, including rising inflation, or other changes, worldwide have from time to time contributed, and may continue to contribute, to slowdowns in the communications and networking industries at large, as well as in specific segments and markets in which we operate, resulting in: reduced demand for our products as a result of continued constraints on IT-related capital spending by our customers, particularly service providers, and other customer markets as well; increased price competition for our products, not only from our competitors but also as a consequence of customers disposing of unutilized products; risk of excess and obsolete inventories; risk of supply constraints; risk of excess facilities and manufacturing capacity; and higher overhead costs as a percentage of revenue and higher interest expense.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In certain prior periods, we have seen a broad-based weakening in the global macroeconomic environment which has impacted and could impact in the future certain of our markets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, instability in the global credit markets, the impact of uncertainty regarding global central bank monetary policy, the instability in the geopolitical environment in many parts of the world (including as a result of the on-going Russia and Ukraine war, and China-Taiwan relations), the current economic challenges in China, including global economic ramifications of Chinese economic difficulties, and other disruptions may continue to put pressure on global economic conditions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As a result of a variety of factors discussed in this report, our revenue for a particular quarter is difficult to predict, especially in light of a challenging and inconsistent global macroeconomic environment (including as a result of the Russia and Ukraine war), the significant impacts of the COVID-19 pandemic, and related market uncertainty.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our revenue may grow at a slower rate than in past periods, as it did in the third quarter of fiscal 2022 on a year-over-year basis, or decline as it did in the fourth quarter of fiscal 2022 and certain prior periods.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition to making it difficult to predict revenue for a particular period, nonlinearity in shipping can 15 Table of Contents increase costs, because irregular shipment patterns result in periods of underutilized capacity and periods in which overtime expenses may be incurred, as well as in potential additional inventory management-related costs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, when facing component supply-related challenges we have increased our efforts in procuring components in order to meet customer expectations, which in turn contribute to an increase in inventory and purchase commitments.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In recent periods, we increased our inventory and purchase commitments in light of the significant supply constraints seen industry-wide due to component shortages, caused in part by the COVID-19 pandemic.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These increases in our inventory and purchase commitments to shorten lead times could also lead to material excess and obsolete inventory charges in future periods if the demand for our products is less than our expectations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For additional information and a further discussion of current impacts and risks related to our significant supply constraints, inventory commitments and our purchase commitments with contract manufacturers and suppliers, see Results of Operations Product Gross Margin Supply Constraints Impacts and Risks, Liquidity and Capital Resources Inventory Supply Chain and Note 14 to the Consolidated Financial Statements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A reduction or interruption in supply, including disruptions on our global supply chain, caused in part by public health emergencies (including the COVID-19 pandemic), geopolitical tensions (including as a result of China-Taiwan relations) or a significant natural disaster (including as a result of climate change); a significant increase in the price of one or more components (including as a result of inflation); a failure to adequately authorize procurement of inventory by our contract manufacturers; a failure to appropriately cancel, reschedule, or adjust our requirements based on our business needs; or a decrease in demand for our products could materially adversely affect our business, operating results, and financial condition and could materially damage customer relationships.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There is currently a market shortage of semiconductor and other component supply which has affected, and could further affect, lead times, the cost 16 Table of Contents of that supply, and our ability to meet customer demand for our products if we cannot secure sufficient supply in a timely manner.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We continue to manage through significant supply constraints seen industry-wide due to component shortages, including significant constraints with certain critical components which prevents us from completing manufacturing of certain of our products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, we saw an additional unanticipated supply challenge with COVID-19 related lockdowns in certain parts of China in the second half of fiscal 2022 that resulted in a severe shortage of certain critical components.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While we did see some easing of the industry-wide supply constraints towards the end of the fourth quarter of fiscal 2022, we expect such constraints to continue and the duration of which is uncertain.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may not be able to diversify sources in a timely manner, which could harm our ability to deliver products to customers and seriously impact present and future sales.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In recent periods, we increased our inventory and purchase commitments in light of the significant supply constraints seen industry-wide due to component shortages, caused in part by the COVID-19 pandemic.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These increases in our inventory and purchase commitments to shorten lead times could also lead to material excess and obsolete inventory charges in future periods if the demand for our products is less than our expectations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For additional information and a further discussion of current impacts and risks related to our significant supply constraints, inventory commitments and our purchase commitments with contract manufacturers and suppliers, see Results of Operations Product Gross Margin Supply Constraints Impacts and Risks, Liquidity and Capital Resources Inventory Supply Chain and Note 14 to the Consolidated Financial Statements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our level of product gross margins declined in fiscal 2022 and have declined in certain prior periods on a year-over-year basis, and could decline in future periods due to adverse impacts from various factors, including: Changes in customer, geographic, or product mix, including mix of configurations within each product group Introduction of new products, including products with price-performance advantages, and new business models including the transformation of our business to deliver more software and subscription offerings 17 Table of Contents Our ability to reduce production costs Entry into new markets or growth in lower margin markets, including markets with different pricing and cost structures, through acquisitions or internal development Sales discounts Increases in material, labor or other manufacturing-related costs (i.e.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "component costs, broker fees, expedited freight and overtime) or higher supply chain logistics costs, any of which could be significant, especially during periods of supply constraints for certain costs, such as those currently impacting the market for components, including semiconductors and memory, and which costs have in the past and may continue to be exacerbated by inflation Excess inventory, inventory holding charges, and obsolescence charges Changes in shipment volume The timing of revenue recognition and revenue deferrals Increased costs (including those caused by tariffs or economic conditions, including inflation), loss of cost savings or dilution of savings due to changes in component pricing or charges incurred due to inventory holding periods if parts ordering does not correctly anticipate product demand or if the financial health of either contract manufacturers or suppliers deteriorates Lower than expected benefits from value engineering Increased price competition, including competitors from Asia, especially from China Changes in distribution channels Increased warranty or royalty costs Increased amortization of purchased intangible assets, especially from acquisitions How well we execute on our strategy and operating plans Changes in service gross margin may result from various factors such as changes in the mix between technical support services and advanced services, as well as the timing of technical support service contract initiations and renewals and the addition of personnel and other resources to support higher levels of service business in future periods.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Sales to the service provider market are especially volatile, and weakness in orders from this industry may harm our operating results and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Sales to the service provider market have been characterized by large and sporadic purchases, especially relating to our router sales and sales of certain other Secure, Agile Networks and Collaboration products, in addition to longer sales cycles.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Service provider product orders decreased during the fourth quarter of fiscal 2022 and in certain prior periods, and at various times in the past, including in recent quarters, we have experienced significant weakness in product orders from service providers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Systems integrators and service providers typically sell directly to end users and often provide system installation, technical support, professional services, and other support services in addition to network 18 Table of Contents equipment sales.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "19 Table of Contents We also face competition from customers to which we license or supply technology and suppliers from which we transfer technology.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have several strategic alliances with large and complex organizations and other companies with which we work to offer complementary products and services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There can be no assurance we will realize the expected benefits from these strategic alliances or from joint ventures.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "When facing component supply-related challenges, we have increased our efforts in procuring components in order to meet customer expectations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have also been transforming our business to move from selling individual 20 Table of Contents products and services to selling products and services integrated into architectures and solutions, and we are seeking to meet the evolving needs of customers which include offering our products and solutions in the manner in which customers wish to consume them.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our estimates with respect to the useful life or ultimate recoverability of our carrying basis of assets, including purchased intangible assets, could change as a result of such assessments and decisions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We initiated a restructuring plan in the first quarter of fiscal 2021, which included a voluntary early retirement program, which was completed in fiscal 2022.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While we intend to focus on managing our costs and expenses, over the long term, we also intend to invest in personnel and other resources related to our engineering, sales, service and marketing functions as we realign and dedicate resources on key priority and growth areas, such as End-to-End Security and Internet for the Future, and we also intend to focus on maintaining leadership in Secure, Agile Networks and in Services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "21 Table of Contents We have made and expect to continue to make acquisitions that could disrupt our operations and harm our operating results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Acquisitions involve numerous risks, including the following: Difficulties in integrating the operations, systems, technologies, products, and personnel of the acquired companies, particularly companies with large and widespread operations and/or complex products Diversion of management s attention from normal daily operations of the business and the challenges of managing larger and more widespread operations resulting from acquisitions Potential difficulties in completing projects associated with in-process research and development intangibles Difficulties in entering markets in which we have no or limited direct prior experience and where competitors in such markets have stronger market positions Initial dependence on unfamiliar supply chains or relatively small supply partners Insufficient revenue to offset increased expenses associated with acquisitions The potential loss of key employees, customers, distributors, vendors and other business partners of the companies we acquire following and continuing after announcement of acquisition plans Acquisitions may also cause us to: Issue common stock that would dilute our current stockholders percentage ownership Use a substantial portion of our cash resources, or incur debt Significantly increase our interest expense, leverage and debt service requirements if we incur additional debt to pay for an acquisition Assume liabilities Record goodwill and intangible assets that are subject to impairment testing on a regular basis and potential periodic impairment charges Incur amortization expenses related to certain intangible assets Incur tax expenses related to the effect of acquisitions on our legal structure Incur large write-offs and restructuring and other related expenses Become subject to intellectual property or other litigation Mergers and acquisitions of high-technology companies are inherently risky and subject to many factors outside of our control, and no assurance can be given that our previous or future acquisitions will be successful and will not materially adversely affect our business, operating results, or financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "22 Table of Contents Industry consolidation may lead to increased competition and may harm our operating results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our business in emerging countries in the aggregate experienced a decline in orders in certain prior periods.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our future results could be materially adversely affected by a variety of political, economic or other factors relating to our operations inside and outside the United States, any or all of which could have a material adverse effect on our operating results and financial condition, including the following: impacts from global central bank monetary policy; issues related to the political relationship between the United States and other countries that can affect regulatory matters, affect the willingness of customers in those countries to purchase products from companies headquartered in the United States or affect our ability to procure components if a government body were to deny us access to those components; government-related disruptions or shutdowns; the challenging and inconsistent global macroeconomic environment; foreign currency exchange rates; geopolitical tensions (including China-Taiwan relations); political or social unrest; economic instability or weakness or natural disasters in a specific country or region, including economic challenges in China and global economic ramifications of Chinese economic difficulties; environmental protection regulations (including new laws and regulations related to climate change); trade protection measures such as tariffs, and other legal and regulatory requirements, some of which may affect our ability to import our products to, export our products from, or sell our products in various countries or affect our ability to procure components; political considerations that affect service provider and government spending patterns; health or similar issues, including pandemics or epidemics, such as the COVID-19 pandemic, which could continue to affect customer purchasing decisions; difficulties in staffing and managing international operations; and adverse tax consequences, including imposition of withholding or other taxes on our global operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Most of our sales are on an open credit basis, with typical payment terms of 30 days in the United States, and, because of local customs or conditions, longer in some markets outside the United States.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In the past, there have been significant bankruptcies among customers both on open credit and with loan or lease financing 23 Table of Contents arrangements, particularly among Internet businesses and service providers, causing us to incur economic or financial losses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Competition for such personnel is intense, especially in the Silicon Valley area of Northern California.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The loss of services of any of our key personnel; the inability to retain and attract qualified personnel in the future; or delays in hiring required personnel, particularly engineering and sales personnel, could make it difficult to meet key objectives, such as timely and effective product introductions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, there are existing claims and lawsuits in Russia, and the potential for future claims and lawsuits in Russia and/or Belarus, related to the Russia and Ukraine war and related trade restrictions and sanctions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In the event of an unfavorable resolution of any of these lawsuits, the potential outcome could include the seizure of our assets in Russia and/or Belarus, which, collectively, represents less than 0.1 of our total assets at the end of fiscal 2022.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While counterfeiters often aim their sales at customers who might not have 24 Table of Contents otherwise purchased our products due to lack of verifiability of origin and service, such counterfeit sales, to the extent they replace otherwise legitimate sales, could adversely affect our operating results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, we are subject to the continuous examination of our income tax returns by the Internal Revenue Service (IRS) and other tax authorities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Also certain of our customers, suppliers and logistics centers are located in regions that have been or may be affected by earthquake, tsunami and flooding or other weather-related activity which in the past has disrupted, and in the future could disrupt, the flow of components and delivery of products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have not to date experienced a material event to these matters; however, the occurrence of any such event in the future could have a material adverse impact on our business, operating results, and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The continued threat of terrorism and heightened security and military action in response thereto, or any other current or future acts of terrorism, war (such as the on-going Russia and Ukraine war), and other events (such as economic sanctions and trade restrictions, including those related to the on-going Russia and Ukraine war) may cause further disruptions to the economies of the United States and other countries and create further uncertainties or could otherwise negatively impact our business, operating results, and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Likewise, events such as loss of infrastructure and utilities services such as energy, transportation, or telecommunications could have similar negative impacts.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Management s Discussion and Analysis of Financial Condition and Results of Operations Overview Russia and Ukraine War for a discussion of the impact on Cisco s business of the on-going Russia and Ukraine war.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As of the end of fiscal 2022, we have senior unsecured notes outstanding in an aggregate principal amount of 9.0 billion that mature at specific dates from calendar year 2023 through 2040.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have also established a commercial paper program under which we may issue short-term, unsecured commercial paper notes on a private placement basis up to a maximum aggregate amount outstanding at any time of 10.0 billion, and we had 0.6 billion in commercial paper notes outstanding under this program as of July 30, 2022 .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, changes by any rating agency to our credit rating can negatively impact the value and liquidity of both 25 Table of Contents our debt and equity securities, as well as the terms upon which we may borrow under our commercial paper program or future debt issuances.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our reputation and/or business could be negatively impacted by ESG matters and/or our reporting of such matters.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There is an increasing focus from regulators, certain investors, and other stakeholders concerning environmental, social, and governance ESG matters, both in the United States and internationally.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We communicate certain ESG-related initiatives, goals, and/or commitments regarding environmental matters, diversity, responsible sourcing and social investments, and other matters, in our annual Purpose Report, on our website, in our filings with the SEC, and elsewhere.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, in September 2021, we announced our commitment to achieve net zero across all scopes of greenhouse gas emissions by 2040, the achievement of which relies, in large part, on the accuracy of our estimates and assumptions around the enhanced power efficiency of our products, the adoption of renewable energy at customer sites, and the adoption of certain of our products and services by our customers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We could fail to achieve, or be perceived to fail to achieve, our 2040 net zero commitment or other ESG-related initiatives, goals, or commitments.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, we could be criticized for the timing, scope or nature of these initiatives, goals, or commitments, or for any revisions to them.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "To the extent that our required and voluntary disclosures about ESG matters increase, we could be criticized for the accuracy, adequacy, or completeness of such disclosures.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our actual or perceived failure to achieve our ESG-related initiatives, goals, or commitments could negatively impact our reputation or otherwise materially harm our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, in the 26 Table of Contents past, third parties have made infringement and similar claims after we have acquired technology that had not been asserted prior to our acquisition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Risks Related to Cybersecurity, Privacy, and Regulatory Requirements Cyber attacks, data breaches or malware may disrupt our operations, harm our operating results and financial condition, and damage our reputation or otherwise materially harm our business; and cyber attacks or data breaches on our customers or third-party providers networks, or in cloud-based services provided to, by, or enabled by us, could result in claims of liability against us, give rise to legal and/or regulatory action, damage our reputation or otherwise materially harm our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We experience cyber attacks and other attempts to gain unauthorized access to our products, services, and IT environment on a regular basis, and we anticipate continuing to be subject to such attempts as cyber attacks become increasingly sophisticated and more difficult to predict and protect against.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Despite our implementation of security measures, (i) our products and services, and (ii) the servers, data centers, and cloud-based solutions on which our and third-party data is stored or processed (including servers, data centers and cloud-based solutions operated by third parties on which we rely) (collectively, our IT environment ), are vulnerable to cyber attacks, data breaches, malware, inadvertent error, disruptions from unauthorized access, tampering or other theft or misuse, including by employees, contingent workers, malicious actors, or nation-states or their agents (which cyber attack or related activity may intensify during periods of diplomatic or armed conflict, such as the Russia and Ukraine war).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Such events have caused, and in the future could result in, compromise to, or the disruption of access to, the operation of our products, services, and IT environment or those of our customers or third-party providers we rely on, or result in confidential information stored on our systems, our customers systems, or other third-party systems being improperly accessed, processed, disclosed not or in the future, or be lost or stolen.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, in December 2021, multiple vulnerabilities were reported for the widely used Java logging library, Apache Log4j.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We reviewed the use of this library within our products and services, its use in our enterprise IT environment, and its use by our third-party providers, and have taken steps to mitigate these vulnerabilities, including by providing security updates for affected products to our customers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have not to date experienced a material event related to a cybersecurity matter; however, the occurrence of any such event in the future could subject us to liability to our customers, data subjects, suppliers, business partners, employees, and others, give rise to legal and/or regulatory action, could damage our reputation or could otherwise materially harm our business, any of which could have a material adverse effect on our business, operating results, and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Efforts to limit the ability of malicious actors to disrupt the operations of the Internet or undermine our own security efforts are costly to implement and may not be successful.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Breaches of security in our customers or third-party providers networks, in third-party products we use, or in cloud-based services provided to, by, or enabled by us, regardless of whether the breach is attributable to a vulnerability in our products or services, or a failure to maintain the digital security infrastructure or security tools that protect the integrity of our products, services, and IT environment, could, in each case, result in claims of liability against us, damage our reputation or otherwise materially harm our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Vulnerabilities and critical security defects, prioritization decisions regarding remedying vulnerabilities or security defects, failure of third-party providers to remedy vulnerabilities or security defects, or customers not deploying security updates in a timely manner or deciding not to upgrade products, services or solutions could result in claims of liability against us, damage our reputation, or otherwise materially harm our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The products and services we sell to customers, and our cloud-based solutions, inevitably contain vulnerabilities or security defects which have not been remedied and cannot be disclosed without compromising security.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Customers may also need to test security updates before they can be deployed which can delay implementation.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "When customers do not deploy security updates in a timely manner, or decide not to upgrade to the latest versions of our products, services or cloud-based solutions containing the security update, they may be left vulnerable.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, we rely on third-party providers of software and cloud-based services on which our and third-party data is stored or processed, and we cannot control the timing at which third-party providers remedy vulnerabilities, which could leave us vulnerable.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Vulnerabilities and security defects, prioritization errors in remedying vulnerabilities or security defects, failure of third-party providers to remedy vulnerabilities or security defects, or 27 Table of Contents customers not deploying security updates in a timely manner or deciding not to upgrade products, services or solutions could result in claims of liability against us, damage our reputation or otherwise materially harm our business.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our actual or perceived failure to adequately protect personal data could result in claims of liability against us, damage our reputation or otherwise materially harm of business.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "In addition, evolving legal requirements restricting or controlling the collection, processing, or cross-border transmission of data, including for regulation of cloud-based services, could materially affect our customers ability to use, and our ability to sell, our products and services.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The interpretation and application of these laws in some instances is uncertain, and our legal and regulatory obligations are subject to frequent changes.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "For example, the European Union s EU General Data Protection Regulation GDPR applies to our activities conducted from an establishment in the EU or related to products and services offered in the EU and imposes a range of compliance obligations regarding the handling of personal data.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Additionally, we are subject to California s Consumer Privacy Act and other laws, regulations and obligations that relate to the handling of personal data.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our actual or perceived failure to comply with applicable laws and regulations or other obligations relating to personal data, or to protect personal data from unauthorized access, use, or other processing, could subject us to liability to our customers, data subjects, suppliers, business partners, employees, and others, give rise to legal and/or regulatory action, could damage our reputation or could otherwise materially harm our business, any of which could have a material adverse effect on our business, operating results, and financial condition.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our business, operating results and financial condition could be materially harmed by evolving regulatory uncertainty or obligations applicable to our products and services.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In particular, economic sanctions and changes to export control requirements, have impacted and may continue to impact our ability to sell and support our products and services in certain jurisdictions.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, changes in telecommunications regulations could impact our service provider customers purchase of our products and services, and they could also impact sales of our own regulated offerings.",
+    "risk_type": "regulatory",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Additional areas of uncertainty that could impact sales of our products and services include laws and regulations related to encryption technology, environmental sustainability (including climate change), human rights, product certification, and national security controls applicable to our supply chain.",
+    "risk_type": "regulatory",
+    "nature": "new_risk",
+    "style": "vague"
+  },
+  {
+    "sentence": "For example, new laws and regulations in response to climate change could result in increased energy efficiency requirements for our products and increased compliance and energy costs.",
+    "risk_type": "regulatory",
+    "nature": "new_risk",
+    "style": "concrete"
+  }
+]

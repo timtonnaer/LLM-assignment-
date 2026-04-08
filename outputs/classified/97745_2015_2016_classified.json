@@ -1,0 +1,140 @@
+[
+  {
+    "sentence": "You should refer to the explanation of the qualifications and limitations on forward-looking statements in Item 1.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "It may be difficult for us to implement our strategies for improving internal growth .",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "To address this issue, we are pursuing a number of strategies to improve our internal growth, including: strengthening our presence in selected geographic markets; allocating research and development funding to products with higher growth prospects; developing new applications for our technologies; expanding our service offerings; continuing key customer initiatives; combining sales and marketing operations in appropriate markets to compete more effectively; finding new markets for our products; and continuing the development of commercial tools and infrastructure to increase and support cross-selling opportunities of products and services to take advantage of our depth in product offerings.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "or other key markets, are unstable, it could adversely affect the business, results of operations and financial condition of the company and its customers, distributors, and suppliers, having the effect of reducing demand for some of our products; increasing the rate of order cancellations or delays; increasing the risk of excess and obsolete inventories; increasing pressure on the prices for our products and services; and creating longer sales cycles and greater difficulty in collecting sales proceeds.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Risk Factors (continued) economies makes the strength and timing of any economic recovery uncertain, and there can be no assurance that global economic conditions will not deteriorate further.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Despite agreement not to impose similar cuts in fiscal years 2014 through 2017, it is possible that Congress will allow similar cuts to occur again in fiscal year 2018 and beyond.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "In 2015 , currency translation had an unfavorable effect of 938 million on revenues due to the strengthening of the U.S.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "For 2016 , the company is expecting a significant negative impact on revenues and operating income due to the stronger U.S.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "We also rely on trade secrets and proprietary know-how with which we seek to protect our products, in part, by confidentiality agreements with our collaborators, employees and consultants.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "With our acquisition of Life Technologies, we became party to several lawsuits in which plaintiffs claim we infringe their intellectual property (Note 10 ).",
+    "risk_type": "operational",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Risk Factors (continued) these claims could secure a judgment awarding substantial damages, as well as injunctive or other equitable relief, which could effectively block our ability to make, use, sell, distribute, or market our products and services in the United States or abroad.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "As a result of these acquisitions, we recorded significant goodwill and indefinite-lived intangible assets (primarily tradenames) on our balance sheet, which amount to approximately 18.83 billion and 1.25 billion , respectively, as of December 31, 2015 .",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, we have definite-lived intangible assets totaling 11.51 billion as of December 31, 2015 .",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Risk Factors (continued) Because we compete directly with certain of our larger customers and product suppliers, our results of operations could be adversely affected in the short term if these customers or suppliers abruptly discontinue or significantly modify their relationship with us.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Because we rely heavily on third-party package-delivery services, a significant disruption in these services or significant increases in prices may disrupt our ability to ship products, increase our costs and lower our profitability.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Regulations related to conflict minerals may cause us to incur additional expenses and could limit the supply and increase the cost of certain metals used in manufacturing our products .",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Any significant disruption of those operations for any reason, such as strikes or other labor unrest, power interruptions, fire, or other events beyond our control could adversely affect our sales and customer relationships and therefore adversely affect our business.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We have significant operations in California, near major earthquake faults, which make us susceptible to earthquake risk.",
+    "risk_type": "macroeconomic",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Risk Factors (continued) tax rate, however, may be lower or higher than experienced in the past due to numerous factors, including a change in the mix of our profitability from country to country, changes in accounting for income taxes and recently enacted and future changes in tax laws in jurisdictions in which we operate.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Unforeseen problems with the implementation and maintenance of our information systems could have an adverse effect on our operations .",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We also rely on our technology infrastructure, among other functions, to interact with suppliers, sell our products and services, fulfill orders and bill, collect and make payments, ship products, provide services and support to customers, track customers, fulfill contractual obligations and otherwise conduct business.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "The covenants in our revolving credit facility include a total debt-to-EBITDA ratio and an interest coverage ratio.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Specifically, the company has agreed that, so long as any lender has any commitment under the facility, or any loan or other obligation is outstanding under the facility, or any letter of credit is outstanding under the facility, it will not permit (as the following terms are defined in the facility) the Consolidated Leverage Ratio (the ratio of consolidated Indebtedness to Consolidated EBITDA) as at the last day of any fiscal quarter to be greater than 3.5 to 1.0 or the Consolidated Interest Coverage Ratio (the ratio of Consolidated EBITDA to Consolidated Interest Expense) to be less than 3.0 to 1.0.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  }
+]

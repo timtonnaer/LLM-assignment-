@@ -1,0 +1,200 @@
+[
+  {
+    "sentence": "In the U.S., increased purchasing power of entities that negotiate on behalf of Medicare, Medicaid, and private sector beneficiaries, in part due to continued consolidation among health care providers, could result in further pricing pressures.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Outside the U.S., numerous major markets, including the EU and Japan, have pervasive government involvement in funding healthcare and, in that regard, directly or indirectly impose price controls, limit access to, or reimbursement for, the Company s products, or reduce the value of its intellectual property protection.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company could in the future be required to pay significant amounts as a result of settlements or judgments in these matters, potentially in excess of accruals, including matters where the Company could be held jointly and severally liable among other defendants.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Changes in tax laws or regulations around the world could negatively impact the Company s effective tax rate and results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A change in statutory tax rate in any country would result in the revaluation of the Company s deferred tax assets and liabilities related to that particular jurisdiction in the period in which the new tax law is enacted.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "This change would result in an expense or benefit recorded to the Company s Consolidated Statement of Earnings.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company closely monitors these proposals as they arise in the countries where it operates.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Changes to the statutory tax rate may occur at any time, and any related expense or benefit recorded may be material to the fiscal quarter and year in which the law change is enacted.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "enacted The Tax Cuts and Jobs Act (the TCJA), which introduced significant changes to U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "corporate income tax law that will have a meaningful impact on the Company s provision for income taxes.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Treasury about implementing the TCJA, which should be final by June 22, 2019 (18 months after enactment), 5 may result in adjustments that could materially affect the Company s financial position and results of operations as well as the effective tax rate in the period in which the adjustments are made.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "On September 28, 2018, the Swiss Parliament approved the Federal Act on Tax Reform and AHV Financing (Swiss Tax Reform).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "However, a referendum has been called and, as a result, a public vote on the Swiss Tax Reform will take place on May 19th, 2019.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "I f the Swiss Tax Reform passes, then the measures are expected to come into force in either January 2020 or January 2021.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Prior to approval in the referendum and its subsequent cantonal implementation, the proposed Swiss Tax Reform is not enacted and therefore the Company has not reflected any of the potential impacts in its fiscal results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company is currently assessing the impact of the proposed Swiss Tax Reform, and when enacted, the law may have a material impact on the Company s operating results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In the U.S., manufacturers of generic versions of innovative human pharmaceutical products may challenge the validity, or claim non-infringement, of innovator products through the Abbreviated New Drug Application, or ANDA, process with the FDA.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company also competes with other market participants in securing rights to acquisitions, collaborations and licensing agreements with third parties.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Competitors development of more effective or 6 less costly products, and/or their ability to secure patent and other intellectual property rights and successfully market products ahead of the Company, could negatively impact sales of the Company s existing products as well as its ability to bring new products to market despite significant prior investment in the related product development.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "New products introduced within the past five years accounted for approximately 25 of 2018 sales.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Like other companies in the healthcare industry, the Company is subject to extensive regulation, investigations and legal action, by national, state and local government agencies in the U.S.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "7 Foreign Currency Exchange : In fiscal 2018, approximately 49 of the Company s sales occurred outside of the U.S., with approximately 23 in Europe, 8 in the Western Hemisphere, excluding the U.S., and 18 in the Asia-Pacific and Africa region.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The Company has accounted for operations in Argentina (beginning in the fiscal third quarter of 2018) and Venezuela as highly inflationary, as the prior three-year cumulative inflation rate surpassed 100 .",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The Company's subsidiaries operate 111 manufacturing facilities as well as sourcing from hundreds of suppliers around the world.",
+    "risk_type": "supply_chain",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Such delays and difficulties in manufacturing can result in product shortages, declines in sales and reputational impact as well as significant remediation and related costs associated with addressing the shortage.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Any failure by or loss of a third party manufacturer could result in delays and increased costs, which may adversely affect our business.",
+    "risk_type": "supply_chain",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We depend on these third party manufacturers to allocate to us a portion of their manufacturing capacity sufficient to meet our needs, to produce products of acceptable quality and at acceptable manufacturing yields and to deliver those products to us on a timely basis and at acceptable prices.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "However, we cannot guarantee that these third party manufacturers will be able to meet our near-term or long-term manufacturing requirements, which could result in lost sales and have an adverse effect on our business.",
+    "risk_type": "supply_chain",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Other risks associated with our reliance on third parties to manufacture these products include, reliance on the third party for regulatory compliance and quality assurance, misappropriation of the Company s intellectual property, limited ability to manage our inventory, possible breach of the manufacturing agreement by the third party and the possible termination or nonrenewal of the manufacturing agreement by the third party at a time that is costly or inconvenient for us.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Moreover, if any of our third party manufacturers suffer any damage to facilities, lose benefits under material agreements, experience power outages, encounter financial difficulties, are unable to secure necessary raw materials from their suppliers or suffer any other reduction in efficiency, the Company may experience significant business disruption.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In the event of any such disruption, the Company would need to seek and source other qualified third party manufacturers, likely resulting in further delays and increased costs which could affect our business adversely.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "The Company continually assesses these threats and makes investments to increase internal protection, detection, and response capabilities, as well as ensure the Company s third party providers have required capabilities and controls, to address this risk .",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "The Company maintains cybersecurity insurance in the event of an information security or cyber incident, however, the coverage may not be sufficient to cover all financial losses.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "vague"
+  }
+]

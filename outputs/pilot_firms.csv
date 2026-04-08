@@ -1,0 +1,51 @@
+ticker,company_name,sector,cik
+AMZN,Amazon.com Inc.,Consumer Discretionary,1018724
+AZO,AutoZone Inc.,Consumer Discretionary,866787
+F,Ford Motor Co.,Consumer Discretionary,37996
+GM,General Motors,Consumer Discretionary,1467858
+HD,Home Depot,Consumer Discretionary,354950
+LOW,Lowe's Companies,Consumer Discretionary,60667
+MCD,McDonald's Corp.,Consumer Discretionary,63754
+NKE,Nike Inc.,Consumer Discretionary,320187
+SBUX,Starbucks Corp.,Consumer Discretionary,829224
+TJX,TJX Companies,Consumer Discretionary,109198
+ALL,Allstate Corp.,Financials,899051
+AXP,American Express,Financials,4962
+BAC,Bank of America,Financials,70858
+BLK,BlackRock Inc.,Financials,1364742
+GS,Goldman Sachs,Financials,886982
+JPM,JPMorgan Chase,Financials,19617
+MET,MetLife Inc.,Financials,1099219
+SCHW,Charles Schwab,Financials,316709
+USB,U.S. Bancorp,Financials,36104
+WFC,Wells Fargo,Financials,72971
+ABT,Abbott Laboratories,Health Care,1800
+AMGN,Amgen Inc.,Health Care,318154
+BMY,Bristol-Myers Squibb,Health Care,14272
+CVS,CVS Health,Health Care,723254
+JNJ,Johnson & Johnson,Health Care,200406
+MDT,Medtronic Plc,Health Care,1613103
+MRK,Merck & Co.,Health Care,310158
+PFE,Pfizer Inc.,Health Care,78003
+TMO,Thermo Fisher Scientific,Health Care,97745
+UNH,UnitedHealth Group,Health Care,731766
+BA,Boeing Co.,Industrials,12927
+CSX,CSX Corp.,Industrials,277948
+EMR,Emerson Electric,Industrials,32604
+FDX,FedEx Corp.,Industrials,1048911
+GE,General Electric,Industrials,40533
+HON,Honeywell International,Industrials,773840
+LMT,Lockheed Martin,Industrials,936468
+MMM,3M Co.,Industrials,66740
+UNP,Union Pacific Corp.,Industrials,100885
+UPS,United Parcel Service,Industrials,1090727
+AAPL,Apple Inc.,Information Technology,320193
+ACN,Accenture Plc,Information Technology,1467373
+CSCO,Cisco Systems,Information Technology,858877
+HPQ,HP Inc.,Information Technology,47217
+IBM,IBM Corp.,Information Technology,51143
+INTC,Intel Corp.,Information Technology,50863
+MSFT,Microsoft Corp.,Information Technology,789019
+ORCL,Oracle Corp.,Information Technology,1341439
+QCOM,Qualcomm Inc.,Information Technology,804328
+TXN,Texas Instruments,Information Technology,97476

@@ -1,0 +1,152 @@
+[
+  {
+    "sentence": "Although CSX remains on track to meet this regulatory requirement, noncompliance with these and other applicable laws or regulations could erode public confidence in the Company and can subject the Company to fines, penalties and other legal or regulatory sanctions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The implementation of the Company s business strategies could result in operational disruptions, loss of existing customers, regulatory issues and other adverse consequences.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If these strategies fail to achieve the anticipated benefits or take longer to implement than expected, the Company s operations and financial results may be adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Approximately 70 percent of these agreements are bargained for nationally by the National Carriers Conference Committee and negotiated over the course of several years and previously have not resulted in any extended work stoppages.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, from time to time, the Company enters into CSX-specific, or local , bargaining agreements which could also be critical to the Company and its new business strategies.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "8 CSX CORPORATION PART I Network constraints could have a negative impact on service and operating efficiency.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "CSXT could experience rail network difficulties related to: (i) increased volume; (ii) locomotive or crew shortages; (iii) extreme weather conditions; (iv) impacts from changes in yard capacity, or network structure or composition, including train routes; (v) increased passenger activities, including high-speed rail; or (vi) regulatory changes impacting where and how fast CSXT can transport freight or maintain routes, which could have a negative effect on CSXT's operational fluidity, leading to deterioration of service, asset utilization and overall efficiency.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, if the rate of economic growth in Asia slows, European economies contract, or if the global supply of seaborne coal or price of seaborne coal changes from its current levels, U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, changes to trade agreements or policies could result in reduced import and export volumes due to increased tariffs and lower consumer demand.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If the Company experiences significant declines in demand for its transportation services with respect to one or more commodities and products, the Company may experience reduced revenue and increased operating costs, workforce adjustments, and other related activities, which could have a material adverse effect on the Company's financial condition, results of operations and liquidity.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Over the past few years, production and source locations of natural gas in the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "have also increased dramatically, which has resulted in lower natural gas prices in CSX s service territory.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, crude oil prices combined with increased pipeline activity have resulted in volatility in domestic crude oil production, which has adversely affected crude oil volumes for CSX.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "9 CSX CORPORATION PART I Climate change and other emissions-related laws and regulations could adversely affect the Company's operations and financial results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any of these pending or proposed laws or regulations could adversely affect the Company's operations and financial results by, among other things: (i) reducing coal-fired electricity generation due to mandated emission standards; (ii) reducing the consumption of coal as a viable energy resource in the United States and Canada; (iii) increasing the Company's fuel, capital and other operating costs and negatively affecting operating and fuel efficiencies; and (iv) making it difficult for the Company's customers in the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Such an event could result in decreased revenues and increased capital, insurance or operating costs, including increased security costs to protect the Company's infrastructure.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Insurance maintained by the Company to protect against loss of business and other related consequences resulting from cyber incidents may not be sufficient to cover all damages.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A disruption or compromise of the Company's information technology systems, even for short periods of time, could have a material adverse effect.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "10 CSX CORPORATION PART I Disruption of the supply chain could negatively affect operating efficiency and increase costs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, if a fuel supply shortage were to arise, the Company would be negatively impacted.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any future improvements or expenditures materially increasing the quality or reducing the cost of alternative modes of transportation such as through the use of automation, autonomy or electrification, or legislation providing for less stringent size or weight restrictions on trucks, could negatively impact the Company's competitive position.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "CSXT's rail lines, other key infrastructure and information technology systems may be targets or indirect casualties of acts of terror or war.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "11 CSX CORPORATION PART I The Company may be subject to various claims and lawsuits that could result in significant expenditures.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Additionally, the Company could be impacted by adverse developments not currently reflected in the Company's reserve estimates.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Marketplace conditions for resources like locomotives as well as the availability of qualified personnel, particularly engineers and conductors, could each have a negative impact on the Company s ability to meet demand for rail service.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "sentence": "If We Are Unable to Defend or Protect Our Intellectual Property Rights, the Company's Competitive Position Could Be Adversely Affected The Company's intellectual property rights are important to its business and include numerous patents, trademarks, copyrights, trade secrets and other confidential information.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "7 We Engage in Acquisitions and Divestitures, Which Are Subject to Domestic and Foreign Regulatory Requirements, and May Encounter Difficulties in Integrating and Separating These Businesses and Therefore We May Not Realize the Anticipated Benefits We regularly seek growth through strategic acquisitions as well as evaluate our portfolio for potential divestitures.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In 2019 and in past years, we have made various acquisitions, including the valves controls business in 2017, and entered into joint venture arrangements intended to complement or expand our business, and may continue to do so in the future.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The success of these transactions will depend on our ability to integrate assets and personnel acquired in these transactions and to cooperate with our strategic partners.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our Operations Depend on Production Facilities Throughout the World, a Majority of Which Are Located Outside the United States and Subject to Increased Risks of Disrupted Production, Causing Delays in Shipments and Loss of Customers and Revenue We manage businesses with manufacturing facilities worldwide, a majority of which are located outside the United States, and also source certain materials internationally.",
+    "risk_type": "supply_chain",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Changes in laws or policies governing the terms of foreign trade, trade restrictions or barriers, tariffs or taxes, trade protection measures, and retaliatory countermeasures, including on imports from countries where we manufacture products, could adversely impact our business and financial results.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "8 Recessions, Adverse Market Conditions or Downturns in End Markets We Serve May Negatively Affect Our Operations In the past, our operations have been exposed to significant volatility due to changes in general economic conditions, recessions or adverse conditions in the end markets we serve.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Changes in Tax Rates, Laws or Regulations and the Resolution of Tax Disputes Could Adversely Impact Our Financial Results As a global company, we are subject to taxation in the U.S.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Access to Funding Through the Capital Markets is Essential to the Execution of Our Business Plan, and if We Are Unable to Maintain Such Access We Could Experience a Material Adverse Effect on Our Business and Financial Results Our ability to invest in our businesses, make strategic acquisitions and refinance maturing debt obligations requires access to the capital markets and sufficient bank credit lines to support short-term borrowings.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "It is possible for such vulnerabilities to remain undetected for an extended 9 period, up to and including several years.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our Products and Services are Highly Sophisticated and Specialized, and a Major Product Failure or Similar Event Caused by Defects, Cybersecurity Incidents or Other Failures, Could Adversely Affect Our Business, Reputation, Financial Position and Results of Operations We produce highly sophisticated products and provide specialized services that incorporate or use complex or leading-edge technology, including both hardware and software.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our Reputation, Ability To Do Business and Results of Operations Could Be Impaired By Improper Conduct By Any of Our Employees, Agents or Business Partners We are subject to regulation under a wide variety of U.S.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "laws, regulations and policies, including laws related to anti-corruption, anti-bribery, export and import compliance, anti-trust and money laundering, due to our global operations.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Bribery Act and similar anti-bribery laws in other jurisdictions generally prohibit companies and their intermediaries from making improper payments to government officials for the purpose of obtaining or retaining business, and we operate in many parts of the world that have experienced government corruption to some degree.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We cannot provide assurance our internal controls will always protect us from the improper conduct of our employees, agents and business partners.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Any such violation of law or improper actions could subject us to civil or criminal investigations in the U.S.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "and other jurisdictions, could lead to substantial civil or criminal, monetary and non-monetary penalties and related shareholder lawsuits, could lead to increased costs of compliance and could damage our reputation, our business and results of operations.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  }
+]

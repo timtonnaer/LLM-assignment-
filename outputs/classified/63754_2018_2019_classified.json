@@ -1,0 +1,218 @@
+[
+  {
+    "sentence": "For instance, we may be required to recall certain of our products should they be mislabeled, contaminated or damaged, and certain of our raw materials could be blocked from entering the country if they were subject to government-imposed actions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our flavor solutions segment may be impacted if the reputation or perception of the customers of our flavor solutions segment declines.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have a number of major customers, including two large customers that, in the aggregate, constituted approximately 21 of our consolidated sales in 2018 .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The most significant raw materials used by us in our business are dairy products, pepper, vanilla, garlic, capsicums (red peppers and paprika), onion, rice and wheat flour.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are subject to numerous laws and regulations relating to the growing, sourcing, manufacturing, storage, labeling, marketing, advertising and distribution of food products, as well as laws and regulations relating to financial reporting requirements, the environment, consumer protection, competition, anti-corruption, privacy, relations with distributors and retailers, foreign supplier verification, customs and trade laws, including the import and export of products and product ingredients, employment, and health and safety.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the European Union s General Data Protection Regulation GDPR ), which came into effect in May 2018, creates a range of new compliance obligations for companies that process personal data of European Union residents, and increases financial penalties for non-compliance.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As a company that processes personal data of European Union residents, we bear the costs of compliance with the GDPR and are subject to the potential for fines and penalties in the event of a breach of the GDPR.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our ability to realize the anticipated benefits of our acquisition of RB Foods will depend on many factors including, but not limited to the following: difficulties in achieving anticipated cost savings, synergies, business opportunities and growth prospects from the acquisition of RB Foods; managing the potential impact of competing or duplicative products; difficulties in managing the expanded operations of a significantly larger and more complex company; and challenges in obtaining new customers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The full anticipated benefits of its acquisition may not be realized, including the synergies, cost savings or sales or growth opportunities that are anticipated.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Several countries within the European Union continue to experience sovereign debt and credit issues which causes more volatility in the economic environment throughout the European Union and the United Kingdom (\"U.K.\") Additionally, international sales, together with finished goods and raw materials imported into the U.S., are subject to risks related to fundamental changes to tax laws as well as the imposition of tariffs, quotas, trade barriers and other similar restrictions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "is currently negotiating the terms of its exit from the European Union Brexit scheduled for March 29, 2019.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "and the European Union agreed upon a draft Withdrawal Agreement that sets out the terms of the U.K.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "s departure, including commitments on citizen rights after Brexit, a financial settlement from the U.K., and a transition period from March 29, 2019 through December 31, 2020 to allow time for a future trade deal to be agreed.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "leaves the European Union with no agreement hard Brexit ), it will likely have an adverse impact on labor and trade in addition to creating further short-term uncertainty and currency volatility.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "s trade with the European Union and the rest of the world would be subject to tariffs and duties set by the World Trade Organization.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "and the remaining member states of the European Union will be subject to additional inspections and documentation checks, leading to possible delays at ports of entry and departure.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These changes to the trading relationship between the U.K and European Union would likely result in increased cost of goods imported into and exported from the U.K.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additional currency volatility could drive a weaker British pound, which increases the cost of goods imported into our U.K.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "With a range of outcomes still possible, the impact from Brexit remains uncertain and will depend, in part, on the final outcome of tariff, trade, regulatory and other negotiations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We had total outstanding short-term borrowings of 560 million at a weighted-average interest rate of approximately 2.9 on November 30, 2018.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We also had total outstanding variable rate long-term debt, including current maturities, of approximately 1,284 million at a weighted-average interest rate of approximately 3.3 on November 30, 2018.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Certain of our variable rate debt, including our revolving credit facility, currently uses LIBOR as a benchmark for establishing the interest rate.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "These reforms and other pressures may cause LIBOR to disappear entirely or to perform differently than in the past.",
+    "risk_type": "financing",
+    "nature": "new_risk",
+    "style": "vague"
+  },
+  {
+    "sentence": "The consequences of these developments with respect to LIBOR cannot be entirely predicted but could result in an increase in the cost of our variable rate debt.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "As of November 30, 2018, the indebtedness of McCormick and its subsidiaries is approximately 4.7 billion.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our operations and reputation may be impaired if our information technology systems fail to perform adequately or if we are the subject of a data breach or cyber-attack.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "We rely on our information technology systems, some of which are or may be managed or hosted by or out-sourced to third party service providers, to manage our business data, communications, supply chain, order entry and fulfillment, and other business processes.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "If we do not allocate and effectively manage the resources necessary to build, sustain, and protect appropriate information technology systems and infrastructure, or we do not effectively implement system upgrades or oversee third party service providers, our business or financial results could be negatively impacted.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "The failure of our information technology systems to perform as we anticipate could disrupt our business and could result in transaction or reporting errors, processing inefficiencies and the loss of sales and customers, causing our business and results of operations to suffer.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Furthermore, our information technology systems may be vulnerable to cyber-attacks or other security incidents, service disruptions, or other system or process failures.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Such incidents could result in unauthorized access to information including customer, consumer or other company confidential data as well as disruptions to operations.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We have experienced in the past, and expect to continue to experience, cybersecurity threats and incidents although to date none has been material.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "To address the risks to our information technology systems and data, we maintain an information security program that includes updating technology, developing security policies and procedures, implementing and assessing the effectiveness of controls, conducting risk assessments of third party service providers and designing business processes to mitigate the risk of such breaches.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "There can be no assurance that these measures will prevent or limit the impact of a future incident.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "If we are unable to prevent or adequately respond to and resolve an incident, it may have a material, negative impact on our operations or business reputation, and we may experience other adverse consequences such as loss of assets, remediation costs, litigation, regulatory investigations, and the failure by us to retain or attract customers following such an event.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Additionally, we rely on services provided by third-party vendors for certain information technology processes and functions, which makes our operations vulnerable to a failure by any one of these vendors to perform adequately or maintain effective internal controls.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  }
+]

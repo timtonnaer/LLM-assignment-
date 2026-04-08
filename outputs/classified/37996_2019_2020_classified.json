@@ -1,0 +1,62 @@
+[
+  {
+    "sentence": "and foreign governments are continuing to develop the regulatory framework that will govern autonomous vehicles.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "The evolution of the regulatory framework for autonomous vehicles, and the pace of the development of such regulatory framework, may subject us to increased costs and uncertainty, and may ultimately impact our ability to deliver autonomous vehicles and related services that customers want.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Ford and Ford Credit could be affected by the continued development of more stringent privacy, data use, and data protection laws and regulations as well as consumer expectations for the safeguarding of personal information.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "We are subject to laws, rules, and regulations in the United States and other countries (such as the European Union s General Data Protection Regulation and the California Consumer Privacy Act) relating to the collection, use, and security of personal information of consumers, employees, or others, including laws that may require us to notify regulators and affected individuals of a data security incident.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Complying with newly developed laws and regulations, which are subject to change and uncertain interpretations and may be inconsistent from state to state or country to country, may lead to a decline in consumer engagement or cause us to incur substantial costs or modify our operations or business practices.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Moreover, regulatory actions seeking to impose significant financial penalties for noncompliance and/or legal actions could be brought against us in the event of a data compromise, misuse of consumer information, or perceived or actual non-compliance with data protection or privacy requirements.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Further, any unauthorized release of personally identifiable information could harm our reputation, disrupt our business, cause us to expend significant resources, and lead consumers to withhold consent for our use of data.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Ford Credit could be subject to new or increased credit regulations, consumer protection regulations, or other regulations.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "As a finance company, Ford Credit is highly regulated by governmental authorities in the locations in which it operates, which can impose significant additional costs and/or restrictions on its business.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In the United States, for example, Ford Credit s operations are subject to regulation and supervision under various federal, state, and local laws, including the federal Truth-in-Lending Act, Consumer Leasing Act, Equal Credit Opportunity Act, and Fair Credit Reporting Act.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  }
+]

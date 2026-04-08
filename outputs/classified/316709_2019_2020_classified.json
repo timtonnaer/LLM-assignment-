@@ -1,0 +1,470 @@
+[
+  {
+    "sentence": "We also face certain risks in connection with our proposed merger with TD Ameritrade as described above in Item 1 of this Form 10-K.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We encourage you to consider the risks below under the caption Risks Related to the Proposed Merger with TD Ameritrade.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These risks and other risks associated with the proposed merger will be more fully discussed in the joint proxy statement/prospectus that will be included in the registration statement on Form S-4 that CSC will file with the SEC in connection with the merger.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For a discussion of our risk management governance and processes, including operational risk, compliance risk, credit risk, market risk, and liquidity risk, see Risk Management and Capital Management in Part II, Item 7.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "- 11 - THE CHARLES SCHWAB CORPORATION Developments in the business, economic, and geopolitical environment could negatively impact our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Legislation or changes in rules and regulations could negatively affect our business and financial results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "New regulatory capital, liquidity, and stress testing requirements may limit or otherwise restrict how we utilize our capital, including paying dividends, stock repurchases, and redemptions, and may require us to increase our capital and/or liquidity or to limit our - 12 - THE CHARLES SCHWAB CORPORATION growth.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Effective December 31, 2019, CSC was assigned to Category III of the new tailored regulatory requirements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Federal Reserve indicated that large savings and loan holding companies, including CSC, will become subject to the CCAR process.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If CSC reaches 700 billion in total assets or 75 billion in cross-jurisdictional activity, CSC will become subject to more stringent Category II requirements, including annual stress testing, the advanced approaches framework, the inability to opt out of including AOCI in regulatory capital calculations, the full LCR rule and daily liquidity reporting.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "CSC will also be subject to the full LCR rule and daily liquidity reporting if its weighted short-term wholesale funding is 75 billion or more.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We rely heavily on bank deposits as a funding source to extend loans to clients and purchase investment securities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If LIBOR is discontinued after 2021 as expected, there will be uncertainty or differences in the calculation of the applicable interest rate or payment amount depending on the terms of the governing instruments and there will be significant work required to transition to using the new benchmark rates and implement necessary changes to our systems and financial models.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our systems and those of other financial institutions have - 13 - THE CHARLES SCHWAB CORPORATION been and are likely to continue to be the target of cyber attacks, malicious code, computer viruses and denial of service attacks that could result in unauthorized access, misuse, loss or destruction of data (including confidential client information), account takeovers, unavailability of service or other events.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "System interruptions, errors or downtime can result from a variety of causes, including changes in client use patterns, technological failure, changes to our systems, linkages with third-party systems and power failures and can have a significant impact on our business and operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are also dependent on the integrity and performance of securities exchanges, clearing houses and other - 14 - THE CHARLES SCHWAB CORPORATION intermediaries to which client orders are routed for execution and settlement.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Factors which may adversely affect our liquidity position include CS Co having temporary liquidity demands due to timing differences between brokerage transaction settlements and the availability of segregated cash balances, fluctuations in cash held in banking or brokerage client accounts, a dramatic increase in our lending activities (including margin, mortgage-related, and personal lending), increased capital requirements, changes in regulatory guidance or interpretations, other regulatory changes, or a loss of market or client confidence in Schwab resulting in unanticipated withdrawals of client funds.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "- 15 - THE CHARLES SCHWAB CORPORATION When clients purchase securities on margin, borrow on lines of credit collateralized by securities, or trade options or futures, we are subject to the risk that clients may default on their obligations when the value of the securities and cash in their accounts falls below the amount of clients indebtedness.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Loss of value of securities can negatively affect earnings if management determines that such loss of value has resulted from a credit loss.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The evaluation of whether a credit loss exists is a matter of judgment, which includes the assessment of multiple factors.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If management determines that a security s decline in fair value is the result of a credit loss, an allowance for credit losses on the security will be recorded and a corresponding loss will be recognized in current earnings.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Even if a decline in fair value of a security is not determined to have resulted from a credit loss, if we were ever forced to sell the security sooner than intended prior to maturity due to liquidity needs, we would have to recognize any unrealized losses at that time.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Increases in delinquency and default rates, housing and stock price declines, increases in the unemployment rate, and other economic factors can result in increases in allowances for credit losses and related credit loss expense, as well as write downs on such loans.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "On January 1, 2020, the Company adopted Accounting Standards Update (ASU) 2016-13, Financial Instruments Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments , which requires estimation of expected lifetime credit losses, rather than incurred losses only, as was previously required.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For more information on this adoption, see Part II Item 8 Notes to Consolidated Financial Statements Note 2.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Such support could cause us to take significant charges, could reduce our liquidity and, in certain situations, could, with respect to proprietary funds other than money market mutual funds, result in us having to consolidate one or more funds in our financial statements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Even if we are successful in defending against these actions, the defense of such matters may - 16 - THE CHARLES SCHWAB CORPORATION result in us incurring significant expenses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, we may not realize the anticipated benefits from an acquisition (including without limitation the pending acquisitions of TD Ameritrade and assets of USAA-IMCO), and any future acquisition could be dilutive to our current stockholders percentage ownership or to earnings per common share (EPS).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We operate in a highly competitive environment with a broad array of competitors from large integrated banks to venture-capital backed private companies.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We continually monitor our pricing in relation to competitors and periodically adjust interest rates on deposits and loans, fees for advisory services, expense ratios on mutual funds and ETFs, trade commission rates, and other pricing and incentives to sustain our competitive position.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Increased price competition from other financial services firms to attract clients, such as reduced commissions, higher deposit rates, reduced mutual fund or ETF expense ratios, or the increased use of incentives, could impact our results of operations and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "- 17 - THE CHARLES SCHWAB CORPORATION Our stock price has fluctuated historically, and may continue to fluctuate.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Among the factors that may affect the volatility of our stock price are the following: Our exposure to changes in interest rates; Speculation in the investment community or the press about, or actual changes in, our competitive position, organizational structure, executive team, operations, financial condition, financial reporting and results, expense discipline, or strategic transactions; The announcement of new products, services, acquisitions, or dispositions by us or our competitors; Increases or decreases in revenue or earnings, changes in earnings estimates by the investment community, and variations between estimated financial results and actual financial results; and Sales of a substantial number of shares of our common stock by large stockholders.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Risks Related to the Proposed Merger with TD Ameritrade Completion of the merger is subject to many conditions and if these conditions are not satisfied or waived, the merger will not be completed.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The obligations of CSC and TD Ameritrade to complete the merger are subject to satisfaction (or, to the extent permitted by applicable law, waiver) of a number of conditions, including, among others: the affirmative vote of (A) the holders of a majority of the outstanding shares of TD Ameritrade common stock approving and adopting the Merger Agreement and (B) the holders (other than TD Bank, the Significant TD Ameritrade Stockholders and their respective affiliates) of a majority of the outstanding shares of TD Ameritrade common stock (other than shares of TD Ameritrade common stock held by TD Bank, the Significant TD Ameritrade Stockholders and their respective affiliates) approving and adopting the Merger Agreement; the affirmative vote of (A) a majority of the votes cast by holders of outstanding shares of Schwab common stock approving the share issuance and (B) the holders of a majority of the outstanding shares of Schwab common stock approving the Schwab charter amendment; expiration or termination of any applicable waiting period (or extension thereof) under the HSR Act and certain governmental authorizations having been made or obtained and being in full force and effect; receipt of noncontrol determinations from the Federal Reserve; accuracy of the representations and warranties made in the Merger Agreement by the other party, subject to certain materiality thresholds; performance in all material respects by the other party of the obligations required to be performed by it at or prior to completion of the merger; and the absence since the date of the Merger Agreement of a material adverse effect on the other party.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There can be no assurance that the conditions to the closing of the merger will be satisfied or waived in a timely manner or at all, and, accordingly, the merger may not be completed.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If the merger is not completed for any reason, the ongoing business of CSC may be adversely affected and, without realizing the benefits of having completed the merger, we would be subject to a number of risks, including that we may receive negative reactions from our stockholders, employees, customers and regulators, and that the price of our common stock may decline to the extent that current market prices reflect a market assumption that the merger will be completed.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "- 18 - THE CHARLES SCHWAB CORPORATION As a condition to authorization of the merger, governmental authorities may impose requirements, limitations or costs or place restrictions on the conduct of our business after completion of the merger.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Such conditions or changes and the process of obtaining regulatory approvals could, among other things, have the effect of delaying completion of the merger or imposing additional material costs on or materially limiting the revenues of the combined company following the merger, or otherwise adversely affecting our businesses and results of operations after completion of the merger.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Also, if the Merger Agreement is terminated in certain circumstances, we may be required to pay a termination fee of 950 million to TD Ameritrade and we could be subject to litigation related to any failure to complete the merger or related to any enforcement proceeding commenced against us to perform our obligations under the Merger Agreement.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the Merger Agreement places certain restrictions on the conduct of our businesses prior to completion of the merger, and such restrictions, the waiver of which is subject to consent of TD Ameritrade, could prevent us from making certain acquisitions, taking certain other specified actions or otherwise pursuing business opportunities during the pendency of the merger that we would have made, taken or pursued if these restrictions were not in place.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "CSC and TD Ameritrade may also be subject to lawsuits challenging the merger, and adverse rulings in these lawsuits may delay or prevent the merger from being completed or require CSC or TD Ameritrade to incur significant costs to defend or settle these lawsuits.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If any of these risks materialize, they may materially and adversely affect our businesses, financial condition, financial results, ratings, and/or stock price.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Schwab s business relationships may be subject to disruption due to uncertainty associated with the merger.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Parties with which we do business may experience uncertainty associated with the merger, including with respect to current or future business relationships with Schwab or the combined business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Schwab s business relationships may be subject to disruption as parties with which Schwab does business may attempt to negotiate changes in existing business relationships or consider entering into business relationships with parties other than Schwab or the combined business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These disruptions could have an adverse effect on the businesses, financial condition, results of operations or prospects of the combined business, including an adverse effect on Schwab s ability to realize the anticipated benefits of the merger.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The risk, and adverse effect, of such disruptions could be exacerbated by a delay in completion of the merger or termination of the Merger Agreement.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "After completion of the merger, we may fail to realize the anticipated benefits and cost savings of the merger, which could adversely affect the value of our stock.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The success of the merger will depend, in significant part, on our ability to realize the anticipated benefits and cost savings from combining the businesses of Schwab and TD Ameritrade.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our ability to realize these anticipated benefits and cost savings is subject to certain risks.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If Schwab is not able to successfully combine the businesses of Schwab and TD Ameritrade within the anticipated time frame, or at all, the anticipated cost savings and other benefits of the merger may not be realized fully or at all or may take longer to realize than expected, the combined business may not perform as expected and the value of Schwab common stock may be adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Schwab and TD Ameritrade have operated and, until completion of the merger, will continue to operate, independently, and there can be no assurances that their businesses can be integrated successfully.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "It is possible that the integration process could result in the loss of key Schwab or TD Ameritrade employees, the loss of clients, the disruption of either company s or both companies ongoing businesses or in unexpected integration issues, higher than expected integration costs and an overall post-completion integration process that takes longer than originally anticipated.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, at times the attention of certain members of either company s or both companies management and resources may be focused on completion of the merger and the integration of the businesses of the two companies and diverted from day-to-day business operations, which may disrupt each company s ongoing business and the business of the combined company.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We expect to incur a number of non-recurring costs associated with the merger and combining the operations of the two - 19 - THE CHARLES SCHWAB CORPORATION companies.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Some of these costs have already been incurred or may be incurred regardless of whether the merger is completed.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Schwab also will incur transaction fees and costs related to formulating and implementing integration plans with respect to the two companies, including facilities and systems consolidation costs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We continue to assess the magnitude of these costs, and additional unanticipated costs may be incurred in the merger and the integration of the two companies businesses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although we expect that the elimination of duplicative costs, as well as the realization of other efficiencies related to the integration of the businesses, should allow us to offset integration-related costs over time, this net benefit may not be achieved in the near term, or at all.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Schwab and TD Ameritrade may have difficulty attracting, motivating and retaining executives and other employees in light of the merger.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Uncertainty about the effect of the merger on Schwab and TD Ameritrade employees may impair Schwab s and TD Ameritrade s ability to attract, retain and motivate personnel prior to and following the merger.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Employee retention may be particularly challenging during the pendency of the merger, as employees of Schwab and TD Ameritrade may experience uncertainty about their future roles with the combined business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, pursuant to change-in-control provisions in their respective employment agreements or term sheets with TD Ameritrade, certain employees of TD Ameritrade are entitled to receive severance payments upon a constructive termination of employment.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Such TD Ameritrade employees potentially could terminate their employment following specified circumstances set forth in their employment agreements or term sheets, including certain changes in such employees position, compensation or benefits and collect severance.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Such circumstances could occur in connection with the merger as a result of changes in roles and responsibilities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If employees of Schwab or TD Ameritrade depart, the integration of the companies may be more difficult and the combined business following the merger may be harmed.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Furthermore, Schwab may have to incur significant costs in identifying, hiring and retaining replacements for departing employees and may lose significant expertise and talent relating to the businesses of Schwab or TD Ameritrade, and Schwab s ability to realize the anticipated benefits of the merger may be adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, there could be disruptions to or distractions for the workforce and management associated with integrating employees into Schwab.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The merger may not be accretive to Schwab s earnings per share, which may negatively affect the market price of Schwab common stock following completion of the merger.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In connection with the completion of the merger, Schwab expects to issue approximately 586 million Schwab common shares.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The issuance of new Schwab common shares could have the effect of depressing the market price of Schwab common shares.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Based on the anticipated synergies between Schwab and TD Ameritrade, the merger is expected to be accretive to Schwab s earnings per share in the third year following completion of the merger.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "However, future events and conditions could reduce or delay the accretion that is currently projected or result in the merger being dilutive to Schwab s earnings per share, including adverse changes in market conditions, additional transaction and integration related costs and other factors such as the failure to realize some or all of the benefits anticipated in the merger.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any dilution of, reduction in, or delay of any accretion to, Schwab s earnings per share could cause the price of shares of Schwab common stock to decline or grow at a reduced rate.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If our pending merger with TD Ameritrade is completed, our stockholders ownership percentage will be diluted.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If the proposed merger is completed, we will issue to TD Ameritrade stockholders shares of our common stock.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As a result of the issuance of these shares of our common stock, our stockholders will own a smaller percentage of the combined company after the merger and will therefore have a reduced voting interest.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  }
+]

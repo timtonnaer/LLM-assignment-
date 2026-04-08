@@ -1,0 +1,80 @@
+[
+  {
+    "sentence": "For example, the RSIA, as amended, mandated that the installation of PTC hardware be completed by December 31, 2018 and requires that the PTC system be fully operational by December 31, 2020 on main lines that carry certain hazardous materials and on lines that have commuter or passenger operations.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "CSXT could experience rail network difficulties related to: (i) increased volume; (ii) locomotive or crew shortages; (iii) extreme weather conditions; (iv) impacts from changes in yard capacity, or network structure or composition, including train routes; (v) increased passenger activities; or (vi) regulatory changes impacting where and how fast CSXT can transport freight or maintain routes, which could have a negative effect on CSXT's operational fluidity, leading to deterioration of service, asset utilization and overall efficiency.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "7 CSX CORPORATION PART I Global economic conditions could negatively affect demand for commodities and other freight.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Additionally, crude oil prices combined with increased pipeline activity have resulted in volatility in domestic crude oil production, which has affected crude oil volumes for CSX.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Climate change and other emissions-related laws and regulations could adversely affect the Company's operations and financial results.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "8 CSX CORPORATION PART I The Company is subject to environmental laws and regulations that may result in significant costs.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "9 CSX CORPORATION PART I Future acts of terrorism, war or regulatory changes to combat the risk of terrorism may cause significant disruptions in the Company's operations.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "The Company may be subject to various claims and lawsuits that could result in significant expenditures.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "10 CSX CORPORATION PART I Failure to complete negotiations on collective bargaining agreements could result in strikes and/or work stoppages.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Under the Railway Labor Act's procedures (which include mediation, cooling-off periods and the possibility of an intervention by the President of the United States), during negotiations neither party may take action until the procedures are exhausted.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "If, however, CSX is unable to negotiate acceptable agreements, the employees covered by the Railway Labor Act could strike, which could result in loss of business and increased operating costs as a result of higher wages or benefits paid to union members.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Additionally, from time to time, the Company enters into CSX-specific, or local , bargaining agreements which could also be critical to the Company.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "The Company regularly relies on capital markets for the issuance of long-term debt instruments, commercial paper and bank financing from time to time.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  }
+]

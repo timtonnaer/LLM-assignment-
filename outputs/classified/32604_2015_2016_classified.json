@@ -1,0 +1,140 @@
+[
+  {
+    "sentence": "Our Strategic Portfolio Transactions, Including the Planned Sales of Our Network Power Systems Business and Our Power Generation, Motors and Drives Businesses, as Well as the Planned Acquisition of Pentair's Valves Controls Business, May Not Be Completed Within the Currently Contemplated Time Frame, With the Expected Terms or Costs, and May Not Achieve the Intended Benefits We make no assurance regarding the terms, timing, costs or benefits anticipated from the strategic portfolio transactions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Unforeseen developments, including possible delays in obtaining various tax, regulatory and other approvals, could delay the proposed transactions, or cause them to occur on terms and conditions that are less favorable, or at a higher cost, than expected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, we may not realize some or all of the anticipated strategic, financial or other benefits of the strategic portfolio transactions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Moreover, after the transactions are completed, the Company will be smaller and less diversified, with a narrower business focus and may be more vulnerable to changing market conditions, which could adversely affect our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We Operate in Businesses That Are Subject to Competitive Pressures That Could Affect Prices or Demand for Our Products Our businesses operate in markets that are highly competitive and potentially volatile, and we compete on the basis of product performance, quality, service and/or price across the industries and markets served.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our businesses are largely dependent on the current and future business environment, including capital and consumer spending.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Various companies compete with us in one or more product lines and the 8 number of competitors varies by product line.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We Engage in Acquisitions and Divestitures, Which Are Subject to Domestic and Foreign Regulatory Requirements, and May Encounter Difficulties in Integrating and Separating These Businesses and Therefore We May Not Realize the Anticipated Benefits We regularly seek growth through strategic acquisitions as well as evaluate our portfolio for potential divestitures.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These activities require favorable environments to execute these transactions, and we may encounter difficulties in obtaining the necessary regulatory approvals in both domestic and foreign jurisdictions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In 2016 and in past years, we have made various acquisitions and entered into joint venture arrangements intended to complement or expand our business, and may continue to do so in the future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may encounter difficulties in integrating acquisitions with our operations as well as separating divested businesses, and in managing strategic investments.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We Use a Variety of Raw Materials and Components in Our Businesses, and Significant Shortages or Price Increases Could Increase Our Operating Costs and Adversely Impact the Competitive Positions of Our Products Our major requirements for raw materials include steel, copper, cast iron, electronics, rare earth metals, aluminum, brass and, to a lesser extent, plastics and petroleum-based chemicals.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "9 Our Operations Depend on Production Facilities Throughout the World, a Majority of Which Are Located Outside the United States and Subject to Increased Risks of Disrupted Production Causing Delays in Shipments and Loss of Customers and Revenue We manage businesses with manufacturing facilities worldwide, a majority of which are located outside the United States, and also source certain materials internationally.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our manufacturing facilities abroad are dependent on the stability of governments and business conditions and may be more susceptible to changes in laws, policies and regulation in host countries, as well as economic and political upheaval, than our domestic facilities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These facilities face increased risks of nationalization as well as operational disruptions which could cause delays in shipments of products and the loss of sales and customers, and insurance proceeds may not adequately compensate us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Recessions, Adverse Market Conditions or Downturns in End Markets We Serve May Negatively Affect Our Operations In the past, our operations have been exposed to significant volatility due to changes in general economic conditions, recessions or adverse conditions in the end markets we serve.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Moreover, during economic downturns we may undertake more extensive restructuring actions and incur higher costs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If our restructuring actions are not sufficiently effective, we may not be able to achieve our anticipated operating results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our Business Success Depends on the Ability to Attract, Develop and Retain Key Personnel Our success depends in part on the efforts and abilities of our management and key employees.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The failure to attract, develop and retain highly qualified personnel could adversely affect our business and operating results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "10 Security Breaches or Disruptions of Our Information Technology Systems Could Adversely Affect Our Business The Company utilizes a variety of information technology systems to manage and operate its businesses.",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Despite the implementation of extensive security measures (including access controls, data encryption, vulnerability assessments, continuous monitoring, and maintenance of backup and protective systems), the Company s information technology systems are potentially vulnerable to unauthorized access, computer viruses, cyberattack and other events, ranging from individual attempts to advanced persistent threats.",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Should the Company be unable to prevent security breaches, disruptions could have an adverse effect on our operations, as well as expose the Company to litigation, increased cybersecurity protection costs and reputational damage.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  }
+]

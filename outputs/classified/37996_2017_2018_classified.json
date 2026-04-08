@@ -1,0 +1,158 @@
+[
+  {
+    "sentence": "Ford Credit s access to debt, securitization, or derivative markets around the world at competitive rates or in sufficient amounts could be affected by credit rating downgrades, market volatility, market disruption, regulatory requirements, or other factors.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Ford Credit s ability to obtain unsecured funding at a reasonable cost is dependent on its credit ratings or its perceived creditworthiness.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Ford Credit s ability to obtain securitized funding under its committed asset-backed liquidity programs and certain other asset-backed securitization transactions is subject to having a sufficient amount of assets eligible for these programs, as well as Ford Credit s ability to obtain appropriate credit ratings and, for certain committed programs, derivatives to manage the interest rate risk.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Over time, and particularly in the event of any credit rating downgrades, market volatility, market disruption, or other factors, Ford Credit may reduce the amount of receivables it purchases or originates because of funding constraints.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, Ford Credit may be limited in the amount of receivables it purchases or originates in certain countries or regions if the local capital markets, particularly in developing countries, do not exist or are not adequately developed.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Similarly, Ford Credit may reduce the amount of receivables it purchases or originates if there is a significant decline in the demand for the types of securities it offers or Ford Credit is unable to obtain derivatives to manage the interest rate risk associated with its securitization transactions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A significant reduction in the amount of receivables Ford Credit purchases or originates would significantly reduce its ongoing profits and could adversely affect its ability to support the sale of Ford vehicles.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Ford Credit could experience higher-than-expected credit losses, lower-than-anticipated residual values, or higher-than-expected return volumes for leased vehicles.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Credit risk is the possibility of loss from a customer s or dealer s failure to make payments according to contract terms.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Credit risk (which is heavily dependent upon economic factors including unemployment, consumer debt service burden, personal income growth, dealer profitability, and used car prices) has a significant impact on Ford Credit s business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The level of credit losses Ford Credit may experience could exceed its expectations and adversely affect its financial condition and results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, Ford Credit projects expected residual values (including residual value support payments from Ford) and return volumes for the vehicles it leases.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Actual proceeds realized by Ford Credit upon the sale of returned leased vehicles at lease termination may be lower than the amount projected, which would reduce the profitability of the lease transaction.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Among the factors that can affect the value of returned lease vehicles are the volume of vehicles returned, economic conditions, marketing programs, and quality or perceived quality, safety, fuel efficiency, or reliability of the vehicles.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Actual return volumes may be influenced by these factors, as well as by contractual lease-end values relative to auction values.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Each of these factors, alone or in combination, has the potential to adversely affect Ford Credit s profitability if actual results were to differ significantly from Ford Credit s projections.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Ford Credit could face increased competition from banks, financial institutions, or other third parties seeking to increase their share of financing Ford vehicles.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Most of Ford Credit s competitors in the United States use credit aggregation systems that permit dealers to send, through standardized systems, retail credit applications to multiple finance sources to evaluate financing options offered by these sources.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Also, direct on-line or large dealer group financing options provide consumers with alternative finance sources and/or increased pricing transparency.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Competition from such institutions and alternative finance sources could adversely affect Ford Credit s profitability and the volume of its retail business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Ford Credit could be subject to new or increased credit regulations, consumer or data protection regulations, or other regulations.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "As a finance company, Ford Credit is highly regulated by governmental authorities in the locations in which it operates, which can impose significant additional costs and/or restrictions on its business.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "In the United States, for example, Ford Credit s operations are subject to regulation, supervision, and licensing under various federal, state, and local laws and regulations, including the federal Truth-in-Lending Act, Consumer Leasing Act, Equal Credit Opportunity Act, and Fair Credit Reporting Act.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The Dodd-Frank Act directs federal agencies to adopt rules to regulate the consumer finance industry and the capital markets and gives the Consumer Financial Protection Bureau CFPB broad rule-making and enforcement authority for a wide range of consumer financial protection laws that regulate consumer finance businesses, such as Ford Credit s retail automotive financing business.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Exercise of these powers by the CFPB may increase the costs of, impose additional restrictions on, or otherwise adversely affect companies in the automotive finance business.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "The CFPB has authority to supervise and examine the largest nonbank automotive finance companies, such as Ford Credit, for compliance with consumer financial protection laws.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "sentence": "Risks related to our business and industry Our global operations subject us to risks associated with domestic or international political, social, economic or other conditions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "About 65 of our revenue comes from customers with headquarter locations outside the United States; revenue from end customers headquartered in China represents about 25 of our revenue.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Alternatively, based on product shipment destination, about 90 of our revenue comes from products shipped to locations outside the United States.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Certain countries where we operate have experienced, and other countries may experience, geopolitical tensions that affect global trade and macroeconomic conditions through the enactment of tariffs, import or export restrictions, trade embargoes and sanctions, restrictions on cross-border investment and other trade barriers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Geopolitical tensions may impact our ability to deliver products, support customers, receive manufacturing equipment or cause customers to seek alternate suppliers, which could adversely affect our operations and financial results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are exposed to political, social and economic conditions (including inflation), security risks, acts of war, terrorism or other hostile acts, health conditions and epidemics, labor conditions, climate change risks and possible disruptions in transportation, communications and information technology networks of the various countries in which we operate.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We face substantial competition that requires us to respond rapidly to product development and pricing pressures.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "9 Changes in expected demand for our products could have a material adverse effect on our results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Breaches, disruptions or other incidents relating to our information technology systems or the systems of our customers, suppliers and other third parties could be caused by factors such as computer viruses, ransomware, malware, system failures, restricted network access, unauthorized access, terrorism, nation-state espionage, employee malfeasance, or human error.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Cybersecurity or other threats to our information technology systems or the systems of our customers, suppliers and other third parties are frequent, increasingly sophisticated and constantly evolving, thereby making them more difficult to detect, mitigate and defend against.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our ability to successfully implement strategic, business and organizational changes could affect our business plans and results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "From time to time, we undertake strategic, business and organizational changes, including acquisitions, divestitures, capital investments and restructuring actions, to support or carry out our objectives.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "10 The effects of the COVID-19 pandemic could adversely affect our business, results of operations and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The coronavirus (COVID-19) pandemic and related measures to curtail its spread have impacted, and may continue to impact, our operations across markets in which TI operates and those of our suppliers, customers and distributors.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The extent to which the COVID-19 pandemic will continue to affect our business, results of operations and financial condition is difficult to predict and depends on numerous evolving factors including the duration and scope of the pandemic; government, social, business and other actions that have been and will be taken in response to the pandemic; appearance of new variants of COVID-19; the availability, adoption and efficacy of vaccines and treatments; and the effect of the pandemic on short- and long-term general economic conditions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "11 Our continued success depends in part on our ability to retain and recruit a sufficient number of qualified employees in a competitive environment.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Skilled and experienced personnel in our industry, including engineering, management, sales, technical and staff personnel, are in high demand, and competition for their talents is intense.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our results of operations and our reputation could be affected by warranty claims, product liability claims, product recalls or legal proceedings.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In 2022, about 30 of our revenue was generated from sales of our products through distributors.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our profit margins vary due to a number of factors, which may include customer demand and shipment volume; capital expenditures and resulting depreciation; our manufacturing processes; product mix; inventory levels; tariffs; freight costs; and new accounting pronouncements or changes in existing accounting practices or standards.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are subject to complex laws, rules and regulations on an international, national and local level that affect our domestic and international operations relating to, for example, the environment and climate change; safety; health; trade; bribery and corruption; financial reporting; tax; data privacy and protection; labor and employment; competition; facilities and code compliance; market access; epidemics; intellectual property ownership and infringement; and the movement of currency.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "If we do not comply or if we become subject to enforcement activity or government investigations, we could be subject to fines, penalties or other legal liability or disruptions to our operations.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We maintain bank accounts, a portfolio of investments, access to one or more revolving credit agreements and the ability to issue debt to support the financing needs of the company.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  }
+]

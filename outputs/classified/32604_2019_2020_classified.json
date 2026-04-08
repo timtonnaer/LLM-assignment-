@@ -1,0 +1,200 @@
+[
+  {
+    "sentence": "You should carefully consider, among other matters, the factors set forth below and the other information in this report.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company s risk factors set forth below are not the only risks facing the Company.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additional risks and uncertainties not currently known to management or that management currently deems immaterial also may materially, adversely affect the Company s business, financial condition or operating results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may amend or supplement the risk factors set forth below from time to time by other reports we file with the SEC.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Business and Operational Risks We Operate in Businesses That Are Subject to Competitive Pressures That Could Affect Prices or Demand for Our Products Our businesses operate in markets that are highly competitive and potentially volatile, and we compete on the basis of product performance, quality, service and/or price across the industries and markets served.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Competitive pressures 7 could adversely affect prices or customer demand for our products, impacting our sales or profit margins, and/or resulting in a loss of market share.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We Engage in Acquisitions and Divestitures, Which Are Subject to Domestic and Foreign Regulatory Requirements, and May Encounter Difficulties in Integrating and Separating These Businesses and Therefore We May Not Realize the Anticipated Benefits We regularly seek growth through strategic acquisitions as well as evaluate our portfolio for potential divestitures.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In 2020 and in past years, we have made various acquisitions and entered into joint venture arrangements intended to complement or expand our business, and may continue to do so in the future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "However, the supply of materials or other items could be disrupted by natural disasters, a health epidemic or pandemic, or other events.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Emerging market sales represent over one-third of total sales and serving a global customer base requires that we place more materials sourcing and production in 8 emerging markets to capitalize on market opportunities and maintain our best-cost position.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our and our suppliers international production facilities and operations could be disrupted by a natural disaster, labor strife, war, political unrest, terrorist activity or public health concerns such as an epidemic or pandemic, particularly in emerging countries that are not well-equipped to handle such occurrences.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Security and/or Data Privacy Breaches, or Disruptions of Our Information Technology Systems Could Adversely Affect Our Business The Company relies on information technology networks and systems, including the internet, to process, transmit and store electronic information, and to manage or support a variety of business processes and activities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, we must comply with increasingly complex and rigorous regulatory standards enacted to protect business and personal data in the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Failure to comply with these regulatory standards could subject us to fines and penalties, as well as legal and reputational risks, including proceedings against the Company by governmental entities or others.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our Products and Services are Highly Sophisticated and Specialized, and a Major Product Failure or Similar Event Caused by Defects, Cybersecurity Incidents or Other Failures, Could Adversely Affect Our Business, Reputation, Financial Position and Results of Operations 9 We produce highly sophisticated products and provide specialized services that incorporate or use complex or leading-edge technology, including both hardware and software.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Industry and General Economic Risks The Coronavirus (COVID-19) Outbreak Has Adversely Impacted our Business and Could in the Future Have a Material Adverse Impact on our Business, Results of Operation, Financial Condition and Liquidity, the Nature and Extent of Which is Highly Uncertain The global outbreak of the coronavirus (COVID-19) has significantly increased economic, demand and operational uncertainty.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Authorities around the world have taken a variety of measures to slow the spread of COVID-19, including travel bans or restrictions, increased border controls or closures, quarantines, shelter-in-place orders and business shutdowns and such authorities may impose additional restrictions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have also taken actions to protect our employees and to mitigate the spread of COVID-19, including embracing guidelines set by the World Health Organization and the Centers for Disease Control and Prevention on social distancing, good hygiene, restrictions on employee travel and in-person meetings, and changes to employee work arrangements including remote work arrangements where appropriate.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The actions taken around the world to slow the spread of COVID-19 have also impacted our customers and suppliers, and future developments could cause further disruptions to Emerson due to the interconnected nature of our business relationships.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The impact of COVID-19 on the global economy and our customers, as well as volatility in commodity markets (including oil prices), has negatively impacted demand for our products and could continue to do so in the future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Its effects could also result in further disruptions to our manufacturing operations, including higher rates of employee absenteeism, and supply chain, which could continue to negatively impact our ability to meet customer demand.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Additionally, the potential deterioration and volatility of credit and financial markets could limit our ability to obtain external financing.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "The extent to which COVID-19 will impact our business, results of operations, financial condition or liquidity is highly uncertain and will depend on future developments, including the spread and duration of the virus, potential actions taken by governmental authorities, and how quickly economic conditions stabilize and recover.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "10 Recessions, Adverse Market Conditions or Downturns in End Markets We Serve May Negatively Affect Our Operations In th e past, our operations have been exposed to significant volatility due to changes in general economic conditions or consumer preferences, recessions or adverse conditions in the end markets we serve.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In the future, similar changes could adversely impact overall sales, operating results (including potential impairment charges for goodwill or other long-lived assets) and cash flows.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Moreover, during economic downturns we may undertake more extensive restructuring actions, including workforce reductions, global facility consolidations, centralization of certain business support activities, and other cost reduction initiatives, and incur higher costs.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "As these plans and actions can be complex, the anticipated operational improvements, efficiencies and other benefits might be delayed or not realized.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Legal and Regulatory Risks Changes in Tax Rates, Laws or Regulations and the Resolution of Tax Disputes Could Adversely Impact Our Financial Results As a global company, we are subject to taxation in the U.S.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "government enacted tax reform, the Tax Cuts and Jobs Act (the Tax Act ), which made comprehensive changes to U.S.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We Are Subject to Litigation and Environmental Regulations That Could Adversely Impact Our Operating Results We are, and may in the future be, a party to a number of legal proceedings and claims, including those involving intellectual property, product liability (including asbestos) and environmental matters, several of which claim, or may in the future claim, si gnificant damages.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, increased public awareness and concern regarding global climate change may result in more international, federal, and/or state or other stakeholder requirements or expectations that could result in more restrictive or expansive standards, such as stricter limits on greenhouse gas emissions or more prescriptive reporting of environmental, social, and governance metrics.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "There continues to be a lack of consistent climate change legislation and standards, which creates economic and regulatory uncertainty.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "While the Company has adopted certain voluntary targets, environmental laws, regulations or standards may be changed, accelerated or adopted and impose significant operational restrictions and compliance requirements upon the Company, its products or customers, which could negatively impact the Company s business, capital expenditures, results of operations, financial condition and competitive position.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "sentence": "Ford and Ford Credit could be affected by the continued development of more stringent privacy, data use, and data protection laws and regulations as well as consumers heightened expectations to safeguard their personal information.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "We are subject to laws, rules, guidelines from privacy regulators, and regulations in the United States and other countries (such as the European Union s General Data Protection Regulation and the California Consumer Privacy Act) relating to the collection, use, cross-border data transfer, and security of personal information of consumers, employees, or others, including laws that may require us to notify regulators and affected individuals of a data security incident.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Existing and newly developed laws and regulations may contain broad definitions of personal information, are subject to change and uncertain interpretations by courts and regulators, and may be inconsistent from state to state or country to country.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Accordingly, complying with such laws and regulations may lead to a decline in consumer engagement or cause us to incur substantial costs to modify our operations or business practices.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Moreover, regulatory actions seeking to impose significant financial penalties for noncompliance and/or legal actions (including pursuant to laws providing for private rights of action by consumers) could be brought against us in the event of a data compromise, misuse of consumer information, or perceived or actual non-compliance with data protection or privacy requirements.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Further, any unauthorized release of personal information could harm our reputation, disrupt our business, cause us to expend significant resources, and lead to a loss of consumer confidence resulting in an adverse impact on our business and/or consumers deciding to withhold or withdraw consent for our collection or use of data.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  }
+]

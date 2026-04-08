@@ -1,0 +1,98 @@
+[
+  {
+    "sentence": "Legislation passed by Congress, new regulations issued by federal agencies or executive orders issued by the President of the United States could significantly affect the revenues, costs and profitability of the Company's business.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "7 CSX CORPORATION PART I Global economic conditions could negatively affect demand for commodities and other freight.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Additionally, depressed crude oil prices due to increased supply or lower demand could result in a further decrease in domestic crude oil production, which could have an adverse effect on crude oil volumes for CSX.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "CSXT, as a common carrier by rail, is required by law to transport hazardous materials, which could expose the Company to significant costs and claims.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Climate change and other emissions-related laws and regulations could adversely affect the Company's operations and financial results.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Climate change and other emissions-related laws and regulations have been proposed and, in some cases adopted, on the federal, state, provincial and local levels.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In particular, the EPA has issued various regulations and may issue additional regulations targeting emissions, including rules and standards governing emissions from certain stationary sources and from vehicles.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "8 CSX CORPORATION PART I Any of these pending or proposed laws or regulations could adversely affect the Company's operations and financial results by, among other things: (i) reducing coal-fired electricity generation due to mandated emission standards; (ii) reducing the consumption of coal as a viable energy resource in the United States and Canada; (iii) increasing the Company's fuel, capital and other operating costs and negatively affecting operating and fuel efficiencies; and (iv) making it difficult for the Company's customers in the U.S.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Severe weather or other natural occurrences could result in significant business interruptions and expenditures in excess of available insurance coverage.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "The Company could be adversely impacted by actions of activist stockholders, and such activism could impact the value of the Company s securities.",
+    "risk_type": "operational",
+    "nature": "new_risk",
+    "style": "vague"
+  },
+  {
+    "sentence": "While the Company continually engages with shareholders and considers their views on business and strategy, responding to activist shareholders can be costly and time-consuming, disrupt operations and divert the attention of management and employees.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The uncertainties associated with such activities could interfere with the Company s ability to effectively execute its strategic plan, impact customer retention and long-term growth, and limit the Company's ability to hire and retain personnel.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "In addition, a proxy contest for the election of directors could require the Company to incur significant legal fees and proxy solicitation expenses and require significant time and attention by management and the board of directors.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Uncertainties related to, or the results of, such activism could affect the market price and volatility of the Company's securities.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "10 CSX CORPORATION PART I The Company may be subject to various claims and lawsuits that could result in significant expenditures.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Although the Company maintains insurance to cover some of these types of claims and establishes reserves when appropriate, final amounts determined to be due on any outstanding matters may exceed the Company's insurance coverage or differ materially from the recorded reserves.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  }
+]

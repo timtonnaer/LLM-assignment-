@@ -1,0 +1,938 @@
+[
+  {
+    "sentence": "We offer a broad array of products and services to consumers, small businesses and commercial clients and thus are very dependent upon the level of consumer and business activity and the demand for payment and financing products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Slow economic growth or deterioration in economic conditions could change customer behaviors, including spending on our cards and the ability and willingness of Card Members to borrow and pay amounts owed to us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Political conditions in certain regions or countries could also negatively affect consumer and business spending, including in other parts of the world.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Factors such as consumer spending and confidence, unemployment rates, business investment, government spending, interest rates, taxes (including the broad and complex changes made by the Tax Cuts and Jobs Act to the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "tax code), fuel and other energy costs, the volatility and strength of the capital markets, inflation and deflation all affect the economic environment and, ultimately, our profitability.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Such factors may also cause our earnings, billings, loan balances, credit metrics and margins to fluctuate and diverge from expectations of analysts and investors, who may have differing assumptions regarding their impact on our business, adversely affecting, and/or increasing the volatility of, the trading price of our common shares.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "16 Table of Contents Travel and entertainment expenditures, which comprised approximately 25 percent of our U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "billed business during 2017, for example, are sensitive to business and personal discretionary spending levels and tend to decline during general economic downturns.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Likewise, spending by small businesses and corporate clients, which comprised approximately 40 percent of our worldwide billed business during 2017, depends in part on the economic environment and a favorable climate for continued business investment and new business formation.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Increases in delinquencies and write-off rates as a result of increases in bankruptcies, unemployment rates, changes in customer behaviors or otherwise could also have a negative impact on our results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The consequences of negative circumstances impacting us or the environment generally can be sudden and severe.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our operating results may suffer because of substantial and increasingly intense competition worldwide in the payments industry.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The payments industry is highly competitive, and we compete with charge, credit and debit card networks, issuers and acquirers, paper-based transactions (e.g., cash and checks), bank transfer models (e.g., wire transfers and ACH), as well as evolving and growing alternative, non-traditional payment and financing providers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our business may also be increasingly negatively affected if we are unable to increase merchant acceptance and our cards are not accepted at merchants that accept cards on the Visa and MasterCard networks.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Some of our competitors have developed, or may develop, for example, as a result of the recent reduction in the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "corporate tax rate, substantially greater financial and other resources than we have and may offer richer value propositions or a wider range of programs and services than we offer or may use more effective advertising, marketing or cross-selling strategies to acquire and retain more customers, capture a greater share of spending and borrowings, establish and develop more attractive cobrand card and other partner programs and maintain greater merchant acceptance than we have.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Spending on our cards could continue to be impacted by increasing consumer usage of charge, credit and debit cards issued on other networks, as well as adoption of alternative payment systems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "To the extent other payment mechanisms, systems and products continue to successfully expand, our discount revenues and our ability to access transaction data through our integrated network could be negatively impacted.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The competitive value of our closed-loop data may also be diminished as traditional and non-traditional competitors use other, new data sources and technologies to derive similar insights.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we are not able to differentiate ourselves from our competitors, develop compelling value propositions for our customers and/or effectively grow in areas such as mobile and online payments and emerging technologies, we may not be able to compete effectively.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may face additional compliance and regulatory risk to the extent that we expand into new business areas , and we may need to dedicate more expense, time and resources to comply with regulatory requirements than our competitors, particularly those that are not regulated financial institutions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, companies that control access to consumer and merchant payment method choices through digital wallets, commerce-related experiences, mobile applications or other technologies, or at the point of sale could choose not to accept, suppress use of, or degrade the experience of using our products or could restrict our access to our customers and transaction data.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Such companies could also require payments from us to participate in such digital wallets, experiences or applications, impacting our profitability on transactions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, expanding our service offerings, adding customer acquisition channels and forming new partnerships could have higher costs than our current arrangements, and could adversely impact our average discount rate or dilute our brand.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "17 Table of Contents We face substantial and increasingly intense competition for partner relationships, which could result in a loss or renegotiation of these arrangements that could have a material adverse impact on our business and results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Competition for relationships with key business partners is very intense and there can be no assurance we will be able to grow or maintain these partner relationships or that they will remain as profitable.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Establishing and retaining attractive cobrand card partnerships is particularly competitive among card issuers and networks as these partnerships typically appeal to high-spending loyal customers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our entire cobrand portfolio accounted for approximately 16 percent of our worldwide billed business for the year ended December 31, 2017.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Card Member loans related to our cobrand portfolio accounted for approximately 36 percent of our worldwide Card Member loans as of December 31, 2017 .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Delta cobrand accounts, our largest cobrand portfolio, accounted for approximately 8 percent of our worldwide billed business for the year ended December 31, 2017 and approximately 21 percent of worldwide Card Member loans as of December 31, 2017.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our relationships with, and revenues related to, Delta extend beyond cobrand accounts and include merchant acceptance of American Express cards, participation in our Membership Rewards program and travel-related benefits and services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Cobrand arrangements are entered into for a fixed period, generally ranging from five to eight years, and will terminate in accordance with their terms, including at the end of the fixed period unless extended or renewed at the option of the parties, or upon early termination as a result of an event of default or otherwise.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We face the risk that we could lose partner relationships, even after we have invested significant resources in the relationships.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The loss of exclusivity arrangements with business partners or the loss of business partners altogether (whether by non-renewal at the end of the contract period, such as the end of our relationship with Costco in the United States in 2016, or as the result of a merger or otherwise, such as the withdrawal of American Airlines in 2014 from our Airport Club Access program for Centurion and Platinum Card Members) or the renegotiation of existing partnerships with terms that are significantly worse for us could have a material adverse impact on our business and results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We also face pressure from competitors that have other sources of income or lower costs that can make their pricing more attractive to key business partners and merchants.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Merchants are also able to negotiate incentives and pricing concessions from us as a condition to accepting our cards or being cobrand partners.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We also expect further erosion of our average merchant discount rate as we seek to increase merchant acceptance.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the regulatory environment and differentiated payment models and technologies from non-traditional players in the alternative payments space could pose challenges to our traditional payment model and adversely impact our average merchant discount rate.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Some merchants continue to invest in their own payment solutions, such as proprietary-branded mobile wallets, using both traditional and new technology platforms.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If merchants are able to drive broad consumer adoption and usage, it could adversely impact our average merchant discount rate and billed business volumes.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "18 Table of Contents A continuing priority of ours is to drive greater and differentiated value to our merchants which, if not successful, could negatively impact our discount revenue and financial results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Surcharging or steering by merchants could materially adversely affect our business and results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In certain countries, such as Australia and certain Member States in the EU, merchants are expressly permitted by law to surcharge certain card purchases.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the laws of a number of states in the United States that prohibit surcharging have been overturned in litigation brought by merchant groups.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In jurisdictions allowing surcharging, we have seen merchant surcharging on American Express cards in certain merchant categories, and in some cases, either the surcharge is greater than that applied to Visa and MasterCard cards or Visa and MasterCard cards are not surcharged at all, practices that are known as differential surcharging, even though there are many cards issued on competing networks that have an equal or greater cost of acceptance for the merchant.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In order to compete in our industry, we need to continue to invest across all areas of our business, including in transaction processing, data management and analytics, customer interactions and communications, alternative payment mechanisms, authentication technologies and risk management and compliance systems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "19 Table of Contents We may not be successful in our efforts to promote card usage through marketing and promotion, merchant acceptance and Card Member rewards and services, or to effectively control the costs of such investments, both of which may impact our profitability.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Revenue growth is dependent on increasing consumer and business spending on our cards and growing loan balances.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have been investing in a number of growth initiatives over the past several years, including to attract new Card Members, reduce Card Member attrition and capture a greater share of customers total spending and borrowings.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There can be no assurance that our investments to acquire Card Members, provide differentiated features and services and increase usage of our cards will be effective.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, we may not be successful in developing and issuing new and enhanced cards or customers may not accept or be willing to pay for our new products and services, which would negatively impact our results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, if we develop new products or offers that attract customers looking for short-term incentives rather than incentivize long-term loyalty, Card Member attrition and costs could increase.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our inability to continue to differentiate our products and services generally could materially adversely affect us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may not be able to cost-effectively manage and expand Card Member benefits, including containing the growth of marketing, promotion, rewards and Card Member services expenses in the future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may not succeed in doing so, particularly in the current competitive and regulatory environment.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our brand and its attributes are key assets, and we believe our continued success depends on our ability to preserve, grow and leverage the value of our brand.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our ability to attract and retain consumer and small business Card Members and corporate clients is highly dependent upon the external perceptions of our level of service, trustworthiness, business practices, management, workplace culture, merchant acceptance, financial condition, our response to unexpected events and other subjective qualities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, any shortcoming of or controversy related to a third-party vendor, merchant acquirer or GNS partner may be attributed by Card Members and merchants to us, thus damaging our reputation and brand value.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A significant operating disruption, a major information or cyber security incident or an increase in fraudulent activity could lead to reputational damage to our brand and significant legal, regulatory and financial exposure, and could reduce the use and acceptance of our charge and credit cards.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We and other third parties process, transmit, store and provide access to account information in connection with our charge and credit cards, and prepaid and other products, and in the normal course of our business, we collect, analyze and retain significant volumes of certain types of personally identifiable and other information pertaining to our customers and employees.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "20 Table of Contents Global financial institutions like us have experienced a significant increase in information and cyber security risk in recent years and will likely continue to be the target of increasingly sophisticated cyberattacks, including computer viruses, malicious or destructive code, ransomware, social engineering attacks (including phishing and impersonation), hacking, denial-of-service attacks and other attacks and similar disruptions from the unauthorized use of or access to computer systems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our networks and systems are subject to constant attempts to identify and exploit potential vulnerabilities in our operating environment with intent to disrupt our business operations and capture, destroy or manipulate various types of information relating to corporate trade secrets, customer information, including Card Member, travel and loyalty program account information, employee information and other sensitive business information, including acquisition activity, financial results and intellectual property.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As outsourcing, specialization of functions, third-party digital services and technology innovation within the payments industry increase (including with respect to mobile technologies, tokenization, big data and cloud storage solutions), more third parties are involved in processing card transactions and there is a risk the confidentiality, integrity, privacy and/or security of data held by, or accessible to, third parties, including merchants that accept our cards, payment processors and our business partners, may be compromised, which could lead to unauthorized transactions on our cards and costs associated with responding to such an incident.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, high profile data breaches such as the one announced in 2017 by Equifax, one of the three major credit reporting agencies in the United States, could change consumer behaviors, impact our ability to access data to make product offers and credit decisions and result in legislation and additional regulatory requirements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We develop and maintain systems and processes aimed at detecting and preventing information and cyber security incidents and fraudulent activity, which require significant investment, maintenance and ongoing monitoring and updating as technologies and regulatory requirements change and as efforts to overcome security measures become more sophisticated.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Despite our efforts, the possibility of information and cyber security incidents, malicious social engineering, fraudulent or other malicious activities and human error or malfeasance cannot be eliminated entirely.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Risks associated with each of these remain, including the unauthorized disclosure, release, gathering, monitoring, misuse, modification, loss or destruction of confidential, proprietary or other information (including account data information) or negative impact to online accounts and systems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If our information technology systems experience a significant disruption or breach, or if actual or perceived fraud levels or other illegal activities involving our cards, customer online accounts or systems were to rise due to an information or cyber security incident at a business partner, merchant or other market participant, employee error, malfeasance or otherwise, it could lead to the loss of data or data integrity, regulatory investigations and intervention (such as mandatory card reissuance), increased litigation (including class action litigation), remediation and response costs, greater concerns of customers and/or business partners relating to the privacy and security of their data, and reputational and financial damage to our brand, which could reduce the use and acceptance of our cards, and have a material adverse impact on our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Information or cyber security incidents and other actual or perceived failures to maintain confidentiality, integrity, privacy and/or security, including leaked business data, may also disrupt our operations, undermine our competitive advantage through the disclosure of sensitive company information, divert management attention and resources, and negatively impact the assessment of us and our subsidiaries by banking regulators and rating agencies.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although we have insurance for losses related to cyber risks and attacks and information and cyber security and privacy liability, it may not be sufficient to offset the impact of a material loss event.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "21 Table of Contents We have agreements with business partners in a variety of industries, including the airline industry, that represent a significant portion of our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may be obligated to make or accelerate payments to certain business partners such as cobrand partners upon the occurrence of certain triggering events such as a shortfall in certain performance and revenue levels.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are exposed to credit risk in the airline industry, which accounted for approximately 8 percent of our worldwide billed business for the year ended December 31, 2017 , to the extent we protect Card Members against non-delivery of goods and services, such as where we have remitted payment to an airline for a Card Member purchase of tickets that have not yet been used or flown.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For additional information relating to the general risks related to the airline industry, see Risk Management Institutional Credit Risk Exposure to the Airline Industry under MD A.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There is no assurance that we will be able to successfully identify and secure future acquisition candidates on terms and conditions that are acceptable to us or complete proposed acquisitions and investments, which could impair our growth.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The process of integrating an acquired company, business or technology could create unforeseen operating difficulties and expenditures, result in unanticipated liabilities and harm our business generally.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "It may take us longer than expected to fully realize the anticipated benefits of these transactions, and those benefits may ultimately be smaller than anticipated or may not be realized at all, which could adversely affect our business and operating results, including as a result of write-downs of goodwill and other intangible assets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may also face risks with other types of strategic transactions, such as the sale to InComm of the operations relating to our prepaid reloadable and gift card business in the United States, which is still subject to final agreement on the program management and issuer processing arrangements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If that transaction is consummated, we could experience disruption in our ability to service our prepaid customers if InComm s services are interrupted, suspended or terminated for any reason, which could result in additional costs, regulatory risks and harm to our business and reputation.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We rely on third-party providers for acquiring customers, technology, platforms and other services integral to the operations of our businesses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We rely on third-party service providers, merchants, customer acquisition channels, processors, aggregators, GNS partners and other third parties for services that are integral to our operations and are subject to the risk that activities of such third parties may adversely affect our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, we rely on third parties for the timely transmission of accurate information across our global network, card acquisition and provision of services to our customers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If a service provider or other third party ceases to provide the data quality or communications capacity we expect or services upon which we rely, as a result of natural disaster, operational disruptions or errors, terrorism, information or cyber security incidents, or any other reason, the failure could interrupt or compromise the quality of our services to customers or impact our ability to grow our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There is also a risk the confidentiality, integrity, privacy and/or security of data held by, or accessible to, third parties or communicated over third-party networks or platforms could become compromised, which could significantly harm our business even if the attack or breach does not impact our systems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are also exposed to the risk that a disruption or other event at a service provider to one of our service providers or partners could impede their ability to provide to us services or data on which we rely to operate our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Service providers or other third parties could also cease providing data to us if we are unable to negotiate for data use rights or use our data for purposes that do not benefit us, which could diminish the competitive value of our closed loop.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "22 Table of Contents The management of multiple third-party vendors increases our operational complexity and decreases our control.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, we may not be able to effectively monitor or mitigate operational risks relating to our vendors service providers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Geopolitical events, terrorist attacks, natural disasters, severe weather conditions, floods, health pandemics, information or cyber security incidents (including intrusion into or degradation of systems or technology by cyberattackers) and other catastrophic events can have a negative effect on our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Similar events or other disasters or catastrophic events in the future, and events impacting other sectors of the economy, including the telecommunications and energy sectors, could have a negative effect on our businesses and infrastructure, including our technology and systems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Card Members in California, New York, Florida, Texas and Georgia account for a significant portion of U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Consumer billed business and Card Members loans, and our results of operations could be impacted by events or conditions that disproportionately or specifically affect one or more of those states.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, disruptions in air travel and other forms of travel can result in the payment of claims under travel interruption insurance policies we offer and, if such disruptions to travel are prolonged, they can materially adversely affect overall travel-related spending.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The exit of the United Kingdom from the European Union could adversely impact our business, results of operations and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As of December 31, 2017, the EMEA region constituted approximately 11 percent of our worldwide billed business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "It is unclear at this stage the financial, trade and legal implications of Brexit, although we expect to make changes to the structure of our business operations in Europe as a result.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We rely upon our key personnel not only for business success, but also to lead with integrity.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "To the extent our leaders behave in a manner that does not comport with our company s values, the consequences to our brand and reputation could be severe and could negatively affect our financial condition and results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Changes in immigration and work permit laws and regulations or the administration or enforcement of such laws or regulations can also impair our ability to attract and retain qualified personnel, or to employ such personnel in the location(s) of our choice.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "23 Table of Contents Legal, Regulatory and Compliance Risks Ongoing legal proceedings regarding provisions in our merchant contracts could have a material adverse effect on our business, result in additional litigation and/or arbitrations, subject us to substantial monetary damages and damage our reputation and brand.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Department of Justice (DOJ) and certain states attorneys general brought an action against us alleging that the provisions in our card acceptance agreements with merchants that prohibit merchants from discriminating against our card products violate the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Following a non-jury trial in the case, the trial court found that the challenged provisions were anticompetitive and issued a final judgment entering a permanent injunction.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Following our appeal of this judgment, the Court of Appeals for the Second Circuit reversed the trial court decision and directed the trial court to enter a judgment for American Express.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Eleven of the 17 states that are party to the case filed a petition with the Supreme Court seeking a review of the Second Circuit s decision.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "On October 16, 2017, the Supreme Court granted certiorari and oral argument is scheduled for February 26, 2018.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Even if we were not required to change our merchant agreements, changes in Visa s and MasterCard s policies or practices as a result of legal proceedings, lawsuit settlements or regulatory actions pending against them could result in changes to our business practices and materially and adversely impact our profitability.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are subject to comprehensive government regulation and supervision in jurisdictions around the world, which significantly affects our business, and has the potential to restrict the scope of our existing businesses, increase our costs of doing business, limit our ability to pursue certain business opportunities, require changes to business practices, affect our relationships with partners, merchants and Card Members, or make our products and services more expensive for customers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "New laws or regulations, enhanced supervision efforts or changes in the enforcement of existing laws or regulations applicable to our businesses could impact the profitability of our business activities, limit our ability to pursue business opportunities or adopt new technologies, require us to change certain of our business practices or alter our relationships with partners, merchants and Card Members, or affect retention of our key personnel.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In some cases, regulations extend to certain aspects of our business, such as GNS and cobrand arrangements or terms of card acceptance for merchants, including terms relating to non-discrimination and honor-all-cards.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, regulations in the EU and Australia have undermined our GNS business in those jurisdictions and have resulted in the moderation of GNS billed business growth.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, there is uncertainty as to when or how interchange fee cap provisions and other provisions might apply when we work with cobrand partners and agents in the EU following a ruling from the EU Court of Justice, and there can be no assurance we will be able to maintain such relationships in their current form.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "24 Table of Contents We are subject to certain provisions of the Bank Secrecy Act, as amended by the Patriot Act, with regard to maintaining effective AML programs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "federal law regulates abusive debt collection practices, which, along with bankruptcy and debtor relief laws, can affect our ability to collect amounts owed to us or subject us to regulatory scrutiny.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our ability to recover debt we had previously written-off may be limited, which could have a negative impact on our results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "See Supervision and Regulation for more information about certain laws and regulations to which we are subject and their impact on us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have been subject to regulatory actions by the CFPB and other regulators and may continue to be subject to such actions, including governmental inquiries, investigations and enforcement proceedings, in the event of noncompliance or alleged noncompliance with laws or regulations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Regulatory action could subject us to significant fines, penalties or other requirements resulting in Card Member reimbursements, increased expenses, limitations or conditions on our business activities, and damage to our reputation and our brand, which could adversely affect our results of operations and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Some elements of the capital and liquidity regimes are not yet final and certain developments could significantly impact the requirements applicable to financial institutions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, the Basel Committee finalized revisions to the standardized approach for credit risk and operational risk capital requirements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If these revisions are adopted in the United States, we could be required to hold significantly more capital.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As part of our required stress testing, both internally and by the Federal Reserve, we must continue to comply with applicable capital standards as calculated under the standardized approach in the adverse and severely adverse economic scenarios published by the Federal Reserve each year.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "To satisfy these requirements, it may be necessary for us to hold additional capital in excess of that required by the Capital Rules .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "25 Table of Contents We continue to progress through the parallel run phase of Basel III advanced approaches implementation.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the Capital Rules include a capital conservation buffer and a countercyclical capital buffer, which is currently set at zero but which could be increased by the Federal Reserve in the future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If our risk-based capital ratios were to fall below the applicable buffer levels, we would be subject to certain restrictions on dividends, stock repurchases and other capital distributions, as well as discretionary bonus payments to executive officers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Regulation in the areas of privacy, data protection, account access and information and cyber security could increase our costs and affect or limit our business opportunities and how we collect and/or use personal information.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As privacy, data protection and information and cyber security laws, including data localization, authentication and account access laws, are interpreted and applied, compliance costs may increase, particularly in the context of ensuring that adequate data protection, data transfer and account access mechanisms are in place.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, state and federal legislators and/or regulators in the United States and other countries in which we operate are increasingly adopting or revising privacy, data protection , account access and information and cyber security laws that potentially could have significant impact on our current and planned privacy, data protection, account access and information and cyber security-related practices, our collection, use, sharing, retention and safeguarding of consumer and/or employee information, and some of our current or planned business activities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Compliance with current or future privacy, data protection, account access and information and cyber security laws relating to consumer and/or employee data could result in higher compliance and technology costs and could restrict our ability to fully maximize our closed-loop capability or provide certain products and services, which could materially and adversely affect our profitability.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our failure to comply with privacy, data protection, account access and information and cyber security laws could result in potentially significant regulatory and/or governmental investigations and/or actions, litigation, fines, sanctions, ongoing regulatory monitoring, customer attrition, decreases in the use or acceptance of our cards and damage to our reputation and our brand.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "26 Table of Contents We may not be able to effectively manage the operational and compliance risks to which we are exposed.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Operational risk includes, among others, the risk that employee error or intentional misconduct could result in a material financial misstatement, a failure to monitor a third party s compliance with a service level agreement or regulatory or legal requirements, or a failure to adequately monitor and control access to, or use of, data in our systems we grant to third-party service providers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As processes or organizations are changed, or new products and services are introduced, we may not fully appreciate or identify new operational risks that may arise from such changes.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Operational and compliance risks can expose us to reputational and legal risks as well as fines, civil money penalties or payment of damages and can lead to diminished business opportunities and diminished ability to expand key operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we are not able to protect our intellectual property, or successfully defend against any infringement or misappropriation assertions brought against us, our revenue and profitability could be negatively affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We rely on a variety of measures to protect our intellectual property and control access to, and distribution of, our proprietary information.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These measures may not prevent infringement of our intellectual property rights or misappropriation of our proprietary information and a resulting loss of competitive advantage.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Given the complex, rapidly changing and competitive technological and business environments in which we operate, and the potential risks and uncertainties of intellectual property-related litigation, a future assertion of an infringement or misappropriation claim against us could cause us to lose significant revenues, incur significant defense, license, royalty or technology development expenses, and/or pay significant monetary damages.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "New tax legislative initiatives may be proposed from time to time, which may impact our effective tax rate and could adversely affect our tax positions or tax liabilities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, the impacts of the Tax Cuts and Jobs Act in the United States resulted in a 2.6 billion charge in the fourth quarter of 2017, representing our current estimate of taxes primarily on the deemed repatriation of certain overseas earnings and the remeasurement of U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, unilateral or multi-jurisdictional actions by various tax authorities, including an increase in tax audit activity, could have an adverse impact on our tax liabilities.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "27 Table of Contents Credit, Liquidity and Market Risks Our risk management policies and procedures may not be effective.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We may not be able to effectively manage individual or institutional credit risk, or credit trends that can affect spending on card products and the ability of customers and partners to pay us, which could have a material adverse effect on our results of operations and financial condition.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "We are continuing to experience relatively low delinquency and write-off rates, but expect that these rates will increase over time.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Increased credit risk, whether resulting from underestimating the credit losses inherent in our portfolio of loans and receivables, deteriorating economic conditions (particularly in the United States where approximately 74 percent of our revenues are generated), increases in the level of loan balances, changes in our mix of business or otherwise, could require us to increase our provisions for losses and could have a material adverse effect on our results of operations and financial condition.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "A hypothetical 100 basis point increase in market interest rates would have resulted in a decrease to our annual net interest income of approximately 167 million as of December 31, 2017.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We expect the rates we pay on our deposits will increase as benchmark interest rates increase.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "For a further discussion of our interest r ate risk, see Risk Management Market Risk Management Process under MD A.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "28 Table of Contents Adverse financial market conditions may significantly affect our ability to meet liquidity needs, access to capital and cost of capital.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Rating agencies regularly evaluate us and our subsidiaries, and their ratings of our and our subsidiaries long-term and short-term debt and deposits are based on a number of factors, including financial strength as well as factors not within our control, including conditions affecting the financial services industry generally, and the wider state of the economy.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "During 2017, approximately 26 percent of our total revenues net of interest expense were generated from activities outside the United States.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Foreign exchange regulations or capital controls might restrict or prohibit the conversion of other currencies into U.S.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "29 Table of Contents An inability to accept or maintain deposits due to market demand or regulatory constraints could materially adversely affect our liquidity position and our ability to fund our business.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "While Centurion Bank and American Express Bank were considered well capitalized as of December 31, 2017 and had no restrictions regarding acceptance of brokered deposits or setting of interest rates, there can be no assurance they will continue to meet this definition.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "The Capital Rules require bank holding companies and their bank subsidiaries to maintain substantially more capital, with a greater emphasis on common equity.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In the event that actual default rates of these investment securities were to significantly change from historical patterns due to challenges in the economy or otherwise, it could have a material adverse impact on the value of our investment portfolio, potentially resulting in impairment charges.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  }
+]

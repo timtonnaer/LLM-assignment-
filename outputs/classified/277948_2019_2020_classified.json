@@ -1,0 +1,98 @@
+[
+  {
+    "sentence": "The risks set forth in the following risk factors could have a material adverse effect on the Company's financial condition, results of operations or liquidity, and could cause those results to differ materially from those expressed or implied in the Company's forward-looking statements.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In addition, statutes or regulations imposing price constraints or affecting rail-to-rail competition could adversely affect the Company's profitability.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "New or modified rules or regulations by these agencies could increase the Company's operating costs, adversely impact revenue or reduce operating efficiencies and affect service performance.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "For example, the RSIA, as amended, mandated that the installation of PTC hardware be completed by December 31, 2018, and requires that the PTC system be fully operational by December 31, 2020 on main lines that carry certain hazardous materials and on lines that have commuter or passenger operations.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "For example, slower rates of economic growth in Asia, contraction of European economies, and changes in the global supply of seaborne coal or price of seaborne coal have adverse impacts on U.S.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "8 CSX CORPORATION PART I The Company s operations and financial results could be negatively impacted by climate change and regulatory and legislative responses to climate change.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "There is potential for operational impacts from changing weather patterns or rising sea levels in the Company's operational territory, which could impact the Company's network or other assets.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "The Company is subject to environmental laws and regulations that may result in significant costs.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "9 CSX CORPORATION PART I Disruption to a key railroad industry supplier could negatively affect operating efficiency and increase costs.",
+    "risk_type": "supply_chain",
+    "nature": "new_risk",
+    "style": "vague"
+  },
+  {
+    "sentence": "The capital intensive and unique nature of core rail equipment (including rolling stock equipment, locomotives, rail, and ties) limits the number of railroad equipment suppliers.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "CSXT could experience rail network difficulties related to: (i) increased volume; (ii) locomotive or crew shortages; (iii) extreme weather conditions; (iv) impacts from changes in yard capacity, or network structure or composition, including train routes; (v) increased passenger activities; or (vi) regulatory changes impacting where and how fast CSXT can transport freight or maintain routes, which could impact CSXT's operational fluidity, leading to deterioration of service, asset utilization and overall efficiency.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Future acts of terrorism, war or regulatory changes to combat the risk of terrorism may cause significant disruptions in the Company's operations.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "These agreements are either bargained for nationally by the National Carriers Conference Committee or locally between CSX and the union.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Such agreements are negotiated over the course of several years and previously have not resulted in any extended work stoppages.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Although the Company believes that it has adequate resources and personnel for the current business environment, unpredictable increases in demand for rail services or extreme weather conditions may exacerbate such risks, which could have a negative impact on the Company s operational efficiency and otherwise have a material adverse effect on the Company s financial condition, results of operations, or liquidity in a particular period.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Instability or disruptions of the capital markets, including credit markets, or the deterioration of the Company s financial condition due to internal or external factors, could restrict or prohibit access and could increase financing costs.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "vague"
+  }
+]

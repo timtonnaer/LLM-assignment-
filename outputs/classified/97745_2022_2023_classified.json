@@ -1,0 +1,290 @@
+[
+  {
+    "sentence": "Both domestic and international markets experienced significant inflationary pressures in 2022 and inflation rates in the U.S., as well as in other countries in which we operate, continue at elevated levels for the near-term.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "or other key markets, continue to be unstable, they could adversely affect the business, results of operations and financial condition of the company and its customers, distributors, and suppliers, having the effect of: reducing demand for some of our products; increasing the rate of order cancellations or delays; increasing the risk of excess and obsolete inventories; increasing pressure on the prices for our products and services; causing supply interruptions, which could disrupt our ability to produce our products; and creating longer sales cycles, and greater difficulty in collecting sales proceeds and slower adoption of new technologies.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "As a multinational corporation, our businesses occasionally invoice third-party customers in currencies other than the one in which they primarily do business (which we refer to as the functional currency).",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In 2022, currency translation had an unfavorable effect of 1.35 billion on revenues due to the strengthening of the U.S.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Accordingly, our future results could be harmed by a variety of factors, including: interruption to transportation flows for delivery of parts to us and finished goods to our customers; changes in a specific country's or region's political, economic or other conditions; changes in diplomatic and trade relationships, including new tariffs, trade protection measures, import or export licensing requirements, trade embargoes and sanctions and other trade barriers; 10 THERMO FISHER SCIENTIFIC INC.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "goods; the impact of public health epidemics/pandemics on the global economy, such as the COVID-19 pandemic; uncertainties regarding the collectability of accounts receivable; the imposition of governmental controls; diverse data privacy and protection requirements; supply interruptions, which could disrupt our ability to produce our products; increases in materials, energy, labor or other manufacturing-related costs or higher supply chain logistics costs; negative consequences from changes in tax laws; difficulty in staffing and managing widespread operations; differing labor regulations; differing protection of intellectual property; unexpected changes in regulatory requirements; and geopolitical uncertainty or turmoil, including terrorism and war.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Many factors, including public policy spending priorities, available resources, and product and economic cycles, have a significant effect on the capital spending policies of these entities.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We are subject to risks associated with public health epidemics and pandemics, such as the ongoing COVID-19 pandemic.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "COVID-19 has had an adverse impact on certain of our operations, supply chains and distribution systems, and we may experience unpredictable reductions in supply and demand for certain of our products and services.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The ability of our employees to work may be significantly impacted by the COVID-19 pandemic or future epidemics and pandemics.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, the duration and extent of future revenues from sales of products related to the COVID-19 response are uncertain and dependent primarily on customer testing demand as well as therapy and vaccine demand.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Business Risks We must develop new products, adapt to rapid and significant technological change, respond to introductions of new products by competitors and maintain quality to remain competitive.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Competitive factors include technological innovation, price, service and delivery, breadth of product line, customer support, e-business capabilities and the ability to meet the special requirements of customers.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Many of our existing products and those under development are technologically innovative and require significant planning, design, development and testing at the technological, safety, quality, product and manufacturing-process levels.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "If we fail to adequately develop products or predict our customers needs and future activities, we may invest heavily in research and development of products and services that do not lead to significant revenues.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Any acquisition we may complete may be made at a substantial premium over the fair value of the net identifiable assets of the acquired company.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "As a result of these acquisitions, we recorded significant goodwill and indefinite-lived intangible assets (primarily tradenames) on our balance sheet, which amount to approximately 41.20 billion and 1.24 billion, respectively, as of December 31, 2022.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, we have definite-lived intangible assets totaling 16.21 billion as of December 31, 2022.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "If these or other suppliers encounter financial, operating or other difficulties, or if our relationship with them changes, we might not be able to quickly establish or qualify replacement sources of supply.",
+    "risk_type": "supply_chain",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "The supply chains for our businesses could also be disrupted by supplier capacity constraints, bankruptcy or exiting of the business for other reasons, decreased availability or increased cost of key raw materials or commodities, such as energy, and external events such as global economic downturns and macroeconomic trends, natural disasters, pandemic health issues such as COVID-19, war, terrorist actions, governmental 12 THERMO FISHER SCIENTIFIC INC.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "As a global organization, we are subject to data privacy and security laws, regulations, and customer-imposed controls in numerous jurisdictions as a result of having access to and processing confidential, personal and/or sensitive data in the course of our business.",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Several countries, such as China, have passed laws that require personal data relating to their citizens to be maintained on local servers and impose additional data transfer restrictions.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Macroeconomic conditions, specifically increased competition for employees and wage inflation, could have a material impact on our ability to attract and retain talent, our turnover rate and the cost of operating our business.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The costs for these commodities, as well as the costs of transportation, construction and services necessary for the production and distribution of our products, continue to increase and be volatile.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "An earthquake or other natural disaster (including the effects of climate change such as sea level rise, drought, flooding, wildfires and more intense weather events), could disrupt our operations or impair our critical systems.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, if any of our facilities, including our manufacturing or warehouse facilities, or the facilities of our suppliers, third-party service providers, or customers, is affected by natural disasters, such as earthquakes, tsunamis, power shortages or outages, fires, floods or monsoons, public health crises, such as pandemics and epidemics, political crises, such as terrorism, war, political instability or other conflict, or other events outside of our control, such as trade protectionism, strikes or other labor unrest, our results of operations could be adversely affected.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Increasing attention to environmental, social and governance matters may impact our business, financial results, stock price or reputation.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "We face increasing scrutiny from stakeholders related to our environmental, social and governance (ESG) practices and disclosures, including practices and disclosures related to climate change, diversity and inclusion and governance standards.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "A failure to adequately meet evolving stakeholder expectations may result in noncompliance, the loss of business, reputational impacts, diluted market valuation, an inability to attract customers and an inability to attract and retain top talent.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "or in any other jurisdiction in which we do business that impose more stringent restrictions and requirements than our current legal or regulatory obligations, we and companies in our supply chain may experience increased compliance burdens and costs to meet the regulatory obligations, which could cause disruption in the sourcing, manufacturing and distribution of our products and adversely affect our business, financial condition or results of operations.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We are also subject to investigation for compliance with the 14 THERMO FISHER SCIENTIFIC INC.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We may be named as a defendant in product liability or errors and omissions lawsuits, which may allege that products or services we have provided have resulted or could result in an unsafe condition, property damage or injury to end users or financial loss for consumers.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Any such product liability claims brought against us could be significant and any adverse determination may result in liabilities subject to insurance policy exclusions where insurance would not respond or in excess of our insurance coverage.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Although we carry product liability and errors and omissions insurance, we cannot be certain that our current insurance will be sufficient to cover these claims or that it can be maintained on acceptable terms, if at all.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "We are required to comply with a wide variety of laws and regulations, and are subject to regulation by various federal, state and foreign agencies.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our subsidiaries may be required to register for permits and/or licenses with, and may be required to comply with the laws and regulations of, the DEA, the FDA, the DHHS, foreign agencies including the EMA, and other various state boards of pharmacy, state health departments and/or comparable state agencies as well as certain accrediting bodies depending upon the type of operations and location of product distribution, manufacturing and sale.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Failure by us or by our customers to comply with the requirements of these regulatory authorities, 15 THERMO FISHER SCIENTIFIC INC.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "including without limitation, remediating any inspectional observations to the satisfaction of these regulatory authorities, could result in warning letters, product recalls or seizures, monetary sanctions, injunctions to halt manufacture and distribution, restrictions on our operations, civil or criminal sanctions, or withdrawal of existing or denial of pending approvals, including those relating to products or facilities.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We are the sole manufacturer of a number of pharmaceuticals for many of our customers and a negative regulatory event could impact our customers ability to provide products to their customers.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our reputation, ability to do business and financial statements may be impaired by improper conduct by any of our employees, agents, business partners or other third parties.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In addition, any allegations of issues resulting from the misuse of our products could, even if untrue, adversely affect our reputation and our customers willingness to purchase products from us.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Any such allegations could cause us to lose customers and divert our resources from other tasks, which could materially and adversely affect our business and operating results.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Patents may not be issued for any pending or future patent applications owned by or licensed to us, and the claims allowed under any issued patents may not be sufficiently broad to protect our technology.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We also depend in part on our trademarks and the strength of our proprietary brands, which we consider important to our business.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "If we are unable to protect or preserve the value of our intellectual property rights for any reason, including our inability to successfully defend against counterfeit, knock offs, grey-market, infringing or otherwise unauthorized products, our brand and reputation could be damaged, and our business may be harmed.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, we have availability to borrow under a revolving credit facility that provides for up to 5.00 billion of unsecured multi-currency revolving credit (the Facility).",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Specifically, the company has agreed that, so long as any lender has any commitment under the Facility, any letter of credit is outstanding under the Facility, or any loan or other obligation is outstanding under the Facility, it will maintain a minimum Consolidated Net Interest Coverage Ratio of 3.5:1.0 as of the last day of any fiscal quarter.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our failure to comply with any of these restrictions or covenants may result in an event of default under the applicable debt instrument, which could permit acceleration of the debt under that instrument and require us to prepay that debt before its scheduled due date.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  }
+]

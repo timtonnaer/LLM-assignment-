@@ -1,0 +1,200 @@
+[
+  {
+    "sentence": "We Operate in Businesses That Are Subject to Competitive Pressures That Could Affect Prices or Demand for Our Products Our businesses operate in markets that are highly competitive and potentially volatile, and we compete on the basis of product performance, quality, service and/or price across the industries and markets served.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In 2018 and in past years, we have made various acquisitions, including the valves controls business in 2017, and entered into joint venture arrangements intended to complement or expand our business, and may continue to do so in the future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The 7 success of these transactions will depend on our ability to integrate assets and personnel acquired in these transactions and to cooperate with our strategic partners.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While we monitor market prices of the commodities we require and attempt to mitigate price exposure through hedging activities, this risk could adversely affect our operating results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our manufacturing facilities abroad are dependent on the stability of governments and business conditions and may be more susceptible to changes in laws, policies and regulations in host countries, as well as economic and political upheaval, than our domestic facilities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "and Abroad Subject Us to Economic Risk as Our Results of Operations May Be Adversely Affected by Changes in Government Regulations and Policies and Currency Fluctuations We sell, manufacture, engineer and purchase products globally, with significant sales in both mature and emerging markets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "and international operations subject the Company to changes in government regulations and policies in a large number of jurisdictions around the world, including those related to trade, investments, taxation, exchange controls and repatriation of earnings.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Changes in laws or policies governing the terms of foreign trade, trade restrictions or barriers, tariffs or taxes, including on imports from countries where we manufacture products, could adversely impact our business and financial results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "8 Changes in Tax Rates, Laws or Regulations and the Resolution of Tax Disputes Could Adversely Impact Our Financial Results As a global company, we are subject to taxation in the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company s effective tax rate, cash flows and operating results could be affected by changes in the mix of earnings in countries with different statutory tax rates, as well as by changes in the local tax laws and regulations, or the interpretations thereof.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "government enacted tax reform, the Tax Cuts and Jobs Act (the Act ), which made comprehensive changes to U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "federal income tax laws by moving from a global to a modified territorial tax regime.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As such, the final one-time deemed repatriation tax may differ materially from the Company s provisional amounts due to additional regulatory guidance expected to be issued, changes in interpretations, or any legislative actions to address questions arising from the Act, as well as further evaluation of the Company's actions, assumptions and interpretations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the Company s tax returns are subject to regular review and audit by U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While we believe our tax provisions are appropriate, the final outcome of tax audits or disputes could result in adjustments to the Company s tax liabilities, which could adversely affect our financial results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Access to Funding Through the Capital Markets is Essential to the Execution of Our Business Plan and if We Are Unable to Maintain Such Access We Could Experience a Material Adverse Effect on Our Business and Financial Results Our ability to invest in our businesses, make strategic acquisitions and refinance maturing debt obligations requires access to the capital markets and sufficient bank credit lines to support short-term borrowings.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our Business Success Depends on the Ability to Attract, Develop and Retain Key Personnel Our success depends in part on the efforts and abilities of our management and key employees.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Security Breaches or Disruptions of Our Information Technology Systems Could Adversely Affect Our Business The Company relies on information technology networks and systems, including the internet, to process, transmit and store electronic information, and to manage or support a variety of business processes and activities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, the Company collects and stores certain data, including proprietary business information, and may have access to confidential or personal information in certain of our businesses that is subject to privacy and security laws and regulations, which are potentially conflicting, and customer-imposed controls.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These technology networks and systems may be susceptible to damage, disruptions or shutdowns due to failures during the process of upgrading or replacing software, databases or components; power outages; telecommunications or system failures; terrorist attacks; natural disasters; employee error or malfeasance; server or cloud provider breaches; and computer viruses or cyberattacks.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Cybersecurity threats and incidents can range from uncoordinated individual attempts to gain unauthorized access to information technology networks and systems to more sophisticated and targeted measures, known as advanced persistent threats, directed at the Company, its products, its customers and/or its third-party service providers.",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Despite the implementation of cybersecurity measures (including access controls, data encryption, vulnerability assessments, continuous monitoring, and maintenance of backup and protective systems), the Company s information technology systems may still be vulnerable to cybersecurity threats and other electronic security breaches.",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "It is possible for such vulnerabilities to remain undetected for an extended period, up to and including several years.",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In addition, it is possible a security breach could result in theft of trade secrets or other intellectual property or disclosure of confidential customer, supplier or employee information.",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "There may be other challenges and risks as the Company upgrades its enterprise resource planning software and related systems across a majority of its businesses.",
+    "risk_type": "operational",
+    "nature": "new_risk",
+    "style": "vague"
+  },
+  {
+    "sentence": "Should the Company be unable to prevent security breaches or other damage to our information technology systems, disruptions could have an adverse effect on our operations, as well as expose the Company to litigation, liability or penalties under privacy laws, increased cybersecurity protection costs, reputational damage and product failure.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "9 Our Products and Services are Highly Sophisticated and Specialized, and a Major Product Failure or Similar Event Caused by Defects, Cybersecurity Incidents or Other Failures, Could Adversely Affect Our Business, Reputation, Financial Position and Results of Operations We produce highly sophisticated products and provide specialized services that incorporate or use complex or leading-edge technology, including both hardware and software.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Many of our products and services, including measurement and analytical instrumentation, industrial valves and equipment, and process control systems, are integrated and used in complex process, hybrid and discrete manufacturing environments.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "As a result, the impact of a catastrophic product failure or similar event could be significant.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "While we have built operational processes to ensure that our product design, manufacture, performance and servicing meet rigorous quality standards, there can be no assurance that we or our customers or other third parties will not experience operational process or product failures and other problems, including through manufacturing or design defects, process or other failures of contractors or third-party suppliers, cybersecurity incidents or other intentional acts, that could result in potential product, safety, regulatory or environmental risks.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Cybersecurity incidents aimed at the software embedded in our products could lead to third-party claims resulting from damages caused by our product failures, and this risk is enhanced by the increasingly connected nature of our products.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The potential consequences of a material cybersecurity incident include financial loss, reputational damage, litigation with third parties, diminution in the value of our investment in research, development and engineering, and increased cybersecurity protection and remediation costs due to the increasing sophistication and proliferation of threats, which in turn could adversely affect our competitiveness and results of operations.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We Are Subject to Litigation and Environmental Regulations That Could Adversely Impact Our Operating Results We are, and may in the future be, a party to a number of legal proceedings and claims, including those involving intellectual property, product liability (including asbestos) and environmental matters, several of which claim, or may in the future claim, significant damages.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  }
+]

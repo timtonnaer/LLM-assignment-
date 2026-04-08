@@ -1,0 +1,224 @@
+[
+  {
+    "sentence": "Competing demands for federal funds pressure various areas of spending, and defense investment accounts (budgets for procurement and research and development) remain under pressure.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "government defense spending, including investment accounts, or changes in spending allocation or priorities could result in one or more of our programs being reduced, delayed or terminated, which could impact our financial performance.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, changes in congressional 16 schedules due to elections or other legislative priorities, or negotiations for program funding levels can interrupt the process.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Future revenue under existing multi-year contracts is conditioned on the continuing availability of congressional appropriations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If a contract is terminated for convenience, a contractor usually is entitled to receive payments for its allowable costs incurred and the proportionate share of fees or earnings for the work performed.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The termination of multiple or large programs could have a material adverse effect on our future revenue and earnings.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "government also reviews the adequacy of, and compliance with, internal control systems and policies, including the contractor s purchasing, property, estimating, material, earned value management and accounting systems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If an audit or investigation were to result in allegations against a contractor of improper or illegal activities, civil or criminal penalties and administrative sanctions could result, including termination of contracts, forfeiture of profits, suspension of payments, fines and suspension or prohibition from doing business with the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Aerospace group s results also depend on other factors, including general economic conditions, the availability of credit, pricing pressures and trends in capital goods markets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, if customers default on existing contracts and the contracts are not replaced, the group s anticipated revenue and profitability could be reduced materially as a result.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These projections and estimates assess: the productivity and availability of labor, the complexity of the work to be performed, the cost and availability of materials and components, and schedule requirements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "17 If there is a significant change in one or more of these circumstances, estimates or assumptions, or if the risks under our contracts are not managed adequately, the profitability of contracts could be adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Misconduct by subcontractors, such as a failure to comply with procurement regulations or engaging in unauthorized activities, may harm our future revenue and earnings.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We sometimes rely on only one or two sources of supply that, if disrupted, could have an adverse effect on our ability to meet our customer commitments.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Sales and operations outside the United States are subject to different risks that may be associated with doing business in foreign countries.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "business may be sensitive to changes in a foreign government s budgets, leadership and national priorities, which may occur suddenly.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "and foreign laws and regulations, including laws and regulations relating to import-export controls, technology transfers, the Foreign Corrupt Practices Act and other anti-corruption laws, and the International Traffic in Arms Regulations (ITAR).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "or foreign laws could result in administrative, civil or criminal liabilities, including suspension or debarment from government contracts or suspension of our export privileges and could materially adversely affect revenue and earnings associated with our non-U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may also be required to agree to specific in-country purchases, manufacturing agreements or financial support arrangements, known as offsets, that require us to satisfy investment or other requirements or face penalties.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Offset requirements may extend over several years and could require us to team with local companies to fulfill these requirements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we do not satisfy these financial or offset requirements, our future revenue and earnings may be materially adversely affected.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Many of the products and services we provide involve sophisticated technologies and engineering, with related complex manufacturing and system-integration processes.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Some new products, particularly in our Aerospace group, must meet extensive and time-consuming regulatory requirements that are often outside our control.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Additionally, due to the highly specialized nature of our business, we must hire and retain the skilled and qualified personnel necessary to perform the services required by our customers.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "If we were unable to develop new products that meet customers changing needs 18 and satisfy regulatory requirements in a timely manner or successfully attract and retain qualified personnel, our future revenue and earnings may be materially adversely affected.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "When evaluating potential acquisitions and joint ventures, we make judgments regarding the value of business opportunities, technologies, and other assets and the risks and costs of potential liabilities based on information available to us at the time of the transaction.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Goodwill represents the purchase price paid in excess of the fair value of net tangible and intangible assets acquired in a business combination.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Goodwill is not amortized and remains on our balance sheet indefinitely unless there is an impairment or a sale of a portion of the business.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Future write-offs of goodwill or other intangible assets as a result of an impairment in the business could materially adversely affect our results of operations and financial condition.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We face various cyber security threats, including threats to our information technology infrastructure and attempts to gain access to our proprietary or classified information, denial-of-service attacks, as well as threats to the physical security of our facilities and employees, and threats from terrorist acts.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We also design and manage information technology systems and products that contain information technology systems for various customers.",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Accordingly, we maintain information security policies and procedures for managing all systems and conduct employee training on cyber security.",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "However, future threats could cause harm to our business and our reputation and challenge our eligibility for future work on sensitive or classified systems for government customers, as well as impact our results of operations materially.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "19 FORWARD-LOOKING STATEMENTS This Annual Report on Form 10-K contains forward-looking statements that are based on management s expectations, estimates, projections and assumptions.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Examples include projections of revenue, earnings, operating margin, segment performance, cash flows, contract awards, aircraft production, deliveries and backlog.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "These statements are not guarantees of future performance and involve risks and uncertainties that are difficult to predict.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Therefore, actual future results and trends may differ materially from what is forecast in forward-looking statements due to a variety of factors, including, without limitation, the risk factors discussed in this Form 10-K.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "vague"
+  }
+]

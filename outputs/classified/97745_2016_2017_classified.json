@@ -1,0 +1,170 @@
+[
+  {
+    "sentence": "Risk Factors (continued) As a multinational corporation, we are exposed to fluctuations in currency exchange rates, which could adversely affect our cash flows and results of operations.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In 2016 , currency translation had an unfavorable effect of 145 million on revenues due to the strengthening of the U.S.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "administration has called for substantial changes to trade agreements, such as the North American Free Trade Agreement (NAFTA), and has raised the possibility of imposing significant increases on tariffs on goods imported into the United States, particularly from China and Mexico.",
+    "risk_type": "regulatory",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The new administration has also indicated an intention to request Congress to make significant changes, replacement or elimination of the Patient Protection and Affordable Care Act, and government negotiation/regulation of drug prices paid by government programs.",
+    "risk_type": "regulatory",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "social, political, regulatory and economic conditions or laws and policies governing the health care system and drug prices, foreign trade, manufacturing, and development and investment in the territories and countries where we or our customers operate could adversely affect our operating results and our business.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Additionally, on June 23, 2016, the United Kingdom held a referendum and voted in favor of leaving the European Union, or EU.",
+    "risk_type": "macroeconomic",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "This referendum has created political and economic uncertainty, particularly in the United Kingdom and the EU, and this uncertainty may last for years.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our business could be affected during this period of uncertainty, and perhaps longer, by the impact of the United Kingdom s referendum.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "In addition, our business could be negatively affected by new trade agreements between the United Kingdom and other countries, including the United States, and by the possible imposition of trade or other regulatory barriers in the United Kingdom.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "These possible negative impacts, and others resulting from the United Kingdom s actual or threatened withdrawal from the EU, may adversely affect our operating results and our customers businesses.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our Life Technologies subsidiary is party to several lawsuits in which plaintiffs claim we infringe their intellectual property (Note 10 ).",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, parties making these claims could secure a judgment awarding substantial damages, as well as injunctive or other equitable relief, which could effectively block our ability to make, use, sell, distribute, or market our products and services in the United States or abroad.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Risk Factors (continued) However, we may be unable to obtain these licenses on commercially reasonable terms, if at all, and our challenge of the patents may be unsuccessful.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "As a result of these acquisitions, we recorded significant goodwill and indefinite-lived intangible assets (primarily tradenames) on our balance sheet, which amount to approximately 21.33 billion and 1.34 billion , respectively, as of December 31, 2016 .",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, we have definite-lived intangible assets totaling 12.63 billion as of December 31, 2016 .",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Because we compete directly with certain of our larger customers and product suppliers, our results of operations could be adversely affected in the short term if these customers or suppliers abruptly discontinue or significantly modify their relationship with us.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "In addition, we manufacture products that compete directly with products that we 17 THERMO FISHER SCIENTIFIC INC.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our future effective tax rate, however, may be lower or higher than experienced in the past due to numerous factors, including a change in the mix of our profitability from country to country, changes in accounting for income taxes and recently enacted and future changes in tax laws in jurisdictions in which we operate.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "A significant disruption in, or breach in security of, our information technology systems could adversely affect our business.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Such problems could disrupt our ability to provide quotes, take customer orders and otherwise run our business in a timely manner.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We also rely on our technology infrastructure, among other functions, to interact with suppliers, sell our products and services, fulfill orders and bill, collect and make payments, ship products, provide services and support to customers, track 18 THERMO FISHER SCIENTIFIC INC.",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Any of the cyber-attacks, breaches or other disruptions or damage described above could interrupt our operations, delay production and shipments, result in theft of our and our customers intellectual property and trade secrets, damage customer and business partner relationships and our reputation or result in defective products or services, legal claims and proceedings, liability and penalties under privacy laws and increased cost for security and remediation, each of which could adversely affect our business and financial results.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, we have availability to borrow under a revolving credit facility that provides for up to 2.50 billion of unsecured multi-currency revolving credit.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Additionally, the agreements governing our debt require that we maintain certain financial ratios, and contain affirmative and negative covenants that restrict our activities by, among other limitations, limiting our ability to incur additional indebtedness, merge or consolidate with other entities, make investments, create liens, sell assets and enter into transactions with affiliates.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The covenants in our revolving credit facility and our term facility (each, a Facility and together, the Facilities include a total debt-to-Consolidated EBITDA ratio and an interest coverage ratio.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Specifically, the company has agreed that, so long as any lender has any commitment under the revolving credit facility, any letter of credit is outstanding under the revolving credit facility, or any loan or other obligation is outstanding under the revolving credit facility, it will not permit (as the following terms are defined in the credit agreement governing the revolving credit facility) the Consolidated Leverage Ratio (the ratio of consolidated Indebtedness to Consolidated EBITDA) to be greater than 4.5 to 1.0 as of the last day of any fiscal quarter for the first two consecutive quarters following the acquisition of FEI (see Note 2 ), with such ratio stepping down to 4.0 to 1.0 for the two immediately following fiscal quarters and then stepping down to 3.5 to 1.0 for each fiscal quarter thereafter.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The company s term facility includes Consolidated Leverage Ratio covenants substantively the same as the covenant included in the revolving credit facility.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The company has also agreed that so long as any lender has any commitment under the revolving credit facility or any letter of credit is outstanding under the revolving credit facility, or any loan or other obligation is outstanding under any Facility (including the term loan and bridge facilities), it will not permit the Consolidated Interest Coverage Ratio (the ratio of Consolidated EBITDA to Consolidated Interest Expense) to be less than 3.0 to 1.0 as at the last day of any fiscal quarter.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "JupyterLab",
+      "runtimeExecutable": "venv/bin/jupyter",
+      "runtimeArgs": ["lab", "--no-browser", "--port=8888", "--NotebookApp.token=''", "--NotebookApp.password=''"],
+      "port": 8888
+    },
+    {
+      "name": "Results Dashboard",
+      "runtimeExecutable": "venv/bin/python",
+      "runtimeArgs": ["scripts/dashboard.py"],
+      "port": 8050
+    }
+  ]
+}

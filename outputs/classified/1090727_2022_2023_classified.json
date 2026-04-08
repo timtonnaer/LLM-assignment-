@@ -1,0 +1,536 @@
+[
+  {
+    "sentence": "Business and Operating Risks The consequences of the COVID-19 pandemic have had, and may continue to have, a significant impact on us, as well as on the operations of many of our customers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The consequences of the COVID-19 pandemic have had a substantial impact on business and consumer activity, including contributing to a curtailment of certain business activities (including a decrease in demand for a broad variety of goods and services), significant ongoing supply chain disruptions, economic uncertainty and volatility in global financial markets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These consequences have significantly impacted, and may continue to significantly impact us, and have had, and may continue to have, a material adverse impact on the operations, financial performance and liquidity of many of our customers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Because of ongoing uncertainty with respect to the consequences of the COVID-19 pandemic, the future impact on our operations, financial condition and liquidity also remains uncertain and difficult to predict.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "This impact will continue to depend on evolving factors, many of which are not within our control, and to which we may not be able to effectively respond.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These risks include, but are not limited to: a significant reduction in revenue due to renewed or extended curtailment of business activities; a significant increase in our expenses or a reduction in our operating margins due to long-term changes in the mix of our products and services; effects from governmental, business and individuals actions that have been and continue to be taken in response to the pandemic (including workforce pressures); reductions in operating effectiveness due to employees working remotely or in hybrid models; unavailability of personnel; the delay or cancellation of capital projects and related delays in, or loss of, expected benefits therefrom; limited access to liquidity; increased volatility and pricing in the capital markets; further disruption of global supply chains; impairments in the fair value of our assets; increases in pension funding obligations; and reductions in our customers credit-worthiness.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, we are affected by levels of industrial production, inflation, unemployment levels, consumer spending and retail activity.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have also been, and may in the future be, adversely impacted by changes in general economic conditions as a result of geopolitical uncertainty and/or conflicts in or arising from the countries and/or regions where we operate, including the United Kingdom, the European Union, the Ukraine, the Russian Federation and the Trans-Pacific region.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We also face competition from start-ups and other smaller companies that combine technologies with flexible labor solutions such as crowdsourcing to focus on local market needs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, to sustain the level of service and value that we deliver to our customers, from time to time we have raised, and may in the future raise, prices and our customers may not be willing to accept these higher prices.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Customer impact on our revenue and profitability is based on factors such as: contractual volume amounts; pricing terms; product launches; e-commerce or other industry trends, including those related to the holiday season; business combinations and the overall growth of a customer's underlying business; as well as any disruptions to their businesses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We must be able to attract, engage, develop and retain a large and diverse global workforce and maintain an environment that supports our core values.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we are unable to hire, properly train or retain qualified employees, we could experience higher labor costs, reduced revenues, further increased workers' compensation and automobile liability claims, regulatory noncompliance, customer losses and diminution of our brand value or company culture, which could materially adversely affect us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our ability to control labor costs has in the past been, and is expected to continue to be, subject to numerous factors, including turnover, training costs, regulatory changes, market pressures, inflation, unemployment levels and healthcare and other benefit costs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "employees are employed under a national master agreement and various supplemental agreements with local unions affiliated with the International Brotherhood of Teamsters (the \"Teamsters\").",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Actual or threatened strikes, work stoppages or slowdowns by our employees could adversely affect our ability to meet our customers' needs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have begun negotiating the various supplemental agreements with the Teamsters and expect that negotiations with respect to the national master agreement will commence in April 2023.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are negotiating in good faith in an effort to reach an agreement that is in the best interests of our employees, the Teamsters and UPS; however, no assurances of our ability to do so, or the timing or terms thereof, can be provided.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Customers may reduce their business or stop doing business with us if they believe that such actions or threatened actions may adversely affect our ability to provide services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Furthermore, our actions or responses to any such negotiations, labor disputes, strikes or work stoppages could negatively impact how our brand is perceived and our corporate reputation and have adverse effects on our business, including our results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As a result of concerns about global terrorism and homeland security, various governments have adopted and may continue to adopt stricter security requirements, resulting in increased operating costs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We rely on information technology (\"IT\") networks and systems, including the internet and a number of internally-developed systems and applications, as well as certain technology systems from third-party vendors, to operate our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, we rely on IT to receive package level information in advance of the physical receipt of packages, to move and track packages through our operations, to efficiently plan deliveries, to execute billing processes, and to track and report financial and operational data.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our franchise locations and subsidiaries also rely on IT systems to manage their business processes and activities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The scope of these laws is often uncertain and may be conflicting, particularly with respect to foreign laws.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, China and other countries have also enacted or proposed stringent data localization laws which could s ignificantly increase our costs, require us to make extensive system or operational changes, or adversely affect the value of our services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "IT systems (ours, as well as those of our franchisees, acquired businesses, and third-party service providers) are susceptible to damage, disruptions and shutdowns due to programming errors, defects or other vulnerabilities, power outages, hardware failures, computer viruses, cyber-attacks, ransomware or malware attacks, attacks by foreign governments and state-sponsored actors, theft, misconduct by employees or other insiders, telecommunications failures, misuse, human errors or other catastrophic events.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These events, which have become more frequent and sophisticated, could, from time to time, cause material service outages, allow inappropriate or block legitimate access to systems or information, or result in other material interruptions in our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the occurrence of any of these events could expose us, our customers, franchisees, service providers or others, to a risk of loss, disclosure or misuse of proprietary information and sensitive or confidential data, including personally identifiable information.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "11 The techniques used to obtain unauthorized access, disable or degrade service or sabotage systems change frequently.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In recent periods, the frequency and sophistication of cyber-attacks has increased, including as a result of state-sponsored cybersecurity attacks during periods of geopolitical conflict, such as the ongoing conflict in Ukraine.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Accordingly, we may be unable to anticipate these techniques or to implement adequate measures to recognize, detect or prevent the occurrence of any of the events described above.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We also may not discover the occurrence of any of the events described above for a significant period of time after the event occurs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We also depend on and interact with the IT networks and systems of third-parties for many aspects of our operations, including our customers, franchisees and service providers such as cloud service providers and third-party delivery services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These third parties are subject to risks resulting from data breaches, cyberattacks, IT systems disruptions, and other events or actions described above that could damage, disrupt or close down their networks or systems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any of these events could result in unauthorized access to, or disruptions or denials of access to, misuse or disclosure of, information or systems that are important to us, including proprietary information, sensitive or confidential data, and other information about our operations, customers, employees and suppliers, including personal information.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have invested and expect to continue to invest in IT security initiatives, IT risk management and disaster recovery plans.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The costs and operational consequences of implementing, maintaining and enhancing further data or system protection measures could increase significantly to overcome increasingly frequent, complex and sophisticated cyber threats and regulatory requirements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The occurrence of any of the events described above could result in material disruptions in our business, the loss of existing or potential customers, damage to our brand and reputation, additional regulatory scrutiny, litigation and other potential material liability.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "and foreign data protection regulations or other data protection standards may expose us to litigation, fines, sanctions or other penalties.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While we maintain cyber insurance, we cannot be certain that our coverage will be adequate for liabilities actually incurred, that insurance will continue to be available to us on economically reasonable terms, or at all, or that any insurer will not deny coverage as to any future claim.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although to date we are unaware of any material data breach or system disruption, including a cyber-attack, we cannot provide any assurances that such events and impacts will not occur and be material in the future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Also, adverse publicity or public sentiment surrounding labor relations, environmental, sustainability and governance (\"ESG\") concerns, physical or cyber security matters, political activities and similar matters, or attempts to connect our company to such issues, either in the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, damage to our reputation or loss of brand equity could require the allocation of resources to rebuild our reputation and restore the value of our brand.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "12 Global climate change presents challenges to our business which could materially adversely affect us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The effects of climate change present financial and operational risks to our business, both directly and indirectly.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have made several public statements regarding our intended reduction of carbon emissions, including our goal to achieve carbon neutrality in our global operations by 2050 and our other short- and mid-term environmental sustainability goals.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our ability to meet our goals will depend in part on significant technological advancements with respect to the development and availability of reliable, affordable and sustainable alternative solutions that are outside of our control, including aviation fuel and alternative fuel vehicles.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While we remain committed to being responsive to the effects of climate change and reducing our carbon footprint, there can be no assurances that our goals and strategic plans to achieve those goals will be successful, that the costs related to climate transition will not be higher than expected, that the necessary technological advancements will occur in the timeframe we expect, or at all, that the severity of and or the pace of negative climate-related effects will not accelerate faster than expected, or that proposed regulation or deregulation related to climate change will not have a negative competitive impact, any one of which could have a material adverse effect on our capital expenditures or other expenses, revenue or results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Furthermore, methodologies for reporting climate-related information may be updated and previously reported information may be adjusted to reflect improvement in the availability and quality of third-party data, changing assumptions, changes in the nature and scope of our operations and other changes in circumstances.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our processes and controls for reporting climate-related information across our operations are evolving along with multiple disparate standards for identifying, measuring and reporting sustainability metrics, including disclosures that may be required by the SEC, European and other regulators, and such standards may change over time, which could result in significant revisions to our current goals, reported progress in achieving such goals, or our ability to achieve such goals in the future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Changes in regulation or technology impacting our business could require us to write down the carrying value of assets, which could result in material impairment charges.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we do not meet these goals or there is perception that we failed to meet these goals, then, in addition to regulatory and legal risks related to compliance, we could incur adverse publicity and reaction, which could adversely impact our reputation, and in turn adversely impact our results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Weather conditions or other natural or man-made disasters and the increased severity or frequency thereof (including as a result of climate change), including storms, floods, fires, earthquakes, rising temperatures, epidemics, pandemics, conflicts, civil or political unrest, or terrorist attacks, have in the past and may in the future disrupt our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Customers may reduce shipments, supply chains may be disrupted, demand may be negatively impacted or our costs to operate our business may increase, any of which could have a material adverse effect on us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A potential result of climate change is more frequent or more severe weather events or natural disasters.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "To the extent such weather events or natural disasters do become more frequent or severe, disruptions to our business and costs to repair damaged facilities or maintain or resume operations could increase.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Economic, political, or social developments and other risks associated with international operations could materially adversely affect us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Emerging markets are often more volatile than those in other countries, and any broad-based downturn in these markets from any of those developments could reduce our revenues and materially adversely affect our business, financial condition and results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "13 Our inability to effectively integrate any acquired operations and realize the anticipated benefits of any acquisitions, joint ventures, strategic alliances or dispositions could materially adversely affect us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Whether we realize the anticipated benefits from these transactions depends, in part, upon successful integration between the businesses involved, the performance of the underlying operations, capabilities or technologies and the management of the acquired operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Accordingly, our financial results could be materially adversely affected by our failure to effectively integrate acquired operations, unanticipated performance or other issues or transaction-related charges.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We seek to mitigate our exposure to changing fuel prices through our pricing strategy and may utilize hedging transactions from time to time.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Moreover, we could experience a disruption in energy supplies as a result of new or increased regulation, war or other conflicts, weather-related events or natural disasters, actions by producers (including as part of their own sustainability efforts) or other factors beyond our control, which could have a material adverse effect on us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Changes in foreign currency exchange rates or interest rates may have a material adverse effect on us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, changes in interest rates impact the valuation of our pension and postretirement benefit obligations and the related costs recognized in the statements of consolidated income.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The impact of changes in interest rates on our pension and postretirement benefit obligations and costs, and on our debt, is discussed further in Part I, \"Item 7 - Critical Accounting Estimates,\" and Part II, \"Item 7A - Quantitative and Qualitative Disclosures about Market Risk,\" respectively, of this report.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We monitor and manage foreign currency exchange rate and interest rate exposures, and use derivative instruments to mitigate the impact of changes in these rates on our financial condition and results of operations; however, changes in foreign currency exchange rates and interest rates cannot always be predicted or effectively hedged, and may have a material adverse effect on us .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our business requires significant capital and other investments; if we do not accurately forecast our future investment needs, we could be materially adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Forecasting amounts, types and timing of investments involves many factors which are subject to uncertainty and may be beyond our control, such as general economic trends, revenues, profitability, changes in governmental regulation and competition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we do not accurately forecast our future capital investment needs, we could under- or over-invest, or have excess capacity or insufficient capacity, any of which would negatively affect our revenues and profitability.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "14 Employee health and retiree health and pension benefit costs represent a significant expense to us; further cost increases could materially adversely affect us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For additional information on our potential liabilities related to the CSPF, see note 5 to the audited, consolidated financial statements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have a combination of both self-insurance and high-deductible insurance programs for the risks arising out of our business and operations, including claims exposure resulting from cargo loss, personal injury, property damage, aircraft and related liabilities, business interruption and workers' compensation.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If the number or severity of claims for which we are retaining risk continues to increase, our financial condition and results of operations could be materially adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we lose our ability to, or decide not to, self-insure these risks, our insurance cost could materially increase and we may find it difficult to obtain adequate levels of insurance coverage.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Changes in markets and our business plans have resulted, and may in the future result, in substantial impairments of the carrying value of our assets, thereby reducing our net income.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We regularly assess the carrying values of our assets relative to their estimated fair values.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The determination of fair value is dependent on a significant number of estimates and assumptions that could be impacted by a variety of factors, including changes in business strategy, revenue, expenses, government regulations, including regulation related to climate change, costs of capital and economic or market conditions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The use of different estimates or assumptions could also result in different estimates of fair value.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our estimates of fair value have resulted from time to time, and may in the future result, in substantial impairments of our assets.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In addition, we have been and may be required in the future to recognize increased depreciation and amortization charges if we determine the useful lives or salvage values of our assets are less than we originally estimated.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We are subject to complex and stringent aviation, transportation, environmental, security, labor, employment, safety, privacy, disclosure and data protection and other governmental laws, regulations and policies, both in the U.S.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In addition, we are impacted by laws, regulations and policies that affect global trade, including tariff and trade policies, export requirements, embargoes, sanctions, taxes, monetary policies and other restrictions and charges.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "For example, in 2016, the International Civil Aviation Organization (\"ICAO\") adopted the Carbon Offsetting and Reduction Scheme for International Aviation (\"CORSIA\"), which is a global, market-based emissions offset program to encourage carbon-neutral growth.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, the impact that the re-entry into the Paris climate accord may have on future U.S.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "or abroad, especially aircraft or diesel engine emissions, could, among other things, increase the cost of fuel and other energy we purchase and the capital costs associated with updating or replacing our aircraft or vehicles prematurely.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We cannot predict the impact any future regulation will have on our cost structure or our operating results.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "16 We may be subject to various claims and lawsuits that could result in significant expenditures which may materially adversely affect us.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  }
+]

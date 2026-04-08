@@ -1,0 +1,578 @@
+[
+  {
+    "sentence": "The risks and uncertainties are detailed from time to time in reports filed by NIKE with the SEC, including reports filed on Forms 8-K, 10-Q and 10-K, and include, among others, the following: international, national and local general economic and market conditions; the size and growth of the overall athletic footwear, apparel and equipment markets; intense competition among designers, marketers, distributors and sellers of athletic footwear, apparel and equipment for consumers and endorsers; demographic changes; changes in consumer preferences; popularity of particular designs, categories of products and sports; seasonal and geographic demand for NIKE products; difficulties in anticipating or forecasting changes in consumer preferences, consumer demand for NIKE products and the various market factors described above; difficulties in implementing, operating and maintaining NIKE s increasingly complex information technology systems and controls, including, without limitation, the systems related to demand and supply planning and inventory control; interruptions in data and information technology systems; consumer data security; fluctuations and difficulty in forecasting operating results, including, without limitation, the fact that advance orders may not be indicative of future revenues due to changes in shipment timing, the changing mix of orders with shorter lead times, and discounts, order cancellations and returns; the ability of NIKE to sustain, manage or forecast its growth and inventories; the size, timing and mix of purchases of NIKE s products; increases in the cost of materials, labor and energy used to manufacture products; new product development and introduction; the ability to secure and protect trademarks, patents and other intellectual property; product performance and quality; customer service; adverse publicity, including without limitation, through social media or in connection with brand damaging events; the loss of significant customers or suppliers; dependence on distributors and licensees; business disruptions; increased costs of freight and transportation to meet delivery deadlines; increases in borrowing costs due to any decline in NIKE s debt ratings; changes in business strategy or development plans; general risks associated with doing business outside of the United States, including, without limitation, exchange rate fluctuations, inflation, import duties, tariffs, quotas, political and economic instability and terrorism; the impact of recent U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "tax reform legislation on our results of operations; the potential impact of new laws, regulations or policy, including, without limitation, tariffs, import/export, trade and immigration regulations or policies; changes in government regulations; the impact of, including business and legal developments relating to, climate change and natural disasters; litigation, regulatory proceedings and other claims asserted against NIKE; the ability to attract and retain qualified employees, and any negative public perception with respect to key personnel; the effects of NIKE s decision to invest in or divest of businesses and other factors referenced or incorporated by reference in this report and other reports.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our NIKE Direct operations, both through our digital commerce operations and retail stores, also compete with multi-brand retailers selling our products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the competitive nature of retail including shifts in the ways in which consumers are shopping, and the rising trend of digital commerce, constitutes a risk factor implicating our NIKE Direct and wholesale operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "6 Table of Contents Our brand value also depends on our ability to maintain a positive consumer perception of our corporate integrity and brand culture.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Negative claims or publicity involving us, our products or any of our key employees, endorsers, sponsors or suppliers could seriously damage our reputation and brand image, regardless of whether such claims are accurate.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Social media, which accelerates and potentially amplifies the scope of negative publicity, can increase the challenges of responding to negative claims.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Adverse publicity about regulatory or legal action against us, or by us, could also damage our reputation and brand image, undermine consumer confidence in us and reduce long-term demand for our products, even if the regulatory or legal action is unfounded or not material to our operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If the reputation or image of any of our brands is tarnished or if we receive negative publicity, then our product sales, financial condition and results of operations could be materially and adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we are unable to anticipate consumer preferences and develop new products, we may not be able to maintain or increase our revenues and profits.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we fail to anticipate accurately and respond to trends and shifts in consumer preferences by adjusting the mix of existing product offerings, developing new products, designs, styles and categories, and influencing sports and fitness preferences through extensive marketing, we could experience lower sales, excess inventories or lower profit margins, any of which could have an adverse effect on our results of operations and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "General economic factors beyond our control, and changes in the global economic environment, including fluctuations in inflation and currency exchange rates, could result in lower revenues, higher costs and decreased margins and earnings.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A majority of our products are manufactured and sold outside of the United States, and we conduct purchase and sale transactions in various currencies, which increases our exposure to the volatility of global economic conditions, including fluctuations in inflation and foreign currency exchange rates.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, there has been, and may continue to be, volatility in currency exchange rates as a result of the United Kingdom s impending exit from the European Union, commonly referred to as Brexit and new or proposed U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "7 Table of Contents Global economic conditions could have a material adverse effect on our business, operating results and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Continued volatility in the markets and exchange rates for foreign currencies and contracts in foreign currencies, including in response to certain policies advocated or implemented by the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "However, the mix of product sales may vary considerably from time to time as a result of changes in seasonal and geographic demand for particular types of footwear, apparel and equipment and in connection with the timing of significant sporting events, such as the NBA Finals, Olympics or the World Cup, among others.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Failure to accurately forecast consumer demand could lead to excess inventories or inventory shortages, which could result in decreased operating margins, reduced cash flows and harm to our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "To meet anticipated demand for our products, we purchase products from manufacturers outside of our futures ordering program and in advance of customer orders, which we hold in inventory and resell to customers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "8 Table of Contents Consolidation of retailers or concentration of retail market share among a few retailers may increase and concentrate our credit risk and impair our ability to sell products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our NIKE Direct operations have required and will continue to require a substantial investment and commitment of resources and are subject to numerous risks and uncertainties.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our NIKE Direct stores have required substantial fixed investment in equipment and leasehold improvements, information systems and personnel.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Due to the high fixed-cost structure associated with our NIKE Direct operations, a decline in sales, a shift in consumer behavior away from brick-and-mortar retail, or the closure or poor performance of individual or multiple stores could result in significant lease termination costs, write-offs of equipment and leasehold improvements and employee-related costs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Increasingly, customers are using mobile-based devices and applications to shop online with us and with our competitors, and to do comparison shopping.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Risks specific to our digital commerce business also include diversion of sales from our and our retailers brick and mortar stores, difficulty in recreating the in-store experience through direct channels and liability for online content.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We periodically discover counterfeit reproductions of our products or products that otherwise infringe our intellectual property rights.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we are unsuccessful in enforcing our intellectual property rights, continued sales of these products could adversely affect our sales and our brand and could result in a shift of consumer preference away from our products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may be subject to liability if third parties successfully claim we infringe on their intellectual property rights.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These actions include contractual measures such as entering into non-disclosure and non-compete agreements and agreements relating to our collaborations with third parties and providing confidential information awareness training.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, confidential information related to business strategy, new technologies, mergers and acquisitions, unpublished financial results or personal data could be prematurely or inadvertently used and/or disclosed, resulting in a loss of reputation, a decline in our stock price and/or a negative impact on our market position, and could lead to damages, fines, penalties or injunctions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the laws of certain countries may not protect or allow enforcement of intellectual property rights to the same extent as the laws of the United States.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are subject to the risk our licensees may not generate expected sales or maintain the value of our brands.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "9 Table of Contents We also rely on our licensees to help preserve the value of our brands.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The misuse of a brand by or negative publicity involving a licensee could have a material adverse effect on that brand and on us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any breach of our or our service providers network, or other vendor systems, may result in the loss of confidential business and financial data, misappropriation of our consumers , users or employees personal information or a disruption of our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any of these outcomes could have a material adverse effect on our business, including unwanted media attention, impairment of our consumer and customer relationships, damage to our reputation; resulting in lost sales and consumers, fines, lawsuits, or significant legal and remediation expenses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, we must comply with increasingly complex and rigorous regulatory standards enacted to protect business and personal data in the U.S., Europe and elsewhere.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, the European Union adopted the General Data Protection Regulation (the GDPR ), which became effective on May 25, 2018.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The GDPR imposes additional obligations on companies regarding the handling of personal data and provides certain individual privacy rights to persons whose data is stored.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Compliance with existing, proposed and recently enacted laws (including implementation of the privacy and process enhancements called for under GDPR) and regulations can be costly; any failure to comply with these regulatory standards could subject us to legal and reputational risks.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Negative publicity regarding production methods, alleged practices or workplace or related conditions of any of our suppliers, manufacturers or licensees could adversely affect our brand image and sales and force us to locate alternative suppliers, manufacturers or licenses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "This includes, for example, the uncertainty surrounding the effect of Brexit, including changes to the legal and regulatory framework that apply to the United Kingdom and its relationship with the European Union, as well as new and proposed changes affecting tax laws and trade policy in the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "and elsewhere as further described below under We could be subject to changes in tax rates, adoption of new tax laws, additional tax liabilities or increased volatility in our effective tax rate and Changes to U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "trade policy, tariff and import/export regulations may have a material adverse effect on our business, financial condition and results of operations .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "corporations from outsourcing manufacturing and production activities to foreign jurisdictions, including through tariffs or penalties on goods manufactured outside the U.S., which may require us to change the way we conduct business and adversely affect our results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We could be subject to changes in tax rates, adoption of new tax laws, additional tax liabilities or increased volatility in our effective tax rate.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Current economic and political conditions make tax laws and regulations, or their interpretation and application, in any jurisdiction subject to significant change.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "enacted the Tax Cuts and Jobs Act (the Tax Act ), which includes a number of significant changes to previous U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "tax laws that impact us, including provisions for a one-time transition tax on deemed repatriation of undistributed foreign earnings, and a reduction in the corporate tax rate from 35 to 21 for tax years beginning after December 31, 2017, among other changes.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "international taxation from a worldwide system to a modified territorial system and includes base erosion prevention measures on non-U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "earnings, which has the effect of subjecting certain earnings of our foreign subsidiaries to U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "10 Table of Contents Implementation of the Tax Act required us to record incremental provisional tax expense in fiscal 2018, which increased our effective tax rate in fiscal 2018.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Adjustments to the incremental provisional tax expense may be made in future periods as actual amounts may differ due to, among other factors, a change in interpretation of the applicable revisions to the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "tax code and related tax accounting guidance, changes in assumptions made in developing these estimates, regulatory guidance that may be issued with respect to the applicable revisions to the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As we complete our analysis of the Tax Act, we may make adjustments to provisional amounts we have recorded, which could negatively impact our business, results of operations or financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Changes or challenges to or the repeal of the Tax Act cannot be predicted with certainty and could have a material impact on our future tax expense.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There have been proposals to reform foreign tax laws that could significantly impact how U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although we believe our tax provisions are adequate, the final determination of tax audits and any related disputes could be materially different from our historical income tax provisions and accruals, particularly in light of the enactment of the Tax Act.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "trade policy, tariff and import/export regulations may have a material adverse effect on our business, financial condition and results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "or international social, political, regulatory and economic conditions or in laws and policies governing foreign trade, manufacturing, development and investment in the territories or countries where we currently sell our products or conduct our business, as well as any negative sentiment toward the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "presidential administration has instituted or proposed changes in trade policies that include the negotiation or termination of trade agreements, the imposition of higher tariffs on imports into the U.S., economic sanctions on individuals, corporations or countries, and other government regulations affecting trade between the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "It may be time-consuming and expensive for us to alter our business operations in order to adapt to or comply with any such changes.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "trade policy could trigger retaliatory actions by affected countries, and certain foreign governments have instituted or are considering imposing trade sanctions on certain U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company, similar to many other multinational corporations, does a significant amount of business that would be impacted by changes to the trade policies of the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "and foreign countries (including governmental action related to tariffs, international trade agreements, or economic sanctions).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "economy or certain sectors thereof, our industry and the global demand for our products, and as a result, could have a material adverse effect on our business, financial condition and results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If one of our counterparties were to become insolvent or file for bankruptcy, our ability to recover losses incurred as a result of default, or our assets deposited or held in accounts with such counterparty, may be limited by the counterparty s liquidity or the applicable laws governing the insolvency or bankruptcy proceedings.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We do not own or operate any of the footwear manufacturing facilities and depend upon independent contract manufacturers to manufacture all of the footwear products we sell.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In fiscal 2018 , five footwear contract manufacturers each accounted for greater than 10 of fiscal 2018 footwear production and in aggregate accounted for approximately 69 of NIKE Brand footwear production in fiscal 2018 .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our ability to meet our customers needs depends on our ability to maintain a steady supply of products from our independent contract manufacturers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If one or more of our significant suppliers were to sever their relationship with us or significantly alter the terms of our relationship, including due to changes in applicable trade policies, we may not be able to obtain replacement products in a timely manner, which could have a material adverse effect on our sales, financial condition or results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "11 Table of Contents Our products are subject to risks associated with overseas sourcing, manufacturing and financing.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There could be a significant disruption in the supply of fabrics or raw materials from current sources or, in the event of a disruption, our contract manufacturers might not be able to locate alternative suppliers of materials of comparable quality at an acceptable price or at all.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we experience significant increases in demand, or reductions in the availability of materials, or need to replace an existing manufacturer, there can be no assurance additional supplies of fabrics or raw materials or additional manufacturing capacity will be available when required on terms acceptable to us, or at all, or that any supplier or manufacturer would allocate sufficient capacity to us in order to meet our requirements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "trade policies, including new and potential changes to import tariffs and existing trade policies and agreements, could also have a significant impact on our activities in foreign jurisdictions, and could adversely affect our results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "During fiscal 2018, Sojitz America provided financing and purchasing services for NIKE Brand products sold in certain NIKE markets including Argentina, Brazil, Canada, India, South Africa and Uruguay (collectively the Sojitz Markets ), excluding products produced and sold in the same country.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We maintain business interruption insurance, but it may not adequately protect us from adverse effects caused by significant disruptions in our distribution facilities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The failure of these systems to operate effectively, including as a result of security breaches, viruses, hackers, malware, natural disasters, vendor business interruptions or other causes, or failure to properly maintain, protect, repair or upgrade systems, or problems with transitioning to upgraded or replacement systems could cause delays in product fulfillment and reduced efficiency of our operations, could require significant capital investments to remediate the problem, and may have an adverse effect on our reputation, results of operations and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Furthermore, we depend on Information Technology Systems and personal data collection for digital marketing, digital commerce, consumer engagement and the marketing and use of our digital products and services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, the economic environment may make it difficult to determine the fair market rent of real estate properties domestically and internationally.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We believe cost-effective investments are essential to business growth and profitability; however, significant investments are subject to typical risks and uncertainties inherent in developing a new business or expanding an existing business.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "As a multinational corporation with operations and distribution channels throughout the world, we are subject to extensive laws and regulations in the U.S.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We are involved in various types of claims, lawsuits, regulatory proceedings and government investigations relating to our business, our products and the actions of our employees and representatives, including contractual and employment relationships, product liability, antitrust, trademark rights and a variety of other matters.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The global nature of our business means legal and compliance risks will continue to exist and additional legal proceedings and other contingencies will arise from time to time, which could adversely affect us.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In addition, the adoption of new laws or regulations, or changes in the interpretation of existing laws or regulations, may result in significant unanticipated legal and reputational risks.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Any current or future legal or regulatory proceedings could divert management s attention from our operations and result in substantial legal fees.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our success depends in part on the continued service of high-quality employees, including key executive officers and personnel.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "The loss of the services of key individuals, or any negative perception with respect to these individuals, could harm our business.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our success also depends on our ability to recruit, retain and engage our personnel sufficiently, both to maintain our current business and to execute our strategic initiatives.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "immigration policy could negatively impact our ability to attract, hire and retain highly skilled employees who are from outside the U.S.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "As of June 30, 2018, Swoosh, LLC beneficially owned more than 77 of our Class A Common Stock.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "If, on June 30, 2018, all of these shares were converted into Class B Common Stock, the commensurate ownership percentage of our Class B Common Stock would be approximately 17 .",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "13 Table of Contents If our internal controls are ineffective, our operating results could be adversely affected.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We base our estimates on historical experience and on various other assumptions we believe to be reasonable under the circumstances, as provided in Management s Discussion and Analysis of Financial Condition and Results of Operations.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "There are provisions within our articles of incorporation and Oregon law intended to protect shareholder interests by providing the Board of Directors a means to attempt to deny coercive takeover attempts or to negotiate with a potential acquirer in order to obtain more favorable terms.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Any litigation could result in reputational damage, substantial costs and a diversion of management s attention and resources needed to successfully run our business.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  }
+]

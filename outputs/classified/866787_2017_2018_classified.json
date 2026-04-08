@@ -1,0 +1,182 @@
+[
+  {
+    "sentence": "The risks and uncertainties described below could materially and adversely affect our business, financial condition, operating results and stock price.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The following information should be read in conjunction with the other information contained in this report and other filings that we make with the SEC.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In periods of declining economic conditions, consumers may reduce their discretionary spending by deferring vehicle maintenance or repair.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Milder weather conditions may lower the failure rates of automotive parts, while extended periods of rain and winter precipitation may cause our customers to defer maintenance and repair on their vehicles.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Advances in automotive technology, such as electric vehicles, and parts design can result in cars needing maintenance less frequently and parts lasting longer.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "restrictions on access to telematics and diagnostic tools and repair information imposed by the original vehicle manufacturers or by governmental regulation.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These restrictions may cause vehicle owners to rely on dealers to perform maintenance and repairs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "All of these factors could result in a decline in the demand for our products, which could adversely affect our business and overall financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "13 Table of Contents Our competitors include national, regional and local auto parts chains, independently owned parts stores, online automotive parts stores or marketplaces, wholesale distributors, jobbers, repair shops, car washes and auto dealers, in addition to discount and mass merchandise stores, hardware stores, supermarkets, drugstores, convenience stores, home stores, and other retailers that sell aftermarket vehicle parts and supplies, chemicals, accessories, tools and maintenance parts.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have increased our store count in the past five fiscal years, growing from 5,201 locations at August 31, 2013, to 6,202 locations at August 25, 2018, an average store increase per year of 4 .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, we have increased annual revenues in the past five fiscal years from 9.148 billion in fiscal 2013 to 11.221 billion in fiscal 2018, an average increase per year of 5 .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Annual revenue growth is driven by the opening of new stores, the development of new commercial programs and increases in same store sales.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We open new stores only after evaluating customer buying trends and market demand/needs, all of which could be adversely affected by persistent unemployment, wage cuts, small business failures and microeconomic conditions unique to the automotive industry.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Same store sales are impacted both by customer demand levels and by the prices we are able to charge for our products, which can also be negatively impacted by the economic pressures.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We cannot provide any assurance that we will continue to open stores at historical rates or continue to achieve increases in same store sales.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "14 Table of Contents These consolidated competitors could take sales volume away from us in certain markets, could achieve greater market penetration, could cause us to change our pricing with a negative impact on our margins or could cause us to spend more money to maintain customers or seek new customers, all of which could negatively impact our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Job growth in the United States was stagnated and unemployment was at historically high levels during the Great Recession; however, in recent years, the unemployment rate has improved to below pre-recession levels.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We believe that much of our brand value lies in the quality of the approximately 90,000 AutoZoners employed in our stores, distribution centers, store support centers and ALLDATA.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our workforce costs represent our largest operating expense, and our business is subject to employment laws and regulations, including requirements 15 Table of Contents related to minimum wage and benefits.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we experience transitions or changeover with any of our significant vendors, or if they experience financial difficulties or otherwise are unable to deliver merchandise to us on a timely basis, or at all, we could have product shortages in our stores that could adversely affect customers perceptions of us and cause us to lose customers and sales.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We directly imported approximately 13 of our purchases in fiscal 2018, but many of our domestic vendors directly import their products or components of their products.",
+    "risk_type": "supply_chain",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Disruptions in the price or flow of these goods for any reason, such as political unrest or acts of war, currency fluctuations, disruptions in maritime lanes, port labor disputes and economic conditions and instability in the countries in which foreign suppliers are located, the financial instability of suppliers, suppliers failure to meet our standards, issues with labor practices of our suppliers or labor problems they may experience (such as strikes, stoppages or slowdowns, which could also increase labor costs during and following the disruption), the availability and cost of raw materials to suppliers, increased import duties or tariffs, merchandise quality or safety issues, transport availability and cost, increases in wage rates and taxes, transport security, inflation and other factors relating to the suppliers and the countries in which they are located or from which they import, are beyond our control and could adversely affect our operations and profitability.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our ability to grow depends in part on new location openings, existing location remodels and expansions and effective utilization of our existing supply chain and hub network.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Accomplishing our new and existing location expansion goals will depend upon a number of factors, including the ability to 16 Table of Contents partner with developers and landlords to obtain suitable sites for new and expanded locations at acceptable costs, the hiring and training of qualified personnel and the integration of new locations into existing operations.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Risks inherent in international operations also include potential adverse tax consequences, potential changes to trade policies and trade agreements, compliance with the Foreign Corrupt Practices Act and local anti-bribery and anti-corruption laws, greater difficulty in enforcing intellectual property rights, challenges to identify and gain access to local suppliers, and possibly misjudging the response of consumers in foreign countries to our product assortment and marketing strategy.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "17 Table of Contents In addition, our operations in international markets are conducted primarily in the local currency of those countries.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We accept payments using a variety of methods, including cash, checks, credit, debit, electronic payments and gift cards, and we may offer new payment options over time, which may have information security risk implications.",
+    "risk_type": "cyber",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "To the extent that any cyber-attack or intrusion in our or one of our third-party service provider s information systems results in the loss, damage or misappropriation of information, we may be materially adversely affected by claims from customers, financial institutions, regulatory authorities, payment card networks and others.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "If our systems are damaged or fail to function properly, we may incur substantial costs to repair or replace them, and may experience loss of critical data and interruptions or delays in our ability to manage inventories or process transactions, which could result in lost sales, inability to process purchase orders and/or a potential loss of customer loyalty, which could adversely affect our results of operations.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "18 Table of Contents Business interruptions may negatively impact our location hours, operability of our computer and other systems, availability of merchandise and otherwise have a material negative effect on our sales and our business.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  }
+]

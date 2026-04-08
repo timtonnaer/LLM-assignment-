@@ -1,0 +1,74 @@
+[
+  {
+    "sentence": "government can shut down or operate under a continuing resolution that maintains spending at prior-year levels, which can impact funding for 17 our programs and timing of new awards.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "If a contract is terminated for default, the government in most cases pays only for the work it has accepted.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The business-jet market is driven by the demand for business-aviation products and services by corporate, individual and government customers in the United States and around the world.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our ability to perform our obligations may be materially adversely affected if one or more of these suppliers is unable to provide the agreed-upon materials, perform the agreed-upon services in a timely and cost-effective manner, or engages in misconduct or other improper activities.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Sales and operations outside the United States are subject to different risks that may be associated with doing business in foreign countries.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "When evaluating potential acquisitions and joint ventures, 19 we make judgments regarding the value of business opportunities, technologies, and other assets and the risks and costs of potential liabilities based on information available to us at the time of the transaction.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Goodwill is subject to an impairment test on an annual basis and when circumstances indicate that an impairment is more likely than not.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We face various cyber security threats, including threats to our information technology (IT) infrastructure and attempts to gain access to our proprietary or classified information, denial-of-service attacks, as well as threats to the physical security of our facilities and employees, and threats from terrorist acts.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We also design and manage IT systems and products that contain IT systems for various customers.",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We have experienced cyber security threats such as viruses and attacks targeting our IT systems.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "However, future threats could, among other things, cause harm to our business and our reputation; disrupt our operations; expose us to potential liability, regulatory actions and loss of business; challenge our eligibility for future work on sensitive or classified systems for government customers; and impact our results of operations materially.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "FORWARD-LOOKING STATEMENTS This Annual Report on Form 10-K contains forward-looking statements that are based on management s expectations, estimates, projections and assumptions.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "vague"
+  }
+]

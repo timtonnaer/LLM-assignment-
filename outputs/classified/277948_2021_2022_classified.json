@@ -1,0 +1,176 @@
+[
+  {
+    "sentence": "CSX 2021 Form 10-K p.7 CSX CORPORATION PART I The Company may be subject to various claims and lawsuits that could result in significant expenditures.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As COVID-19 and its variant strains have spread globally, including significant impacts in the United States, CSX continues to take a variety of measures to ensure the availability of its transportation services, promote the safety and security of its employees and support the communities in which it operates.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, COVID-19 and the related initiatives to reduce transmission have resulted in greater supply chain disruption, which could continue to impact volumes and make it more difficult for the Company to serve its customers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The extent to which COVID-19 continues to impact operations will depend on future developments, which are highly uncertain and cannot be predicted with confidence, including the duration of the outbreak, its effects on demand for the Company s transportation services and the supply chain, as well as the effect of governmental regulations imposed in response to the pandemic.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The duration of the pandemic is dependent on several factors, including the impacts of virus variants and case resurgences across the country.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Moreover, operations are negatively affected when a significant number of employees are quarantined as the result of exposure to a contagious illness.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "To the extent COVID-19 adversely affects the Company's business and financial results, it may also have the effect of heightening many of the other risks described herein.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The security, stability and availability of the Company s and its key third-party vendors technology systems are critical to its ability to operate safely and effectively and to compete within the transportation industry.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A successful data breach, cyber-attack, or the occurrence of any similar incident that impacts the Company s or its key third-party vendors information technology systems could result in a service interruption, train accident, misappropriation of confidential or proprietary information (including personal information), process failure, or other operational difficulties.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A disruption or compromise of the Company s information technology systems, even for short periods of time, and any resulting theft or compromise of Company confidential or proprietary information (including personal information), could adversely affect the Company s business or reputation, create significant legal, regulatory or financial exposure and have a material adverse impact on CSX s business, financial condition or operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "CSX 2021 Form 10-K p.8 CSX CORPORATION PART I The Company, its third-party vendors and other companies in the rail and transportation industries have been subject to, and are likely to continue to be the target of, data breaches, cyber-attacks and other similar incidents.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These incidents may include, among other things, malware, ransomware, distributed denial of service attacks, social engineering, phishing, theft, malfeasance or improper access by employees or third-party vendors, human error, fraud, or other modes of attack or disruption.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, the Company may be at increased risk of a cyber-attack as a result of being a component of the critical U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As cybersecurity threats continue to evolve, the Company may be required to expend significant additional resources to continue to modify or enhance its protective measures or to investigate and remediate any information security vulnerabilities, data breaches, cyber-attacks or other similar incidents.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The ongoing COVID-19 pandemic also increases the risk that the Company or its third-party vendors may experience cybersecurity incidents as a result of employees, third-party vendors and other third parties with which they interact working remotely on less secure systems and environments.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Despite the Company s efforts to protect its information technology systems, it may not be able to prevent or anticipate all data breaches, cyber-attacks or other similar incidents, detect or react to such incidents in a timely manner or adequately remediate any such incident.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While CSX s security protocols have detected attempts to gain unauthorized access to the Company s information technology systems, none of such attempts have resulted in any material breach of or disruption to the Company s systems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, CSX has experienced distributed denial of service attacks that have resulted in brief system disruptions, but none have resulted in access to CSX systems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, despite routine security assessment of the Company s key third-party vendors, some vendors have experienced cyber-attacks in the past, but none of such attacks have had a material adverse impact on CSX s business or operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Due to applicable laws and regulations or contractual obligations, CSX may be held responsible for data breaches, cyber-attacks or other similar incidents attributed to its third-party vendors as they relate to the information CSX shares with them.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Network or supply chain constraints could have a negative impact on service, operating efficiency or volume of shipments.",
+    "risk_type": "supply_chain",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "CSXT could experience rail network difficulties related to: (i) unpredictable increases in demand; (ii) locomotive or crew shortages; (iii) labor shortages or other service disruptions in the supply chain affecting trucking, ports, handling facilities, customer facilities or other railroads; (iv) reductions in availability of pooled equipment, including chassis; (v) extreme weather conditions; (vi) impacts from changes in yard capacity, or network structure or composition, including train routes; (vii) increased passenger activities; or (viii) regulatory changes resulting in forced access or impacting where and how fast CSXT can transport freight or maintain routes, which could impact CSXT's operational fluidity, leading to deterioration of service, asset utilization and overall efficiency.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "CSX 2021 Form 10-K p.9 CSX CORPORATION PART I Furthermore, in response to the heightened risk of terrorism, federal, state and local governmental bodies are proposing and, in some cases, have adopted legislation and regulations relating to security issues that impact the transportation industry.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "and global energy markets have resulted in lower energy production from coal-fired power plants in CSX's service territory.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Changes in natural gas prices, or other factors impacting demand for electricity, could impact future power generation at coal-fired plants, which would affect the Company's domestic coal volumes and revenues.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Availability of Critical Supplies and Labor The unavailability of critical resources could adversely affect the Company s operational efficiency and ability to meet demand.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Although the Company strives to maintain adequate resources and personnel for the current business environment, unpredictable increases in demand for rail services or extreme weather conditions may exacerbate such risks, which could have a negative impact on the Company s operational efficiency and otherwise have a material adverse effect on the Company s financial condition, results of operations, or liquidity in a particular period.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Disruption to a key railroad industry supplier could negatively affect operating efficiency and increase costs.",
+    "risk_type": "supply_chain",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "CSX 2021 Form 10-K p.11 CSX CORPORATION PART I Climate Change and Environmental The Company s operations and financial results could be negatively impacted by climate change and regulatory and legislative responses to climate change.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  }
+]

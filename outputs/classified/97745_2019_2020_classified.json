@@ -1,0 +1,290 @@
+[
+  {
+    "sentence": "To address this issue, we are pursuing a number of strategies to improve our internal growth, including: strengthening our presence in selected geographic markets; allocating research and development funding to products with higher growth prospects; developing new applications for our technologies; expanding our service offerings; 14 THERMO FISHER SCIENTIFIC INC.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Risk Factors (continued) continuing key customer initiatives; combining sales and marketing operations in appropriate markets to compete more effectively; finding new markets for our products; and continuing the development of commercial tools and infrastructure to increase and support cross-selling opportunities of products and services to take advantage of our depth in product offerings.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our growth could suffer if the markets into which we sell our products and services decline, do not grow as anticipated or experience cyclicality.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Any decline or lower than expected growth in our served markets could diminish demand for our products and services, which would adversely affect our financial statements.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "As a multinational corporation, our businesses occasionally invoice third-party customers in currencies other than the one in which they primarily do business (the functional currency ).",
+    "risk_type": "financing",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In 2019, currency translation had an unfavorable effect of 440 million on revenues due to the strengthening of the U.S.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "goods; the impact of public health epidemics on the global economy, such as the coronavirus currently impacting China; negative consequences from changes in tax laws; difficulty in staffing and managing widespread operations; differing labor regulations; differing protection of intellectual property; unexpected changes in regulatory requirements; and geopolitical uncertainty or turmoil, including terrorism and war.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "For example, on January 31, 2020, the United Kingdom formally withdrew from the European Union, or EU and entered a transition period during which it will negotiate a trade deal with the EU.",
+    "risk_type": "regulatory",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "This withdrawal has created political and economic uncertainty, particularly in the United Kingdom and the EU, and this uncertainty may last for years.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our business could be affected during this period of uncertainty, and perhaps longer, by the impact of the United Kingdom s withdrawal from the EU.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "These possible negative impacts, and others resulting from the United Kingdom s withdrawal from the EU, may adversely affect our operating results and our customers businesses.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "For example, we manufacture pharmaceuticals and many of our instruments are marketed to the 16 THERMO FISHER SCIENTIFIC INC.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "As a result of these acquisitions, we recorded significant goodwill and indefinite-lived intangible assets (primarily tradenames) on our balance sheet, which amount to approximately 25.71 billion and 1.25 billion, respectively, as of December 31, 2019.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, we have definite-lived intangible assets totaling 12.76 billion as of December 31, 2019.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We assess the realizability of definite-lived intangible assets whenever events or changes in circumstances indicate that these assets may be impaired.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Risk Factors (continued) If we are not able to realize the value of the goodwill and intangible assets, we may be required to incur material charges relating to the impairment of those assets.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We are the sole manufacturer of a number of pharmaceuticals for many of our customers and a negative regulatory event could impact our customers' ability to provide products to their customers.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We are also subject to a variety of federal, state, local and international laws and regulations that govern, among other things, the handling, transportation and manufacture of substances that could be classified as hazardous, and we are required to 18 THERMO FISHER SCIENTIFIC INC.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Risk Factors (continued) comply with various import laws and export control and economic sanctions laws, which may affect our transactions with certain customers.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In certain circumstances, export control and economic sanctions regulations may prohibit the export of certain products, services and technologies.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In other circumstances, we may be required to obtain an export license before exporting the controlled item.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Compliance with the various import laws that apply to our businesses can restrict our access to, and increase the cost of obtaining, certain products and at times can interrupt our supply of imported inventory.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our reputation, ability to do business and financial statements may be impaired by improper conduct by any of our employees, agents or business partners.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "We have internal controls and compliance systems to protect the company against acts committed by employees, agents or businesses that we acquire that would violate U.S.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "laws, including the laws governing payments to government officials, bribery, fraud, kickbacks and false claims, pricing, sales and marketing practices, conflicts of interest, competition, employment practices and workplace behavior, export and import compliance, money laundering and data privacy, but we cannot provide assurance that these controls and systems will prevent every such wrongful act.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Bribery Act and similar anti-bribery laws in other jurisdictions generally prohibit companies and their intermediaries from making improper payments to government officials for the purpose of obtaining or retaining business, and we operate in many parts of the world that have experienced governmental corruption to some degree.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Any such improper actions or allegations of such acts could damage our reputation and subject us to civil or criminal investigations in the United States and in other jurisdictions and related shareholder lawsuits, could lead to substantial civil and criminal, monetary and nonmonetary penalties and could cause us to incur significant legal and investigatory fees.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, the government may seek to hold us liable for violations committed by companies which we acquire.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We also rely on our suppliers to adhere to our supplier standards of conduct, and material violations of such standards of conduct could occur that could have a material effect on our business, reputation and financial statements.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Natural disasters, public health crises, political crises, and other catastrophic events or other events outside of our control may disrupt our facilities or the facilities of third parties on which we depend, and could impact customer spending.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "An earthquake or other natural disaster such as a fire or hurricane or power shortages or outages could disrupt our operations or impair our critical systems.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Any of these disruptions or other events outside of our control, such as strikes or other labor unrest, could have an adverse effect on our results of operations.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In addition, if any of our facilities, including our manufacturing or warehouse facilities, or the facilities of our suppliers, third-party service providers, or customers, is affected by natural disasters, such as earthquakes, tsunamis, power shortages or outages, floods or monsoons, public health crises, such as pandemics and epidemics, political crises, such as terrorism, war, political instability or other conflict, or other events outside of our control, such as strikes or other labor unrest, our results of operations could be adversely affected.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Moreover, these types of events could negatively impact customer spending in the impacted regions or depending upon the severity, globally, which could also adversely impact our operating results.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "For example, in December 2019, a strain of coronavirus surfaced in Wuhan, China which could have a material adverse effect on our business and results of operations.",
+    "risk_type": "macroeconomic",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The effects could include restrictions on our ability to travel to support our sites in China or our customers located there, disruptions in our ability to distribute products, and/or temporary closures of our facilities in China or the facilities of our suppliers or customers.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Related disruption, inside or outside of China, to our operations or the operations of our suppliers or customers would likely impact our sales and operating results.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "At this point, the extent to which the coronavirus may impact our results of operations is uncertain.",
+    "risk_type": "macroeconomic",
+    "nature": "new_risk",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our reliance upon sole or limited sources of supply for certain materials or components could cause production interruptions, delays and inefficiencies.",
+    "risk_type": "supply_chain",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Some of our businesses purchase certain materials from sole or limited source suppliers for reasons of quality assurance, regulatory requirements, cost effectiveness, availability or uniqueness of design.",
+    "risk_type": "supply_chain",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Risk Factors (continued) these or other suppliers encounter financial, operating or other difficulties or if our relationship with them changes, we might not be able to quickly establish or qualify replacement sources of supply.",
+    "risk_type": "supply_chain",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "The supply chains for our businesses could also be disrupted by supplier capacity constraints, bankruptcy or exiting of the business for other reasons, decreased availability of key raw materials or commodities and external events such as natural disasters, pandemic health issues, war, terrorist actions, governmental actions and legislative or regulatory changes.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Any of these factors could result in production interruptions, delays, extended lead times and inefficiencies.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "If we are unable to maintain reliable information technology systems and appropriate controls with respect to global data privacy and security requirements and prevent data breaches, we may suffer regulatory consequences in addition to business consequences.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "European laws require us to have an approved legal mechanism to transfer personal data out of Europe, and the EU General Data Protection Regulation imposes significantly stricter requirements in how we collect and process personal data.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Risk Factors (continued) Additionally, the agreements governing our debt require that we maintain certain financial ratios, and contain affirmative and negative covenants that restrict our activities by, among other limitations, limiting our ability to incur additional indebtedness, merge or consolidate with other entities, make investments, create liens, sell assets and enter into transactions with affiliates.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Specifically, the company has agreed that, so long as any lender has any commitment under the Facility, any letter of credit is outstanding under the Facility, or any loan or other obligation is outstanding under the Facility, it will maintain a maximum Consolidated Leverage Ratio of 3.5:1.0.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The company has also agreed that so long as any lender has any commitment under the Facility or any letter of credit is outstanding under the Facility, or any loan or other obligation is outstanding under the Facility, it will maintain a minimum Consolidated Interest Coverage Ratio of 3.0:1.0 as of the last day of any fiscal quarter.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  }
+]

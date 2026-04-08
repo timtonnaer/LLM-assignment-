@@ -1,0 +1,230 @@
+[
+  {
+    "sentence": "The banking regulators could also limit our ability to grow, including adding assets, launching new products, making acquisitions, and undertaking strategic investments.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Other potential regulatory actions include limiting our banking subsidiaries ability to accept deposits swept from client brokerage accounts and brokered deposits and preventing us from pursuing our business strategy.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the rules and regulations could result in limitations on the lines of business we conduct, modifications to our business practices, more stringent capital and liquidity requirements, increased deposit insurance assessments or additional costs and could limit our ability to return capital to stockholders.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, failure by CSC or our banking subsidiaries to maintain a sufficient amount of capital to satisfy their capital conservation buffer and countercyclical capital buffer requirements would result in restrictions on our ability to make capital distributions and discretionary cash bonus payments to executive officers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any requirement that we increase our regulatory capital, replace certain capital instruments which presently qualify as Tier 1 Capital, or increase regulatory capital ratios or liquidity, could require us to liquidate assets, deleverage or otherwise change our business and/or investment plans, which may adversely affect our financial results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are currently subject to a supplementary leverage ratio and related disclosure requirements, the inclusion of AOCI in regulatory capital, and the countercyclical capital buffer, and will become subject to the full LCR in the second quarter of 2019.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although we believe we are positioned to benefit from a rising interest rate environment, a rise in interest rates may cause our funding costs to increase if market conditions or the competitive environment induces us to raise our interest rates to avoid losing deposits, or replace deposits with higher cost funding sources without offsetting increases in yields on interest-earning assets can reduce our net interest revenue.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The expected phase-out of LIBOR could negatively impact our net interest revenue and require significant operational work.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Certain securities in our investment portfolio and the floating rate loans we offer reference LIBOR as the benchmark rate to determine the applicable interest rate or payment amount.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We also use LIBOR in many of our financial models, such as those used for capital stress testing, and to determine the dividend rates for certain of our series of preferred stock which begin to float in 2022 and later.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If LIBOR is discontinued after 2021 as expected, there will be uncertainty or differences in the calculation of the applicable interest rate or payment amount depending on the terms of the governing instruments and - 10 - THE CHARLES SCHWAB CORPORATION there will be significant work required to transition to using the new benchmark rates and implement necessary changes to our systems and financial models.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "This could result in different financial performance for previously booked transactions and may impact our existing transaction data, products, systems, operations, and pricing processes.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The calculation of interest rates under the replacement benchmarks could also impact our net interest revenue.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, LIBOR may perform differently during the phase-out period than in the past which could result in lower interest payments and a reduction in the value of certain securities in our investment portfolio.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our bank deposits are primarily driven by our bank sweep feature when cash awaiting investment in our client brokerage accounts is swept to our banking subsidiaries.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "System interruptions, - 11 - THE CHARLES SCHWAB CORPORATION errors or downtime can result from a variety of causes, including changes in client use patterns, technological failure, changes to our systems, linkages with third-party systems and power failures and can have a significant impact on our business and operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, Schwab and other financial institutions have been the target of various denial of service attacks that have, in certain circumstances, made websites, mobile applications and email unavailable for periods of time.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our investment management operations may subject us to fiduciary or other legal liability for client losses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Fund and trust management and administration are complex activities and include functions such as recordkeeping and accounting, security pricing, corporate actions, compliance with investment restrictions, daily net asset value computations, account reconciliations, and required distributions to fund shareholders.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Failure to properly perform operational tasks, or the misrepresentation of our services and products could subject us to regulatory sanctions, penalties or litigation and result in reputational damage, liability to clients, and the termination of investment management or administration agreements and the withdrawal of assets under our management.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In the management and administration of funds and client accounts, we use quantitative models and other tools and resources to support investment decisions and processes, including those related to risk assessment, portfolio management, trading and hedging activities and product valuations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Errors in the design, function, or underlying assumptions used in these models and tools, particularly if we fail to detect the errors over an extended period, could subject us to claims of a breach of fiduciary duty and potentially large liabilities for make-whole payments, litigation, and/or regulatory fines.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A significant decrease in our liquidity could negatively affect our business as well as reduce client confidence in Schwab.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Maintaining adequate liquidity is crucial to our business operations, including transaction settlement, custody requirements, and lending commitments, among other liquidity needs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We meet our liquidity needs primarily from working capital and cash generated by client activity, as well as external financing.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Fluctuations in client cash or deposit balances, as well as market conditions or changes in regulatory treatment of client deposits, may affect our ability to meet our liquidity needs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A reduction in our liquidity position could reduce client confidence in Schwab, which could result in the transfer of client assets and accounts, or could cause us to fail to satisfy our liquidity requirements, including the LCR.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, if our broker-dealer or depository institution subsidiaries fail to meet regulatory capital guidelines, regulators could limit the subsidiaries operations or their ability to upstream funds to CSC, which could reduce CSC s liquidity and adversely affect its ability to repay debt, pay dividends on CSC s preferred stock, or return capital to common stockholders.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Factors which may adversely affect our liquidity position include CS Co having temporary liquidity demands due to timing differences between brokerage transaction settlements and the availability of segregated cash balances, fluctuations in cash - 12 - THE CHARLES SCHWAB CORPORATION held in banking or brokerage client accounts, a dramatic increase in our lending activities (including margin, mortgage-related, and personal lending), increased capital requirements, changes in regulatory guidance or interpretations, other regulatory changes, or a loss of market or client confidence in Schwab resulting in unanticipated withdrawals of client funds.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "When available cash is not sufficient for our liquidity needs, we may seek external financing.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our exposure mainly results from margin lending, clients options and futures trading, securities lending, mortgage lending, pledged asset lending, our role as a counterparty in financial contracts and investing activities, and indirectly from the investing activities of certain of the proprietary funds we sponsor.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "When clients purchase securities on margin, borrow on lines of credit collateralized by securities, or trade options or futures, we are subject to the risk that clients may default on their obligations when the value of the securities and cash in their accounts falls below the amount of clients indebtedness.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Such support could cause us to take significant charges, could reduce our liquidity and, in certain situations, could, with respect to proprietary funds other than money market mutual funds, result in us having to consolidate one or more - 13 - THE CHARLES SCHWAB CORPORATION funds in our financial statements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we choose not to provide credit, liquidity or other support in such a situation, Schwab could suffer reputational damage and its business could be adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In market downturns and periods of heightened volatility, the volume of legal claims and amount of damages sought in litigation and regulatory proceedings against financial services companies have historically increased.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "- 14 - THE CHARLES SCHWAB CORPORATION Our industry is characterized by aggressive price competition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Increased price competition from other financial services firms to attract clients, such as reduced commissions, higher deposit rates, or reduced mutual fund or ETF expense ratios, could impact our results of operations and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Changes in the stock market generally, or as it concerns our industry, as well as geopolitical, corporate, regulatory, business, and economic factors may also affect our stock price.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  }
+]

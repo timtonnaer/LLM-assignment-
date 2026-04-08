@@ -1,0 +1,728 @@
+[
+  {
+    "sentence": "Our disclosure and analysis in this 2017 Form 10-K and in our 2017 Annual Report to Shareholders contain forward-looking statements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have tried, wherever possible, to identify such statements by using words such as will, may, could, likely, ongoing, anticipate, estimate, expect, project, intend, plan, believe, assume, target, forecast, guidance, goal, objective, aim and other words and terms of similar meaning or by using future dates in connection with any discussion of, among other things, our anticipated operating and financial performance, business plans and prospects, in-line products and product candidates, including anticipated regulatory submissions, data read-outs, approvals, performance, timing of exclusivity and potential benefits of Pfizer s products and product candidates, strategic reviews, capital allocation, business-development plans, manufacturing and product supply and plans relating to share repurchases and dividends.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In particular, these include statements relating to future actions, business plans and prospects, our acquisitions and other business development activities, the disposition of the HIS net assets, prospective products or product approvals, future performance or results of current and anticipated products, sales efforts, expenses, interest rates, foreign exchange rates, the outcome of contingencies, such as legal proceedings, plans relating to share repurchases and dividends, government regulation and financial results, including, in particular, the availability of raw materials for 2018 set forth in Item 1.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Business Raw Materials in this 2017 Form 10-K; the expected impact of the recent hurricanes in Puerto Rico set forth in the Overview of Our Performance, Operating Environment, Strategy and Outlook Our Business Impact of Recent Hurricanes in Puerto Rico section in our 2017 Financial Report; the anticipated progress in remediation efforts at certain of our Hospira manufacturing facilities set forth in the Overview of Our Performance, Operating Environment, Strategy and Outlook Our Business Product Manufacturing section in our 2017 Financial Report; the anticipated timeframe for any decision regarding strategic alternatives for Pfizer Consumer Healthcare set forth in the Overview of Our Performance, Operating Environment, Strategy and Outlook Our Strategy Our Business Development Initiatives section in our 2017 Financial Report; our anticipated liquidity position set forth in the Overview of Our Performance, Operating Environment, Strategy and Outlook The Global Economic Environment and the Analysis of Financial Condition, Liquidity and Capital Resources sections in the 2017 Financial Report; the financial impact of the recently passed Tax Cuts and Jobs Act set forth in the Overview of Our Performance, Operating Environment, Strategy and Outlook The Global Economic Environment, Significant Accounting Policies and Application of Critical Accounting Estimates and Assumptions Income Tax Assets and Liabilities, Provision/(Benefit) for Taxes on Income Changes in Tax Laws and Analysis of Financial Condition, Liquidity and Capital Resources Selected Measures of Liquidity and Capital Resources Contractual Obligations sections in our 2017 Financial Report and in Notes to Consolidated Financial Statements Note 1.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "following the expected positive net impact of the Tax Cuts and Jobs Act set forth in the Overview of Our Performance, Operating Environment, Strategy and Outlook Our Strategy Capital Allocation and Expense Management section in our 2017 Financial Report; the financial guidance set forth in the Overview of Our Performance, Operating Environment, Strategy and Outlook Our Financial Guidance for 2018 section in our 2017 Financial Report; the anticipated costs and cost savings, including from our acquisition of Hospira and our cost-reduction/productivity initiatives, set forth in the Costs and Expenses Restructuring Charges and Other Costs Associated with Acquisitions and Cost-Reduction/Productivity Initiatives section in our 2017 Financial Report and in the Notes to Consolidated Financial Statements Note 3.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Restructuring Charges and Other Costs Associated with Acquisitions and Cost-Reduction/Productivity Initiatives; the expected plan for repatriating the majority of our cash held internationally in 2018 set forth in the Analysis of Financial Condition, Liquidity and Capital Resources Selected Measures of Liquidity and Capital Resources Domestic and International Short-Term Funds section in our 2017 Financial Report; the benefits expected from our business development transactions; the planned capital spending set forth in the Analysis of Financial Condition, Liquidity and Capital Resources Selected Measures of Liquidity and Capital Resources Contractual Obligations section in our 2017 Financial Report; and the contributions that we expect to make from our general assets to the Company s pension and postretirement plans during 2018 set forth in the Analysis of Financial Condition, Liquidity and Capital Resources Selected Measures of Liquidity and Capital Resources Contractual Obligations section and in the Notes to Consolidated Financial Statements Note 11.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "2017 Form 10-K 10 TABLE OF CONTENTS for investors as permitted by the Private Securities Litigation Reform Act of 1995.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "They are also trying newer programs like copay accumulators to shift more of the cost burden to manufacturers and patients.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "MCOs also use additional measures such as new-to-market blocks, exclusion lists, indication-based pricing, and value-based pricing/contracting to improve their cost containment efforts.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "payer market concentrates further and as more drugs become available in generic form, biopharmaceutical companies may face greater pricing pressure from private third-party payers, who will continue to drive more of their patients to use lower cost generic alternatives.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our licensing and collaboration partners also face challenges by generic drug manufacturers to patents covering products for which we have licenses or co-promotion rights.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We also produce generic and biosimilar pharmaceutical products that compete with products from competitors, including other generic and biosimilar manufacturers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The ability to launch a generic or biosimilar pharmaceutical product at or before the anticipated formation of the generic or biosimilar marketplace is important to that product s profitability.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Prices for products typically decline, sometimes dramatically, following generic or biosimilar entry, and as additional companies receive approvals to market that product, competition intensifies.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Also, we may face access challenges for our biosimilar products where our product may not receive access at parity to the innovator product and remains in a disadvantaged position.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "District Court for the Eastern District of Pennsylvania against Johnson Johnson (J J) alleging that J J s exclusionary contracts and other anticompetitive practices concerning Remicade (infliximab) violate federal antitrust laws.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "2017 Form 10-K 11 TABLE OF CONTENTS DEPENDENCE ON KEY IN-LINE PRODUCTS We recorded direct product and/or alliance revenues of more than 1 billion for each of nine biopharmaceutical products in 2017: Prevnar 13/Prevenar 13 , Lyrica , Ibrance , Eliquis , Enbrel , Lipitor , Xeljanz , Viagra and Sutent .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If these products or any of our other major products were to become subject to problems such as loss of patent protection (if applicable), changes in prescription growth rates, material product liability litigation, unexpected side effects, regulatory proceedings, publicity affecting doctor or patient confidence, pressure from existing competitive products, changes in labeling, access pressures or, if a new, more effective treatment should be introduced, the adverse impact on our revenues could be significant.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For additional information, see the Overview of Our Performance, Operating Environment, Strategy and Outlook Our Operating Environment Industry-Specific Challenges Intellectual Property Rights and Collaboration/Licensing Rights Recent Losses and Expected Losses of Product Exclusivity section in our 2017 Financial Report.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For additional information on recent losses of collaborations rights, see the Overview of Our Performance, Operating Environment, Strategy and Outlook Our Operating Environment Industry-Specific Challenges Intellectual Property Rights and Collaboration/Licensing Rights Recent Losses of Collaboration Rights section in our 2017 Financial Report.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "RESEARCH AND DEVELOPMENT INVESTMENT The discovery and development of safe, effective new products, as well as the development of additional uses for existing products, are necessary for the continued strength of our businesses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, Enbrel faces ongoing biosimilar competition in most developed Europe markets, which is expected to continue.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The expiration or successful challenge of applicable patent rights could trigger this competition, assuming any relevant regulatory exclusivity period has expired.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There is also a risk of lower prescriptions for biosimilars due to potential concerns over comparability with innovator medicines.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "2017 Form 10-K 12 TABLE OF CONTENTS RESEARCH STUDIES Decisions about research studies made early in the development process of a drug or vaccine candidate can have a substantial impact on the marketing strategy and payer reimbursement possibilities if it receives regulatory approval.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Even though we constantly monitor the evolving emerging markets for any unanticipated risk to Pfizer, certain financial or political events in such markets, as discussed above, can adversely affect our results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The impact of payers efforts to control access to and pricing of specialty pharmaceuticals is increasing.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For Pfizer to date, a number of factors create a more challenging paradigm given our growing specialty business portfolio.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These include formulary restrictions and dispensation barriers, such as step edits, leading to higher negotiated rebates or discounts to health plans and PBMs in the U.S., as well as the increasing use of health technology assessments in markets around the world.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "See The Global Economic Environment and Strategic Alternatives for Pfizer Consumer Healthcare risk factors below.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "PRODUCT MANUFACTURING, SALES AND MARKETING RISKS Difficulties or delays in product manufacturing, sales or marketing could affect future results through regulatory actions, shut-downs, approval delays, withdrawals, recalls, penalties, supply disruptions or shortages, reputational harm, product liability, unanticipated costs or otherwise.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Examples of such difficulties or delays include, but are not limited to, the inability to increase production capacity commensurate with demand; the failure to predict market demand for, or to gain market acceptance of, approved products; the possibility that the supply of incoming materials may be delayed or become unavailable and that the quality of incoming materials may be substandard and not detected; the possibility that we may fail to maintain appropriate quality standards throughout the internal and external supply network and/or comply with cGMPs and other applicable regulations such as serialization (which allows for track and trace of products in the supply chain to enhance patient safety); risks to supply chain continuity and commercial operations as a result of natural (including hurricanes, earthquakes and floods) or man-made disasters at our facilities or at a supplier or vendor, including those that may be related to climate change; or failure to maintain the integrity of our supply chains against intentional and criminal acts such as economic adulteration, product diversion, product theft, counterfeit goods and cyberattacks.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Regulatory agencies periodically inspect our drug manufacturing facilities to evaluate compliance with applicable cGMP requirements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Failure to comply with these requirements may subject us to possible legal or regulatory actions, such as warning letters, suspension of manufacturing, seizure of product, injunctions, debarment or voluntary recall of a product, any of Pfizer Inc.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "2017 Form 10-K 13 TABLE OF CONTENTS which could have a material adverse effect on our business, financial condition and results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In February 2017, we received a warning letter from the FDA communicating the FDA s view that certain violations of cGMP regulations exist at Hospira s manufacturing facility in McPherson, Kansas.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In January 2018, the FDA upgraded the status of Pfizer s McPherson, Kansas manufacturing facility to Voluntary Action Indicated (VAI) based on an October 2017 inspection.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The change to VAI status will lift the compliance hold that the FDA placed on approval of pending applications, and is an important step toward resolving the issues cited in the February 2017 FDA warning letter.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, in September 2017, Meridian, a subsidiary of Pfizer Inc., received a warning letter from the FDA asserting the FDA s view that certain violations of cGMP and Quality System Regulations exist at Meridian s manufacturing sites in St.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are undertaking corrective actions to address the concerns raised by the FDA, and communication with the FDA is ongoing.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Until the corrective actions are implemented and approved by the FDA, the FDA may refuse to grant premarket approval of applications and/or the FDA may refuse to grant export certificates related to products manufactured at our St.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, in 2017, we placed the majority of our clinical trial execution services with four Clinical Research Organizations (CROs).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "COLLABORATIONS AND OTHER RELATIONSHIPS WITH THIRD PARTIES We depend on third-party collaborators, service providers, and others in the research, development and commercialization of our products and product candidates and also enter into joint ventures and other business development transactions in connection with our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We rely heavily on these parties for multiple aspects of our drug development, manufacturing and commercialization activities, but we do not control many aspects of those activities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Failure by one or more of these third parties to meet their contractual or other obligations to Pfizer; failure of one or more of these parties to comply with applicable laws or regulations; or any disruption in the relationships between Pfizer and one or more of these third parties, could delay or prevent the development, approval or commercialization of our products and product candidates and could also result in non-compliance or reputational harm, all with potential negative implications for our product pipeline and business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "BIOPHARMACEUTICAL WHOLESALERS In 2017 , our largest biopharmaceutical wholesaler accounted for approximately 16 of our total revenues (and approximately 33 of our total U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "revenues), and our top three biopharmaceutical wholesalers accounted for approximately 38 of our total revenues (and approximately 79 of our total U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, we expect that consolidation and integration of pharmacy chains and wholesalers will increase competitive and pricing pressures on pharmaceutical manufacturers, including us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "BUSINESS DEVELOPMENT ACTIVITIES We expect to continue to enhance our in-line products and product pipeline through collaborations, alliances, license and funding agreements, joint ventures, equity- or debt-based investments, mergers and acquisitions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Legal proceedings or regulatory issues often arise as a result of activities that occurred at acquired companies, their partners and other third parties.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In 2016, for example, we paid 784.6 million to resolve allegations related to Wyeth s reporting of prices to the government with respect to Protonix for activities that occurred prior to our Pfizer Inc.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The prevalence of counterfeit medicines is a significant and growing industry-wide issue due to a variety of factors, including, but not limited to, the following: the widespread use of the Internet, which has greatly facilitated the ease by which counterfeit medicines can be advertised, purchased and delivered to individual patients; the availability of sophisticated technology that makes it easier for counterfeiters to make counterfeit medicines; the growing involvement in the medicine supply chain of under-regulated wholesalers and repackagers; the lack of adequate inspection at certain international postal facilities as counterfeit medicines are increasingly delivered direct to customers in small parcel packages; and the relatively modest risk of penalties faced by counterfeiters compared to the large profits that can be earned by them from the sale of counterfeit medicines.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "No assurance can be given, however, that our efforts and the efforts of others will be entirely successful, and the presence of counterfeit medicines may continue to increase.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Efforts by government officials or legislators to implement measures to regulate prices or payments for pharmaceutical products, including legislation on drug importation, could adversely affect our business if implemented.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In certain international markets, such as Europe, Japan, China, Canada and South Korea, governments have significant power as large single payers to regulate prices, access criteria (e.g., through public or private health technology assessments), or other means of cost control, particularly under recent global financing pressures.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The adoption of restrictive price controls in new jurisdictions or more restrictive ones in existing jurisdictions, failure to obtain or maintain timely or adequate pricing or formulary placement for our products or obtaining such pricing or placement at unfavorable pricing could also adversely impact revenue.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, the ACA was enacted by Congress in March 2010 and established a major expansion of healthcare coverage, financed in part by a number of new rebates, discounts, and taxes that had a significant effect on our expenses and profitability.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We face uncertainties due to federal legislative and administrative efforts to repeal, substantially modify or invalidate some or all of the provisions of the ACA.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The likelihood of such a repeal currently appears low given the recent failure of the Senate s multiple attempts to repeal various combinations of such ACA provisions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In October 2017, the President signed an Executive Order directing federal agencies to look for ways to authorize more health plans that could be less expensive because the plans would not have to meet all of the ACA s coverage requirements, and announced that his administration will withhold the cost-sharing subsidies paid to health insurance exchange plans serving low-income enrollees.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These and similar actions by the administration are widely expected to lead to fewer Americans having comprehensive ACA-compliant health insurance, even in the absence of a legislative repeal.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The revenues generated for Pfizer by the health insurance exchanges under the ACA are minor, so the impact of the recent administration actions is expected to be limited.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There is no assurance that any future replacement, modification or repeal of the ACA will not adversely affect our business and financial results, particularly if the legislation reduces incentives for employer-sponsored insurance coverage, and we cannot predict how future federal or state legislative or administrative changes relating to healthcare reform will affect our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "ENTITLEMENT REFORM In the U.S., government action to reduce federal spending on entitlement programs including Medicare and Medicaid may affect payment for our products or services provided using our products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Congressional Budget Office routinely releases options for reducing federal spending, and the December 2016 release includes proposals to cap Medicaid grants to the states, and to require manufacturers to pay a minimum rebate on drugs covered under part D of Medicare for low-income beneficiaries.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Significant Medicare reductions could also result if Congress proceeds with certain proposals to convert the Medicare fee-for-service program into a premium support program, or Congress chooses to implement the recommendations made annually by the Medicare Payment Advisory Commission, which are primarily intended to extend the fiscal solvency of the Medicare program.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These and any other significant spending reductions or cost controls affecting Medicare, Medicaid or other publicly funded or subsidized health programs that may be implemented could have an adverse impact on our results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "DEVELOPMENT, REGULATORY APPROVAL AND MARKETING OF PRODUCTS Innovation is critical to the success of our company, and drug discovery and development is time-consuming, expensive and unpredictable.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "2017 Form 10-K 16 TABLE OF CONTENTS the comments received by us from regulatory authorities such as the FDA and the EMA with respect to certain of our drug applications to the satisfaction of those authorities, that any of our pipeline products will receive regulatory approval and, if approved, be commercially successful or that recently approved products will be approved in other markets and/or be commercially successful.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, there are risks associated with preliminary, early stage or interim data, including the risk that final results of studies for which preliminary, early stage or interim data have been provided and/or additional clinical trials may be different from (including less favorable than) the preliminary, early stage or interim data results and may not support further clinical development of the applicable product candidate or indication.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, clinical trial data are subject to differing interpretations, and, even when we view data as sufficient to support the safety and/or effectiveness of a product candidate or a new indication for an in-line product, regulatory authorities may not share our views and may require additional data or may deny approval altogether.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, claims and concerns that may arise regarding the safety and efficacy of in-line products and product candidates can result in a negative impact on product sales, product recalls or withdrawals, and/or consumer fraud, product liability and other litigation and claims.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The FDA, along with other regulatory agencies around the world, has been experiencing a backlog of generic drug applications, which may result in delayed approvals of new generic products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While the FDA is taking steps to address the backlog of pending applications, continued approval delays may be experienced by generic drug applicants over the next few years.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Accordingly, new data about our products, or products similar to our products, could negatively impact demand for our products due to real or perceived side effects or uncertainty regarding efficacy and, in some cases, could result in updated labeling, restrictions on use, product withdrawal or recall.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "INTERACTIONS WITH HEALTHCARE PROFESSIONALS AND GOVERNMENT OFFICIALS Risks and uncertainties apply if we provide something of value to a healthcare professional, other healthcare provider and/or government official.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "and certain jurisdictions abroad that require pharmaceutical manufacturers to track and disclose financial interactions with healthcare professionals and healthcare providers increase government and public scrutiny of such financial interactions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "CHANGES IN LAWS AND ACCOUNTING STANDARDS Our future results could be adversely affected by changes in interpretations of existing laws and regulations, or changes in laws and regulations, including, among others, changes in accounting standards, taxation requirements (including tax rate changes, new tax laws, changes to existing tax laws and revised tax law and regulatory clarifications and/or interpretations, including changes affecting the taxation by the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "that may result from pending and possible future proposals, including further clarifications and/or interpretations of the recently passed Tax Cuts and Jobs Act), competition laws, privacy laws and environmental laws in the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For additional information, see the Provision/(Benefit) for Taxes on Income Changes in Tax Laws and New Accounting Standards sections, and Notes to Consolidated Financial Pfizer Inc.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Basis of Presentation and Significant Accounting Policies: Adoption of New Accounting Standards in 2017 in our 2017 Financial Report.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "LEGAL PROCEEDINGS We and certain of our subsidiaries are involved in various legal proceedings, including patent, product liability and other product-related litigation, including personal injury, consumer, off-label promotion, securities, antitrust and breach of contract claims, commercial, environmental, government investigations, employment, tax litigation and other legal proceedings that arise from time to time in the ordinary course of our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Criminal charges, substantial fines and/or civil penalties, limitations on our ability to conduct business in applicable jurisdictions, as well as reputational harm and increased public interest in the matter could result from government investigations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our activities relating to the sale and marketing and the pricing of our products are subject to extensive regulation under the FFDCA, the Medicaid Drug Rebate Program, the FCPA and other federal and state statutes, including those discussed elsewhere in this 2017 Form 10-K, as well as anti-kickback and false claims laws, and similar laws in international jurisdictions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "RISKS RELATED TO INTELLECTUAL PROPERTY : PATENT PROTECTION Our long-term success largely depends on our ability to market technologically competitive products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "2017 Form 10-K 18 TABLE OF CONTENTS Our ability to enforce our patents also depends on the laws of individual countries and each country s practice with respect to enforcement of intellectual property rights, and the extent to which certain sovereigns may seek to engage in a policy of routine compulsory licensing of pharmaceutical intellectual property as a result of local political pressure or in the case of national emergencies.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Most of the suits involve claims by generic drug manufacturers that patents covering our products, processes or dosage forms are invalid and/or do not cover the product of the generic drug manufacturer.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Independent actions have been filed alleging that our assertions of, or attempts to enforce, patent rights with respect to certain products constitute unfair competition and/or violations of antitrust laws.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Such claims may also be brought as counterclaims to actions we bring to enforce our patents.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We also are often involved in other proceedings, such as inter partes review, post-grant review, re-examination or opposition proceedings, before the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Patent and Trademark Office, the European Patent Office, or other foreign counterparts relating to our intellectual property or the intellectual property rights of others.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Also, if one of our patents is found to be invalid by such proceedings, generic or competitive products could be introduced into the market resulting in the erosion of sales of our existing products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, several of the patents in our pneumococcal vaccine portfolio have been challenged in inter partes review and post-grant review proceedings in the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The invalidation of these patents could potentially allow a competitor pneumococcal vaccine into the marketplace.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Once we have final regulatory approval of the related generic pharmaceuticals products or biosimilars, we may decide to commercially market these products even though associated legal proceedings (including any appeals) have not been resolved (i.e., at-risk launch).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If one of our marketed products is found to infringe valid patent rights of a third party, such third party may be awarded significant damages, or we may be prevented from further sales of that product.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Such damages may be enhanced as much as three-fold in the event that we or one of our subsidiaries, like Hospira, is found to have willfully infringed valid patent rights of a third party.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "2017 Form 10-K 19 TABLE OF CONTENTS RISK RELATED TO TECHNOLOGY : INFORMATION TECHNOLOGY AND SECURITY Significant disruptions of information technology systems or breaches of information security could adversely affect our businesses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Unsuccessful clinical trials, regulatory hurdles and commercialization challenges may adversely impact revenue and income contribution from products and product candidates, including those acquired in these acquisitions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Hospira, for example, has experienced manufacturing disruptions and substantial regulatory scrutiny due to quality issues, including receiving a warning letter from the FDA in February 2017 communicating the FDA s view that certain violations of cGMP regulations exist at Hospira s manufacturing facility in McPherson, Kansas.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For additional information, see the Overview of Our Performance, Operating Environment, Strategy and Outlook Our Business Product Manufacturing section in our 2017 Financial Report.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Also, the success of our acquisition of Medivation depends on our ability to grow revenues for Xtandi and expand Xtandi into the non-metastatic castration-resistant prostate cancer setting.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "STRATEGIC ALTERNATIVES FOR PFIZER CONSUMER HEALTHCARE In October 2017, we announced plans to review a range of strategic alternatives for our Consumer Healthcare business, including a full or partial separation of the Consumer Healthcare business from Pfizer through a spin-off, sale or other transaction, as well as the possibility that we may ultimately determine to retain the business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We expect that a decision regarding strategic alternatives for the Consumer Healthcare business would be made in 2018.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We will incur expenses in connection with the review of strategic alternatives and are likely to incur significant expenses if we determine to move forward with any strategic alternatives.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our future results may be affected by the impact of our review and, if applicable, consummation of strategic alternatives for our Consumer Healthcare business, which are subject to certain risks and uncertainties, including, among other things, the ability to realize the anticipated benefits of any strategic alternatives we may pursue, the potential for disruption to our business and diversion of management s attention from other aspects of our business, the possibility that such strategic alternatives will not be completed on terms that are advantageous to Pfizer and the possibility that we may be unable to realize a higher value for our Consumer Healthcare through strategic alternatives.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "2017 Form 10-K 20 TABLE OF CONTENTS OTHER RISKS: THE GLOBAL ECONOMIC ENVIRONMENT Like all businesses, we are exposed to both global and industry-specific economic conditions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Governments, corporations and insurance companies, which provide insurance benefits to patients, have implemented increases in cost-sharing and restrictions on access to medicines, potentially causing patients to switch to generic or biosimilar products, delay treatments, skip doses or use less effective treatments.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "continues to maintain competitive insurance markets, but has also seen significant increases in patient cost-sharing and growing government influence as government programs continue to grow as a source of coverage.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Details on how Brexit will be executed and the impact on the remaining EU countries will dictate how and whether the broader EU will be impacted and what the resulting impact on our business may be.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "FOREIGN EXCHANGE AND INTEREST RATE RISK Significant portions of our revenues, costs and expenses, as well as our substantial international net assets, are exposed to changes in foreign exchange rates.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "50 of our total 2017 revenues were derived from international operations, including 21 from Europe and 20 from Japan and the rest of Asia.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Therefore, significant changes in foreign exchange rates can impact our results and our financial guidance.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For additional information about our exposure to foreign currency risk, see the Overview of Our Performance, Operating Environment, Strategy and Outlook Our Financial Guidance for 2018 and Analysis of Financial Condition, Liquidity and Capital Resources sections in our 2017 Financial Report.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These risks and the measures we have taken to help contain them are discussed in the Forward-Looking Information and Factors That May Affect Future Results Financial Risk Management section in our 2017 Financial Report.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Pension and Postretirement Benefit Plans and Defined Contribution Plans in our 2017 Financial Report and the Pfizer Inc.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "2017 Form 10-K 21 TABLE OF CONTENTS Significant Accounting Policies and Application of Critical Accounting Estimates and Assumptions Benefit Plans section in our 2017 Financial Report.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "COST AND EXPENSE CONTROL/UNUSUAL EVENTS/FAILURE TO REALIZE THE ANTICIPATED BENEFITS OF STRATEGIC INITIATIVES AND ACQUISITIONS Growth in costs and expenses, changes in product, segment and geographic mix and the impact of acquisitions, divestitures, restructurings, internal reorganizations, product withdrawals, recalls and other unusual events that could result from evolving business strategies, evaluation of asset realization and organizational restructuring could adversely affect future results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Such risks and uncertainties include, in particular, our ability to realize the projected benefits of (i) our cost-reduction and productivity initiatives; (ii) our internal separation of our commercial operations into our current operating structure; (iii) any other corporate strategic initiatives, such as our evaluation of strategic alternatives for our Consumer Healthcare business; and (iv) any acquisitions, divestitures or other initiatives, such as our acquisitions of Hospira, Anacor, Medivation and AstraZeneca s small molecule anti-infectives business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "INTANGIBLE ASSETS, GOODWILL AND EQUITY-METHOD INVESTMENTS Our consolidated balance sheet contains significant amounts of intangible assets, including goodwill.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For additional details, see the Significant Accounting Policies and Application of Critical Accounting Estimates and Assumptions section in our 2017 Financial Report.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "vague"
+  }
+]

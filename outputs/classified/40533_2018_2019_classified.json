@@ -1,0 +1,146 @@
+[
+  {
+    "sentence": "defense and business-aviation operations and the markets they serve, each segment shares some common risks, such as the ongoing development of high-technology products and the price, availability and quality of commodities and subsystems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Budget Control Act of 2011 (BCA) establishes caps for defense spending over a 10-year period through 2021, including a sequester mechanism that would impose additional defense cuts.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In February 2018, the Congress approved increases to the BCA spending caps through fiscal year (FY) 2019.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "However, the BCA s spending limits for FY 2020 and FY 2021 have not been increased or otherwise modified.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The President s defense budget estimates for FY 2020 and beyond exceed the spending limits established by the BCA.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As a result, continued budget uncertainty and the risk of future sequestration cuts remain unless the BCA is repealed or significantly modified.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While it is impossible to predict the exact impact on our programs or financial outlook in light of the inherent uncertainty attendant to the sequestration process, the magnitude of potential funding reductions 19 imposed by the sequester mechanism as written, could in the aggregate have material adverse operational and financial consequences, depending on how the cuts are allocated across the budget.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Early each calendar year, the President of the United States presents to the Congress the budget for the upcoming fiscal year.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For the remainder of the year, the appropriations and authorization committees of the Congress review the President s budget proposals and establish the funding levels for the upcoming fiscal year.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "government can shut down or operate under a continuing resolution that maintains spending at prior-year levels, which can impact funding for our programs and timing of new awards.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Second, the Congress typically appropriates funds on a fiscal-year basis, even though contract performance may extend over many years.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The business-jet market is driven by the demand for business-aviation products and services by corporate, 20 individual and government customers in the United States and around the world.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Aerospace segment s results also depend on other factors, including general economic conditions, the availability of credit, pricing pressures and trends in capital goods markets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, if customers default on existing contracts and the contracts are not replaced, the segment s anticipated revenue and profitability could be reduced materially.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These projections and estimates assess: the productivity and availability of labor; the complexity of the work to be performed; the cost and availability of materials and components; and schedule requirements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "operations may be sensitive to and impacted by changes in a foreign government s national policies and priorities, political leadership, and budgets, which may be influenced by changes in threat environments, geopolitical uncertainties, volatility in economic conditions and other economic and political factors.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Changes and developments in any of these matters or factors may occur suddenly and could impact funding for programs or delay purchasing decisions or customer payments.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Some new products, particularly in our Aerospace segment, must meet extensive and time-consuming regulatory requirements that are often outside our control.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "To the extent that the demand for skilled personnel exceeds supply, we could experience higher labor, recruiting or training costs in order to attract and retain such employees.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "When evaluating potential acquisitions and joint ventures, we make judgments regarding the value of business opportunities, technologies, and other assets and the risks and costs of potential liabilities based on information available to us at the time of the transaction.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Goodwill is subject to an impairment test on an annual basis or when circumstances indicate that the likelihood of an impairment is greater than 50 .",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Such circumstances include a significant adverse change in the business climate for one of our reporting units or a decision to dispose of a reporting unit or a significant portion of a reporting unit.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We face various cyber security threats, including threats to our information technology (IT) infrastructure and attempts to gain access to our proprietary or classified information, denial-of-service attacks, as well as 22 threats to the physical security of our facilities and employees, and threats from terrorist acts.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "However, there can be no assurance that any such actions will be sufficient to prevent cybersecurity breaches, disruptions, unauthorized release of sensitive information or corruption of data.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "vague"
+  }
+]

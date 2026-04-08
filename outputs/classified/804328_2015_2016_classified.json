@@ -1,0 +1,890 @@
+[
+  {
+    "sentence": "You should consider each of the following factors in evaluating our business and our prospects.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "You should also consider the other information set forth in this Annual Report in evaluating our business and our prospects, including but not limited to our financial statements and the related notes, and Part II, Item 7.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Risks Related to Our Businesses Our proposed acquisition of NXP involves a number of risks, including, among others, the risk that we fail to complete the acquisition, in a timely manner or at all, regulatory risks, risks associated with our use of a significant portion of our cash and our taking on significant indebtedness, other financial risks, integration risks, and risk associated with the reactions of customers, suppliers and employees.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our and NXP s obligations to consummate the proposed transaction are subject to the satisfaction or waiver of certain conditions, including, among others: (i) the tender of a minimum number of NXP s outstanding common shares in the tender offer to be commenced by a subsidiary of Qualcomm Incorporated; (ii) the expiration or termination of any waiting periods under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended; (iii) the receipt of regulatory clearance under European Union and certain other foreign antitrust laws; (iv) the absence of any law or order prohibiting the proposed transaction; (v) there being no event that would have a material adverse effect on NXP; (vi) the accuracy of the representations and warranties of NXP, subject to certain exceptions, and NXP s material compliance with its covenants, in the definitive agreement; (vii) the approval of certain governance-related resolutions at an extraordinary general meeting of NXP s shareholders; and (viii) the completion of certain internal reorganization steps with respect to NXP and the disposition of certain non-core assets of NXP.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We cannot provide assurance that the conditions to the completion of the proposed transaction will be satisfied in a timely manner or at all, and if the proposed transaction is not completed, we would not realize any of the expected benefits.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The regulatory approvals required in connection with the proposed transaction may not be obtained or may contain materially burdensome conditions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If any conditions or changes to the structure of the proposed transaction are required to obtain these regulatory approvals, they may have the effect of jeopardizing or delaying completion of the proposed transaction or reducing our anticipated benefits.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we agree to any material conditions in order to obtain any approvals required to complete the proposed transaction, our business and results of operations may be adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "17 In addition, the use of a significant portion of our cash and the incurrence of substantial indebtedness in connection with the financing of the proposed transaction may have an adverse impact on our liquidity, limit our flexibility in responding to other business opportunities and increase our vulnerability to adverse economic and industry conditions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If the proposed transaction is not completed, our stock price could fall to the extent that our current price reflects an assumption that we will complete it.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Furthermore, if the proposed transaction is not completed and the purchase agreement is terminated, we would not realize any of the expected benefits of the proposed transaction, and we may suffer other consequences that could adversely affect our business, results of operations and stock price, including, among others: we could be required to pay a termination fee to NXP of 2.0 billion ; we will have incurred and may continue to incur costs relating to the proposed transaction, many of which are payable by us whether or not the proposed transaction is completed; matters relating to the proposed transaction (including integration planning) require substantial commitments of time and resources by our management team and numerous others throughout our organization, which could otherwise have been devoted to other opportunities; we may be subject to legal proceedings related to the proposed transaction or the failure to complete the proposed transaction; the failure to consummate the proposed transaction may result in negative publicity and a negative perception of us in the investment community; and any disruptions to our business resulting from the announcement and pendency of the proposed transaction, including any adverse changes in our relationships with our customers, suppliers, partners or employees, may continue or intensify in the event the proposed transaction is not consummated.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The benefits we expect to realize from the proposed transaction will depend, in part, on our ability to integrate the businesses successfully and efficiently.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "See the Risk Factor entitled We may engage in strategic acquisitions, transactions or make investments that could adversely affect our financial results or fail to enhance stockholder value .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Furthermore, uncertainties about the proposed transaction may cause our and/or NXP s current and prospective employees to experience uncertainty about their futures.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These uncertainties may impair our and/or NXP s ability to retain, recruit or motivate key management, engineering, technical and other personnel.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Similarly, our and/or NXP s existing or prospective customers, licensees, suppliers and/or partners may delay, defer or cease purchasing products or services from or providing products or services to us or NXP; delay or defer other decisions concerning us or NXP; or otherwise seek to change the terms on which they do business with us or NXP.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any of the above could harm us and/or NXP, and thus decrease the benefits we expect to receive from the proposed transaction.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The proposed transaction may also result in significant charges or other liabilities that could adversely affect our financial results, such as cash expenses and non-cash accounting charges incurred in connection with our acquisition and/or integration of the business and operations of NXP.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, our failure to identify or accurately assess the magnitude of certain liabilities we are assuming in the proposed transaction could result in unexpected litigation or regulatory exposure, unfavorable accounting charges, unexpected increases in taxes due, a loss of anticipated tax benefits or other adverse effects on our business, operating results or financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The price of our common stock following the proposed transaction could decline to the extent our financial results are materially affected by any of these events.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our revenues depend on commercial network deployments, expansions and upgrades of CDMA, OFDMA and other communications technologies; our customers and licensees sales of products and services based on these technologies; and customers demand for our products and services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We depend on operators of wireless networks and our customers and licensees to adopt these technologies for use in their networks, devices and services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We also depend on our customers and licensees to develop devices and services based on these technologies with value-added features to drive consumer demand for new 3G, 3G/4G multimode and 4G devices, as well as establishing the selling prices for such devices.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, we depend on the timing of our customers and licensees deployments of new devices and services based on these technologies.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Increasingly, we also depend on operators of wireless networks, our customers and licensees and other third parties to incorporate these technologies into new device types and into industries beyond traditional cellular communications, such as automotive, the IoT, including the connected home, smart cities and wearables, data center, networking, mobile computing, mobile health and 18 machine learning, including robotics, among others.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are also impacted by consumers rates of replacement of smartphones and other computing devices.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our revenues and/or growth in revenues could be negatively impacted, our business may be harmed and our substantial investments in these technologies may not provide us an adequate return, if: wireless operators and industries beyond traditional cellular communications deploy alternative technologies; wireless operators delay 3G and 3G/4G multimode network deployments, expansions or upgrades and/or delay moving 2G customers to 3G, 3G/4G multimode or 4G wireless devices; LTE, an OFDMA-based 4G wireless technology, is not more widely deployed or further commercial deployment is delayed; government regulators delay making sufficient spectrum available for 3G, 4G, new unlicensed technologies that we are developing in conjunction with 3G and 4G, as well as for 5G, thereby restricting the ability of wireless operators to deploy or expand the use of these technologies; wireless operators delay or do not drive improvements in 3G or 3G/4G multimode network performance and/or capacity; our customers and licensees revenues and sales of products, particularly premium-tier products, and services using these technologies do not grow or do not grow as quickly as anticipated due to, for example, the maturity of smartphone penetration in developed regions; our intellectual property and technical leadership included in the 5G standardization effort is different than in 3G and 4G standards; the standardization and/or deployment of 5G technology is delayed; and/or we are unable to drive the adoption of our products and services into networks and devices, including devices beyond traditional cellular applications, based on CDMA, OFDMA and other communications technologies.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our industry is subject to competition in an environment of rapid technological change that could result in decreased demand and/or declining average selling prices for our products and/or those of our customers and/or licensees.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We expect competition to increase as our current competitors expand their product offerings or reduce the prices of their products as part of a strategy to attract new business and/or customers, as new opportunities develop and as new competitors enter the industry.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Competition in wireless communications is affected by various factors that include, among others: device manufacturer concentrations; growth in demand, consumption and competition in emerging geographic regions; government intervention and/or support of national industries and/or competitors; evolving industry standards and business models; evolving methods of transmission of voice and data communications; increasing data traffic and densification of wireless networks; convergence and aggregation of connectivity technologies (including Wi-Fi and LTE) in both devices and access points; consolidation of wireless technologies and infrastructure at the network edge; networking and connectivity trends (including cloud services); use of both licensed and unlicensed spectrum; the evolving nature of computing (including demand for always on, always connected capabilities); the speed of technological change (including the transition to smaller geometry process technologies); value-added features that drive selling prices as well as consumer demand for new 3G, 3G/4G multimode and 4G devices; turnkey, integrated products that incorporate hardware, software, user interface, applications and reference designs; scalability; and the ability of the system technology to meet customers immediate and future network requirements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We expect that our future success will depend on, among other factors, our ability to: differentiate our integrated circuit products with innovative technologies across multiple products and features (e.g., modem, RFFE, graphics and/or other processors, camera and connectivity) and with smaller geometry process technologies that drive performance; develop and offer integrated circuit products at competitive cost and price points to effectively cover both emerging and developed geographic regions and all device tiers; 19 continue to drive the adoption of our integrated circuit products into the most popular device models and across a broad spectrum of devices, such as smartphones, tablets, other computing devices, automobiles, wearable and other connected devices and infrastructure products; maintain and/or accelerate demand for our integrated circuit products at the premium device tier, while increasing the adoption of our products in mid- and low-tier devices, in part by strengthening our integrated circuit product roadmap for, and developing channel relationships in, emerging geographic regions, such as China and India, and by providing turnkey products, which incorporate our integrated circuits, for low- and mid-tier smartphones and tablets; continue to be a leader in 4G technology evolution, including expansion of our LTE-based single mode licensing program in areas where single-mode products are commercialized, and continue to innovate and introduce 4G turnkey, integrated products and services that differentiate us from our competition; be a leader serving original equipment manufacturers, high level operating systems (HLOS) providers, operators and other industry participants as competitors, new industry entrants and other factors continue to affect the industry landscape; be a preferred partner (and sustain preferred relationships) providing integrated circuit products that support multiple operating system and infrastructure platforms to industry participants that effectively commercialize new devices using these platforms; increase and/or accelerate demand for our semiconductor component products, including RFFE, and our wired and wireless connectivity products, including networking products for consumers, carriers and enterprise equipment and connected devices; identify potential acquisition targets that will grow or sustain our business or address strategic needs, reach agreement on terms acceptable to us and effectively integrate these new businesses and/or technologies; create standalone value and/or contribute to the success of our existing businesses through acquisitions, joint ventures and other transactions (and/or by developing customer, licensee and/or vendor relationships) in new industry segments and/or disruptive technologies, products and/or services (such as products for automotive, the IoT, including the connected home, smart cities and wearables, data center, networking, mobile computing, mobile health and machine learning, including robotics, among others); become a leading supplier of radio frequency front-end products, which are designed to address cellular radio frequency band fragmentation while improving radio frequency performance and assist original equipment manufacturers in developing multiband, multimode mobile devices; be a leader in 5G technology development, standardization, intellectual property creation and licensing and develop and commercialize 5G integrated circuit products and services; and/or continue to develop brand recognition to effectively compete against better known companies in mobile computing and other consumer driven segments and to deepen our presence in significant emerging geographic regions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Competition in any or all product tiers may result in the loss of certain business or customers, which would negatively impact our revenues and operating results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Such competition may also reduce average selling prices for our chipset products and/or the products of our customers and licensees.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Certain of these dynamics are particularly pronounced in emerging geographic regions where competitors may have lower cost structures and/or may have a willingness and ability to accept lower prices and/or lower or negative margins on their products (particularly in China).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Companies that promote standards that are neither CDMA- nor OFDMA-based (e.g., GSM) as well as companies that design integrated circuits based on CDMA, OFDMA, Wi-Fi or their derivatives are generally competitors or potential competitors.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Examples (some of which are strategic partners of ours in other areas) include Broadcom Limited, Cirrus Logic, Ericsson, HiSilicon Technologies, Intel, Leadcore Technology Co., Ltd., Marvell Technology, Maxim Integrated Products, MediaTek, Microchip Technology Inc., Nvidia, Qorvo Inc., Realtek Semiconductor, Samsung Electronics, Skyworks Solutions Inc.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Some of these current and potential competitors may have advantages over us that include, among others: motivation by our customers in certain circumstances to utilize their own internally-developed integrated circuit products, to use our competitors integrated circuit products, or to choose alternative technologies; lower cost structures and/or a willingness and ability to accept lower prices 20 and lower or negative margins for their products, particularly in China; foreign government support of other technologies or competitors; better known brand names; ownership and control of manufacturing facilities and greater expertise in manufacturing processes; more extensive relationships with local distribution companies and original equipment manufacturers in emerging geographic regions (such as China); and/or a more established presence in certain regions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our QCT segment derives a significant portion of its revenues from a small number of customers, and we expect this trend to continue in the foreseeable future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our industry is experiencing and may continue to experience concentration of device share among a few companies, particularly at the premium tier, contributing to this trend.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, certain of our largest integrated circuit customers develop their own integrated circuit products, which they have in the past chosen, and may in the future choose, to utilize in certain of their devices rather than our integrated circuit products (and/or sell their integrated circuit products to third parties in competition with us).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Also, one of our largest integrated circuit customers has begun to utilize products of one of our competitors in certain of their devices rather than our products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The loss of any one of our significant customers, a reduction in the purchases of our products by such customers or the cancelation of significant purchases from any of these customers, whether due to the use of their own integrated circuit products, our competitors integrated circuit products or otherwise, would reduce our revenues and could harm our ability to achieve or sustain expected operating results, and a delay of significant purchases, even if only temporary, would reduce our revenues in the period of the delay.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, the concentration of device share among a few companies, and the corresponding purchasing power of these companies, may result in lower prices for our products which, if not accompanied by a sufficient increase in the volume of purchases of our products, could have an adverse effect on our revenues and margins.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the timing and size of purchases by our significant customers may be impacted by the timing of such customers new or next generation product introductions, over which we have no control, and the timing of such introductions may cause our operating results to fluctuate.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Accordingly, if current industry dynamics and concentrations continue, our QCT segment s revenues will continue to depend largely upon, and be impacted by, future purchases, and the timing and size of any such future purchases, by these significant customers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "One of our largest customers purchases our Mobile Data Modem (MDM) products, which do not include our integrated application processor technology and which have lower revenue and margin contributions than our combined modem and application processor products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "To the extent such customer takes device share from our other customers who purchase our integrated modem and application processor products, our revenues and margins may be negatively impacted.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although we have more than 330 CDMA-based licensees, our QTL segment derives a significant portion of licensing revenues from a limited number of licensees.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In the event that one or more of our significant licensees fail to meet their reporting and/or payment requirements or we are unable to renew or modify one or more of such license agreements under similar terms, our revenues, operating results and cash flows would be adversely impacted.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If sales of premium-tier devices decrease, and/or sales of our premium-tier integrated circuit products decrease, our operating results could be negatively affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We derive a significant portion of our revenues from the premium-tier device segment, and we expect this trend to continue in the foreseeable future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have experienced, and expect to continue to experience, slowing growth in the 21 premium-tier device segment due to, among other factors, lengthening replacement cycles in developed regions, where premium-tier smartphones are common; increasing consumer demand in emerging regions, particularly China, where premium-tier smartphones are less common and replacement cycles are on average longer than in developed regions; and/or a maturing premium-tier smartphone industry in which demand is increasingly driven by new product launches and/or innovation cycles.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, as discussed in the prior risk factor, our industry is experiencing concentration of device share among a few companies at the premium tier, which gives them significant supply chain leverage.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, those companies may utilize their own internally-developed integrated circuit products, or our competitors integrated circuit products, rather than our products in a portion of their devices.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These dynamics may result in lower prices for and/or reduced sales of our premium-tier integrated circuit products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A reduction in sales of premium-tier devices, or a reduction in sales of our premium-tier integrated circuit products (which have a higher revenue and margin contribution than our lower-tier integrated circuit products), may reduce our revenues and margins and may harm our ability to achieve or sustain expected operating results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Efforts by some communications equipment manufacturers or their customers to avoid paying fair and reasonable royalties for the use of our intellectual property may require the investment of substantial management time and financial resources and may result in legal decisions and/or actions by governments, courts, regulators or agencies, Standards Development Organizations (SDOs) or other industry organizations that harm our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, certain licensees have disputed or underreported royalties owed to us under their license agreements with us or reported to us in a manner that is not in compliance with their contractual obligations, and certain companies have yet to enter into or delayed entering into license agreements with us for their use of our intellectual property, and licensees and/or companies may continue to do so in the future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, a governmental body in a particular country or region may assert, and may be successful in imposing, remedies with effects that extend beyond the borders of that country or region.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "They have further proposed that such maximum aggregate royalty rate be apportioned to each member company with standard-essential patents based upon the number of standard-essential patents 22 held by such company.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We expect that such proposals, interpretations and strategies will continue in the future, and if successful, our business model would be harmed, either by limiting or eliminating our ability to collect royalties (or by reducing the royalties we can collect) on all or a portion of our patent portfolio, limiting our return on investment with respect to new technologies, limiting our ability to seek injunctions against infringers of our standard-essential patents, constraining our ability to make licensing commitments when submitting our technology for inclusion in future standards (which could make our technology less likely to be included in such standards) or forcing us to work outside of SDOs or other industry groups to promote our new technologies, and our results of operations could be negatively impacted.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the legal and other costs associated with asserting or defending our positions have been and continue to be significant.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our business may suffer as a result of adverse rulings in government investigations or other proceedings, new or changed laws, regulations or policies and/or our failure or inability to comply with laws, regulations or policies.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, a governmental body in a particular country or region may assert, and may be successful in imposing, remedies with effects that extend beyond the borders of that country or region.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Delays in government approvals or other governmental activities that could result from, among others, a decrease in or a lack of funding for certain agencies or branches of the government and/or political changes, could result in our incurring higher costs, could negatively impact our ability to timely consummate strategic transactions and/or could have other negative impacts on our business and the businesses of our customers and licensees.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Laws, regulations and standards are subject to 23 varying interpretations in many cases, and their application in practice may evolve over time.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The enforcement and protection of our intellectual property rights may be expensive, could fail to prevent misappropriation or unauthorized use of our intellectual property rights, could result in the loss of our ability to enforce one or more patents, or could be adversely affected by changes in patent laws, by laws in certain foreign jurisdictions that may not effectively protect our intellectual property rights or by ineffective enforcement of laws in such jurisdictions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The steps we have taken have not always prevented, and we cannot be certain the steps we will take in the future will prevent, the misappropriation or unauthorized use of our proprietary information and technologies, particularly in foreign countries where the laws may not protect our proprietary intellectual property rights as fully or as readily as United States laws or where the enforcement of such laws may be lacking or ineffective.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In the United States, there is continued discussion regarding potential patent law changes and current and potential future litigation regarding patents, the outcomes of which could be detrimental to our licensing business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Certain licensees have disputed or underreported royalties owed to us under their license agreements with us or reported to us in a manner that is not in compliance with their contractual obligations, and certain companies have yet to enter into or delayed entering into license agreements for their use of our intellectual property, and such licensees and/or companies may continue to do so in the future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have entered into litigation in the past and may need to further litigate in the future to enforce our contract and/or intellectual property rights, protect our trade secrets or determine the validity and scope of proprietary rights of others.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our growth increasingly depends on our ability to extend our products and services into new and expanded product areas, such as RFFE, and adjacent industry segments outside of traditional cellular industries, such as the IoT, automotive and computing, among others.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our research, development and other investments in these new and expanded product areas and industry segments, and related technologies, products and services, as well as in our existing technologies, products 24 and services and new technologies, such as 5G, may not generate operating income or contribute to future operating results that meet our expectations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While we continue to invest significant resources toward advancements primarily in support of 4G OFDMA- and 5G-based technologies, we also innovate across a broad spectrum of opportunities to deploy new and expanded products and enter into adjacent industry segments by leveraging our existing technical and business expertise and/or through acquisitions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In particular, our future growth significantly depends on new and expanded product areas, such as RFFE, and adjacent industry segments, such as automotive, IoT, including the connected home, smart cities and wearables, data center, networking, mobile computing, mobile health and machine learning, including robotics, among others; our ability to develop leading and cost-effective technologies, products and services for new and expanded product areas and adjacent industry segments; and third parties incorporating our technology, products and services into device types used in these product areas and industry segments.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Accordingly, we intend to continue to make substantial investments in these new and expanded product areas and adjacent industry segments, and in developing new products, services and technologies for these product areas and industry segments.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "However, our research, development and other investments in these new and expanded product areas and adjacent industry segments, and corresponding technologies, products and services, as well as in our existing, technologies, products and services and new technologies, such as use of both licensed and unlicensed spectrum, convergence of cellular and Wi-Fi and 5G, may not succeed due to, among others: new industry segments and/or consumer demand may not grow as anticipated; our strategies and/or the strategies of our customers, licensees or partners may not be successful; improvements in alternate technologies in ways that reduce the advantages we anticipate from our investments; competitors products or services being more cost effective, having more capabilities or fewer limitations or being brought to market faster than our new products and services; and competitors having longer operating histories in industry segments that are new to us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If our new technologies, products and/or services are not successful, or are not successful in the time frame we anticipate, we may incur significant costs and/or asset impairments, our business may not grow as anticipated, our revenues and/or margins may be negatively impacted and/or our reputation may be harmed.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The continued and future success of our licensing programs can be impacted by the deployment of other technologies in place of technologies based on CDMA, OFDMA and their derivatives; the success of our licensing programs for 4G single mode products and emerging industry segments; and the need to extend license agreements that are expiring and/or to cover additional future patents.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although we own a very strong portfolio of issued and pending patents related to GSM, GPRS, EDGE, OFDM, OFDMA, WLAN and other technologies, our patent portfolio licensing program in these areas is less established and might not be as successful in generating licensing revenues as our CDMA licensing program has been.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Many wireless operators are investigating, have selected or have deployed OFDMA-based LTE as their next-generation 4G technology in existing (or future if not yet deployed) wireless spectrum bands as complementary to their existing CDMA-based networks.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although we believe that our patented technology is essential and useful to implementation of the LTE industry standards and have granted royalty-bearing licenses to more than 210 companies (including Huawei, Lenovo, LG, Microsoft, Oppo, Samsung, Sony Mobile, vivo, Xiaomi and ZTE) that have realized that they need a license to our patents to make and sell products implementing 4G standards but not implementing 3G standards, it may be difficult to agree on material terms and/or conditions of new license agreements that are acceptable to us with companies that are currently unlicensed.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, the royalty rates for single mode 4G products are lower than our royalty rates for 3G and 3G/4G multimode products, so, without a corresponding increase in volumes and/or device ASP, we will not achieve the same licensing revenues on such LTE products as on 3G and 3G/4G multimode products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, new connectivity and other services are emerging that rely on devices that may or may not be used on traditional cellular networks, such as devices used in the connected home or the IoT.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although we believe that our patented 25 technology is essential and useful to the commercialization of such services, the royalties we receive may be lower than those we receive from our current licensing program.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we do not maintain a strong portfolio that is applicable to current and/or future standards (such as 5G), products and/or services, our future licensing revenues could be negatively impacted.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, certain of our license agreements (including essentially all of our recent agreements in China) are effective for a specified term.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Accordingly, to the extent not renewed on their terms or by election for an additional (generally multi-year) period, if applicable, we will need to extend or modify such license agreements or enter into new license agreements with such licensees more frequently than we have done historically.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We might not be able to renew those license agreements, or enter into new license agreements, in the future without affecting the material terms and conditions of our license agreements with such licensees, and such modifications or new agreements may negatively impact our revenues.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we fail to execute supply strategies that provide technology leadership, supply assurance and low cost, our operating results and our business may be harmed.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our QCT segment currently utilizes a fabless production model, which means that we do not own or operate foundries for the production of silicon wafers from which our integrated circuits are made.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Under the turnkey model, our foundry suppliers are responsible for delivering fully assembled and tested integrated circuits.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The semiconductor manufacturing foundries that supply products to our QCT segment are primarily located in Asia, as are our primary warehouses where we store finished goods for fulfillment of customer orders.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The following could have an adverse effect on our ability to meet customer demands and/or negatively impact our revenues, business operations, profitability and/or cash flows: a reduction, interruption, delay or limitation in our product supply sources; a failure by our suppliers to procure raw materials or to provide or allocate adequate manufacturing or test capacity for our products; our suppliers inability to react to shifts in product demand or an increase in raw material or component prices; our suppliers delay in developing leading process technologies, or inability to develop or maintain leading process technologies, including transitions to smaller geometry process technologies; the loss of a supplier or the inability of a supplier to meet performance, quality or yield specifications or delivery schedules; and/or additional expense and/or production delays as a result of qualifying a new supplier and commencing volume production or testing in the event of a loss of or a decision to add or change a supplier.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, any future consolidation of foundry suppliers could increase our vulnerability to sole- or limited-source arrangements and reduce our suppliers willingness to negotiate pricing, which could negatively impact our ability to achieve cost reductions and/or increase our manufacturing 26 costs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our inability to meet customer demand due to sole- or limited-sourcing and/or the additional costs that we incur because of these or other supply constraints or because of the need to support alternate suppliers could negatively impact our business and our results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may not prevail in such litigation given, among other factors, the complex technical issues and inherent uncertainties in intellectual property litigation.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If any of our products or services were found to infringe another company s intellectual property rights, we could be subject to an injunction or be required to redesign our products or services, which could be costly, or to license such rights and/or pay damages or other compensation to such other company.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we are unable to redesign our products or services, license such intellectual property rights used in our products or services or otherwise distribute our products (e.g., through a licensed supplier), we could be prohibited from making and selling such products or providing such services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may not be successful in such proceedings, and if we are not, the range of possible outcomes is very broad and may include, for example, monetary damages or fines or other orders to pay money, royalty payments, injunctions on the sale of certain of our integrated circuit products (and/or on the sale of our customers devices using such products) and/or the issuance of orders to cease certain conduct and/or modify our business practices.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, a governmental body in a particular country or region may assert, and may be successful in imposing, remedies with effects that extend beyond the borders of that country or region.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, a negative outcome in any such proceeding could severely disrupt the business of our chipset customers 27 and their wireless operator customers, which in turn could harm our relationships with them and could result in a decline in our worldwide chipset sales and/or a reduction in our licensees sales to wireless operators, causing corresponding declines in our chipset and/or licensing revenues.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Certain legal matters, including certain claims by other companies that we infringe their intellectual property, are described more fully in this Annual Report in Notes to Consolidated Financial Statements, Note 7.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may engage in strategic acquisitions, transactions or make investments that could adversely affect our financial results or fail to enhance stockholder value.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We engage in strategic acquisitions and other transactions, including joint ventures, and make investments, which we believe are important to the future of our business, with the goal of maximizing stockholder value.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our strategic activities are generally focused on opening new or expanding opportunities for our technologies and supporting the design and introduction of new products and services (or enhancing existing products or services) for voice and data communications and new industry segments.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Recent material transactions include our acquisition of CSR plc, our pending joint venture with TDK Corporation and our proposed acquisition of NXP.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Many of our strategic activities entail a high degree of risk and require the use of domestic and/or foreign capital, and investments may not become liquid for several years after the date of the investment, if at all.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our strategic activities may not generate financial returns or result in increased adoption or continued use of our technologies, products or services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any losses or impairment charges that we incur related to strategic activities will have a negative impact on our financial results, and we may continue to incur new or additional losses related to strategic assets or investments that we have not fully impaired or exited.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may underestimate the costs and/or overestimate the benefits, including product and other synergies and growth opportunities that we expect to realize, and we may not achieve them.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we do not achieve the anticipated benefits of business acquisitions or other strategic activities, our results of operations may be adversely affected, and we may not enhance stockholder value by engaging in these transactions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Achieving the anticipated benefits of business acquisitions, including joint ventures and other strategic investments in which we have management and operational control, depends in part upon our ability to integrate the businesses in an efficient and effective manner and achieve anticipated synergies.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Such integration is complex and time consuming and involves significant challenges, including, among others: retaining key employees; successfully integrating new employees, technology, products, processes, operations (including manufacturing operations), sales and distribution channels, business models and business systems; retaining customers and suppliers of the businesses; consolidating research and development and/or supply operations; minimizing the diversion of management s attention from ongoing business matters; and consolidating corporate and administrative infrastructures; and managing the increased scale, complexity and globalization of our business, operations and employee base.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may not derive any commercial value from associated technologies or products or from future technologies or products based on these technologies, and we may be subject to liabilities that are not covered by indemnification protection that we may obtain, or we may become subject to litigation.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, we may not be successful in entering or expanding into new sales or distribution channels, business or operational models (including manufacturing), geographic regions, industry segments and/or categories of products served by or adjacent to the associated businesses or in addressing potential new opportunities that may arise out of the combination.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Certain of our software and our suppliers software may contain or may be derived from open source software, and we have seen, and believe we will continue to see, an increase in customers requesting that we develop products, including software associated with our integrated circuit products, that incorporate open source software elements and operate in an open source environment, which, under certain open source licenses, may offer accessibility to a portion of a product s source code and may expose related intellectual property to adverse licensing conditions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, these obligations may require us to make source code for the derivative works available to our customers in a manner that allows them to make such source code available to their customers or license such derivative works under a particular type of license that is different than what we customarily use to license our software.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "28 While we believe we have taken appropriate steps and employ adequate controls to protect our intellectual property rights, our use of open source software presents risks that could have an adverse effect on these rights and on our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our stock price, earnings and the fair value of our investments are subject to substantial quarterly and annual fluctuations and to market downturns.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Factors that may have a significant impact on the market price of our stock and/or earnings include those identified throughout this Risk Factors section, volatility of the stock market in general and technology-based companies in particular, announcements concerning us, our suppliers, our competitors or our customers or licensees and variations between our actual results or guidance and expectations of securities analysts, among others.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In the past, securities class action litigation has been brought against a company following periods of volatility in the market price of its securities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Due to changes in our stock price, we are and may in the future be the target of securities litigation.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Certain legal matters, including certain securities litigation brought against us, are described more fully in this Annual Report in Notes to Consolidated Financial Statements, Note 7.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We maintain an extensive investment portfolio of varied holdings, which are generally classified as available-for-sale and are therefore recorded on our consolidated balance sheet at fair value, with unrealized gains or losses reported as a component of accumulated other comprehensive income.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The fair value of our investments are subject to fluctuation based primarily on market price volatility, as well as the underlying operations of the associated investment, among other things.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If the fair value of such investments decreases below their cost basis, as some of our previous investments have, we may be required in certain circumstances to recognize a loss in our results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The sensitivity of and risks associated with the market value of our investment portfolio are described more fully in this Annual Report in Part II, Item 7A.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our outstanding indebtedness and any additional indebtedness we incur, including in connection with our proposed acquisition of NXP, may have negative consequences on our business, including, among others: requiring us to use cash to pay the principal of and interest on our indebtedness, thereby reducing the amount of cash available for other purposes; limiting our ability to obtain additional financing for working capital, capital expenditures, acquisitions, stock repurchases, dividends or other general corporate and other purposes; limiting our flexibility in planning for, or reacting to, changes in our business and our industry; and/or increasing our vulnerability to interest rate fluctuations to the extent a portion of our debt has variable interest rates.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our ability to make payments of principal and interest on our indebtedness depends upon our future performance, which is subject to general economic conditions, industry cycles and financial, business and other factors, many of which are beyond our control.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, any such refinancing, restructuring or sale of assets might not be available on economically favorable terms or at all, and if prevailing interest rates at the time of any such refinancing and/or restructuring are higher than our current rates, interest expense related to such refinancing and/or restructuring would increase.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If there are adverse changes in the ratings assigned to our debt securities by credit rating agencies, our borrowing costs, our ability to access debt in the future and/or the terms of such debt could be adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Global, regional or local economic conditions that impact the mobile communications industry or the other industries in which we operate could negatively affect the demand for our products and services and our customers or licensees products and services, which may negatively affect our revenues.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A decline in global, regional or local economic conditions or a slow-down in economic growth, particularly in geographic regions with high concentrations of wireless voice and data users or high concentrations of our customers or 29 licensees, could have adverse, wide-ranging effects on demand for our products and for the products and services of our customers or licensees, particularly equipment manufacturers or others in the wireless communications industry who buy their products, such as wireless operators.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any prolonged economic downturn may result in a decrease in demand for our products or technologies; the insolvency of key suppliers, customers or licensees; delays in reporting and/or payments from our licensees and/or customers; failures by counterparties; and negative effects on wireless device inventories.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our future success depends largely upon the continued service of our executive officers and other key management and technical personnel, and on our ability to continue to identify, attract, retain and motivate them, particularly in an environment of cost reductions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, our products are inherently complex and may contain defects or errors that are detected only when the products are in use.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The design process interface in new domains of technology and the migration to integrated circuit technologies with smaller geometric feature sizes are complex and add risk to manufacturing yields and reliability.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Because our products and services are responsible for critical functions in our customers products and/or networks, security failures, defects or errors in our products or services could have an adverse impact on us, on our customers and/or on the end users of our customers products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Such adverse impact could include product liability claims or recalls, write-offs of our inventories and/or intangible assets; unfavorable purchase commitments; a shift of business to our competitors; a decrease in demand for connected devices and wireless services; damage to our reputation and to our customer relationships; and other financial liability or harm to our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, security failures, defects or errors in the products of our customers or licensees, such as the recent issues with the Galaxy Note 7 that caused Samsung to discontinue that product, could have an adverse impact on our operating results due to a delay or decrease in demand for our products or services generally, and our premium-tier products in particular, among other factors.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Although we believe that our tax estimates are reasonable, the final determination of tax audits and any related legal proceedings could materially differ from amounts reflected in our historical income tax provisions and accruals.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We have tax incentives in Singapore provided that we meet specified employment and other criteria, and as a result of the expiration of these incentives, our Singapore tax rate is expected to increase in fiscal 2017 and again in fiscal 2027.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "If we do not meet the criteria required to retain such incentives, our Singapore tax rate could increase prior to fiscal 2027, and our results of operations could be adversely affected.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Further changes in the tax laws of foreign jurisdictions could arise as a result of the base erosion and profit shifting (BEPS) project that was undertaken by the Organization for Economic Co-operation and Development (OECD).",
+    "risk_type": "regulatory",
+    "nature": "new_risk",
+    "style": "vague"
+  },
+  {
+    "sentence": "The OECD, which represents a coalition of member countries, recommended changes to numerous long-standing tax principles related to transfer pricing.",
+    "risk_type": "regulatory",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "These changes, if adopted by countries, could increase tax uncertainty and may adversely affect our provision for income taxes.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "We have not yet determined what changes, if any, may be needed to our operations or structure to address BEPS.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  }
+]

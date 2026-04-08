@@ -1,0 +1,154 @@
+
+============================================================
+Reg 1: Future ROA ~ Risk Update Intensity + Vagueness
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 roa_t1   R-squared:                       0.487
+Model:                            OLS   Adj. R-squared:                  0.470
+Method:                 Least Squares   F-statistic:                     54.64
+Date:                Wed, 08 Apr 2026   Prob (F-statistic):           1.88e-49
+Time:                        20:09:39   Log-Likelihood:                 377.14
+No. Observations:                 244   AIC:                            -736.3
+Df Residuals:                     235   BIC:                            -704.8
+Df Model:                           8                                         
+Covariance Type:                  HC3                                         
+======================================================================================================
+                                         coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------------------------------
+Intercept                              0.2426      0.046      5.246      0.000       0.152       0.333
+sec_Financials[T.True]                -0.0239      0.015     -1.570      0.116      -0.054       0.006
+sec_Health_Care[T.True]               -0.0144      0.011     -1.296      0.195      -0.036       0.007
+sec_Industrials[T.True]               -0.0168      0.012     -1.364      0.172      -0.041       0.007
+sec_Information_Technology[T.True]     0.0649      0.016      3.961      0.000       0.033       0.097
+risk_update_intensity                  0.0005      0.001      0.794      0.427      -0.001       0.002
+vagueness_ratio                        0.0376      0.016      2.373      0.018       0.007       0.069
+leverage                               0.0831      0.032      2.630      0.009       0.021       0.145
+log_assets                            -0.0174      0.004     -4.578      0.000      -0.025      -0.010
+==============================================================================
+Omnibus:                       15.608   Durbin-Watson:                   1.264
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               38.394
+Skew:                           0.196   Prob(JB):                     4.60e-09
+Kurtosis:                       4.903   Cond. No.                         203.
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+N = 244, R² = 0.487, Adj-R² = 0.470
+
+
+============================================================
+Reg 2: Future Revenue Growth ~ Risk Update Intensity + Vagueness
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:          rev_growth_t1   R-squared:                       0.036
+Model:                            OLS   Adj. R-squared:                  0.003
+Method:                 Least Squares   F-statistic:                     1.310
+Date:                Wed, 08 Apr 2026   Prob (F-statistic):              0.239
+Time:                        20:09:39   Log-Likelihood:                 168.07
+No. Observations:                 244   AIC:                            -318.1
+Df Residuals:                     235   BIC:                            -286.7
+Df Model:                           8                                         
+Covariance Type:                  HC3                                         
+======================================================================================================
+                                         coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------------------------------
+Intercept                              0.0472      0.080      0.587      0.558      -0.110       0.205
+sec_Financials[T.True]                 0.0285      0.040      0.708      0.479      -0.050       0.107
+sec_Health_Care[T.True]               -0.0100      0.024     -0.407      0.684      -0.058       0.038
+sec_Industrials[T.True]               -0.0405      0.024     -1.681      0.093      -0.088       0.007
+sec_Information_Technology[T.True]    -0.0157      0.035     -0.453      0.650      -0.083       0.052
+risk_update_intensity                  0.0002      0.001      0.284      0.776      -0.001       0.002
+vagueness_ratio                       -0.0153      0.043     -0.352      0.725      -0.101       0.070
+leverage                               0.0441      0.075      0.584      0.559      -0.104       0.192
+log_assets                             0.0021      0.007      0.284      0.777      -0.012       0.017
+==============================================================================
+Omnibus:                       50.344   Durbin-Watson:                   1.708
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              140.184
+Skew:                           0.895   Prob(JB):                     3.63e-31
+Kurtosis:                       6.254   Cond. No.                         203.
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+N = 244, R² = 0.036, Adj-R² = 0.003
+
+
+============================================================
+Reg 3: Future Stock Return ~ Risk Update Intensity + Vagueness
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:          annual_ret_t1   R-squared:                       0.027
+Model:                            OLS   Adj. R-squared:                 -0.006
+Method:                 Least Squares   F-statistic:                    0.9251
+Date:                Wed, 08 Apr 2026   Prob (F-statistic):              0.496
+Time:                        20:09:39   Log-Likelihood:                -19.183
+No. Observations:                 244   AIC:                             56.37
+Df Residuals:                     235   BIC:                             87.84
+Df Model:                           8                                         
+Covariance Type:                  HC3                                         
+======================================================================================================
+                                         coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------------------------------
+Intercept                              0.0848      0.234      0.363      0.717      -0.374       0.543
+sec_Financials[T.True]                -0.0657      0.100     -0.659      0.510      -0.261       0.130
+sec_Health_Care[T.True]               -0.0893      0.057     -1.558      0.119      -0.202       0.023
+sec_Industrials[T.True]               -0.0536      0.058     -0.919      0.358      -0.168       0.061
+sec_Information_Technology[T.True]     0.0428      0.070      0.613      0.540      -0.094       0.180
+risk_update_intensity                  0.0002      0.002      0.078      0.938      -0.004       0.004
+vagueness_ratio                        0.0470      0.095      0.497      0.619      -0.138       0.232
+leverage                              -0.0716      0.145     -0.494      0.622      -0.356       0.213
+log_assets                             0.0090      0.021      0.438      0.661      -0.031       0.049
+==============================================================================
+Omnibus:                        1.461   Durbin-Watson:                   2.134
+Prob(Omnibus):                  0.482   Jarque-Bera (JB):                1.217
+Skew:                           0.165   Prob(JB):                        0.544
+Kurtosis:                       3.106   Cond. No.                         203.
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+N = 244, R² = 0.027, Adj-R² = -0.006
+
+
+============================================================
+Reg 4: Future ROA ~ Risk Type Counts
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 roa_t1   R-squared:                       0.458
+Model:                            OLS   Adj. R-squared:                  0.437
+Method:                 Least Squares   F-statistic:                     48.07
+Date:                Wed, 08 Apr 2026   Prob (F-statistic):           3.90e-59
+Time:                        20:09:39   Log-Likelihood:                 457.21
+No. Observations:                 305   AIC:                            -890.4
+Df Residuals:                     293   BIC:                            -845.8
+Df Model:                          11                                         
+Covariance Type:                  HC3                                         
+======================================================================================================
+                                         coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------------------------------
+Intercept                              0.2458      0.042      5.826      0.000       0.163       0.329
+sec_Financials[T.True]                -0.0368      0.014     -2.723      0.006      -0.063      -0.010
+sec_Health_Care[T.True]               -0.0078      0.010     -0.796      0.426      -0.027       0.011
+sec_Industrials[T.True]               -0.0160      0.011     -1.438      0.151      -0.038       0.006
+sec_Information_Technology[T.True]     0.0643      0.016      4.087      0.000       0.033       0.095
+risk_financing                        -0.0032      0.002     -2.033      0.042      -0.006      -0.000
+risk_operational                       0.0020      0.001      2.579      0.010       0.000       0.004
+risk_cyber                            -0.0012      0.002     -0.631      0.528      -0.005       0.003
+risk_regulatory                       -0.0019      0.001     -2.198      0.028      -0.004      -0.000
+risk_supply_chain                      0.0053      0.003      2.046      0.041       0.000       0.010
+leverage                               0.0514      0.028      1.848      0.065      -0.003       0.106
+log_assets                            -0.0148      0.003     -4.397      0.000      -0.021      -0.008
+==============================================================================
+Omnibus:                       21.605   Durbin-Watson:                   1.189
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               66.597
+Skew:                          -0.169   Prob(JB):                     3.46e-15
+Kurtosis:                       5.264   Cond. No.                         172.
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+N = 305, R² = 0.458, Adj-R² = 0.437

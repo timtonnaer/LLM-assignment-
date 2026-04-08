@@ -1,0 +1,326 @@
+[
+  {
+    "sentence": "Economic and Market Risks The challenging economic environment triggered by the coronavirus (COVID-19) pandemic has impacted and will continue to impact our business, results of operations, and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The onset of the COVID 19 pandemic adversely impacted the economic environment and credit markets, leading to lower interest rates across the curve, heightened volatility in the financial markets, and market-driven credit spread movements in certain sectors within our portfolio of investment securities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although certain economic conditions improved in 2021, the pandemic continues to evolve and certain impacts of the pandemic, including short-term interest rates, may continue to have a negative impact on our net interest revenue, bank deposit account fee revenue, and asset management and administration fees.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We will continue to have limits on our ability to return excess capital to stockholders, including through share repurchases, until the ratio returns to higher levels.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Certain of our client service response and processing times increased as a result of very high levels of client engagement and our clients experienced and may continue to occasionally experience delays accessing and using our website and mobile applications.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While we have focused on hiring additional client service employees, we, like many employers, continue to face challenges retaining and hiring employees.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, we recently experienced and may again experience staffing shortages at our call centers and branches due to the rapid spread of new variants of COVID-19.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The extent to which the COVID 19 pandemic, or the emergence of another wide-spread health crisis, impacts our business, results of operations and financial condition will depend on future developments, which are highly uncertain, including the scope and duration of the outbreak, actions taken by governmental authorities to contain the financial and economic impact and the spread of the outbreak, the effect on our clients, employees, and outsourced service providers, changes in credit quality and spreads, and reactions in the financial markets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We also sweep a portion of such cash to unconsolidated third-party financial institutions pursuant to the IDA agreement and agreements with other third-party financial institutions, through which we earn bank deposit account fees.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The announced phase-out of the London Interbank Offered Rate (LIBOR) could negatively impact our net interest revenue and will continue to require operational work.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Certain securities in our investment portfolio, the floating rate loans we offered, and certain series of our outstanding preferred stock reference LIBOR as the benchmark rate to determine the applicable interest rate, payment amount or floating dividend rates.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While we have substantially transitioned our financial models and systems away from LIBOR, in limited circumstances we still use LIBOR.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "When LIBOR is discontinued as announced, there will be uncertainty or differences in the calculation of the applicable interest rate or payment amount depending on the terms of the governing instruments.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "LIBOR may also perform differently during the phase-out period than in the past which could result in lower interest payments and a reduction in the value of certain securities in our investment portfolio.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, further operational work will be required to transition our legacy loan portfolio to alternate reference rates that are consistent with the fallback language included in the contracts.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Risk Management for additional information regarding the Company s consideration of the phase-out of LIBOR.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Despite our efforts to comply with applicable legal requirements, there are a - 14 - THE CHARLES SCHWAB CORPORATION number of risks, particularly in areas where applicable laws or regulations may be unclear or where regulators could revise their previous guidance.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "New legislation, rules, regulations and guidance, or changes in the interpretation or enforcement of existing federal, state, foreign and SRO rules, regulations and guidance, including changes relating to mutual funds, standards of conduct with clients, conflicts of interest, regulatory treatment of deposit accounts, and order routing practices and order-related revenues may directly affect our operations and profitability or our specific business lines.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "- 15 - THE CHARLES SCHWAB CORPORATION If the average of CSC s total consolidated assets for four consecutive calendar quarters reaches 700 billion, or if the average of cross-jurisdictional activity for four consecutive calendar quarters reaches 75 billion, CSC will become subject to more stringent Category II requirements, including annual stress testing, the advanced approaches framework, and the inability to opt out of including AOCI in regulatory capital calculations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "At December 31, 2021, CSC had approximately 670 billion in total assets and cross-jurisdictional activity of approximately 32 billion.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Information security risks for financial institutions are increasing, in part because of the use of the internet and mobile and cloud technologies to conduct financial transactions, and the increased sophistication and activities of organized crime, activists, hackers and other external parties, including foreign state actors.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Given the high volume of transactions that we process, the large number of clients, counterparties and third-party service providers with which we do business, including cloud service providers, and the increasing sophistication of cyber attacks, a cyber attack could occur and persist for an extended period of time before being detected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Security breaches, including breaches of our security measures or those of our third-party service providers or clients, could result in a violation of applicable privacy and other laws and could subject us to significant liability or loss that may not be covered by insurance, actions by our regulators, damage to our reputation, or a loss of confidence in our security measures - 16 - THE CHARLES SCHWAB CORPORATION which could harm our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our systems are vulnerable to disruptions from human error, execution errors, errors in models such as those used for asset management, capital planning and management, risk management, stress testing and compliance, employee misconduct, unauthorized trading, external fraud, computer viruses, distributed denial of service attacks, cyber attacks, terrorist attacks, natural disaster, extreme weather, power outage, capacity constraints, software flaws, events impacting key business partners and vendors, and similar events.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Cloud technologies are critical to the operation of our systems and platforms and our reliance on cloud technologies is growing.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Cloud service disruptions may lead to delays in accessing data that is important to our businesses and may hinder our clients access to our platforms.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The ways that fraudulent activity is attempted is continuously evolving and while we monitor for new types of fraud, there may be a delay in recognizing the fraud is happening.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Besides potential losses, shutting down the fraudulent activity often requires a balance with client experience.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While we devote substantial attention and resources to the reliability, capacity and scalability of our systems, extraordinary trading volumes, such as those that occurred in 2020 and the first quarter of 2021, could cause our computer systems to operate at unacceptably slow speeds or even fail, affecting our ability to process client transactions and potentially resulting in some clients orders being executed at prices they did not anticipate.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, certain of our client service response and processing times increased in 2020 as a result of very high levels of client engagement and our clients experienced delays accessing our systems during periods when there was an unusually high volume of client activity.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "- 17 - THE CHARLES SCHWAB CORPORATION In the management and administration of funds and client accounts, we use quantitative models and other tools and resources to support investment decisions and processes, including those related to risk assessment, portfolio management, trading and hedging activities and product valuations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Errors in the design, function, or underlying assumptions used in these models and tools, particularly if we fail to detect the errors over an extended period, could subject us to claims of a breach of fiduciary duty and potentially large liabilities for make-whole payments, litigation, and/or regulatory fines.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We rely on external service providers to perform certain key technology, cloud infrastructure, processing, servicing, and support functions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "An interruption in or the cessation of service by any external service provider as a result of systems failures, capacity constraints, financial difficulties, natural disasters, extreme weather, power outage, public health crises, political developments or for any other reason, and our inability to make alternative arrangements in a timely manner could disrupt our operations, impact our ability to offer certain products and services, and result in financial losses to us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As a result of certain stay at home restrictions related to the COVID-19 pandemic, we temporarily lost the services from some of our outsourced service providers which contributed to increased client service response and processing times.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "- 18 - THE CHARLES SCHWAB CORPORATION When available cash is not sufficient for our liquidity needs, we may seek external financing.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although CSC, CS Co, and TDAC maintain uncommitted, unsecured bank credit lines and CSC has a commercial paper issuance program, as well as a universal shelf registration statement filed with the SEC which can be used to sell securities, financing may not be available on acceptable terms or at all due to market conditions or disruptions in the credit markets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "- 19 - THE CHARLES SCHWAB CORPORATION Risks Related to Our TD Ameritrade Acquisition We may fail to realize the anticipated cost savings and other benefits of the TD Ameritrade acquisition, which could adversely affect the value of our stock.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The success of our TD Ameritrade acquisition will continue to depend, in significant part, on our ability to realize the anticipated cost savings and other benefits from integrating the businesses of Schwab and TD Ameritrade which is subject to certain risks.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The inability to work in-person and on-site with information technology and management oversight has and will continue to make some of the integration work more challenging, particularly with regard to technology.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We will need to continue to hire a significant number of technology personnel and contract staff and rely on a number of critical technology vendors in order to complete the integration work relating to technology platforms and systems within the target timeframe.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We have to make certain assumptions for integration planning and subsequent changes to integration plans impact the timing and cost of the integration.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "For example, as a result of the higher levels of trading volumes that we recently experienced, we had to increase capacity from the original technology build-out plan.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We will continue to incur significant integration costs in connection with the integration of TD Ameritrade.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We may have difficulty attracting, motivating and retaining executives and other employees during the integration of TD Ameritrade.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Uncertainty about the effect of the TD Ameritrade integration on Schwab and TD Ameritrade employees may impair our ability to attract, retain and motivate personnel.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "- 20 - THE CHARLES SCHWAB CORPORATION The TD Ameritrade acquisition may not be accretive to our earnings per share, which may negatively affect the market price of our common stock.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The process of evaluating, negotiating, effecting, and integrating any such strategic transaction may divert management s attention from other business concerns, and might cause the loss of key clients, employees, and business partners.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "In September 2021, we implemented a 5 salary increase for almost all of our employees.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We need to continue to hire a significant number of technology personnel and contract staff to complete the TD Ameritrade integration work within the target timeframe.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "- 21 - THE CHARLES SCHWAB CORPORATION Our stock price has fluctuated historically, and may continue to fluctuate.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Among the factors that may affect the volatility of our stock price are the following: Speculation in the investment community or the press about, or actual changes in, our competitive position, organizational structure, executive team, operations, financial condition, financial reporting and results, expense discipline, strategic transactions, progress on achieving the expected benefits from our TD Ameritrade acquisition, or ratings from third parties; The announcement of new products, services, acquisitions, or dispositions by us or our competitors; Increases or decreases in revenue or earnings, changes in earnings estimates by the investment community, and variations between estimated financial results and actual financial results; and Sales of a substantial number of shares of our common stock by large stockholders.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Future sales of CSC s equity securities may adversely affect the market price of CSC s common stock and result in dilution.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Under the IDA agreement, we are only permitted to reduce the deposit balances swept to the TD Depository Institutions by a set amount during each 12-month period, subject to certain limitations and adjustments including only moving IDA balances designated as floating-rate obligations and maintaining a minimum 50 billion IDA sweep balance through June 2031.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  }
+]

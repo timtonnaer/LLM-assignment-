@@ -1,0 +1,194 @@
+[
+  {
+    "sentence": "Our Commercial Airplanes business depends heavily on commercial airlines, and is subject to unique risks.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The commercial aircraft business is extremely complex, involving extensive coordination and integration with U.S and non-U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "suppliers, highly-skilled labor from thousands of employees and other partners, and stringent regulatory requirements and performance and reliability standards.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As 7 Table of Contents a result, our ability to deliver aircraft on time, satisfy regulatory and customer requirements, and achieve or maintain, as applicable, program profitability is subject to significant risks.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We continue to increase production rates for the 737, 767 and 787 programs, while at the same time engaging in significant ongoing development of the 787-10, 737 MAX and 777X aircraft.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, we continue to seek opportunities to reduce the costs of building our aircraft, including working with our suppliers to reduce supplier costs, identifying and implementing productivity improvements, and optimizing how we manage inventory.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, if we cannot efficiently and cost-effectively incorporate design changes into early build 787 aircraft, we may face further profitability pressures on this program.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The impact of sequestration cuts has been reduced with respect to FY2016 and FY2017 following the enactment of The Bipartisan Budget Act of 2015 in November 2015.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "However, long-term uncertainty remains with respect to overall levels of defense spending and it is likely that U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While the FY2016 appropriations enacted December 2015 included funding for Boeing s major programs, such as F/A-18, CH-47 Chinook, AH-64 Apache, KC-46A Tanker and P-8 programs, uncertainty remains about how defense budgets in FY2017 and beyond will affect Boeing s programs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we can no longer adjust successfully to these changing acquisition priorities and/or fail to meet affordability targets set by the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "9 Table of Contents We enter into fixed-price contracts which could subject us to losses if we have cost overruns.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While fixed-price contracts enable us to benefit from performance improvements, cost reductions and efficiencies, they also subject us to the risk of reduced margins or incurring losses if we are unable to achieve estimated costs and revenues.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, during the second quarter of 2015, we recorded a reach-forward loss of 835 million on the USAF KC-46A Tanker contract, primarily driven by additional costs attributable to design changes, testing and manufacturing complexity.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The long term nature of many of our contracts makes the process of estimating costs and revenues on fixed-price contracts inherently risky.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Examples of significant BDS fixed-price development contracts include Commercial Crew, Saudi F-15, USAF KC-46A Tanker , and commercial and military satellites.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In some instances, 10 Table of Contents we depend upon a single source of supply.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, we continue to monitor political unrest involving Russia and Ukraine, where we and some of our suppliers source titanium products and/or have operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For additional information on our accounting policies for recognizing sales and profits, see our discussion under Management s Discussion and Analysis Critical Accounting Policies Contract Accounting/Program Accounting on pages 44 45 and Note 1 to our Consolidated Financial Statements on pages 55 66 of this Form 10-K.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "11 Table of Contents Competition within our markets and with respect to the products we sell may reduce our future contracts and sales.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In our BDS business, we anticipate that the effects of defense industry consolidation, fewer large and new programs and new priorities, including near and long-term cost competitiveness, of our U.S.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "An adverse resolution of any of these lawsuits could have 12 Table of Contents a material impact on our financial position and results of operations.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "government, the heavily regulated nature of our industry, and in the case of environmental proceedings, our current or past ownership of certain property.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our portfolio is also concentrated by varying degrees across Boeing aircraft product types, most notably 717 and 747-8F aircraft.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "As of December 31, 2015 and 2014 , our airplane financing commitments totaled 16,283 million and 16,723 million .",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Accordingly, our financial results could be adversely affected by unanticipated performance issues, legacy liabilities, transaction-related charges, amortization of expenses related to intangibles, charges for impairment of long-term assets, credit guarantees, partner performance and indemnifications.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "13 Table of Contents Our insurance coverage may be inadequate to cover all significant risk exposures.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Business disruptions could seriously affect our future sales and financial condition or increase our costs and expenses.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Approximately 61,000 employees, which constitute 38 of our total workforce, were union represented as of December 31, 2015 .",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our estimates of future costs associated with these benefits are also subject to assumptions, including 14 Table of Contents estimates of the level of medical cost increases.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "For a discussion regarding how our financial statements can be affected by pension and other postretirement plan accounting policies, see Management ' s Discussion and Analysis - Critical Accounting Policies - Pension Plans on pages 46 47 of this Form 10-K.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We could incur substantial costs, including cleanup costs, fines and civil or criminal sanctions, as well as third-party claims for property damage or personal injury, if we were to violate or become liable under environmental laws or regulations.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  }
+]

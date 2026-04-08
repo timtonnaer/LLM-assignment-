@@ -1,0 +1,26 @@
+## Large data files — share via Google Drive / institutional server
+data/
+outputs/diffs/
+outputs/raw_zips/
+
+## Python environment — each person runs pip install
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+## Secrets — never commit these
+.env
+*.pgpass
+
+## macOS
+.DS_Store
+
+## Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+## Logs
+*.log
+nohup.out

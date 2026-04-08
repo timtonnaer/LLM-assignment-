@@ -1,0 +1,824 @@
+[
+  {
+    "sentence": "COVID-19 Pandemic Risks The COVID-19 pandemic is affecting our business and could have a material adverse effect on us.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "If the negative impact from the COVID-19 pandemic extends beyond our assumed timelines, our results may be worse than expected.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "The full extent of the impact will depend on future developments, such as the ultimate duration and the severity of the spread of COVID-19 in the U.S.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "and globally, the effectiveness of federal, state, local and foreign governments mitigation actions, the pandemic s impact on the U.S.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "and global economies, as well as factors affecting healthcare and the delivery of medicines to patients, including but not limited to those discussed above under Part II Item 7.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Management s Discussion and Analysis of Financial Condition and Results of Operations Economic and Market Factors , and how quickly we can return to more normal operations, among other things.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Although we currently do not anticipate any disruption to the supply of our medicines to patients due to COVID-19, it is possible that we could experience manufacturing or supply issues due to COVID-19 in the future, which would increase the negative impact on our business and results of operations.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "For instance, we are experiencing and may continue to experience scarcity of certain raw materials and components as a result of the influx of COVID-19 vaccine orders receiving priority treatment from vendors.",
+    "risk_type": "supply_chain",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, if a natural disaster or other potentially disruptive event occurs on top of the current pandemic, it could deplete our safety stock levels and we could experience a manufacturing, supply or distribution issue.",
+    "risk_type": "operational",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We have started to re-engage in in-person interactions by our customer-facing (field) personnel in health care settings in the U.S.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "If we determine that it is no longer safe to engage in these in-person interactions, we will likely return to a remote model of engagement.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "It is also possible that there could be a longer-lasting shift in interactions between field personnel and health care professionals that we have not anticipated, which could have a negative impact on our business and results of operations.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Although we have restarted clinical development activities, we continue to experience delays in the initiation and enrollment of patients in our clinical trials.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We may not be able to fully mitigate these delays, which could negatively impact the timing of our pipeline development programs and expected future revenues and/or cash flows.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "In addition, we could experience additional delays or difficulties enrolling patients in clinical trials and/or delays or difficulties with our ongoing, fully enrolled clinical trials, which could further negatively impact the timing of our pipeline development programs and expected future revenues and/or cash flows.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "A prolonged clinical trial delay could potentially have a significant negative effect on our business, particularly if new competitive products enter the market or clinical trial results for our competitors products affect the value proposition for our product.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Any such delays or difficulties in clinical development could also potentially lead to a material impairment of our intangible assets, including the approximately 53 billion of intangible assets as of December 31, 2020.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, although research and early development activities performed in laboratories have resumed, they were suspended for a period of time, which negatively impacted the advancement of early pipeline assets.",
+    "risk_type": "operational",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We have plans to mitigate this impact, but if we are not be able to fully mitigate it, the breadth of our future pipeline opportunities could be adversely affected.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "We cannot predict or reasonably estimate the impact of any potential long-term changes to the healthcare industry from COVID-19.",
+    "risk_type": "macroeconomic",
+    "nature": "new_risk",
+    "style": "vague"
+  },
+  {
+    "sentence": "payer channel mix due to changes in patient coverage from the current economic crisis, but we are not able to reliably estimate what the impact would be on our results of operations given the highly variable and uncertain situation.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "It is also possible that changes in the healthcare system could impose additional burdens on clinical trials, which could increase the costs of sponsoring clinical trials or lead to additional delays or difficulties with completing clinical trials.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "We could face additional risks from the impact of COVID-19 on our suppliers, vendors, outsourcing partners, alliance partners and other third parties that we rely on to research, develop, manufacture, commercialize, co-promote and sell our products, manage certain marketing, selling, human resource, finance, IT and other business unit and functional services.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "22 For example, if any of our third-party providers suffer from limited solvency because of the pandemic, it could negatively impact our operating model and our business.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "The COVID-19 pandemic has increased the volatility of the financial markets, foreign currency exchanges and interest rates.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Although we incurred downward adjustments to our equity investment fair values in the first quarter of 2020, the fair values have subsequently recovered.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "dollar continues to strengthen, interest rates continue to decline, and/or stock markets continue to decline, we could see a further reduction in revenues or other income or additional charges to our equity investments, which could have a negative impact on our earnings and cash flows.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "We are facing and could continue to face potential other negative consequences stemming from the COVID-19 pandemic, including but not limited to increased cyber threats to us and our partners such as phishing, social engineering and malware attacks, delays in planned integration milestones and ability to collect our receivables.",
+    "risk_type": "cyber",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "It is possible that COVID-19 could exacerbate any of the other risks described in this 2020 Form 10-K as well.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "At this time, we cannot predict the full extent of the negative impact that the COVID-19 pandemic will have on our business, financial condition, results of operations and/or cash flows.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our products continue to be subject to increasing pressures across the portfolio from pharmaceutical market access and pricing controls and discounting, changes to tax and importation laws and other restrictions in the U.S., the EU and other regions around the world that result in lower prices, lower reimbursement rates and smaller populations for whom payers will reimburse, which negatively impact our revenues and profit margins, including from (i) the impact of the increased pricing pressure from Medicare Part D formularies, Medicare Part B reimbursement rates (including the potential implementation of the pilot program by the Centers for Medicare Medicaid Services CMS that would, among other things, set payment amounts to physicians on Part B drugs based on international drug prices and would include the Top 50 (by spending) Medicare Part B single source drugs, which would apply to many cancer medications), expanded utilization under the 340B Drug Pricing Program 340B ), as well as commercial formularies in general; (ii) rules and practices of MCOs and institutional and governmental purchasers taking actions to control costs or shift the cost burden to manufacturers, including actions that could result in the exclusion of a product from, or the unfavorable placement of, a product on a MCO formulary; (iii) government administrative and policy changes and changes in laws and regulations for federal healthcare programs such as Medicare and Medicaid, other government actions and inquiries at the federal level that seek to amend pharmaceutical pricing and reimbursement practices such as using international pricing indexes, modifying the federal Anti-Kickback statute discount safe harbor, accelerating generic drug approval processes and granting additional authority to governmental agencies to manage drug utilization and negotiate drug prices (including the implementation of the 2020 regulation issued by the U.S.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "federal government authorizing states and private parties to develop and implement programs to import certain prescription drugs from Canada and sell them in the U.S.) and laws at the state level (including laws that have been enacted in California, Vermont, Nevada and New York that are focused on drug cost transparency and/or limiting state spending on drugs); (iv) the potential impact of changes to U.S.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "federal pharmaceutical coverage and reimbursement policies and practices, including from the December 21, 2020 final rule issued by the CMS on the calculation of average manufacturer price, best price, and Medicaid rebates that addresses copay assistance and product line extensions among other topics, and a previously issued rule addressing the inclusion of sales in U.S.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Territories in the calculation of average manufacturer price and best price beginning on April 1, 2022); (v) the increased scrutiny of drug manufacturers (including any additional review of the Company or Celgene by the House Oversight and Reform Committee); (vi) reimbursement delays; (vii) government price erosion mechanisms across Europe and in other countries resulting in deflation for pharmaceutical product pricing; (viii) the increased purchasing power of entities that negotiate on behalf of Medicare, Medicaid and private sector beneficiaries; (ix) collection delays or failures to pay in government-funded public hospitals outside the U.S.; (x) the impact on pricing from parallel trade and drug importation across borders; (xi) other developments in technology and/or industry practices that could impact the reimbursement policies and practices of third-party payers; and (xii) inhibited market access due to real or perceived differences in value propositions for our products compared to competing products.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Following the effective date, manufacturers who are found to have knowingly and intentionally overcharged 340B covered 23 entities could be subject to significant monetary penalties.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "On December 10, 2020, HRSA issued the 340B Drug Pricing Program Alternative Dispute Resolution Final Rule ADR Final Rule ), which went into effect on January 13, 2021.",
+    "risk_type": "regulatory",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The ADR Final Rule establishes an alternative dispute resolution ADR process for certain disputes (including disputes about overcharges, duplicate discounts or diversion).",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Department of Health and Human Services (HHS) Office of the General Counsel released an advisory opinion concluding that drug manufacturers are required to deliver discounts under the 340B Program on covered outpatient drugs when contract pharmacies are acting as agents of 340B covered entities.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The public announcement of data from our clinical studies, or those of our competitors, or news of any developments related to our, or our competitors , products or late-stage compounds may cause significant volatility in our stock price and depending on the data, may result in an adverse impact on our business, financial condition or results of operations.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "For example, in December 2020, we announced that CheckMate -548, a Phase 3 trial evaluating the addition of Opdivo to the current standard of care (temozolomide and radiation therapy) in patients with newly diagnosed glioblastoma multiforme (GBM) with O6-methylguanine-DNA methyltransferase (MGMT) promoter methylation following surgical resection of the tumor, did not meet its primary endpoint of overall survival (OS) in patients with no baseline corticosteroid use or in the overall randomized population.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Additionally, we inherited many late-stage compounds as well as prioritized brand portfolio in hematology and immunology through our acquisition of Celgene that may not meet expectations.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "The announcement of data from our clinical studies, or those of our competitors, or news of any developments related to our, or our competitors , products or late-stage compounds, such as Opdivo, has and will continue to cause significant volatility in our stock price and, depending on the news, may result in an adverse impact on our business, financial condition or results of operations.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Furthermore, the announcement of any negative or unexpected data or the discontinuation of development of any of our key late-stage product candidates, any delay in our anticipated timelines for filing for regulatory approval or a significant advancement of a competitor, has and will continue to cause our stock price to decline significantly and may have an adverse impact on our business, financial condition or results of operations.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "There is no assurance that data from our clinical studies will support filings for regulatory approval, that our key product candidates may prove to be effective or as effective as other competing products, that, even if approved, any such products will become commercially successful for all approved indications, or that the indications of key products approved under the U.S.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "FDA s Accelerated Approval Program that continued approval is contingent upon verification and description of clinical benefit in confirmatory trials will be withdrawn.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "24 Generic and biosimilar product manufacturers as well as other groups seeking financial gain are also increasingly seeking to challenge patents before they expire, and we could face earlier-than-expected competition for any products at any time.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Patents covering our key products have been, and are likely to continue to be, subject to validity, enforceability and noninfringement challenges in patent litigations and post-grant review patent office proceedings.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Although we are confident in the strength of our intellectual property rights, it may be possible for generic drug companies to successfully challenge our rights and launch their generic versions of our drugs prior to the expiration of our intellectual property rights.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In addition, in order to avoid the uncertainty and expense of litigation, among other reasons, we may decide to enter into settlements with generic manufacturers that permit generic competition prior to the expiration of our intellectual property rights.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "For example, we expect that some generic drug companies may market generic versions of Revlimid in the major European markets before the expiration of our intellectual property rights.",
+    "risk_type": "regulatory",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In particular, as a result of patent settlements, we expect generic entry for Revlimid in the United Kingdom beginning on January 18, 2022, and in various other European countries where our Supplemental Protection Certificate is in force beginning on February 18, 2022.",
+    "risk_type": "regulatory",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, some countries are allowing competitors to manufacture and sell competing generic products, which negatively impacts the protections afforded the Company.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "FDA have taken steps to promote the development and approval of generic drugs and biosimilar biologics.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Section 610 of the Further Consolidated Appropriations Act, 2020, provides generic and biosimilar developers a private right of action to obtain sufficient quantities of drug samples from the reference product s manufacturer in order to conduct testing necessary to obtain approval for generic or biosimilar products.",
+    "risk_type": "regulatory",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "There is no assurance that a particular product will enjoy market exclusivity for the full time period that appears in the estimates disclosed in this 2020 Form 10-K or that we assume when we provide our financial guidance.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "For example, we did not receive a decision on our BLA for liso-cel for the treatment of adults with relapsed or refractory (R/R) large B-cell lymphoma after at least two prior therapies by December 31, 2020 and as a result, on January 1, 2021, the Contingent Value Rights Agreement, dated as of November 20, 2019, pursuant to which contingent value rights that we issued in connection with the Celgene transaction terminated automatically in accordance with its terms and the contingent value rights are no longer eligible for payment under the Contingent Value Rights Agreement.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "FDA s Accelerated Approval Program may be contingent upon verification and description of clinical benefit in confirmatory studies and such studies may not be successful.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "For example, in December 2020, we announced that we withdrew Opdivo s indication for the treatment of patients with SCLC whose disease has progressed after platinum-based chemotherapy and at least one other line of therapy, which had been granted as an accelerated approval in 2018.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "FDA in accordance with its standard procedures for evaluating accelerated approvals that have not met their post-marketing requirements and as part of a broader industry-wide evaluation.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We are unable to predict whether and when any further changes to laws or regulatory policies affecting our business could occur.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "While federal employees have since returned to work, a subsequent extended shutdown could result in reductions or delays of U.S.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "FDA s activities, including with respect to our ongoing clinical programs, our manufacturing of our products and product candidates and our product approvals.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Regulatory approval delays are especially common when a product is expected to have a REMS, as required by the U.S.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "FDA to address significant risk/benefit issues, and we expect that certain of our future key products will be distributed in the U.S.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Certain novel approaches to the treatment of diseases, such as chimeric antigen receptor CAR T cell therapy, may present significant challenges and risks for us.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The development of novel approaches for the treatment of diseases, such as our acquisition in November 2019 of Celgene s and Juno s CAR T cell therapy programs, including Breyanzi (liso-cel) and ide-cel, presents many new challenges and risks due to the unique nature of genetic modification of patient cells ex vivo using certain viruses to reengineer these cells to ultimately treat diseases, including obtaining regulatory approval from U.S.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "FDA and other regulatory agencies that have limited experience with the development of cellular therapies involving genetic modification of patient cells; developing and deploying consistent and reliable processes, while limiting contamination, for engineering a patient s cells ex vivo and infusing genetically modified cells back into the patient; developing processes for the safe administration of cellular therapies, including long-term follow-up for patients receiving cellular therapies; and sourcing additional clinical and, if approved, commercial supplies for the materials used to manufacture and process our potential CAR T products.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Further, we may not be able to satisfactorily establish the safety and efficacy or the reliability of these therapies through health authority approval, or demonstrate the potential advantages and side effects compared to existing and future therapies.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Moreover, the safety profiles of cellular therapies may adversely influence public perception and may adversely influence the willingness of subjects to participate in clinical trials, or if approved, of physicians and payers to subscribe to these novel treatment approaches.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Competition is keen and includes (i) lower-priced generics and increasingly aggressive generic commercialization tactics, (ii) new competitive products entering the market, particularly in IO, (iii) lower prices for other companies products, real or perceived superior efficacy (benefit) or safety (risk) profiles or other differentiating factors, (iv) technological advances and patents attained by our competitors, (v) clinical study results from our products or a competitor s products that affect the value proposition for our products, (vi) business combinations among our competitors and major third-party payers and (vii) competing interests for external partnerships to develop and bring new products to markets.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "If we are unable to compete successfully against our competitors products in the marketplace, this could have a material negative impact on our revenues and earnings.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our product supply and related patient access has been, and could in the future be, negatively impacted by difficulties, delays and disruptions in the manufacturing, distribution and sale of our products.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Some of the difficulties, delays and disruptions include: (i) product seizures or recalls or forced closings of manufacturing plants; (ii) our failure, or the failure of any of our vendors or suppliers, to comply with cGMP and other applicable regulations or quality assurance guidelines that could lead to manufacturing shutdowns, product shortages or delays in product manufacturing; (iii) manufacturing, quality assurance/quality control, supply problems or governmental approval delays; (iv) the failure of a supplier, including sole source or single source suppliers, to provide us with the necessary raw materials, supplies or finished goods within a reasonable timeframe and with required quality; (v) the failure of a third-party manufacturer to supply us with bulk active or finished product on time; (vi) construction or regulatory approval delays for new facilities or the expansion of existing facilities, including those intended to support future demand for our biologics products, such as Opdivo; (vii) the failure to meet new and emerging regulations requiring products to be tracked throughout the distribution channels using unique identifiers to verify their authenticity in the supply chain; (viii) other manufacturing or distribution issues, including limits to manufacturing capacity and changes in the types of products produced, such as biologics, physical limitations or other business interruptions; and (ix) disruption in supply chain continuity, including from natural disasters (such as hurricanes), global disease outbreaks such as COVID-19, acts of war or terrorism or other external factors over which we have no control impacting one or more of our facilities or at a critical supplier.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "26 In addition, we have limited experience manufacturing CAR T cell therapies, and our processes may be more complicated or more expensive than the approaches taken by our current and future competitors.",
+    "risk_type": "operational",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our ability to source raw materials and supplies used to manufacture our CAR T cell therapies and to develop consistent and reliable manufacturing processes and distribution networks with an attractive cost of goods could impact future anticipated revenue and gross profit for our CAR T cell therapies.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "In addition, we may face challenges with sourcing raw materials and supplies for clinical and, if approved, commercial manufacturing.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Additionally, we are required to maintain a complex chain of identity and custody with respect to patient material as such material enters into and moves through the manufacturing process.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "As a result, even slight deviations at any point in the production process for our CAR T cell therapies or in material used in our CAR T cell therapies could result in loss of product or regulatory remedial action, which could adversely affect our future anticipated revenues and/or profitability related to our CAR T cell therapies.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We may encounter difficulties integrating ours and Celgene s businesses and operations and, therefore, may not fully realize the projected benefits from our acquisition of Celgene.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "The ultimate success of our acquisition of Celgene and our ability to realize the anticipated benefits from the acquisition, including the expected cost savings and avoidance from synergies, innovation opportunities and operational efficiencies, depends on, among other things, how effective we are in integrating the Bristol Myers Squibb and Celgene operations, products and employees.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "We are in the process of integrating a large number of manufacturing, operational and administrative systems to achieve consistency throughout the combined company, including with respect to human capital management, portfolio rationalization, finance and accounting systems, sales operations and product distribution, pricing systems and methodologies, cybersecurity systems, compliance programs and internal controls processes.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Regulatory, Intellectual Property, Litigation, Tax and Legal Compliance Risks Litigation claiming infringement of intellectual property may adversely affect our future revenues and operating earnings.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We and certain of our subsidiaries are, and in the future may be, involved in various legal proceedings, including patent litigation, such as claims that our patents are invalid, unenforceable and/or do not cover the product of the generic drug manufacturer or where third parties seek damages and/or injunctive relief to compensate for alleged infringement of their patents by our commercial or other activities.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Current or future lawsuits, claims, proceedings and government investigations could preclude or delay the commercialization of our products or could adversely affect our operations, profitability, liquidity or financial condition, after any possible insurance recoveries where available.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Such legal matters include (i) intellectual property disputes; (ii) adverse decisions in litigation, including product liability, consumer protection and commercial cases; (iii) anti-bribery regulations, such as the U.S.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Foreign Corrupt Practices Act or UK Bribery Act, including compliance with ongoing reporting obligations to the government resulting from any settlements; (iv) recalls or withdrawals of pharmaceutical products or forced closings of 27 manufacturing plants; (v) the alleged failure to fulfill obligations under supply contracts with the government and other customers or under other agreements relating to our business; (vi) product pricing and promotional matters; (vii) lawsuits and claims asserting, or investigations into, violations of securities, antitrust, Federal and state pricing, consumer protection, data privacy and other laws and regulations; (viii) environmental, health, safety and sustainability matters; and (ix) tax liabilities resulting from assessments from tax authorities.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "or in other countries, including pharmaceutical market access and pricing controls and discounting, changes to tax and importation laws and other restrictions; (ii) judicial or other governmental decisions affecting pricing, drug reimbursement, receivable payments and access or marketing within or across jurisdictions; (iii) changes in intellectual property law; (iv) changes with respect to U.S.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "FDA compliance of manufacturing products (especially concerning good practice guidelines and regulations); (v) changes in accounting standards; (vi) new and increasing data privacy regulations and enforcement, particularly in the EU and the U.S.; (vii) emerging and new global regulatory requirements for reporting payments and other value transfers to healthcare professionals; and (viii) the potential impact of importation restrictions, legislative and/or other regulatory changes.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "FDA has indicated it is undertaking an industry-wide review of indications that received accelerated approval and for which the confirmatory studies did not meet their primary endpoints.",
+    "risk_type": "regulatory",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "This is not specific to the Company, but in December 2020, we announced that we withdrew Opdivo s indication for the treatment of patients with SCLC whose disease has progressed after platinum-based chemotherapy and at least one other line of therapy, which had been granted as an accelerated approval in 2018.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "FDA in accordance with its standard procedures for evaluating accelerated approvals that have not met their post-marketing requirements and as part of a broader industry-wide evaluation.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "congressional interest in modifying provisions of the Affordable Care Act, particularly given the ruling in Texas v.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "We rely on suppliers, vendors, outsourcing partners, alliance partners and other third parties to research, develop, manufacture, commercialize, co-promote and sell our products, manage certain marketing, human resource, finance, IT and other business unit and functional services and meet their contractual, regulatory and other obligations.",
+    "risk_type": "supply_chain",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Using these third parties poses a number of risks, such as: (i) they may not perform to our standards or legal requirements, for example, in relation to the outsourcing of significant clinical development activities for innovative medicines to some contract research organizations; (ii) they may not produce reliable results; (iii) they may not perform in a timely manner; (iv) they may not maintain confidentiality of our proprietary information; (v) they may incur a significant cyberattack or business disruption; (vi) they may be subject to government orders or mandates that require them to give priority to the government and set aside pre-existing commercial orders; (vii) disputes may arise with respect to ownership of rights to technology developed with our partners; and (viii) disagreements could cause delays in, or termination of, the research, development or commercialization of the product or result in litigation or arbitration.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Moreover, some third parties are located in markets subject to political and social risks, corruption, infrastructure problems and natural disasters, in addition to country specific privacy and data security risks given current legal and regulatory environments.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The failure of any critical third party to meet its obligations, including for future royalty and milestone payments; to adequately deploy business continuity plans in the event of a crisis; and/or to satisfactorily resolve significant disagreements with us or address other factors, could have a material adverse 28 impact on our operations and results.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Foreign Corrupt Practice Act, UK Bribery Act, the EU s General Data Protection Regulation, and other similar laws and regulations, during the performance of their obligations for us, it is possible that we could suffer financial and reputational harm or other negative outcomes, including possible legal consequences.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "A patient who receives a counterfeit drug or a product diverted from its authorized market may be at risk for a number of dangerous health consequences.",
+    "risk_type": "operational",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our reputation and business could suffer harm as a result of counterfeit drugs sold under our brand name or diverted products.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Information Technology and Cybersecurity Risks We are dependent on information technology and our systems and infrastructure face certain risks, including from cybersecurity breaches and data leakage.",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "The ever-increasing use and evolution of technology, including cloud-based computing, creates opportunities for the unintentional dissemination or intentional destruction of confidential information stored in our, or our third-party providers , systems, portable media or storage devices.",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "While we maintain cyber insurance, this insurance may not, however, be sufficient to cover the financial, legal, 29 business or reputational losses that may result from an interruption or breach of our systems.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Strategic, Business Development and Employee Attraction and Retention Risks Failure to execute our business strategy could adversely impact our growth and profitability.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In connection with this strategy, we are in the process of integrating Celgene and MyoKardia and our ability to successfully integrate Celgene and MyoKardia could impact our results of operations.",
+    "risk_type": "operational",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "If we are unable to support and grow our marketed products, successfully execute the launches of newly approved products, advance our late-stage pipeline, manage change from our operating model evolution or manage our costs effectively, our operating results and financial condition could be negatively impacted.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "We depend on several key products for most of our revenues, cash flows and earnings.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We expect that Revlimid, Eliquis, Opdivo and Pomalyst/Imnovid will represent a significant percentage of our revenue, earnings and cash flows.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Although we are committed to reducing our debt, we expect to continue to support our pipeline with compounds or products obtained through licensing and acquisitions.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our divestitures also may result in continued financial exposure to the divested businesses, such as through guarantees or other financial arrangements, continued supply and 30 services arrangements, or potential litigation, following the transaction.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Moreover, due to the substantial amount of debt that we incurred to finance the cash portion of the Celgene and MyoKardia acquisitions, there can be no assurance of when we will be able to expand our business development capacity.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We cannot be sure that we will be able to retain quality talent of both Bristol Myers Squibb and Celgene or that the costs of doing so will not materially increase.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Market, Liquidity and Credit Risks Our significant additional indebtedness that we incurred in connection with the Celgene and MyoKardia acquisitions and our issuance of additional shares in connection with the Celgene acquisition could have negative consequences.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our acquisitions of Celgene and MyoKardia increased the amount of our debt resulting in additional interest expense.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Additional cash will be required for any dividends declared due to additional shares issued in connection with the Celgene acquisition.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In particular, the exit of the UK from the EU, which occurred on January 31, 2020, has created uncertainties affecting our business operations in the UK and the EU and may have an impact on our research, commercial and general business operations in the UK and the EU, including the approval and supply of our products, and may require changes to our legal entity structure in the UK and the EU.",
+    "risk_type": "regulatory",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "While we are still assessing the details of the EU-UK Trade and Cooperation Agreement (which was formally approved by the U.K.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "House of Commons on December 30, 2020 and is expected to be formally approved by the EU legislature in March 2021) and related impact on our UK business and other operations, we currently do not believe that these matters and other related financial effects will have a material impact on our consolidated results of operations, financial position or liquidity.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In July 2017, the United Kingdom regulator that regulates LIBOR announced its intention to phase out LIBOR rates by the end of 2021.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "However, the ICE Benchmark Administration, in its capacity as administrator of USD-LIBOR, has announced that it intends to extend publication of USD LIBOR (other than one-week and two-month tenors) by 18 months to June 2023.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Notwithstanding this possible extension, a joint statement by key regulatory authorities calls on banks to cease entering into new contracts that use USD-LIBOR as a reference rate by no later than December 31, 2021.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "financial institutions, has proposed replacing USD-LIBOR with a new index calculated by short-term repurchase agreements - the Secured Overnight Financing Rate (\"SOFR\").",
+    "risk_type": "regulatory",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "At this time, no consensus exists as to what rate or rates may become accepted alternatives to LIBOR, and it is impossible to predict whether and to what extent banks will 31 continue to provide LIBOR submissions to the administrator of LIBOR and whether LIBOR rates will cease to be published or supported before or after 2021.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "We have issued variable rate debt based on LIBOR and have undertook interest rate swaps that contain a variable element based on LIBOR.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We have also entered into certain agreements and have amended certain other agreements to rely on SOFR as an alternative interest rate method to LIBOR and we cannot predict what the impact of these agreements and amendments and SOFR could have on us.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Although SOFR appears to be the preferred replacement rate for USD LIBOR at this time, if the financial market coalesces around an alternative benchmark rate method to LIBOR that is different than SOFR, we may need to renegotiate these agreements and may be negatively impacted by the renegotiated terms, which may adversely affect our interest rates and result in higher borrowing costs that we cannot predict.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "In addition, the phase out or replacement of LIBOR could cause disruptions in the credit markets that leads to a downgrade of our current credit rating, which could increase our future borrowing costs and our cost of capital, impair our ability to access capital and credit markets on terms commercially acceptable to us and adversely affect our liquidity and capital resources.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The Board s decision will depend on many factors, including our financial condition, earnings, capital requirements, debt service obligations, industry practice, legal requirements, regulatory constraints and other factors that our Board may deem relevant.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our amended bylaws designate the Court of Chancery of the State of Delaware as the sole and exclusive forum for certain lawsuits between us and our stockholders, which could limit our stockholders ability to obtain a judicial forum that it finds favorable for such lawsuits and make it more costly for our stockholders to bring such lawsuits, which may have the effect of discouraging such lawsuits.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our amended bylaws provide that, unless we consent in writing to the selection of an alternative forum, the Court of Chancery of the State of Delaware will be, to the fullest extent permitted by law, the sole and exclusive forum for any (i) derivative action or proceeding brought on our behalf, (ii) action asserting a claim of breach of a fiduciary duty owed by any of our directors, officers or other employees to us or our stockholders, creditors or other constituents, (iii) action asserting a claim arising pursuant to any provision of the General Corporation Law of the State of Delaware, our amended and restated certificate of incorporation or our amended bylaws or (iv) action asserting a claim against us or any of our directors, officers or other employees governed by the internal affairs doctrine; provided, however, that, in the event that the Court of Chancery of the State of Delaware lacks jurisdiction over any such action or proceeding, the sole and exclusive forum for such action or proceeding will be another state or federal court of the State of Delaware.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our bylaws also provide that any person or entity purchasing or otherwise acquiring or holding any interest in shares of our capital stock will be deemed to have notice of and consented to this forum selection provision.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The Court of Chancery of the State of Delaware (or if the Court of Chancery does not have jurisdiction, another state or federal court of the State of Delaware) will have the fullest authority allowed by law to issue an anti-suit injunction to enforce this forum selection clause and to preclude suit in any other forum.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "However, this forum selection provision is not intended to apply to any actions brought under the Securities Act of 1933 (the \"Securities Act\"), as amended, or the Exchange Act.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Section 27 of the Exchange Act creates exclusive federal jurisdiction over all suits brought to enforce any duty or liability created by the Exchange Act or the rules and regulations thereunder and Section 22 of the Securities Act creates concurrent jurisdiction for federal and state courts over all suits brought to enforce any duty or liability created by the Securities Act or the rules and regulations thereunder.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Accordingly, the forum selection provision in our amended bylaws will not relieve us of our duties to comply with the federal securities laws and the rules and regulations thereunder, and our stockholders will not be deemed to have waived our compliance with these laws, rules and regulations.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Nevertheless, this forum selection provision in our bylaws may limit a stockholder s ability to bring a claim in a judicial forum that it finds favorable for disputes with us or any of our directors, officers and other employees, which may discourage lawsuits with respect to such claims, although our stockholders will not be deemed to have waived our compliance with federal securities laws and the rules and regulations thereunder.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In addition, stockholders who do bring a claim in the Court of Chancery in the State of Delaware could face additional litigation costs in pursuing any such claim, particularly if they do not reside in or near Delaware.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "While we believe the risk of a court declining to enforce the forum selection provision contained in our amended bylaws is low, if a court were to find the provision inapplicable to, or unenforceable in respect of, one or more of the specified types of actions or proceedings, we may incur additional costs associated with resolving such action in other jurisdictions, which could harm our business, operating results and financial condition.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  }
+]

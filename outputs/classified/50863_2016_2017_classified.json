@@ -1,0 +1,326 @@
+[
+  {
+    "sentence": "Refer also to the other information set forth in this Annual Report on Form 10-K, including \"Management s Discussion and Analysis of Financial Condition and Results of Operations\" and our financial statements and the related notes.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our platform products are used across different market segments, and demand for our platforms may vary within or among our client computing, data center, Internet of Things, and other market segments.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "It is difficult to anticipate the impact of these changes, as demand may increase in one or more market segments while decreasing in others.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, a number of business combinations, including mergers, asset acquisitions and strategic partnerships, in the semiconductor industry have occurred over the last several years, and more could occur in the future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Consolidation in the industry could lead to fewer customers, partners or suppliers, any of which could negatively affect our financial results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In recent years, our business focus has expanded and now includes the design and production of platforms and other products for the data center, Internet of Things, and memory market segments, including FPGA products, connectivity products, and a number of other products and services for a wide range of connected devices.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "15 Table of Contents To compete successfully, we must maintain a successful R D effort, develop new products and production processes, and improve our existing products and processes ahead of competitors.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our pricing and margins vary across our products and market segments due to differences in product features or manufacturing costs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, our platform product offerings range from lower-priced and entry-level platforms, such as those based on Intel Quark or Intel Atom processors, to higher-end platforms based on Intel Xeon processors.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "accounted for approximately 78 of our revenue for the fiscal year ended December 31, 2016 .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As a result, our operations and our financial results, including our ability to manufacture, assemble and test, design, develop, or sell products, may be adversely affected by a number of factors outside of our control, including: global and local economic conditions; geopolitical and security issues, such as armed conflict and civil or military unrest, crime, political instability, human rights concerns, and terrorist activity; natural disasters, public health issues, and other catastrophic events; inefficient infrastructure and other disruptions, such as supply chain interruptions and large-scale outages or unreliable provision of services from utilities, transportation, data hosting, or telecommunications providers; government restrictions on, or nationalization of our operations in any country, or restrictions on our ability to repatriate earnings from a particular country; differing employment practices and labor issues; formal or informal imposition of new or revised export and/or import and doing-business regulations, including trade sanctions and tariffs, which could be changed without notice; ineffective legal protection of our IP rights in certain countries; local business and cultural factors that differ from our normal standards and practices; and increased uncertainty regarding social, political, immigration and trade policies in the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "legislation and policies and the United Kingdom's referendum to withdraw from the European Union (\"Brexit\").",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are subject to laws and regulations worldwide, which may differ among jurisdictions, affecting our operations in areas including, but not limited to: IP ownership and infringement; tax; import and export requirements; anti-corruption; foreign exchange controls and cash repatriation restrictions; data privacy requirements; anti-competition; advertising; employment; product regulations; environment, health, and safety requirements; and consumer laws.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Catastrophic events or geopolitical conditions could have a material adverse effect on our operations and financial results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our operations or systems could be disrupted by natural disasters; industrial accidents; geopolitical conditions; terrorist activity; public health issues; cybersecurity incidents; interruptions of service from utilities, transportation, or telecommunications providers; or other catastrophic events.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Due to the variability in demand for our products and the complexity of our manufacturing operations, we may be unable to timely respond to fluctuations in demand.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Thousands of suppliers provide materials and equipment that we use in production and other aspects of our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our manufacturing operations and ability to meet product demand may also be impacted by IP or other litigation between our suppliers, where an injunction against Intel or a supplier could interrupt the availability of goods or services supplied to Intel by others.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We also rely on third-party providers to manufacture and assemble and test certain components or products, particularly those related to networking, mobile and communications, programmable semiconductor solutions, and NAND flash memory.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If any of these third parties are unable to perform these services on a timely or cost-effective basis, we may encounter supply delays or disruptions that could adversely affect our financial results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Components and products we purchase or license from third-party suppliers, or attain through acquisitions, may also contain defects.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We could face risks if products that we design, manufacture or sell, or that include our technology, cause personal injury or property damage, even where the cause is unrelated to product defects or errata.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These risks may increase as our products are introduced into new devices, markets, technologies, or applications through the Internet of Things, including wearables, drones and transportation, and industrial and consumer uses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Costs from defects, errata, or other product issues could include: writing off some or all of the value of inventory; recalling products that have been shipped; providing product replacements or modifications; reimbursing customers for certain costs they incur; defending against litigation and/or paying resulting damages; and paying fines imposed by regulatory agencies.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any product defects, errata, or other issues could also damage our reputation, negatively affect product demand, delay product releases, or result in legal liability.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The announcement of product defects or errata could cause customers to purchase products from competitors as a result of possible shortages of our components or for other reasons.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, although we maintain liability insurance, our coverage has certain exclusions and/or may not adequately cover liabilities incurred.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our insurance providers may be unable or unwilling to pay a claim, and losses not covered by insurance could be large, which could harm our financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The manufacturing and assembly and test of our products require the use of hazardous materials that are subject to a broad array of environmental, health, and safety laws and regulations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our failure to comply with these laws or regulations could result in: regulatory penalties, fines, and legal liabilities; suspension of production; alteration of our manufacturing and assembly and test processes; reputational challenges; and restrictions on our operations or sales.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "18 Table of Contents Our failure to manage the use, transportation, emissions, discharge, storage, recycling, or disposal of hazardous materials could lead to increased costs or future liabilities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "19 Table of Contents Third parties may assert claims based on IP rights against us or our products, which could harm our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As described in \" Note 20: Commitments and Contingencies \" in Part II, Item 8 of this Form 10-K, we are engaged in a number of litigation and regulatory matters.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Also key to our employee hiring and retention is our ability to build and maintain an inclusive business culture and be viewed as an employer of choice.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If our share-based or other compensation programs and workplace culture cease to be viewed as competitive, our ability to attract, retain, and motivate employees could be weakened, which could harm our results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "21 Table of Contents Our acquisitions, divestitures, and other transactions could fail to achieve strategic objectives, disrupt our ongoing business, and harm our results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Given that our resources are limited, our decision to pursue a transaction has opportunity costs; accordingly, if we pursue a particular transaction, we may need to forgo the prospect of entering into other transactions that could help us achieve our strategic objectives.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We sell a significant portion of our products through third parties such as distributors, value-added resellers, and channel partners (collectively referred to as distributors) as well as OEMs, ODMs and Internet service providers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We depend on many distributors to help us create end customer demand, provide technical support and other value-added services to customers, fill customer orders, and stock our products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may rely on one or more key distributors for a product, and a material change in our relationship with one or more of these distributors or their failure to perform as expected could reduce our revenue.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our ability to add or replace distributors for some of our products may be limited.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, our distributors' expertise in the determination and stocking of acceptable inventory levels for some of our products may not be easily transferable to a new distributor; as a result, end customers may be hesitant to accept the addition or replacement of a distributor.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Distributors and other third parties may sell products that compete with our products, and we may need to provide financial and other incentives to focus them on the sale of our products.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "They may face financial difficulties, including bankruptcy, which could harm our collection of accounts receivable and financial results.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Failure to manage risks related to our use of distributors and other third parties may reduce sales, increase expenses, and weaken our competitive position.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "The methods, estimates, and judgments used in applying accounting policies are subject to significant risks, uncertainties, assumptions, and changes that could affect our financial position and results of operations.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "For more information, see \"Critical Accounting Estimates\" in Part II, Item 7 and \"Note 2: Accounting Policies\" in Part II, Item 8 of this Form 10-K.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "A number of factors may increase our effective tax rates, which could reduce our net income, including: changes in jurisdictions in which our profits are determined to be earned and taxed; the resolution of issues arising from tax audits; changes in the valuation of our deferred tax assets and liabilities, and in deferred tax valuation allowances; adjustments to income taxes upon finalization of tax returns; increases in expenses not deductible for tax purposes, including impairments of goodwill; changes in available tax credits; changes in tax laws or their interpretation, including changes in the U.S.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In response to the business environment and to accomplish our strategic objectives, we have announced restructurings of our operations and have made other adjustments to our workforce.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We may pursue similar actions in the future, and such workforce changes can result in restructuring charges in addition to those described in \" Note 7: Restructuring and Other Charges \" in Part II, Item 8 of this Form 10-K.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Any such workforce changes can also temporarily reduce workforce productivity, which could be disruptive to our business and adversely affect our results of operations.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, if our restructurings are perceived negatively, our corporate reputation and ability to attract employees could suffer.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Moreover, we may not achieve or sustain the expected cost savings or other benefits of our restructuring plans, or do so within the expected time frame.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Additional factors that could cause actual results to differ materially from our expectations with regard to our restructuring activity include: timing and execution of plans and programs that may be subject to local labor law requirements, including consultation with appropriate works councils; assumptions related to severance, post-retirement, and relocation costs; future acquisitions, dispositions, or investments; new business initiatives and changes in product roadmap, development, and manufacturing; and/or assumptions related to cost savings, product demand, and operating efficiencies.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "sentence": "Risks related to our business and industry The extent to which the COVID-19 pandemic will adversely affect our business, results of operations and financial condition is uncertain.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The global spread of the novel coronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), and the coronavirus disease, COVID-19, has created significant uncertainty and economic disruption, both near-term and potentially long-term.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have modified, and might further modify, our business practices in response to the COVID-19 pandemic, related third-party responses, including from government authorities and our suppliers, customers and distributors, and the economic and social ramifications of the disease and societal responses across the markets in which TI operates.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The extent to which the COVID-19 pandemic will continue to affect our business, results of operation and financial condition is difficult to predict and depends on numerous evolving factors including: the duration and scope of the pandemic; government, social, business and other actions that have been and will be taken in response to the pandemic; and the effect of the pandemic on short- and long-term general economic conditions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We might experience short- or long-term constrained supply or volatility in customer demand, which could materially and adversely affect our business and financial results in future periods.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our global operations subject us to risks associated with domestic or international political, social, economic or other conditions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "About 90 of our revenue comes from shipments to locations outside the United States; shipments of products to China-based customers represent about 20 of our revenue.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Certain countries where we operate have experienced, and other countries may experience, trade tension that affects global trade and macroeconomic conditions through the enactment of tariffs, import or export restrictions, trade embargoes and sanctions, restrictions on cross-border investment and other trade barriers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Trade tensions impact our ability to deliver products and product support into China, cause Chinese customers to seek alternate suppliers and could otherwise adversely affect our operations and financial results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are exposed to political, social and economic conditions, security risks, terrorism or other hostile acts, health conditions and epidemics, labor conditions, and possible disruptions in transportation, communications and information technology networks of the various countries in which we operate.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "8 Changes in expected demand for our products could have a material adverse effect on our results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, the loss or significant curtailment of purchases by one or more of our large customers, including curtailments due to a change in the design or manufacturing sourcing policies or practices of these customers, the timing of customer or distributor inventory adjustments, changes in demand for customer products, or trade restrictions, may adversely affect our results of operations and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our results of operations also might suffer because of a general decline in customer demand resulting from, for example: uncertainty regarding the stability of global credit and financial markets; natural events, epidemics or domestic or international political, social, economic or other conditions; breaches of customer information technology systems that disrupt customer operations; or a customer s inability to access credit markets and other sources of needed liquidity.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These forecasts are based on multiple assumptions, and if inaccurate, could cause us to hold inadequate, excess or obsolete inventory that would reduce our profit margins and adversely affect our results of operations and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our operating results and our reputation could be adversely affected by breaches, disruptions or other incidents relating to our information technology systems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we do not successfully implement these changes, our business plans and operating results could be adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may not achieve or sustain the expected growth, cost savings or other benefits of strategic, business and organizational changes, and charges associated with these actions could differ materially in amount and timing from our expectations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have manufacturing, data and design facilities and other operations in locations subject to natural occurrences such as severe weather, geological events or epidemics that could disrupt operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A natural disaster that results in a prolonged disruption, particularly where we have principal manufacturing and design operations, as listed in the Properties section in Item 2, may adversely affect our results and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our results of operations depend in part upon our ability to successfully develop, manufacture and market innovative products in a timely and cost-effective manner.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our access to needed goods and services may be adversely affected by potential disputes with suppliers or disruptions in our suppliers operations as a result of, for example: quality excursions; uncertainty regarding the stability of global credit and financial markets; domestic or international political, social, economic and other conditions; natural events or epidemics in the locations in which our suppliers operate; or limited or delayed access to key raw materials, natural resources and utilities.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our inability to timely implement new manufacturing technologies or install manufacturing equipment could adversely affect our results of operations.",
+    "risk_type": "operational",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Reliance on these suppliers involves risks, including possible shortages of capacity in periods of high demand, suppliers inability to develop and deliver advanced logic manufacturing process technology in a timely, cost-effective, and appropriate manner, the possibility of suppliers imposition of increased costs on us and the unauthorized disclosure or use of our intellectual property.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our results of operations and financial condition could be adversely affected if a customer or a distributor suffers a loss with respect to our inventory.",
+    "risk_type": "operational",
+    "nature": "new_risk",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our results of operations could be adversely affected by distributors promotion of competing product lines or our distributors financial performance.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "In 2020, about half of our revenue was generated from sales of our products through distributors.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our distributors carry competing product lines, and our sales could be affected if semiconductor distributors promote competing products over our products.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our profit margins vary due to a number of factors, which may include customer demand and shipment volume; our manufacturing processes; product mix; inventory levels; tariffs; freight costs; and new accounting pronouncements or changes in existing accounting practices or standards.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Legal and regulatory risks Our operations could be affected by the complex laws, rules and regulations to which our business is subject.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We are subject to complex laws, rules and regulations affecting our domestic and international operations relating to, for example, the environment and climate change, safety and health; trade; bribery and corruption; financial reporting; tax; data privacy and protection; labor and employment; competition; market access; epidemics; intellectual property ownership and infringement; and the movement of currency.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "If we do not comply or if we become subject to enforcement activity, we could be subject to fines, penalties or other legal liability.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "11 Our performance depends in part on our ability to enforce our intellectual property rights and to maintain freedom of operation.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "To the extent that we have to rely on technology from others for which a license is required, there can be no assurance that we will be able to obtain such a license at all or on terms we consider reasonable.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "We, directly and indirectly, face infringement claims from third parties, including non-practicing entities that have acquired patents to pursue enforcement actions against other companies.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Risks related to our financing activities and other risks Our debt could affect our operations and financial condition.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In addition, our obligation to make principal and interest payments could divert funds that otherwise might be invested in our operations or returned to shareholders, or could cause us to raise funds by, for example, issuing new debt or equity or selling assets.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our results of operations and liquidity could be affected by changes in the financial markets.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  }
+]

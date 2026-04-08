@@ -1,0 +1,476 @@
+[
+  {
+    "sentence": "In addition to the other information in this report, the following risk factors should be considered before deciding to invest in any of Abbott s securities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additional risks and uncertainties not presently known to Abbott, or risks Abbott currently considers immaterial, could also affect Abbott s actual results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Abbott s business, financial condition, results of operations, or prospects could be materially adversely affected by any of these risks.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Business and Operational Risks Disruptions to Abbott s global supply chain, which is large and complex, could negatively affect Abbott s results of operations .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Abbott s operations and performance depend on its ability to manage its large and complex global supply chain.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The COVID-19 pandemic has contributed to global supply chain disruptions, which have adversely impacted the cost and availability of certain raw materials, supplies, and services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, Abbott has experienced, and may continue to experience, availability issues with some services, operations, and materials used in its products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The future extent to which supply chain disruptions may have a material effect on Abbott s operating results is uncertain.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A more detailed discussion on the supply chain disruptions impact on Abbott s business is contained in the Financial Review section in Item 7, Management s Discussion and Analysis of Financial Condition and Results of Operations of this report.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Abbott may acquire other businesses, license rights to technologies or products, form alliances, or dispose of or spin-off businesses, which could cause it to incur significant expenses and could negatively affect profitability.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "From time to time, Abbott pursues acquisitions, licensing arrangements, and strategic alliances, or dispose of or spin-off some of its businesses, as part of its business strategy.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Abbott may not complete these transactions in a timely manner, on a cost-effective basis, or at all, and may not realize the expected benefits.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If Abbott is successful in making an acquisition, the products and technologies that are acquired may not be successful or may require significantly greater resources and investments than originally anticipated.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Abbott may not be able to integrate acquisitions successfully into its existing business or transition disposed businesses efficiently, and could incur or assume significant debt and unknown or contingent liabilities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Abbott could also experience negative effects on its reported results of operations from acquisition or disposition-related charges, amortization of expenses related to intangibles and charges for impairment of long-term assets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These effects could cause a deterioration of Abbott s credit rating, result in increased borrowing costs and interest expense, and decrease liquidity.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Abbott depends on sophisticated information technology systems and maintains protected personal data, and a cyber attack or other breach affecting these information technology systems or protected data could have a material adverse effect on Abbott s results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Similar to other large multi-national companies, the size and complexity of the information technology systems on which Abbott relies for both its infrastructure and products make them susceptible to a cyber attack, malicious intrusion, breakdown, destruction, loss of data privacy, or other significant disruption.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These systems have been and are expected to continue to be the target of malware and other cyber attacks.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, third party hacking attempts may cause Abbott s information technology systems and related products, protected data, or proprietary information to be compromised or stolen.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A significant attack or other disruption could result in adverse consequences, including increased costs and expenses, manufacturing challenges or disruption, problems with product availability, functionality or safety, damage to customer relations, reputational damage, lost revenue, and legal or regulatory penalties.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Abbott also collects, manages and processes protected personal data, including protected health information, in connection with certain medical products and service offerings.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Abbott is subject to certain regional and local data protection laws that prohibit or restrict the transfer of protected data across country borders.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For additional information concerning data privacy and security regulation, see the discussion in Regulation under Item 1, Business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A breach of protected personal information could result in adverse consequences, including regulatory inquiries or litigation, increased costs and expenses, reputational damage, lost revenue, and fines or penalties.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "9 Table of Contents Abbott invests in its systems and technology and in the protection of its products and data to reduce the risk of an attack or other significant disruption, and monitors its systems on an ongoing basis for any current or potential threats or vulnerabilities and for changes in technology and the regulatory environment.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There can be no assurance that these measures and efforts will prevent future attacks or other significant disruptions to any of the systems on which Abbott relies or that related product issues will not arise in the future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Similarly, there can be no assurance that third party information technology providers or other partners with whom Abbott contracts will not suffer a significant attack or disruption that impacts customers like Abbott.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any significant breach, attack or other disruption involving Abbott s systems or products could have a material adverse effect on Abbott s business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Abbott s research and development efforts may not succeed in developing commercially successful products and technologies, which may cause Abbott s revenue and profitability to decline.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The manufacture of many of Abbott's products is a highly exacting and complex process, and if Abbott or one of its suppliers or manufacturers encounters problems manufacturing products, Abbott s business could suffer.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Problems may arise during manufacturing for a variety of reasons, including equipment malfunction, failure to follow specific protocols and procedures, problems with raw materials or the global supply chain, failure to meet product specifications, cyber attacks, natural disasters, and environmental factors.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any of these events could, among other things, lead to increased costs, lost revenue, damage to customer relations, reputational damage, time and expense spent investigating the cause and remediating the problem, if any, a production stoppage at a manufacturing facility, and depending on the cause, similar losses with respect to other lots, batches or products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "To the extent Abbott or one of its suppliers or manufacturers experiences significant manufacturing problems, this could have a material adverse effect on Abbott s revenues and profitability.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "This consolidated indebtedness could have the effect, among other things, of reducing Abbott's flexibility to respond to changing business and economic conditions, and reducing funds available for working capital, capital expenditures, acquisitions, and other general corporate purposes.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Abbott's ability to arrange additional financing or refinancing will depend on, among other factors, Abbott's financial position and performance, as well as prevailing market conditions and other factors beyond Abbott's control.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Consequently, Abbott cannot assure that it will be able to obtain additional financing or refinancing on terms acceptable to Abbott or at all, which could adversely impact Abbott's ability to make scheduled payments with respect to its consolidated indebtedness and its profitability and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "10 Table of Contents Additionally, further borrowing could cause a deterioration of Abbott's credit ratings.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Abbott's credit ratings reflect each credit rating agency's then opinion of Abbott's financial strength, operating performance, and ability to meet its debt obligations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Adverse changes in Abbott's credit ratings may result in increased borrowing costs for future long-term debt or short-term borrowing facilities and may limit financing options, including access to the unsecured borrowing market.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Legal and Regulatory Risks Abbott is subject to numerous governmental regulations and it is costly to comply with these regulations and to develop compliant products and processes.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Possible regulatory actions for non-compliance include warning letters, fines, damages, injunctions, civil penalties, recalls, consent decrees, seizures of Abbott s products, and criminal prosecution.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any of these events could disrupt Abbott s business and have a material adverse effect on Abbott s revenues, profitability, cash flows, and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For information on Abbott s voluntary recall in February 2022 of certain powder infant formula products manufactured at its facility in Sturgis, Michigan, the manufacturing stoppage at such facility, and the consent decree that Abbott entered into with the FDA on May 16, 2022, see the discussion in the Financial Review section in Item 7, Management s Discussion and Analysis of Financial Condition and Results of Operations of this report.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Laws and regulations affecting government benefit programs could impose new obligations on Abbott, require Abbott to change its business practices, and restrict its operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Changes in the health care regulatory environment may adversely impact the demand for and price of Abbott s products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "11 Table of Contents Further, in the U.S., a number of the provisions of the Affordable Care Act and the Health Care and Education Reconciliation Act of 2010 address access to health care products and services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Significant safety concerns could arise for Abbott s products, which could have a material adverse effect on Abbott s revenues and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "When new safety concerns are reported, Abbott may be required to amend the conditions of use for a product.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If serious safety concerns arise with an Abbott product, sales of the product have been and could be halted by Abbott or by regulatory authorities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Safety concerns affecting suppliers or competitors products also may reduce the market acceptance of Abbott s products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Product liability losses are self-insured and could have a material adverse effect on Abbott s profitability, cash flows, and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Economic and Industry Risks Abbott is subject to risks related to public health crises, such as widespread outbreaks of infectious diseases like the COVID-19 pandemic, which has had, and may continue to have, a material effect on Abbott s business, financial condition and results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As a global healthcare company, public health crises, such as the widespread outbreaks of infectious diseases like the COVID-19 pandemic, may negatively impact certain of Abbott's operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Health concerns and significant changes in political or economic conditions caused by such outbreaks can cause, and during the COVID-19 pandemic have caused, significant reductions in demand for certain products, increased difficulty in serving customers, disruptions to manufacturing and supply chains, and negative effects on certain of Abbott s operations as well as the operations of its suppliers, distributors and other third-party partners.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Furthermore, such widespread outbreaks may impact, and during the COVID-19 pandemic have impacted, the broader economies of affected countries, including negatively impacting economic growth, the proper functioning of financial and capital markets, inflation rates (including in the U.S.), foreign currency exchange rates, and interest rates.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the COVID-19 pandemic has contributed to global supply chain disruptions, which have adversely impacted the cost and availability of certain raw materials, supplies, and services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "12 Table of Contents With regard to COVID-19 diagnostic testing, the FDA issued Emergency Use Authorizations (EUAs) for several COVID 19 related products in 2020 and 2021, including Abbott diagnostic tests.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Food, Drug, and Cosmetic Act and remain in effect until the Secretary of the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Department of Health and Human Services terminates the EUA Declaration or unless sooner terminated or revoked.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Abbott is evaluating the potential impacts of the end of the public health emergency, and it will continue to monitor further regulatory actions from relevant U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, the demand for COVID-19 tests has been volatile over the last two years as the number of COVID-19 cases has fluctuated during the period.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Abbott expects the COVID-19 pandemic to shift to an endemic state in 2023, which would likely result in significantly lower demand for COVID-19 tests.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Due to the unpredictability of the COVID-19 pandemic, including how and when it will shift to an endemic state, the extent to which COVID-19 will continue to have a material effect on Abbott s business, financial condition or results of operations is uncertain.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Abbott is subject to cost containment efforts that could cause a reduction in future revenues and operating income.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In the United States and other countries, Abbott s businesses have experienced downward pressure on certain product pricing.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Fluctuation in foreign currency exchange rates has adversely affected and may continue to adversely affect Abbott s financial statements and its ability to realize projected sales and earnings.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Sales outside of the United States in 2022 made up approximately 58 percent of Abbott s net sales.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A discussion of the steps taken to mitigate the impact of foreign exchange is contained in Item 7A, Quantitative and Qualitative Disclosures about Market Risk in Abbott s 2022 Form 10-K.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "13 Table of Contents Deterioration in the economic condition and credit quality of certain countries may negatively affect Abbott s results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Sales outside of the United States in 2022 made up approximately 58 percent of Abbott s net sales.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additional risks associated with Abbott s international operations include: differing local product preferences and product requirements; trade protection measures, including tariffs, import or export licensing requirements, other governmental restrictions such as trade sanctions, and changes to international trade agreements; difficulty in establishing, staffing, and managing operations; differing labor regulations; potentially negative consequences from changes in or interpretations of tax laws; political and economic instability, including sovereign debt issues; restrictions on local currency conversion and/or cash extraction; price controls, limitations on participation in local enterprises, expropriation, nationalization, and other governmental action; inflation, recession, and fluctuations in interest rates; diminished protection of intellectual property; and potential penalties or other adverse consequences for violations of anti-corruption, anti-bribery, and other similar laws and regulations, including the Foreign Corrupt Practices Act and the U.K.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Many other factors can affect Abbott s profitability and its financial condition, including: changes in or interpretations of laws and regulations, including changes in accounting standards, taxation requirements, product approval standards, product labeling standards, source and use laws, and environmental laws; differences between the fair value measurement of assets and liabilities and their actual value, particularly for pensions, retiree health care, stock compensation, intangibles, goodwill, and contingent consideration; and for contingent liabilities such as litigation, the absence of a recorded amount, or an amount recorded at the minimum, compared to the actual amount; changes in the rate of inflation (including the cost of raw materials, commodities, and supplies), interest rates, market value of Abbott s equity investments, and the performance of investments held by Abbott or Abbott s employee benefit trusts; changes in the creditworthiness of counterparties that transact business with or provide services to Abbott or Abbott s employee benefit trusts; changes in business, economic, and political conditions, including: war, political instability, terrorist attacks, the threat of future terrorist activity and related military action; global climate change, extreme weather and natural disasters; widespread outbreaks of infectious diseases; the cost and availability of insurance due to any of the foregoing events; labor disputes, strikes, slow-downs, or other forms of labor or union activity; and pressure from third-party interest groups; 14 Table of Contents changes in Abbott s business units and investments and changes in the relative and absolute contribution of each to earnings and cash flow resulting from evolving business strategies, changing product mix, changes in tax laws or tax rates both in the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "and abroad and opportunities existing now or in the future; changes in the buying patterns of a major distributor, retailer, wholesaler, or other customer resulting from buyer purchasing decisions, pricing, seasonality, or other factors, or other problems with licensors, suppliers, distributors, and business partners; and legal difficulties, any of which could preclude or delay commercialization of products or adversely affect profitability, including claims asserting statutory or regulatory violations, and adverse litigation decisions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Many of these factors may manifest individually or collectively, such as Russia s invasion of Ukraine which resulted in political instability, sanctions, economic and currency volatility, inflation and other operational and supply disruptions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "To date, Abbott has been able to manage these disruptions without material impact to its results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "However, it is difficult to predict the future implications and consequences of the situation on local, regional or global economies and Abbott s operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There could be additional sanctions, economic volatility, cybersecurity threats, political instability, transportation and other supply disruptions, as well as collection default risk or limited availability of resources to conduct essential business processes that could have a material adverse impact to Abbott s operations and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS This Form 10-K contains forward-looking statements that are based on management s current expectations, estimates, and projections.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  }
+]

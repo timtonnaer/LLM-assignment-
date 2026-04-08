@@ -1,0 +1,614 @@
+[
+  {
+    "sentence": "Because of the following factors, as well as other variables affecting our results of operations, past financial performance may not be a reliable indicator of future performance, and historical trends should not be used to anticipate results or trends in future periods.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, we have in the recent past and may again in the future face macroeconomic challenges, including weakness in certain geographic regions and global political developments that impact international trade, such as trade disputes and increased tariffs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may also be vulnerable to increased risks associated with our efforts to address such challenges given the broad range of geographic regions in which we and our customers and partners operate.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we experience these challenges and do not succeed in our efforts to mitigate them, or if these efforts are more costly or time-consuming than expected, our business and results of operations may be adversely affected, which could limit our ability to invest in and grow our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As a result, we may invest less in certain areas of our business than our competitors, and our competitors may have greater financial, technical and marketing resources available to their products and services compared to the resources allocated to our competing products and services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "11 Companies with whom we have alliances in certain areas may be or may become our competitors in other areas.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we cannot proportionately decrease our cost structure (apart from research and development expenses) on a timely basis in response to competitive price pressures, our gross margin and, therefore, our profitability could be adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, if our pricing and other facets of our offerings are not sufficiently competitive, or if there is a negative reception to our product decisions, we may lose market share in certain areas, which could adversely affect our financial performance and business prospects.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, the refill and remanufactured alternatives for some of our LaserJet toner and InkJet cartridges compete with our Printing Supplies business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, to offset industry declines in some of our businesses, our strategy is to successfully grow in adjacencies such as copier printers, maintain our strong position in graphics, scale our 3D Printing, Managed Print Services and Device as a Service businesses and execute on our Personal Systems growth strategy by providing specialized products and services that address the needs of our customers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "12 If we cannot continue to produce quality products and services, our reputation, business and financial performance may suffer.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In the course of conducting our business, we must address quality and security issues associated with our products and services, including defects in our engineering, design and manufacturing processes, unsatisfactory performance under service contracts, and unsatisfactory performance or malicious acts by third-party contractors or subcontractors or their employees.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our business is also exposed to the risk of defects in third-party components included in our products, including security vulnerabilities, as illustrated by the recent Spectre and Meltdown side-channel exploit threats.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In order to address quality and security issues, we work extensively with our customers and suppliers and engage in product testing to determine the causes of problems and to develop and implement effective solutions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "However, the products and services that we offer are complex, and our regular testing and quality control efforts may not be completely effective in controlling or detecting all quality and security issues or errors, particularly with respect to defects or security vulnerabilities in components manufactured by third parties.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we are unable to determine the cause or find an effective solution to address quality and security issues with our products, we may delay shipment to customers, which would delay revenue recognition and receipt of customer payments and could adversely affect our net revenue, cash flows and profitability.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, after products are delivered, quality and security issues may require us to repair or replace such products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Addressing quality and security issues can be expensive and may result in additional warranty, repair, replacement and other costs, adversely affecting our financial performance.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In the event of security vulnerabilities or other issues with third-party components, we may have to rely on third parties to provide mitigation techniques such as firmware updates.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Furthermore, mitigation techniques for vulnerabilities in third-party components may be ineffective or may result in adverse performance, system instability and data loss or corruption.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If new or existing customers have difficulty operating our products or are dissatisfied with our services, our results of operations could be adversely affected, and we could face possible claims if we fail to meet our customers expectations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, quality and security issues, including those resulting from defects or security vulnerabilities in third-party components, can impair our relationships with new or existing customers and adversely affect our brand and reputation, which could, in turn, adversely affect our results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Global economic events, including trade disputes, economic sanctions and emerging market volatility, and associated uncertainty may cause currencies to fluctuate, which may contribute to variations in our sales of products and services in impacted jurisdictions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, the United Kingdom s June 2016 vote to leave the European Union (commonly known as Brexit caused significant volatility in currency exchange rates, especially between the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, in the event that one or more European countries were to replace the euro with another currency, our sales into such countries, or into Europe generally, would likely be adversely affected until stable exchange rates are established.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, currency variations can adversely affect margins on sales of our products in countries outside of the United States and products that include components obtained from suppliers located outside of the United States.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, we have in the past experienced the impacts of macroeconomic weakness across many geographic regions and markets, and we may experience similar impacts in the future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "government, and could negatively affect 13 macroeconomic conditions in the United States, which could further reduce demand for our products and services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Political developments impacting international trade, including continued uncertainty surrounding Brexit, trade disputes and increased tariffs, particularly between the United States and China, may negatively impact markets and cause weaker macroeconomic conditions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Economic weakness and uncertainty may adversely affect demand for our products and services, may result in increased expenses due to higher allowances for doubtful accounts and potential goodwill and asset impairment charges, and may make it more difficult for us to accurately forecast revenue, gross margin, cash flows and expenses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The net revenue and profitability of our operations have historically varied, which makes our future financial results less predictable.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Overall gross margins and profitability in any given period are dependent on the product, service, customer and geographic mix reflected in that period s net revenue, which in turn depends on the overall demand for our products and services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Competition, lawsuits, investigations, increases in component and manufacturing costs that we are unable to pass on to our customers, component supply disruptions and other risks affecting our businesses may also have a significant impact on our overall gross margin and profitability.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our results of operations may be adversely affected by any conflicts that might arise between our various distribution channels or the loss or deterioration of any alliance or distribution arrangement or reduced assortments of our products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Many of our significant distributors operate on narrow margins and have been negatively 14 affected by business pressures in the past.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Net revenue from indirect sales could suffer, and we could experience disruptions in distribution, if our distributors financial conditions, abilities to borrow funds or operations weaken.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Given the wide variety of products and services that we offer, the large number of our suppliers and contract manufacturers that are located around the world, and the long lead times required to manufacture, assemble and deliver certain components and products, problems could arise in production, planning and inventory management that could seriously harm our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Third-party suppliers may have limited financial resources to withstand challenging business conditions, particularly as a result of increased interest rates or emerging market volatility, and our business could be negatively impacted if key suppliers are forced to cease or limit their operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Due to the international nature of our third-party supplier network, our financial results may also be negatively impacted by increased trade barriers and tariffs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Other supplier problems that we could face include component shortages, excess supply, risks related to the terms of our contracts with suppliers, risks associated with contingent workers, risks related to supply chain working conditions and materials sourcing and risks related to our relationships with single-source suppliers, each of which is described below.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may experience a shortage of, or a delay in receiving, certain components as a result of strong demand, capacity constraints, supplier financial weaknesses, the inability of suppliers to borrow funds, disputes with suppliers (some of whom are also our customers), disruptions in the operations of component suppliers, other problems experienced by suppliers or problems faced during the transition to new suppliers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, many of our competitors obtain products or 15 components from the same OMs and suppliers that we utilize.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The practice employed by our PC business of purchasing product components and transferring those components to OMs may create large supplier receivables with the OMs that, depending on the financial condition of the OMs, may create collectability risks.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We work with our suppliers to improve their labor practices and working conditions, such as by including requirements in our agreements with our suppliers that workers receive fair treatment, safe working conditions and freely chosen employment, that materials are responsibly sourced and that business operations are conducted in an environmentally responsible and ethical way.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We also rely on Intel to provide us with a sufficient supply of processors for many of our PCs and workstations, and we rely on AMD to provide us with a sufficient supply of processors for other products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The ultimate impact on us, our significant suppliers and our general infrastructure of being located near locations more vulnerable to the occurrence of the aforementioned business disruptions, such as near major earthquake faults, and being 16 consolidated in certain geographical areas is unknown and remains uncertain.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Due to the international nature of our business, political or economic changes, uncertainty or other factors could harm our business and financial performance.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Approximately 65 of our net revenue for fiscal year 2018 came from outside the United States.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our future business and financial performance could suffer due to a variety of international factors, including: ongoing instability or changes in a country s or region s economic, regulatory or political conditions, including inflation, recession, interest rate fluctuations and actual or anticipated military or political conflicts or any other change resulting from Brexit; longer collection cycles and financial instability among customers, the imposition by governments of additional taxes, tariffs or other restrictions on foreign trade or changes in restrictions on trade between the United States and other countries, including the impact of recently imposed tariffs between the United States and China on a wide variety of products; trade regulations and procedures and actions affecting production, shipping, pricing and marketing of products, including policies adopted by the United States or other countries that may champion or otherwise favor domestic companies and technologies over foreign competitors; local labor conditions and regulations, including local labor issues faced by specific suppliers and OEMs; managing a geographically dispersed workforce; changes or uncertainty in the international, national or local regulatory and legal environments; differing technology standards or customer requirements; import, export or other business licensing requirements or requirements relating to making foreign direct investments, which could increase our cost of doing business in certain jurisdictions, prevent us from shipping products to particular countries or markets, affect our ability to obtain favorable terms for components, increase our operating costs or lead to penalties or restrictions; stringent privacy and data protection policies, such as the European Union s General Data Protection Regulation GDPR changes in tax laws; and fluctuations in freight costs, limitations on shipping and receiving capacity, and other disruptions in the transportation and shipping infrastructure at important geographic points of exit and entry for our products and shipments.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "17 The factors described above also could disrupt our product and component manufacturing and key suppliers located outside of the United States.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Certain prior business combination and investment transactions resulted, and in the future any such transactions may result, in significant costs and expenses, including those related to severance pay, early retirement costs, employee benefit costs, goodwill and asset impairment charges, charges from the elimination of duplicative facilities and contracts, asset impairment charges, inventory adjustments, assumed litigation and other liabilities, legal, accounting and financial advisory fees, and required payments to executive officers and key employees under retention plans.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any increased or unexpected costs, unanticipated delays or failures to meet contractual obligations could make business combination and investment transactions less profitable than anticipated or unprofitable.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our ability to conduct due diligence with respect to business combination and investment transactions, and our ability to evaluate the results of such due diligence, is dependent upon the veracity and completeness of statements and disclosures made or actions taken by third parties or their representatives.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The pricing and other terms of our contracts for business combination and investment transactions require us to make estimates and assumptions at the time we enter into these contracts, and, during the course of our due diligence, we may not identify all of the factors necessary to estimate accurately our costs, timing and other matters or we may incur costs if a business combination and investment transaction is not consummated.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may borrow to finance business combination and investment transactions, and the amount and terms of any potential acquisition-related or other borrowings, as well as other factors, could affect our liquidity and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have incurred and will incur additional depreciation and amortization expense over the useful lives of certain assets acquired in connection with business combination and investment transactions, and, to the extent that the value of goodwill, tangible or intangible assets acquired in connection with a business combination and investment transaction becomes impaired, 18 we may be required to incur additional material charges relating to the impairment of those assets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If there are future decreases in our stock price or significant changes in the business climate or results of operations of our reporting units, we may incur additional charges, which may include impairment charges.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In order to pursue our strategy successfully, we must identify candidates for and successfully complete business combination and investment transactions, some of which may be large or complex, and manage post-closing issues such as the integration of acquired businesses, products, services or employees.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The challenges involved in integration include: successfully combining product and service offerings and entering or expanding into markets in which we are not experienced or are developing expertise; convincing both our customers and distributors and those of the acquired business that the transaction will not diminish client service standards or business focus; persuading both our customers and distributors and those of the acquired business not to defer purchasing decisions or switch to other suppliers (which could result in our incurring additional obligations in order to address customer uncertainty), minimizing sales force attrition and expanding and coordinating sales, marketing and distribution efforts; consolidating and rationalizing corporate IT infrastructure, which may include multiple legacy systems from various acquisitions and integrating software code and business processes; minimizing the diversion of management attention from ongoing business concerns; persuading employees that business cultures are compatible, maintaining employee morale and retaining key employees, engaging with employee works councils representing an acquired company s non-U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We announced a restructuring plan in October 2016, which we amended in May 2018, to realign our cost structure due to the changing nature of our business and to achieve operating efficiencies that we expect to reduce costs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Implementation of the restructuring plan may be costly and disruptive to our business, and we may not be able to obtain the estimated workforce reductions within the projected timing or at all, or the cost savings and benefits that were initially anticipated in connection with our restructuring.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "19 Our financial performance may suffer if we cannot continue to develop, license or enforce the intellectual property rights on which our businesses depend.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We rely upon patent, copyright, trademark, trade secret and other intellectual property IP laws in the United States, similar laws in other countries, and agreements with our employees, customers, suppliers and other parties, to establish and maintain IP rights in the products and services we sell, provide or otherwise use in our operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "However, any of our IP rights could be challenged, invalidated, infringed or circumvented, or such IP rights may not be sufficient to permit us to take advantage of current market trends or to otherwise provide competitive advantages, either of which could result in costly product redesign efforts, discontinuance of certain product offerings or other harm to our competitive position.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, our enforcement of our IP rights of our InkJet printer supplies against infringers may be successfully challenged or our IP rights may be successfully circumvented.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our products and services depend in part on IP and technology licensed from third parties .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may not be able to obtain or continue to obtain licenses and technologies from these third parties at all or on reasonable terms, or such third parties may demand cross-licenses to our IP.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In order to remain in compliance with the terms of our licenses, we must carefully monitor and manage our use of third-party components, including both proprietary and open source license terms that may require the licensing or public disclosure of our IP without compensation or on undesirable terms.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, it is possible that as a consequence of a merger or acquisition, third parties may obtain licenses to some of our IP rights or our business may be subject to certain restrictions that were not in place prior to such transaction.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Consequently, we may lose a competitive advantage with respect to these IP rights or we may be required to enter into costly arrangements in order to terminate or limit these rights.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Third-party claims of IP infringement are commonplace in our industry and successful third-party claims may limit or disrupt our ability to sell our products and services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Third parties also may claim that we or customers indemnified by us are infringing upon their IP rights.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, patent assertion entities may purchase IP assets for the purpose of asserting claims of infringement and attempting to extract settlements from companies such as us and our customers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we cannot or do not license allegedly infringed IP at all or on reasonable terms, or if we are required to substitute similar technology from another source, our operations could be adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Even if we believe that IP claims are without merit, they can be time-consuming and costly to defend against and may divert management s attention and resources away from our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Claims of IP infringement also might require us to redesign affected products, enter into costly settlement or license agreements, pay costly damage awards, or face a temporary or permanent injunction prohibiting us from importing, marketing or selling certain of our products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, claims of IP infringement may adversely impact our brand and reputation and imperil new and existing customer relationships.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In certain countries (primarily in Europe), proceedings are ongoing or have been concluded in which groups representing copyright owners have sought or are seeking to impose upon and collect from us levies upon IT equipment (such as PCs, multifunction devices and printers) alleged to be copying devices under applicable laws.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The total amount of the copyright levies will depend on the types of products determined to be subject to the levy, the number of units of those products sold during the period covered by the levy, and the per unit fee for each type of product, all of which are affected by several factors, including the outcome of ongoing litigation involving us and other industry participants and possible action by the legislative bodies in the applicable countries, and could 20 be substantial.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The allocation of IP rights between Hewlett Packard Enterprise and HP as part of the Separation, and the shared use of certain IP rights following the Separation, could adversely impact our reputation, our ability to enforce certain IP rights that are important to us and our competitive position.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In connection with the Separation, Hewlett-Packard Company allocated to each of Hewlett Packard Enterprise and HP the IP assets relevant to their respective businesses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The terms of the Separation include cross-licenses and other arrangements to provide for certain ongoing use of IP in the existing operations of both businesses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Furthermore, as a result of this shared use of the legacy branding, there is a risk that conduct or events adversely affecting the reputation of Hewlett Packard Enterprise could also adversely affect the reputation of HP.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, as a result of the allocation of IP as part of the Separation, we no longer own IP allocated to Hewlett Packard Enterprise and our resulting IP ownership position could adversely affect our position and options relating to patent enforcement, patent licensing and cross-licensing, our ability to sell our products or services, our competitive position in the industry and our ability to enter new product markets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Factors that may influence contract termination, non-renewal or reduction include business downturns, dissatisfaction with our services or products attached to services we provide, our retirement or lack of support for our services, our clients selecting alternative technologies to replace us, the cost of our services as compared to the cost of services offered by our competitors, general market conditions or other reasons.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our clients could also delay or terminate implementations or use of our services or choose not to invest in additional services from us in the future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "21 Our stock price has historically fluctuated and may continue to fluctuate, which may make future prices of our stock difficult to predict.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Past downgrades of Hewlett-Packard Company s ratings increased the cost of borrowing under our credit facilities and reduced market capacity for our commercial paper.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Future downgrades could have the same effects, and could also require the posting of additional collateral under some of our derivative contracts.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, uncertainties related to the interpretation of the TCJA could materially impact our tax obligations and effective tax rate, as well as our business strategy and tax planning.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "22 Our effective tax rate in the future could be adversely affected by changes to our operating structure, changes in the mix of earnings in countries with differing statutory tax rates, changes in the valuation of deferred tax assets and liabilities or changes in tax laws.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, various tax legislation has been introduced or is being considered that could significantly impact our tax rate, the carrying value of deferred tax assets, or our deferred tax liabilities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In order to be successful, we must attract, be able to hire, retain, train, motivate, develop, transition and deploy qualified executives and other key employees, including those in managerial, technical, development, sales, marketing and IT support positions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "System security risks, data protection breaches, cyberattacks, system outages and systems integration issues could disrupt our internal operations or services provided to customers, and any such disruption could reduce our revenue, increase our expenses, damage our reputation and adversely affect our stock price.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, sophisticated hardware and operating system software and applications that we produce or procure from third parties may contain defects in design or manufacture, including bugs and other problems that could unexpectedly interfere with the operation of the system.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In the past, we have experienced data security incidents resulting from unauthorized use of our systems or those of third parties, which to date have not had a material impact on our operations; however, there is no assurance that such impacts will not be material in the future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Breaches of our security measures or the accidental loss, inadvertent disclosure or unapproved dissemination of proprietary information or sensitive or confidential data about us, our clients or our customers, including the potential loss or disclosure of such information or data as a result of fraud, trickery or other forms of deception, could expose us, our customers or the individuals affected to a risk of loss or misuse of this information, damage our brand and reputation or otherwise harm our business, and result in government enforcement actions and litigation and potential liability for us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, the GDPR imposes a strict data protection compliance regime with severe penalties of up to the greater of 4 of worldwide annual turnover and/or 20 million.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "23 Portions of our IT infrastructure, including portions provided by third parties, also may experience interruptions, outages, delays or cessations of service or may produce errors in connection with systems integrations, migration work or other causes from time to time.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any such events could result in business disruptions and the process of remediating them could be more expensive, time-consuming, disruptive and resource intensive than planned.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our business is subject to various federal, state, local and foreign laws and regulations that could result in costs or other sanctions that adversely affect our business and results of operations.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "24 Any provision of our certificate of incorporation or bylaws or Delaware law that has the effect of delaying or deterring a change in control of HP could limit the opportunity for our stockholders to receive a premium for their shares of our stock and also could affect the price that some investors are willing to pay for our stock.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "concrete"
+  }
+]

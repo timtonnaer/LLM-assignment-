@@ -1,0 +1,140 @@
+[
+  {
+    "sentence": "government defense spending or changes in spending allocation or priorities could result in one or more of our programs being reduced, delayed or terminated, which could impact our financial performance.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Early each calendar year, the President of the United States presents to Congress the budget for the upcoming fiscal year.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For the remainder of the year, the appropriations and authorization committees of Congress review the President s budget proposals and establish the funding levels for the upcoming fiscal year.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, changes in congressional schedules due to elections or other legislative priorities, or negotiations for program funding levels can interrupt the process.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Second, Congress typically appropriates funds on a fiscal-year basis, even though contract performance may extend over many years.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If a contract is terminated 17 for default, the government in most cases pays only for the work it has accepted.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Government contractors operate in a highly regulated environment and are subject to audit by the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Moreover, new laws, regulations or standards, or changes to existing ones, can increase our performance and compliance costs and reduce our profitability.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, if customers default on existing contracts and the contracts are not replaced, the group s anticipated revenue and profitability could be reduced materially.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If there is a significant change in one or more of these circumstances, estimates or assumptions, or if the risks under our contracts are not managed adequately, the profitability of contracts could be adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our ability to perform our obligations may be materially adversely affected if one or more of these suppliers is unable to provide the agreed-upon supplies, perform the agreed-upon services in a timely and cost-effective manner, or engages in misconduct or other improper activities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "18 Sales and operations outside the United States are subject to different risks that may be associated with doing business in foreign countries.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "or foreign laws could result in administrative, civil or criminal liabilities, including suspension or debarment from government contracts or suspension of our export privileges, and could materially adversely affect revenue and earnings associated with our non-U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we were unable to develop new products that meet customers changing needs and satisfy regulatory requirements in a timely manner or successfully attract and retain qualified personnel, our future revenue and earnings may be materially adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Whether we realize the anticipated benefits from these transactions depends on multiple factors, including our integration of the businesses involved; the performance of the underlying products, capabilities or technologies; market conditions following the acquisition; and acquired liabilities, including some that may not have been identified prior to the acquisition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Goodwill is subject 19 to an impairment test on an annual basis and when circumstances indicate that an impairment is more likely than not.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We generally face the same security threats for these systems as for our own internal systems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, we face cyber threats from entities that may seek to target us through our customers, vendors, subcontractors and other third parties with whom we do business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Accordingly, we maintain information security staff, policies and procedures for managing risk to our information systems, and conduct employee training on cyber security to mitigate persistent and continuously evolving cyber security threats.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have experienced cyber security threats such as viruses and attacks by hackers targeting our information technology systems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "However, future threats could, among other things, cause harm to our business and our reputation; disrupt our operations; expose us to potential liability, regulatory actions and the loss of business; and challenge our eligibility for future work on sensitive or classified systems for government customers, as well as impact our results of operations materially.",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Due to the evolving nature of these security threats, the potential impact of any future incident cannot be predicted.",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "20 FORWARD-LOOKING STATEMENTS This Annual Report on Form 10-K contains forward-looking statements that are based on management s expectations, estimates, projections and assumptions.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "vague"
+  }
+]

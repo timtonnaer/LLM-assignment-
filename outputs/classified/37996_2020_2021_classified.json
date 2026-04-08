@@ -1,0 +1,14 @@
+[
+  {
+    "sentence": "Failure to comply with applicable laws and regulations could subject Ford Credit to regulatory enforcement actions, including consent orders or similar orders where Ford Credit may be required to revise practices, remunerate customers, or pay fines.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "An enforcement action against Ford Credit could harm Ford Credit s reputation or lead to further litigation.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  }
+]

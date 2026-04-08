@@ -1,0 +1,266 @@
+[
+  {
+    "sentence": "Risk Factors (continued) priorities, available resources and product and economic cycles, have a significant effect on the capital spending policies of these entities.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "As a multinational corporation, we are exposed to fluctuations in currency exchange rates, which could adversely affect our cash flows and results of operations.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "As a multinational corporation, our businesses occasionally invoice third-party customers in currencies other than the one in which they primarily do business (the \"functional currency\").",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "As our international sales grow, exposure to fluctuations in currency exchange rates could have a larger effect on our financial results.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "In 2017 , currency translation had a favorable effect of 70 million on revenues due to the weakening of the U.S.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The administration has also indicated an intention to request Congress to make significant changes, replacement or elimination of the Patient Protection and Affordable Care Act, and government negotiation/regulation of drug prices paid by government programs.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We could incur substantial costs and diversion of management resources in defending these claims, which could have a material 16 THERMO FISHER SCIENTIFIC INC.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "However, we may be unable to obtain these licenses on commercially reasonable terms, if at all, and our challenge of the patents may be unsuccessful.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our pharma services offerings are highly complex, and if we are unable to provide quality and timely offerings to our customers, our business could suffer.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our pharma services offerings are highly exacting and complex, due in part to strict quality and regulatory requirements.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our operating results in this business depend on our ability to execute and, when necessary, improve our quality management strategy and systems, and our ability to effectively train and maintain our employee base with respect to quality management.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "A failure of our quality control systems could result in problems with facility operations or preparation or provision of products.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In each case, such problems could arise for a variety of reasons, including equipment malfunction, failure to follow specific protocols and procedures, problems with raw materials or environmental factors and damage to, or loss of, manufacturing operations.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Such problems could affect production of a particular batch or series of batches of products, requiring the destruction of such products or a halt of facility production altogether.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, our failure to meet required quality standards may result in our failure to timely deliver products to our customers, which in turn could damage our reputation for quality and service.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Any such failure could, among other things, lead to increased costs, lost revenue, reimbursement to customers for lost drug product, registered intermediates, registered starting materials, and active pharmaceutical ingredients, other customer claims, damage to and possibly termination of existing customer relationships, time and expense spent investigating the cause and, depending on the cause, similar losses with respect to other batches or products.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Production problems in our drug and biologic manufacturing operations could be particularly significant because the cost of raw materials for such manufacturing is often high.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "If problems in preparation or manufacture of a product or failures to meet required quality standards for that product are not discovered before such product is released to the market, we may be subject to adverse regulatory actions, including product recalls, product seizures, injunctions to halt manufacture and distribution, restrictions on our operations, civil sanctions, including monetary sanctions, and criminal actions.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, such problems or failures could subject us to litigation claims, including claims from our customers for reimbursement for the cost of lost or damaged active pharmaceutical ingredients, the cost of which could be significant.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We are subject to product and other liability risks for which we may not have adequate insurance coverage.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We may be named as a defendant in product liability lawsuits, which may allege that products or services we have provided from our pharma services offerings have resulted or could result in an unsafe condition or injury to consumers.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Additionally, products currently or previously sold by our environmental and process instruments and radiation measurement and security instruments businesses include fixed and portable instruments used for chemical, radiation and trace explosives detection.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our inability to complete any pending acquisitions or to successfully integrate any new or previous acquisitions could have a material adverse effect on our business.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Risk Factors (continued) a number of reasons, including the need for antitrust and/or other regulatory approvals.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "As a result of these acquisitions, we recorded significant goodwill and indefinite-lived intangible assets (primarily tradenames) on our balance sheet, which amount to approximately 25.29 billion and 1.27 billion , respectively, as of December 31, 2017 .",
+    "risk_type": "financing",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, we have definite-lived intangible assets totaling 15.41 billion as of December 31, 2017 .",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, we manufacture products that compete directly with products that we source from third-party suppliers.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "We are subject to various local, state, federal, foreign and transnational laws and regulations, which include the operating and security standards of the U.S.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Drug Enforcement Agency (the DEA), various state boards of pharmacy, state health departments, the U.S.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Department of Health and Human Services (the DHHS), the European Medicines Agency (the EMA), in Europe, the EU member states and other comparable agencies and, in the future, any changes to such laws and regulations could adversely affect us.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In particular, we are subject to laws and regulations concerning current good manufacturing practices and drug safety.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our subsidiaries may be required to register for permits and/or licenses with, and may be required to comply with the laws and regulations of the DEA, the FDA, the DHHS, foreign agencies including the EMA, and other various state boards of pharmacy, state health departments and/or comparable state agencies as well as certain accrediting bodies depending upon the type of operations and location of product distribution, manufacturing and sale.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Risk Factors (continued) The manufacture, distribution and marketing of many of our products and services, including medical devices and pharma services, are subject to extensive ongoing regulation by the FDA, the DEA, the EMA, and other equivalent local, state, federal and non-U.S.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Failure by us or by our customers to comply with the requirements of these regulatory authorities, including without limitation, remediating any inspectional observations to the satisfaction of these regulatory authorities, could result in warning letters, product recalls or seizures, monetary sanctions, injunctions to halt manufacture and distribution, restrictions on our operations, civil or criminal sanctions, or withdrawal of existing or denial of pending approvals, including those relating to products or facilities.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, such a failure could expose us to contractual or product liability claims, contractual claims from our customers, including claims for reimbursement for lost or damaged active pharmaceutical ingredients, as well as ongoing remediation and increased compliance costs, any or all of which could be significant.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We are the sole manufacturer of a number of pharmaceuticals for many of our customers and a negative regulatory event could impact our customers' ability to provide products to their customers.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Any noncompliance by us with applicable laws and regulations or the failure to maintain, renew or obtain necessary permits and licenses could result in criminal, civil and administrative penalties and could have an adverse effect on our results of operations.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Any significant disruption of those operations for any reason, such as strikes or other labor unrest, power interruptions, fire, hurricanes or other events beyond our control could adversely affect our sales and customer relationships and therefore adversely affect our business.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We also rely on our technology infrastructure, among other functions, to interact with suppliers, sell our products and services, fulfill orders and bill, collect and make payments, ship products, provide services and support to customers, track customers, fulfill contractual obligations and otherwise conduct business.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Despite any precautions we may take, such problems could result in, among other consequences, interruptions in our services, 19 THERMO FISHER SCIENTIFIC INC.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Any of the cyber-attacks, breaches or other disruptions or damage described above, if significant, could materially interrupt our operations, delay production and shipments, result in theft of our and our customers intellectual property and trade secrets, damage customer, business partner and employee relationships and our reputation or result in defective products or services, legal claims and proceedings, liability and penalties under privacy laws and increased cost for security and remediation, each of which could adversely affect our business and financial results.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The covenants in our revolving credit facility (the Facility) include a Consolidated Leverage Ratio (total debt-to-Consolidated EBITDA) and a Consolidated Interest Coverage ratio (Consolidated EBITDA to Consolidated Interest Expense), as such terms are defined in the Facility.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Specifically, the company has agreed that, so long as any lender has any commitment under the Facility, any letter of credit is outstanding under the Facility, or any loan or other obligation is outstanding under the Facility, it will maintain a maximum Consolidated Leverage Ratio of 4.0 :1.0 for the first and second quarters of 2018 and then stepping down to 3.5 :1.0 for the third quarter of 2018 and thereafter.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The company has also agreed that so long as any lender has any commitment under the Facility or any letter of credit is outstanding under the Facility, or any loan or other obligation is outstanding under the Facility, it will maintain a minimum Consolidated Interest Coverage Ratio of 3.0 :1.0 as of the last day of any fiscal quarter.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "concrete"
+  }
+]

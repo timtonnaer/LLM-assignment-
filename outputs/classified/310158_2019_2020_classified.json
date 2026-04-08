@@ -1,0 +1,788 @@
+[
+  {
+    "sentence": "The Company is dependent on its patent rights, and if its patent rights are invalidated or circumvented, its business could be materially adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Patents covering products that it has introduced normally provide market exclusivity, which is important for the successful marketing 20 Table of Contents and sale of its products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "and certain foreign markets relating to patents, as well as regulatory initiatives may result in a more general weakening of intellectual property protection.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company s results of operations may be adversely affected by the lost sales unless and until the Company has launched commercially successful products that replace the lost sales.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "patent protection for candidates in Phase 3 clinical development is set forth above in Item 1.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In the case of products that contribute significantly to the Company s sales, the loss of market exclusivity can have a material adverse effect on the Company s business, cash flow, results of operations, financial condition and prospects.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "and EU market exclusivity for certain forms of Noxafil expired in July 2019 and December 2019, respectively, and the Company anticipates a significant decline in U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "market exclusivity for NuvaRing expired in April 2018 and generic competition began in December 2019.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the patents that provide market exclusivity for Januvia and Janumet in the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The patent that provides market exclusivity for Januvia in the EU expires in July 2022 (although pediatric exclusivity may extend this date to September 2022).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Finally, the SPC that provides market exclusivity for Janumet in the EU expires in April 2023.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company anticipates sales of Januvia and Janumet in these markets will decline substantially after these patent expiries.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "21 Table of Contents Key products generate a significant amount of the Company s profits and cash flows, and any events that adversely affect the markets for its leading products could have a material adverse effect on the Company s results of operations and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company s ability to generate profits and operating cash flow depends largely upon the continued profitability of the Company s key products, such as Keytruda, Gardasil/Gardasil 9, Januvia , Janumet , and Bridion .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In particular, in 2019, the Company s oncology portfolio, led by Keytruda, represented the majority of the Company s revenue and earnings growth.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Each phase of testing is highly regulated and during each phase there is a substantial risk that the Company will encounter serious obstacles or will not achieve its goals.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Therefore, the Company may abandon a product in which it has invested substantial amounts of time and resources.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company must maintain a continuous flow of successful new products and successful new indications or brand extensions for existing products sufficient both to cover its substantial research and development costs and to replace sales that are lost as profitable products lose market exclusivity or are displaced by competing products or therapies.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Failure to do so in the short term or long term would have a material adverse effect on the Company s business, results of operations, cash flow, financial condition and prospects.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Products that appear promising in development may fail to reach the market or fail to succeed for numerous reasons, including the following: 22 Table of Contents findings of ineffectiveness, superior safety or efficacy of competing products, or harmful side effects in clinical or pre-clinical testing; failure to receive the necessary regulatory approvals, including delays in the approval of new products and new indications, or the anticipated labeling, and uncertainties about the time required to obtain regulatory approvals and the benefit/risk standards applied by regulatory agencies in determining whether to grant approvals; failure in certain markets to obtain reimbursement commensurate with the level of innovation and clinical benefit presented by the product; lack of economic feasibility due to manufacturing costs or other factors; and preclusion from commercialization by the proprietary rights of others.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Failure to successfully develop and market new products in the short term or long term would have a material adverse effect on the Company s business, results of operations, cash flow, financial condition and prospects.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company s activities, including research, pre-clinical testing, clinical trials and the manufacturing and marketing of its products, are subject to extensive regulation by numerous federal, state and local governmental authorities in the United States, including the FDA, and by foreign regulatory authorities, including in the EU, Japan and China.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The FDA and foreign regulatory authorities, including in Japan and China, have substantial discretion to require additional testing, to delay or withhold registration and marketing approval and to otherwise preclude distribution and sale of a product.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Even after a product reaches the market, certain developments following regulatory approval may decrease demand for the Company s products, including the following: results in post-approval Phase 4 trials or other studies; the re-review of products that are already marketed; the recall or loss of marketing approval of products that are already marketed; changing government standards or public expectations regarding safety, efficacy, quality or labeling changes; and scrutiny of advertising and promotion.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In the past several years, clinical trials and post-marketing surveillance of certain marketed drugs of the Company and of competitors within the industry have raised concerns that have led to recalls, withdrawals or adverse 23 Table of Contents labeling of marketed products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, following in the wake of product withdrawals and other significant safety issues, health authorities such as the FDA, the EMA, Japan s PMDA and China s NMPA have increased their focus on safety when assessing the benefit/risk balance of drugs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Some health authorities appear to have become more cautious when making decisions about approvability of new products or indications.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, dissemination of promotional materials through evolving digital channels serves to increase visibility and scrutiny in the marketplace.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any such proposal that is enacted into law could worsen this substantial negative effect on the Company s sales and, potentially, its business, cash flow, results of operations, financial condition and prospects.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As a result, if the Company fails to maintain its competitive position, this could have a material adverse effect on its business, cash flow, results of operations, financial condition and prospects.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, if products that were measured at fair value and capitalized in connection with acquisitions experience difficulties in the market that negatively impact product cash flows, the Company may recognize material non-cash impairment charges with respect to the value of those products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Competition and the Health Care Environment Health 24 Table of Contents Care Environment and Government Regulations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, in the United States, larger customers have received higher rebates on drugs in certain highly competitive categories.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In Japan, the pharmaceutical industry is subject to government-mandated biennial price reductions of pharmaceutical products and certain vaccines, which will occur again in 2020.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Furthermore, the government can order re-pricing for specific products if it determines that use of such product will exceed certain thresholds defined under applicable re-pricing rules.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, pursuant to a re-pricing rule, the Japanese government reduced the price of Keytruda by 17.5 , effective February 2020.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, Keytruda will be subject to another significant price reduction in April 2020 under a provision of the Japanese pricing rules.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The health care industry in the United States has been, and will continue to be, subject to increasing regulation and political action.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The ACA increased the mandated Medicaid rebate from 15.1 to 23.1 , expanded the rebate to Medicaid managed care utilization, and increased the types of entities eligible for the federal 340B drug discount program.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The ACA also requires pharmaceutical manufacturers to pay a point of service discount to Medicare Part D beneficiaries when they are in the Medicare Part D coverage gap (i.e., the so-called donut hole which increased to 70 in 2019 and was extended to biosimilar products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In 2019, the Company s revenue was reduced by approximately 615 million due to this requirement.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Also, pharmaceutical manufacturers are required to pay an annual non-tax deductible health care reform fee.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The impact of changes resulting from the issuance of the rule is not material to Merck at this time.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These include a definition of what constitutes a product line extension and a delay in the participation of the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, as discussed above in Competition and the Health Care Environment, the administration has recently proposed a draft rule that would allow importation of certain lower-cost prescription drugs from Canada.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If the rule is finalized as proposed, states or certain other non-federal governmental entities would be able to submit importation program proposals to the FDA for review and authorization of two-year programs (with the opportunity to extend for two more years).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There will be a public comment period on the proposed rule which will expire on March 9, 2020.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Following the comment period, the FDA will have to review and finalize its proposal before any states or other 25 Table of Contents parties can submit their plans to comply with the federal rule.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If the proposed rule is adopted, it likely will be some time before states or other parties can actually implement importation plans.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Also, in October 2018, the administration issued an advance notice of proposed rulemaking to implement an International Pricing Index (IPI) model in the United States for products covered under Medicare Part B.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The proposal would: (1) reduce Medicare Part B payments for drugs based on a market basket of international prices; (2) allow private sector vendors to negotiate prices for drugs, take title to drugs, and compete for physician and hospital business; and (3) change the physician reimbursement under Medicare Part B from the current model to eliminate the buy and bill system and instead pay physicians based on a flat fee that approximates the revenue they currently receive from drugs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Public comments on the IPI proposal were accepted through late 2018 and it is unclear when the agency may issue a proposed rule on the IPI model.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Adoption of one or both of the proposed rules could have a material adverse effect on the Company s business, results of operations and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company cannot predict the likelihood of additional future changes in the health care industry in general, or the pharmaceutical industry in particular, or what impact they may have on the Company s business, cash flow, results of operations, financial condition and prospects.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company is increasingly dependent on sophisticated software applications and complex information technology systems and computing infrastructure (collectively, IT systems) to conduct critical operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Certain of these systems are managed, hosted, provided or used by third parties to assist in conducting the Company s business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Disruption, degradation, or manipulation of these IT systems through intentional or accidental means by the Company s employees, third parties with authorized access or unauthorized third parties could adversely affect key business processes.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Cyber-attacks against the Company s IT systems or third-party providers IT systems, such as cloud-based systems, could result in exposure of confidential information, the modification of critical data, and/or the failure of critical operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Misuse of any of these IT systems could result in the disclosure of sensitive personal information or the theft of trade secrets, intellectual property, or other confidential business information.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In 2017, the Company experienced a network cyber-attack that led to a disruption of its worldwide operations, including manufacturing, research and sales operations, and resulting losses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company has insurance coverage insuring against losses resulting from cyber-attacks and has received proceeds in connection with the 2017 cyber-attack.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There can be no assurance that the Company s efforts to protect its data and IT systems or the efforts of third-party providers to protect their IT systems will be successful in preventing disruptions to the Company s operations, including its manufacturing, research and sales operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Such disruptions have in the past and could in the future result in loss of revenue, or the loss of critical or sensitive information from the Company s or the Company s third-party providers databases or IT systems and have in the past and could in the future also result in financial, legal, business or reputational harm to the Company and substantial remediation costs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The costs of compliance with such laws and regulations, or the negative results of non-compliance, could adversely affect the business, cash flow, results of operations, financial condition and prospects of the Company; these laws and regulations include (i) additional healthcare reform initiatives in the United States or in other countries, including additional mandatory discounts or fees; (ii) the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Foreign Corrupt Practices Act or other anti-bribery and corruption laws; (iii) new laws, regulations and judicial or other governmental decisions affecting pricing, drug reimbursement, and access or marketing within or across jurisdictions; (iv) changes in intellectual property laws; (v) changes in accounting standards; (vi) new and increasing data privacy regulations and enforcement, particularly in the EU and the United States; (vii) legislative mandates or preferences for local manufacturing of pharmaceutical or vaccine products; (viii) emerging and new global regulatory requirements for reporting payments and other value transfers to healthcare professionals; (ix) environmental regulations; and (x) the potential impact of importation restrictions, embargoes, trade sanctions and legislative and/or other regulatory changes.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Uncertainty in global economic and geopolitical conditions may result in a slowdown to the global economy that could affect the Company s business by reducing the prices that drug wholesalers and retailers, hospitals, government agencies and managed health care providers may be able or willing to pay for the Company s products or by reducing the demand for the Company s products, which could in turn negatively impact the Company s sales and result in a material adverse effect on the Company s business, cash flow, results of operations, financial condition and prospects.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Global efforts toward health care cost containment continue to exert pressure on product pricing and market access worldwide.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "health care system as part of health care reform, as well as increased purchasing power of entities that negotiate on behalf of Medicare, Medicaid, and private sector beneficiaries, have contributed to pricing pressure.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In several international markets, government-mandated pricing actions have reduced prices of generic and patented drugs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the Company s revenue performance in 2019 was negatively affected by other cost-reduction measures taken by governments and other third-parties to lower health care costs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company anticipates all of these actions, and additional actions in the future, will continue to negatively affect revenue performance.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company has significant global operations, which expose it to additional risks, and any adverse event could have a material adverse effect on the Company s results of operations and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "27 Table of Contents In 2016, the United Kingdom (UK) held a referendum in which voters approved an exit from the EU, commonly referred to as Brexit.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As a result of that referendum and subsequent negotiations, the UK left the EU on January 31, 2020.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A transitional period will apply from January 31, 2020 until December 31, 2020, and during this period the EU will treat the UK as if it were an EU Member State, and the UK will continue to participate in the EU Customs Union allowing for the freedom of movement for people and goods.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "During the transitional period the EU and the UK will continue to negotiate a trade agreement to formalize the terms of the UK s future relationship with the EU.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company has taken actions and made certain contingency plans for scenarios in which the UK and the EU do not reach a mutually satisfactory understanding as to a future trade agreement.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "It is not possible at this time to predict whether there will be any such understanding before the end of 2020, or if such an understanding is reached, whether its terms will vary in ways that result in greater restrictions on imports and exports between the UK and EU countries, increased regulatory complexities, and/or cross border labor issues that could materially adversely impact the Company s business operations in the UK.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Failure to attract and retain highly qualified personnel could affect the Company s ability to successfully develop and commercialize products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company may, in the future, experience difficulties and delays inherent in manufacturing its products, such as (i) failure of the Company or any of its vendors or suppliers to comply with Current Good Manufacturing Practices and other applicable regulations and quality assurance guidelines that could lead to manufacturing shutdowns, product shortages and delays in product manufacturing; (ii) delays related to the construction of new facilities or the expansion of existing facilities, including those intended to support future demand for the Company s products; and (iii) other manufacturing or distribution problems including changes in manufacturing production sites and limits to manufacturing capacity due to regulatory requirements, changes in types of products produced, or physical limitations that could impact continuous supply.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As noted above in Health Care Environment and Government Regulation , pricing pressure in China has increased as the Chinese government has been taking steps to reduce costs, including implementing healthcare reform that has led to the acceleration of generic 28 Table of Contents substitution, where available.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While pricing pressure has always existed in China, health care reform has increased this pressure in part due to the acceleration of generic substitution through the government s VBP program.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In 2019, the government implemented the VBP program through a tendering process for mature products which have generic substitutes with a Generic Quality Consistency Evaluation approval.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Mature products that have entered into the first two rounds of VBP had, on average, a price reduction of 50 .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Also, in December 2019, a new Coronavirus, now known as COVID-19, which has proved to be highly contagious, emerged in Wuhan, China.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The outbreak of the virus has caused material disruptions to the Chinese economy, including its health care system, which will have a negative effect on the Company s first quarter 2020 results which, at this time, is not expected to be material.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Since the future course and duration of the COVID-19 outbreak are unknown, the Company is currently unable to determine whether the outbreak will have a further negative effect on the Company s results in 2020.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The outbreak of COVID-19 currently has also had a limited effect on the Company s supply chain of drugs into and raw materials out of China.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "However, a failure to maintain the Company s presence in emerging markets could have a material adverse effect on the Company s business, cash flow, results of operations, financial condition and prospects.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Since the Company cannot, with certainty, foresee and mitigate against such adverse fluctuations, fluctuations in currency exchange rates, interest rates and inflation could negatively affect the Company s business, cash flow, results of operations, financial condition and prospects.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Certain of the Company s interest rate derivatives and investments are based on the London Interbank Offered Rate (LIBOR), and a portion of Merck s indebtedness bears interest at variable interest rates, primarily based on LIBOR.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "LIBOR is the subject of recent national, international and other regulatory guidance and proposals for reform, which may cause LIBOR to cease to exist entirely after 2021.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While the Company expects that reasonable alternatives to LIBOR will be implemented prior to the 2021 target date, the Company cannot predict the consequences and timing of these developments, which could include an increase in interest expense and may also require the amendment of contracts that reference LIBOR.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company is subject to evolving and complex tax laws, which may result in additional liabilities that may affect results of operations and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the Company may be negatively affected by changes in tax laws, or new tax laws, affecting, for example, tax rates, and/or revised tax law interpretations in domestic or foreign jurisdictions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Reliance on third-party relationships and outsourcing arrangements could materially adversely affect the Company s business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company depends on third parties, including suppliers, alliances with other pharmaceutical and biotechnology companies, and third-party service providers, for key aspects of its business including development, manufacture and commercialization of its products and support for its IT systems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Negative events in the animal health industry could have a material adverse effect on future results of operations and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, the outbreak of disease carried by animals, such as African Swine Fever, could lead to their widespread death and precautionary destruction as well as the reduced consumption and demand for animals, which could adversely affect the Company s results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Biologics and vaccines carry unique risks and uncertainties, which could have a material adverse effect on the Company s future results of operations and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There are unique risks and uncertainties related to biologics and vaccines, including: There may be limited access to, and supply of, normal and diseased tissue samples, cell lines, pathogens, bacteria, viral strains and other biological materials.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, government regulations in multiple jurisdictions, such as the United States and the EU, could result in restricted access to, or transport or use of, such materials.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, in the United States, a BLA, including both pre-clinical and clinical trial data and extensive data regarding the manufacturing procedures, is required for human vaccine candidates, and FDA approval is generally required for the release of each manufactured commercial lot.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "When changes are made to 30 Table of Contents the manufacturing process, the Company may be required to provide pre-clinical and clinical data showing the comparable identity, strength, quality, purity or potency of the products before and after such changes.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As a result of a number of factors, product liability insurance has become less available while the cost of such insurance has increased significantly.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company has evaluated its risks and has determined that the cost of obtaining product liability insurance outweighs the likely benefits of the coverage that is available and, as such, has no insurance for most product liabilities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The inappropriate and/or unauthorized use of certain social media channels could cause brand damage or information leakage or could lead to legal implications, including from the improper collection and/or dissemination of personally identifiable information.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The proposed Spin-Off of NewCo may not be completed on the terms or timeline currently contemplated, if at all, and may not achieve the expected results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In February 2020, the Company announced its intention to Spin-Off products from its women s health, trusted legacy brands and biosimilars businesses into a new, yet-to-be-named, independent, publicly traded company (NewCo) through a distribution of NewCo s publicly traded stock to Company shareholders.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The distribution is expected to qualify as tax-free to the Company and its shareholders for U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Completion of the Spin-Off will be subject to a number of factors and conditions, and there can be no assurances that the Company will be able to complete the Spin-Off on the terms or on the timeline that was announced, if at all.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Unanticipated developments could delay, prevent or otherwise adversely affect the proposed Spin-Off, including but not limited to disruptions in general or financial market conditions or potential problems or delays in obtaining various regulatory and tax approvals or clearances.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, consummation of the proposed Spin-Off will require final approval from the Company s Board of Directors.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the Company may be unable to achieve some or all of the strategic and financial benefits that it expects to achieve from the Spin-Off of NewCo.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the Company may not be able to achieve the full strategic and financial benefits that are expected to result from the Spin-Off.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The anticipated benefits of the Spin-Off are based on a number of assumptions, some of which may prove incorrect.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Following the Spin-Off, the price of shares of the Company s common stock may fluctuate significantly.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company cannot predict the effect of the Spin-Off on the trading price of shares of its common stock, and the market value of shares of its common stock may be less than, equal to or greater than the market value of shares of its common stock prior to the Spin-Off.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the price of Merck s common stock may be more volatile around the time of the Spin-Off.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There could be significant income tax liability if the Spin-Off or certain related transactions are determined to be taxable for U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company expects that prior to completion of the Spin-Off it will receive an opinion from its U.S.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "tax counsel that concludes, among other things, that the Spin-Off of all of the outstanding NewCo shares to Merck shareholders and certain related transactions will qualify as tax-free to Merck and its shareholders under Sections 355, 361 and 368 of the U.S.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Internal Revenue Code, except to the extent of any cash received in lieu of fractional shares of NewCo common stock.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Accordingly, while the Company believes the risk is low, the IRS may reach conclusions with respect to the Spin-Off that are different from the conclusions reached in the opinion.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "The opinion will rely on certain facts, assumptions, representations and undertakings from Merck and NewCo regarding the past and future conduct of the companies respective businesses and other matters, which, if incomplete, incorrect or not satisfied, could alter the conclusions of the party giving such opinion.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "If the proposed Spin-Off ultimately is determined to be taxable, which the Company believes is unlikely, the Spin-Off could be treated as a taxable dividend to Merck s shareholders for U.S.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, Merck would recognize a taxable gain to the extent that the fair market value of NewCo common stock exceeds Merck s tax basis in such stock on the date of the Spin-Off.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Cautionary Factors that May Affect Future Results (Cautionary Statements Under the Private Securities Litigation Reform Act of 1995) This report and other written reports and oral statements made from time to time by the Company may contain so-called forward-looking statements, all of which are based on management s current expectations and are subject to risks and uncertainties which may cause results to differ materially from those set forth in the statements.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Cyber-attacks on the Company s or third-party providers information technology systems, which could disrupt the Company s operations.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "The legislative and regulatory landscape for privacy and data protection continues to evolve, and there has been an increasing amount of focus on privacy and data protection issues with the potential to affect directly the Company s business, including recently enacted laws in a majority of states in the United States requiring security breach notification.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The proposed Spin-Off might be delayed or the costs to complete the Spin-Off might be more significant than expected.",
+    "risk_type": "operational",
+    "nature": "new_risk",
+    "style": "vague"
+  }
+]

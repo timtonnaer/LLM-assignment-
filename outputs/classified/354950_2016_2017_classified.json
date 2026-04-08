@@ -1,0 +1,380 @@
+[
+  {
+    "sentence": "We compete principally based on customer experience, price, store location and appearance, and quality, availability, assortment and presentation of merchandise.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "With respect to some products and services, we also compete with specialty design stores, showrooms, discount stores, local, regional and national hardware stores, paint stores, mail order firms, warehouse clubs, independent building supply stores, MRO companies and other retailers, as well as with providers of home improvement services.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In addition, we face growing competition from online and multichannel retailers, some of whom may have a lower cost structure than ours, as our customers now routinely use computers, tablets, smartphones and other mobile devices to shop online and compare prices and products in real time.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We use our marketing, advertising and promotional programs to drive customer traffic and compete more effectively, and we must regularly assess and adjust our efforts to address changes in the competitive landscape.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Intense competitive pressures from one or more of our competitors, such as through aggressive promotional pricing or liquidation events, or our inability to adapt effectively and quickly to a changing competitive landscape could affect our prices, our 7 Table of Contents margins or demand for our products and services.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "If we are unable to timely and appropriately respond to these competitive pressures, including through the delivery of a superior customer experience or maintenance of effective marketing, advertising or promotional programs, our market share and our financial performance could be adversely affected.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We may not timely identify or effectively respond to consumer needs, expectations or trends, which could adversely affect our relationship with customers, our reputation, the demand for our products and services, and our market share.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "As we continue to see increasing strength in the housing and home improvement market, resulting changes in demand will put further pressure on our ability to meet customer needs and expectations and maintain high service levels.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We also need to offer more localized assortments of our merchandise to appeal to local cultural and demographic tastes within each customer group.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "If we do not successfully differentiate the shopping experience to meet the individual needs and expectations of or within a customer group, we may lose market share with respect to those customers.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Customers now routinely use technology and mobile devices to rapidly compare products and prices, determine real-time product availability and purchase products.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We have implemented programs like BOSS, BOPIS, BODFS and direct fulfillment, but we cannot guarantee that these programs or others we may implement will be implemented successfully or will meet customers needs and expectations.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Further, we have an aging store base that requires maintenance and space reallocation initiatives to deliver the shopping experience that our customers desire.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Failure to maintain our stores and utilize our store space effectively; to provide a compelling online presence; to timely identify or respond to changing consumer preferences, expectations and home improvement needs; to provide quick and low-cost delivery alternatives; to differentiate the customer experience for our three primary customer groups; and to effectively implement an increasingly localized merchandising assortment could adversely affect our relationship with customers, our reputation, the demand for our products and services, and our market share.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "These positions have historically had high turnover rates, which can lead to increased training and retention costs, particularly as the economy continues to improve and the labor market tightens.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In managing our business, we also rely heavily on the integrity of, security of and consistent access to this data for information such as sales, merchandise ordering, inventory replenishment and order fulfillment.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "For these information technology systems and processes to operate effectively, we or our service providers must periodically maintain and update them.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our systems and the third-party systems on which we rely are subject to damage or interruption from a number of causes, including power outages; computer and telecommunications failures; computer viruses; security breaches; cyber-attacks, including the use of ransomware; 8 Table of Contents catastrophic events such as fires, floods, earthquakes, tornadoes, or hurricanes; acts of war or terrorism; and design or usage errors by our associates, contractors or third-party service providers.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Although we and our third-party service providers seek to maintain our respective systems effectively and to successfully address the risk of compromise of the integrity, security and consistent operations of these systems, such efforts may not be successful.",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Through our information technology developments, we are able to provide an improved overall shopping and interconnected retail experience that empowers our customers to shop and interact with us from computers, tablets, smartphones and other mobile devices.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We use our websites and our mobile app both as sales channels for our products and also as methods of providing product, project and other relevant information to our customers to drive both in-store and online sales.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Multichannel retailing is continually evolving and expanding, and we must effectively respond to changing customer preferences and new developments.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We also continually seek to enhance all of our online properties to provide an attractive user-friendly interface for our customers, as evidenced by our recent redesign of our homedepot.com website.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our business, like that of most retailers, involves the receipt, storage and transmission of customers personal information, preferences and payment card information, as well as other confidential information, such as personal information about our associates and our suppliers and confidential Company information.",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our information systems, and those of our third-party service providers and vendors, are vulnerable to an increasing threat of continually evolving data protection and cybersecurity risks.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "We have implemented and regularly review and update processes and procedures to protect against unauthorized access to or use of data and to prevent data loss.",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "However, the ever-evolving threats mean we and our third-party service providers and vendors must continually evaluate and adapt our respective systems and processes and overall security environment, and there is no guarantee that they will be adequate to safeguard against all data security breaches, system compromises or misuses of data.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Any future significant compromise or breach of our data security, whether external or internal, or misuse of customer, associate, supplier or Company data, could result in significant costs, lost sales, fines, lawsuits, and damage to our reputation.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, as the regulatory environment related to information security, data collection and use, and privacy becomes increasingly rigorous, with new and constantly changing requirements applicable to our business, compliance with those requirements could also result in significant costs.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "We accept payments using a variety of methods, including cash, checks, credit and debit cards, PayPal, our private label credit cards, an installment loan program, trade credit, and gift cards, and we may offer new payment options over time.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "The payment methods that we offer also subject us to potential fraud and theft by criminals, who are becoming increasingly more sophisticated, seeking to obtain unauthorized access to or exploit weaknesses that may exist in the payment systems.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "If we 9 Table of Contents fail to comply with applicable rules or requirements for the payment methods we accept, or if payment-related data is compromised due to a breach or misuse of data, we may be liable for costs incurred by payment card issuing banks and other third parties or subject to fines and higher transaction fees, or our ability to accept or facilitate certain types of payments may be impaired.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Uncertainty regarding the housing market, economic conditions, political climate and other factors beyond our control could adversely affect demand for our products and services, our costs of doing business and our financial performance.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Adverse conditions in or uncertainty about these markets, the economy or the political climate could adversely impact our customers confidence or financial condition, causing them to determine not to purchase home improvement products and services, causing them to delay purchasing decisions, or impacting their ability to pay for products and services.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Other factors beyond our control including unemployment and foreclosure rates; interest rate fluctuations; fuel and other energy costs; labor and healthcare costs; the availability of financing; the state of the credit markets, including mortgages, home equity loans and consumer credit; weather; natural disasters; acts of terrorism and other conditions beyond our control could further adversely affect demand for our products and services, our costs of doing business and our financial performance.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our ability to access products from our suppliers can be adversely affected by political instability, military conflict, acts of terrorism, the financial instability of suppliers, suppliers noncompliance with applicable laws, trade restrictions, tariffs, currency exchange rates, any disruptions in our suppliers logistics or supply chain networks, and other factors beyond our or our suppliers control.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We have made, and we plan to continue to make, significant investments in our supply chain and information technology systems.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "These initiatives, such as Project Sync and COM, our new Customer Order Management system, are designed to streamline our operations to allow our associates to continue to provide high-quality service to our customers, while simplifying customer interaction and providing our customers with a more interconnected retail experience.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Failure to choose the right investments and implement them in the right manner and at the right pace could disrupt our operations.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "In addition, our improved supply chain and new or upgraded information technology systems might not provide the anticipated benefits, it might take longer than expected to realize the anticipated benefits, or the initiatives might fail altogether, each of which could adversely impact our competitive position and our financial condition, results of operations or cash flows.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Such disruptions may result from damage or destruction to our distribution centers; weather-related events; natural disasters; trade policy changes or restrictions; tariffs or import-related taxes; third-party strikes, lock-outs, work stoppages or slowdowns; shipping capacity constraints; supply or shipping interruptions or costs; or other factors beyond our control.",
+    "risk_type": "supply_chain",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "10 Table of Contents If we are unable to effectively manage and expand our alliances and relationships with selected suppliers of both brand name and proprietary products, we may be unable to effectively execute our strategy to differentiate ourselves from our competitors.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, an increase in sales of our proprietary products may adversely affect sales of our vendors products, which in turn could adversely affect our relationships with certain of our vendors.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "If we are unable to manage effectively our installation services business, we could suffer lost sales and be subject to fines, lawsuits and reputational damage, or the loss of our general contractor licenses.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We act as a general contractor to provide installation services to our DIFM customers through professional third-party installers.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "As such, we are subject to regulatory requirements and risks applicable to general contractors, which include management of licensing, permitting and quality of work performed by our third-party installers.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We have established processes and procedures to manage these requirements and ensure customer satisfaction with the services provided by our third-party installers.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "However, if we fail to manage these processes effectively or to provide proper oversight of these services, we could suffer lost sales, fines and lawsuits for violations of regulatory requirements, as well as for property damage or personal injury.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, we may suffer damage to our reputation or the loss of our general contractor licenses, which could adversely affect our business.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We may be unsuccessful in implementing our growth strategy, which could have an adverse impact on our financial condition and results of operation.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In fiscal 2015, we completed the acquisition of Interline, which we believe has enhanced our ability to serve our professional customers and increased our share of the MRO market.",
+    "risk_type": "other",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our goal is to serve all of our different Pro customer groups through one integrated approach to drive growth and capture market share in the retail, services and MRO markets, and this strategy depends, in part, on our continuing integration of Interline.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "As with any acquisition, we need to successfully integrate Interline s products, services, associates and systems into our business operations.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Furthermore, even if Interline is successfully integrated, the acquisition may fail to further our business strategy as anticipated, expose us to increased competition or challenges with respect to our products or services, and expose us to additional liabilities associated with the Interline business and the wholesale market.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Our costs of doing business could increase as a result of changes in, expanded enforcement of, or adoption of new federal, state or local laws and regulations.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In recent years, a number of new laws and regulations have been adopted, and there has been expanded enforcement of certain existing laws and regulations by federal, state and local agencies.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "These laws and regulations, and related interpretations and enforcement activity, may change as a result of a variety of factors, including political, economic or social events.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Changes in, expanded enforcement of, or adoption of new federal, state or local laws and regulations governing minimum wage or living wage requirements; other wage, labor or workplace regulations; healthcare; data protection and cybersecurity; the sale of some of our products; transportation; logistics; international trade; supply chain transparency; taxes; unclaimed property; 11 Table of Contents energy costs; or environmental matters, including with respect to our installation services business, could increase our costs of doing business or impact our operations.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Risks inherent in international operations also include, among others, potential adverse tax consequences; potential tariffs and other import-related taxes; greater difficulty in enforcing intellectual property rights; risks associated with the Foreign Corrupt Practices Act and local anti-bribery law compliance; and challenges in our ability to identify and gain access to local suppliers.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We have incurred losses related to the data breach we discovered in the third quarter of fiscal 2014 (the \"Data Breach\"); we may incur additional losses or experience future operational impacts on our business, which could have an adverse impact on our operations, financial results and reputation.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Since the Data Breach occurred, we have recorded 198 million of pretax expenses, net of expected insurance recoveries, in connection with the Data Breach, as described in more detail in Note 13 to the Consolidated Financial Statements included in Item 8, \"Financial Statements and Supplementary Data\".",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We are still facing a consolidated shareholder derivative action brought by two purported shareholders and an investigation by a number of State Attorneys General.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "These matters may adversely affect how we operate our business, divert the attention of management from the operation of the business, have an adverse effect on our reputation, and result in additional costs and fines.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  }
+]

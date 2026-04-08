@@ -1,0 +1,188 @@
+[
+  {
+    "sentence": "In contrast, many of the Company s competitors seek to compete primarily through aggressive pricing and very low cost structures, and emulating the Company's products and infringing on its intellectual property.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "| 2016 Form 10-K | 8 The Company markets certain mobile communication and media devices based on the iOS mobile operating system and also markets related services, including third-party digital content and applications.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company is the only authorized maker of hardware using macOS, which has a minority market share in the personal computer market.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Price competition has been particularly intense as competitors have aggressively cut prices and lowered product margins.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "| 2016 Form 10-K | 9 The Company faces substantial inventory and other asset risk in addition to purchase commitment cancellation risk.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Manufacturing purchase obligations typically cover forecasted component and manufacturing requirements for periods up to 150 days.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Future operating results depend upon the Company s ability to obtain components in sufficient quantities on commercially reasonable terms.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A number of suppliers of components may suffer from poor financial conditions, which can lead to business failure for the supplier or consolidation within a particular industry, further limiting the Company s ability to obtain sufficient quantities of components on commercially reasonable terms.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company depends on component and product manufacturing and logistical services provided by outsourcing partners, many of which are located outside of the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "| 2016 Form 10-K | 10 The Company s products and services may experience quality problems from time to time that can result in decreased sales and operating margin and harm to the Company s reputation.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company believes decisions by customers to purchase its hardware products depend in part on the availability of third party software applications and services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "With respect to its Mac products, the Company believes the availability of third party software applications and services depends in part on the developers perception and analysis of the relative benefits of developing, maintaining and upgrading such software for the Company s products compared to Windows-based products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "| 2016 Form 10-K | 11 The Company relies on access to third-party intellectual property, which may not be available to the Company on commercially reasonable terms or at all.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The intellectual property rights claims against the Company have generally increased over time and may continue to increase.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In particular, the Company's cellular enabled products compete with products from mobile communication and media device companies that hold significant patent portfolios, and the Company has faced a significant number of patent claims against it.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Regardless of the merit of particular claims, litigation may be expensive, time-consuming, disruptive to the Company s operations and distracting to management.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "| 2016 Form 10-K | 12 Compliance with these laws, regulations and similar requirements may be onerous and expensive, and they may be inconsistent from jurisdiction to jurisdiction, further increasing the cost of compliance and doing business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In some cases, compliance with the laws and regulations of one country could violate the laws and regulations of another country.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company s retail stores have required and will continue to require a substantial investment and commitment of resources and are subject to numerous risks and uncertainties.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "| 2016 Form 10-K | 13 There may be breaches of the Company s information technology systems that materially damage business partner and customer relationships, curtail or otherwise adversely impact access to online stores and services, or subject the Company to significant reputational, financial, legal and operational consequences.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company devotes significant resources to network security, data encryption and other security measures to protect its systems and data, but these security measures cannot provide absolute security.",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "In many cases, these laws apply not only to third-party transactions, but also may restrict transfers of PII among the Company and its international subsidiaries.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The Company makes statements about its use and disclosure of PII through its privacy policy, information provided on its website and press statements.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Any failure by the Company to comply with these public statements or with other federal, state or international privacy-related or data protection laws and regulations could result in proceedings against the Company by governmental entities or others.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "| 2016 Form 10-K | 14 The Company s business may be impacted by political events, war, terrorism, public health issues, natural disasters and other business interruptions.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "The Company s business operations are subject to interruption by, among others, natural disasters, whether as a result of climate change or otherwise, fire, power shortages, nuclear power plant accidents and other industrial accidents, terrorist attacks and other hostile acts, labor disputes, public health issues and other events beyond its control.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "While the Company's suppliers are required to maintain safe working environments and operations, an industrial accident could occur and could result in disruption to the Company's business and harm to the Company's reputation.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "| 2016 Form 10-K | 15 The Company s financial performance is subject to risks associated with changes in the value of the U.S.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "The Company is exposed to credit risk on its trade accounts receivable, vendor non-trade receivables and prepayments related to long-term supply agreements, and this risk is heightened during periods when economic conditions worsen.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "As of September 24, 2016 , a significant portion of the Company s trade receivables was concentrated within cellular network carriers, and its vendor non-trade receivables and prepayments related to long-term supply agreements were concentrated among a few individual vendors located primarily in Asia.",
+    "risk_type": "supply_chain",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The Company is also subject to the examination of its tax returns and other tax matters by the U.S.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  }
+]

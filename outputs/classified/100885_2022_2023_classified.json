@@ -1,0 +1,194 @@
+[
+  {
+    "sentence": "12 Table of Contents Strategic and Operational Risks We Must Manage Fluctuating Demand for Our Services and Network Capacity Significant reductions in demand for rail services with respect to one or more commodities or changes in consumer preferences that affect the businesses of our customers can lead to increased costs associated with resizing our operations, including higher unit operating costs and costs for the storage of locomotives, rail cars, and other equipment; workforce adjustments; and other related activities, which could have a material adverse effect on our results of operations, financial condition, and liquidity.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "If there is significant demand for our services that exceeds the designed capacity of our network or shifts in traffic flow that are contrary to the designed capacity of our network, we may experience network difficulties, including congestion and reduced velocity, that could compromise the level of service we provide to our customers.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Although we continue to work to improve our transportation plan, add capacity, improve operations at our yards and other facilities, and improve our ability to address surges in demand for any reason with adequate resources, we cannot be sure that these measures will fully or adequately address any service shortcomings resulting from demand exceeding our planned capacity.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "If we do not have sufficient capital or do not deploy sufficient capital in a timely manner to acquire, develop, or implement new technology or maintain or upgrade current systems, such as Positive Train Control (PTC) or the latest version of our transportation control systems, we may suffer a rail service outage or competitive disadvantage within the rail industry and with companies providing other modes of transportation service, which could have a material adverse effect on our results of operations, financial condition, and liquidity.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We Are Subject to Cybersecurity Risks We rely on information technology in all aspects of our business, including technology systems operated by us (whether created by us or purchased), under control of third-parties, and open-source software.",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "There can be no assurance that the systems we have designed to identify, prevent, or limit the effects of cyber incidents or attacks will be sufficient to prevent or detect such incidents or attacks, or to avoid a material adverse impact on our systems after such incidents or attacks do occur.",
+    "risk_type": "cyber",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Furthermore, due to the rising numbers and increasing sophistication of cyber-attacks, an increasingly complex information technology supply chain, and the nature of zero-day exploits, we may be unable to anticipate or implement adequate preventative measures to prevent a security breach, including by ransomware, human error, or other cyber-attack methods, from materially disrupting our systems or the systems of third-parties upon which we rely.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "A successful cyber-attack that results in significant service interruption; safety failure; other operational difficulties; unauthorized access to (or the loss of access to) competitively sensitive, confidential, or other critical data or systems; loss of customers; financial losses; regulatory fines; and misuse or corruption of critical data and proprietary information, could have a material adverse impact on our results of operations, financial condition, and liquidity.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "13 Table of Contents Severe Weather Could Result in Significant Business Interruptions and Expenditures As a railroad with a vast network, we are exposed to severe weather conditions and other natural phenomena, including earthquakes, hurricanes, fires, floods, mudslides or landslides, extreme temperatures, avalanches, and significant precipitation, and climate change may cause or contribute to the severity or frequency of such weather conditions.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Line outages and other interruptions caused by these conditions can adversely affect our entire rail network, potentially negatively affecting revenues, costs, and liabilities, despite efforts we undertake to plan for these events.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "A Significant Portion of Our Revenues Involves Transportation of Commodities to and from International Markets Although revenues from our operations are attributable to transportation services provided in the U.S., a significant portion of our revenues involves the transportation of commodities to and from international markets, including Mexico, Canada, and Southeast Asia, by various carriers and, at times, various modes of transportation.",
+    "risk_type": "supply_chain",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Therefore, if one of the domestic suppliers of locomotives discontinues manufacturing locomotives, supplying parts, or providing maintenance for any reason, including bankruptcy or insolvency or the inability to manufacture locomotives that meet efficiency or regulatory emissions standards, we could experience significant cost increases and reduced availability of the locomotives that are necessary for our operations.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Disputes over the terms of these agreements or our potential inability to negotiate acceptable contracts with these unions can lead to, among other things, strikes, work stoppages, slowdowns, or lockouts, which could cause a significant disruption of our operations and have a material adverse effect on our results of operations, financial condition, and liquidity.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "14 Table of Contents The Availability of Qualified Personnel Could Adversely Affect Our Operations Changes in demographics, training requirements, and pandemic illnesses or restrictions could negatively affect the availability of qualified personnel for us, our customers, and throughout the supply chain.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our ability to quickly react to other factors that affect our ability to attract and retain employees may be restricted due to limited flexibility to make unilateral changes to collective bargaining agreements, which cover the majority of our workforce.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Unpredictable increases in demand for rail services and a lack of network fluidity may exacerbate our risks, which could have a negative impact on our operational efficiency and otherwise have a material adverse effect on our results of operations, financial condition, and liquidity.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Governments or regulators may change the legislative or regulatory frameworks that we operate in without providing us any recourse to address any adverse effects on our business, including, without limitation, regulatory determinations or rules regarding dispute resolution, increasing the amount of our traffic subject to common carrier regulation, business relationships with other railroads, use of embargoes, calculation of our cost of capital or other inputs relevant to computing our revenue adequacy, the prices we charge, changes in tax rates, enactment of new tax laws, and revision in tax regulations.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "We Are Subject to Significant Environmental Laws and Regulations Due to the nature of the railroad business, our operations are subject to extensive federal, state, and local environmental laws and regulations concerning, among other things, emissions to the air; discharges to waters; handling, storage, transportation, and disposal of waste and other materials; and hazardous material or petroleum releases.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We maintain adequate reserves for liabilities for these obligations, but fluctuations of potential costs affect our estimates based on our experience and, as necessary, the advice and assistance of our consultants.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "15 Table of Contents Macroeconomic and Industry Risks We Face Competition from Other Railroads and Other Transportation Providers We face competition from other railroads, motor carriers, ships, barges, and pipelines.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Any of the following could also affect the competitiveness of our transportation services for some or all of our commodities, which could have a material adverse effect on our results of operations, financial condition, and liquidity: (a) improvements or expenditures materially increasing the quality or reducing the costs of these alternative modes of transportation, such as autonomous or more fuel efficient trucks, (b) legislation that eliminates or significantly increases the size or weight limitations applied to motor carriers, or (c) legislation or regulatory changes that impose operating restrictions on railroads or that adversely affect the profitability of some or all railroad traffic.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "We May Be Affected by Climate Change and Market or Regulatory Responses to Climate Change Climate change, including the impact of global warming and transition risks involving policy, legal risks, and market risks, could have a material adverse effect on our results of operations, financial condition, and liquidity over both a long-term and near-term basis.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Violent weather caused by climate change, including hurricanes, fires, floods, extreme temperatures, avalanches, and significant precipitation could cause line outages and other interruptions to our infrastructure.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Any of these factors, individually or in operation with one or more of the other factors, or other unpredictable impacts of climate change could reduce the amount of traffic we handle and have a material adverse effect on our results of operations, financial condition, and liquidity.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "16 Table of Contents Our Business, Financial Condition, and Results of Operations have been Adversely Affected, and in the Future, Could be Materially Adversely Affected by Pandemics or Other Public Health Crises Pandemics, epidemics, and other outbreaks of disease can have significant and widespread impacts.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "As we saw during the peaks of the COVID pandemic, outbreaks of disease can cause a global slowdown of economic activity (including the decrease in demand for a broad variety of goods), disruptions in global supply chains, and significant volatility and disruption of financial markets, resulting further in adverse effects on workforces, customers, and regional and local economies.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "The impact of pandemics or public health crises on our results of operations and financial condition may depend on numerous evolving factors, including, but not limited to: governmental, business, and individuals actions that have been and continue to be taken in response to a global pandemic or other public health crises (including restrictions on travel and transport, workforce pressures, social distancing, and shelter-in-place orders); the effect of a pandemic or other public health crises on economic activity and actions taken in response; the effect on our customers and their demand for our services; the effect of a pandemic or other public health crises on the credit-worthiness of our customers; national or global supply chain challenges or disruption; facility closures; commodity cost volatility; general macroeconomic uncertainty in key global markets and financial market volatility; global economic conditions and levels of economic growth; and the pace of recovery as the pandemic subsides as well as response to a potential reoccurrence.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Although we currently are able to recover a significant amount of our fuel expenses from our customers through revenues from fuel surcharges, we cannot be certain that we will always be able to mitigate rising or elevated fuel costs through our fuel surcharges.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "International, political, and economic factors, events and conditions, including the start of the Russian-Ukraine conflict in late February 2022, affect the volatility of fuel prices and supplies.",
+    "risk_type": "macroeconomic",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Significant instability or disruptions of the capital markets, including, among other things, current rising interest rates in the credit markets, or deterioration of our financial condition due to internal or external factors could restrict or prohibit our access to, and significantly increase the cost of, commercial paper and other financing sources, including bank credit facilities and the issuance of long-term debt, including corporate bonds.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "A significant deterioration of our financial condition could result in a reduction of our credit rating to below investment grade, which could restrict us from utilizing our current receivables securitization facility (Receivables Facility).",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "17 Table of Contents General Risk Factors We Are Affected by General Economic Conditions Prolonged, severe adverse domestic and global macroeconomic conditions or disruptions of financial and credit markets, including, for example, the recessionary fears and high inflation we are seeing in the current economic environment, may affect the producers and consumers of the commodities we carry and may have a material adverse effect on our access to liquidity, results of operations, and financial condition.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  }
+]

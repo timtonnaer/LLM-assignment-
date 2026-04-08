@@ -1,0 +1,998 @@
+[
+  {
+    "sentence": "Additional factors that could affect our businesses, results of operations and financial condition are discussed in Forward-looking Statements in the MD A on page 19 .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "and abroad, including the level and volatility of interest rates, unexpected changes in market financing conditions, gross domestic product (GDP) growth, inflation, consumer spending, employment levels, energy prices, home prices, bankruptcies, fluctuations or other significant changes in both debt and equity capital markets and currencies, liquidity of the global financial markets, the growth of global trade and commerce, trade policies, the availability and cost of capital and credit, investor sentiment and confidence, and the sustainability of economic growth all affect our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Actions taken by the Federal Reserve, including the planned reduction in its balance sheet, and other central banks are beyond our control and difficult to predict and can affect interest rates and the value of financial instruments and other assets, such as debt securities and mortgage servicing rights (MSRs), and impact our borrowers, potentially increasing delinquency rates.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, significant fiscal policy initiatives, may increase uncertainty surrounding the formulation and direction of U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any of these developments could adversely affect our consumer and commercial businesses, our securities and derivatives portfolios, our level of charge-offs and provision for credit losses, the carrying value of our deferred tax assets, our capital levels and liquidity and the costs of running our business, and our results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For more information about economic conditions and challenges discussed above, see Executive Summary 2017 Economic and Business Environment in the MD A on page 19 .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These market risks may adversely affect, among other things, (i) the value of our on- and off-balance sheet securities, trading assets, other financial instruments and MSRs, (ii) the cost of debt capital and our access to credit markets, (iii) the value of assets under management (AUM), (iv) fee income relating to AUM, (v) customer allocation of capital among investment alternatives, (vi) the volume of client activity in our trading operations, (vii) investment banking fees, (viii) the general profitability and risk level of the transactions in which we engage and (ix) our competitiveness with respect to deposit pricing.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the ongoing low interest rate environment and recent flattening of the yield curve could negatively impact our liquidity, financial condition or results of operations, including future revenue and earnings growth.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In times of market stress or other unforeseen circumstances, previously uncorrelated indicators may become correlated and vice versa.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These types of market movements may limit the effectiveness of our hedging strategies and cause us to incur significant losses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For more information about market risk and our market risk management policies and procedures, see Market Risk Management in the MD A on page 76 .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may incur losses if the value of certain assets declines, including due to changes in interest rates and prepayment speeds.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, decreases in interest rates and increases in mortgage prepayment speeds, which are influenced by interest rates and other factors such as reductions in mortgage insurance premiums and origination costs, could adversely impact the value of our MSR asset, causing a significant acceleration of purchase premium amortization on our mortgage portfolio, because a decline in long-term interest rates shortens the expected lives of the securities, and adversely affects our net interest margin.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We receive asset-based management fees based on the value of our clients portfolios or investments in funds managed by us and, in some cases, we also receive performance fees based on increases in the value of such investments.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Declines in asset values can reduce the value of our clients portfolios or fund assets, which in turn can result in lower fees earned for managing such assets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For more information on fair value measurements, see Note 20 Fair Value Measurements to the Consolidated Financial Statements .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For more information on our asset management businesses, see GWIM in the MD A on page 33 .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For more information on interest rate risk management, see Interest Rate Risk Management for the Banking Book in the MD A on page 81 .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our liquidity could be adversely affected by any inability to access the capital markets; illiquidity or volatility in the capital markets; changes to our relationships with our funding providers based on real or perceived changes in our risk profile; changes in regulations or guidance that impact our funding avenues or ability to access certain funding sources; the refusal or inability of the Federal Reserve to act as lender of last resort; increased regulatory liquidity, capital and margin requirements for our U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The impact of these events, whether within our control or not, could include an inability to sell assets, redeem investments or unforeseen outflows of cash, including customer deposits, additional funding for commitments and contingencies, as well as unexpected collateral calls, among other things.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Bank of America 2017 6 Our cost of obtaining funding is directly related to prevailing market interest rates and to our credit spreads.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, concentrations within our funding profile, such as maturities, currencies or counterparties, can reduce our funding efficiency.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For more information about our liquidity position and other liquidity matters, including credit ratings and outlooks and the policies and procedures we use to manage our liquidity risks, see Liquidity Risk in the MD A on page 49 .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Under the terms of certain OTC derivative contracts and other trading agreements, if our or our subsidiaries credit ratings are downgraded, the counterparties may require additional collateral or terminate these contracts or agreements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While certain potential impacts are contractual and quantifiable, the full consequences of a credit rating downgrade to a financial institution are inherently uncertain, as they depend upon numerous dynamic, complex and inter-related factors and assumptions, including whether any downgrade of a firm s long-term credit ratings precipitates downgrades to its short-term credit ratings, and assumptions about the potential behaviors of various customers, investors and counterparties.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For more information on the amount of additional collateral required and derivative liabilities that would be subject to unilateral termination at December 31, 2017 if the rating agencies had downgraded their long-term senior debt ratings for the Corporation or certain subsidiaries by each of two incremental notches, see Credit-related Contingent Features and Collateral in Note 2 Derivatives to the Consolidated Financial Statements .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For more information about our credit ratings and their potential effects to our liquidity, see Liquidity Risk Credit Ratings in the MD A on page 52 and Note 2 Derivatives to the Consolidated Financial Statements .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Bank of America Corporation is a holding company and we depend upon our subsidiaries for liquidity, including the ability to pay dividends to shareholders and to fund payments on other obligations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Applicable laws and regulations, including capital and liquidity requirements, and actions taken pursuant to our resolution plan could restrict our ability to transfer funds from subsidiaries to Bank of America Corporation or other subsidiaries.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Intercompany arrangements we entered into in connection with our resolution planning submissions could restrict the amount of funding available to the Corporation from our subsidiaries under certain adverse conditions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In the event of our resolution under the single point of entry resolution strategy, such resolution could materially adversely affect our liquidity and financial condition and the ability to pay dividends to shareholders and to pay obligations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Bank of America Corporation, our parent holding company, is required periodically to submit a plan to the FDIC and Federal Reserve describing its resolution strategy under the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In the current plan, Bank of America Corporation s preferred resolution strategy is a single point of entry strategy.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Bankruptcy Code and contemplates providing certain key operating subsidiaries with sufficient capital and liquidity to operate through severe stress and to enable such subsidiaries to continue operating or be wound down in a solvent 7 Bank of America 2017 manner following a bankruptcy of the parent holding company.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Bank of America Corporation has entered into intercompany arrangements resulting in the contribution of most of its capital and liquidity to key subsidiaries.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Pursuant to these arrangements, if Bank of America Corporation s liquidity resources deteriorate so severely that resolution becomes imminent, Bank of America Corporation will no longer be able to draw liquidity from its key subsidiaries, and will be required to contribute its remaining financial assets to a wholly-owned holding company subsidiary, which could materially and adversely affect our liquidity and ability to meet our payment obligations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, if the FDIC and Federal Reserve jointly determine that Bank of America Corporation s resolution plan is not credible, they could impose more stringent capital, leverage or liquidity requirements or restrictions on our growth, activities or operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, we could be required to take certain actions that could impose operating costs and could potentially result in the divestiture or restructuring of certain businesses and subsidiaries.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Under the Financial Reform Act, when a G-SIB such as Bank of America Corporation is in default or danger of default, the FDIC may be appointed receiver in order to conduct an orderly liquidation of such institution.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Under this approach, the FDIC could replace Bank of America Corporation with a bridge holding company, which could continue operations and result in an orderly resolution of the underlying bank, but whose equity would be held solely for the benefit of our creditors.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The financial condition of our consumer and commercial borrowers, counterparties and underlying collateral could adversely affect our financial condition and results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Increases in delinquencies and default rates could adversely affect our consumer credit card, home equity, residential mortgage and purchased credit-impaired portfolios through increased charge-offs and provision for credit losses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, a deteriorating economic environment could also adversely affect our commercial loan portfolios with weakened client and collateral positions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may suffer unexpected losses if the models and assumptions we use to establish reserves and make judgments in extending credit to our borrowers or counterparties prove inaccurate in predicting future events.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although we believe that our allowance for credit losses was in compliance with applicable accounting standards at December 31, 2017 , there is no guarantee that it will be sufficient to address credit losses, particularly if economic conditions deteriorate.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In such an event, we may increase the size of our allowance which would reduce our earnings.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A deterioration in the financial condition or prospects of a particular industry or a failure or downgrade of, or default by, any particular entity or group of entities could negatively affect our businesses, and the processes by which we set limits and monitor the level of our credit exposure to individual entities, industries and countries may not function as we have anticipated.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, our credit risk may be heightened by market risk when the collateral held by us cannot be liquidated or is liquidated at prices not sufficient to recover the full amount of the loan or derivatives exposure due to us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We also have a concentration of credit risk with respect to our consumer real estate loans, including home equity lines of credit (HELOCs), auto loans, consumer credit card and commercial real estate portfolios, which represent a significant percentage of our overall credit portfolio.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "HELOCs that have entered the amortization period are characterized by a higher percentage of early stage delinquencies and nonperforming status relative to the HELOC portfolio as a whole.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Loans in our HELOC portfolio generally have an initial draw period of 10 years and 10 percent of these Bank of America 2017 8 loans will enter the amortization period during 2018 .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, our home equity portfolio contains a significant percentage of loans in second-lien or more junior-lien positions which have elevated risk characteristics.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For more information, see Consumer Portfolio Credit Risk Management in the MD A on page 54 .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For more information, see Commercial Portfolio Credit Risk Management in the MD A on page 63 .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Economic weaknesses, adverse business conditions, market disruptions, the collapse of speculative bubbles, greater volatility in areas where we have concentrated credit risk, or deterioration in real estate values or household incomes may cause us to experience higher credit losses in either our consumer or commercial portfolios or cause us to write-down the value of certain assets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Liquidity disruptions in the financial markets may result in our inability to sell, syndicate or realize the value of our positions, leading to increased concentrations, which could increase the credit and market risk associated with our positions as well as increase our risk-weighted assets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For more information about our credit risk and credit risk management policies and procedures, see Credit Risk Management in the MD A on page 54 , Note 1 Summary of Significant Accounting Principles , Note 4 Outstanding Loans and Leases and Note 5 Allowance for Credit Losses to the Consolidated Financial Statements .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "housing market weakens, or home prices decline, our consumer loan portfolios, credit quality, credit losses, representations and warranties exposures, and earnings may be adversely affected .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "home prices continued to improve during 2017, declines in future periods may negatively impact the demand for many of our products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "housing market in prior years have also resulted in both significant write-downs of asset values in several asset classes, notably mortgage-backed securities, and exposure to monolines.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Severe declines in asset values, unanticipated credit events or unforeseen circumstances that may cause previously uncorrelated factors to become correlated and vice versa may create losses resulting from risks not appropriately taken into account in the development, structuring or pricing of a derivative instrument.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our ability to substitute or make changes to these agreements may be subject to certain limitations, including counterparty willingness, operational considerations, regulatory limitations on naming BANA as the new counterparty and the type or amount of collateral required.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "jurisdictions are subject to risk of loss from currency fluctuations, financial, social or judicial instability, changes in governmental policies or policies of central banks, expropriation, nationalization and/or confiscation of assets, price controls, capital controls, redenomination risk, exchange controls, protectionist trade policies, and other restrictive actions, unfavorable political and diplomatic developments, oil price fluctuation and changes in legislation.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The political and economic environment in Europe has improved but remains challenging and the current degree of political and economic uncertainty could increase.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In the U.K., the ongoing negotiation of the terms of the exit of the U.K.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Market and economic disruptions of all types may affect consumer confidence levels and spending, corporate investment and job creation, bankruptcy rates, levels of incurrence and default on consumer and corporate debt, economic growth rates and asset values, among other factors.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In many countries, the laws and regulations applicable to the financial services and securities industries are uncertain and evolving, and it may be difficult for 9 Bank of America 2017 us to determine the exact requirements of local laws in every market or manage our relationships with multiple regulators in various jurisdictions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Emerging technologies, such as cryptocurrencies, could limit our ability to track the movement of funds.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For the year ended December 31, 2017 , our operations in Europe, Middle East and Africa, including the U.K., represented approximately nine percent of our total revenue, net of interest expense.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "regarding this exit are ongoing and consist of three phases: a divorce agreement, a new trade deal and an arrangement for a transition period.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There has been progress on the agreement of divorce bill, which is expected to be finalized in the next 12 months.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A high degree of uncertainty remains on the timing and the details of a future trade agreement and transition phase.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "s exit negatively impacts economic conditions, financial markets and consumer confidence, our business, results of operations, financial position and/or operational model could be adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Business Operations A failure in or breach of our operational or security systems or infrastructure, or those of third parties, could disrupt our businesses, and adversely impact our results of operations, liquidity and financial condition, as well as cause legal or reputational harm.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our operational and security systems infrastructure and including our computer systems, data management and internal processes, as well as those of third parties, are integral to our performance.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We rely on our employees and third parties in our day-to-day and ongoing operations, who may, as a result of human error, misconduct, malfeasance or failure, or breach of systems or infrastructure, expose us to risk.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have taken measures to implement backup systems and other safeguards to support our operations, but our ability to conduct business may be adversely affected by any significant disruptions to us or to third parties with whom we interact or upon whom we rely.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, our ability to implement backup systems and other safeguards with respect to third-party systems is more limited than with respect to our own systems.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our financial, accounting, data processing, backup or other operating or security systems and infrastructure or those of third parties with whom we interact or upon whom we rely may fail to operate properly or become disabled or damaged as a result of a number of factors including events that are wholly or partially beyond our or such third party s control, which could adversely affect our ability to process transactions or provide services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There could be sudden increases in customer transaction volume; electrical, telecommunications or other major physical infrastructure outages; newly identified vulnerabilities in key hardware or software; natural disasters such as earthquakes, tornadoes, hurricanes and floods; disease pandemics; and events arising from local or larger scale political or social matters, including terrorist acts.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In the event that backup systems are utilized, they may not process data as quickly as our primary systems and some data might not have been backed up.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We continuously update the systems on which we rely to support our operations and growth and to remain compliant with all applicable laws, rules and regulations globally.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A cyber attack, information or security breach, or a technology failure of ours or of a third party could adversely affect our ability to conduct our business, manage our exposure to risk or expand our businesses, result in the disclosure or misuse of confidential or proprietary information, increase our costs to maintain and update our operational and security systems and infrastructure, and adversely impact our results of operations, liquidity and financial condition, as well as cause legal or reputational harm.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our businesses are highly dependent on the security and efficacy of our infrastructure, computer and data management systems, as well as those of third parties with whom we interact or on whom we rely.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, to access our network, products and services, our customers and other third parties may use personal mobile devices or computing devices that are outside of our network environment and are subject to their own cybersecurity risks.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We, our customers, regulators and other third parties have been subject to, and are likely to continue to be the target of, cyber attacks.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These cyber attacks include computer viruses, malicious or destructive code, phishing attacks, denial of service or information or other security breaches that could result in the unauthorized release, gathering, monitoring, misuse, loss or destruction of confidential, proprietary and other information of ours, our employees, our customers or of third parties, damages to systems, or otherwise material disruption to our or our customers or other third parties network access or business Bank of America 2017 10 operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As cyber threats continue to evolve, we may be required to expend significant additional resources to continue to modify or enhance our protective measures or to investigate and remediate any information security vulnerabilities or incidents.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Despite efforts to protect the integrity of our systems and implement controls, processes, policies and other protective measures, we may not be able to anticipate all security breaches, nor may we be able to implement guaranteed preventive measures against such security breaches.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Cyber threats are rapidly evolving and we may not be able to anticipate or prevent all such attacks.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Cybersecurity risks for banking organizations have significantly increased in recent years in part because of the proliferation of new technologies, and the use of the Internet and telecommunications technologies to conduct financial transactions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, cybersecurity risks may increase in the future as we continue to increase our mobile-payment and other internet-based product offerings and expand our internal usage of web-based products and applications.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, cybersecurity risks have significantly increased in recent years in part due to the increased sophistication and activities of organized crime groups, hackers, terrorist organizations, hostile foreign governments, disgruntled employees or vendors, activists and other external parties, including those involved in corporate espionage.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The techniques used by bad actors change frequently, may not be recognized until launched and may not be recognized until well after a breach has occurred.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, the existence of cyber attacks or security breaches at third parties with access to our data, such as vendors, may not be disclosed to us in a timely manner.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although to date we have not experienced any material losses or other material consequences relating to technology failure, cyber attacks or other information or security breaches, whether directed at us or third parties, there can be no assurance that we will not suffer such losses or other consequences in the future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our risk and exposure to these matters remain heightened because of, among other things, the evolving nature of these threats, our prominent size and scale, and our role in the financial services industry and the broader economy, our plans to continue to implement our internet banking and mobile banking channel strategies and develop additional remote connectivity solutions to serve our customers when and how they want to be served, our continuous transmission of sensitive information to, and storage of such information by, third parties, including our vendors and regulators, our geographic footprint and international presence, the outsourcing of some of our business operations, threats of cyber terrorism, external extremist parties, including foreign state actors, in some circumstances as a means to promote political ends, and system and customer account updates and conversions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As a result, cybersecurity and the continued development and enhancement of our controls, processes and practices designed to protect our systems, computers, software, data and networks from attack, damage or unauthorized access remain a priority.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As a result of increasing consolidation, interdependence and complexity of financial entities and technology systems, a technology failure, cyber attack or other information or security breach that significantly degrades, deletes or compromises the systems or data of one or more financial entities could have a material impact on counterparties or other market participants, including us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any third-party technology failure, cyber attack or other information or security breach, termination or constraint could, among other things, adversely affect our ability to effect transactions, service our clients, manage our exposure to risk or expand our businesses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Cyber attacks or other information or security breaches, whether directed at us or third parties, may result in a material loss or have material consequences.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Furthermore, the public perception that a cyber attack on our systems has been successful, whether or not this perception is correct, may damage our reputation with customers and third parties with whom we do business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A successful penetration or circumvention of system security could cause us negative consequences, including loss of customers and business opportunities, disruption to our operations and business, misappropriation or destruction of our confidential information and/or that of our customers, or damage to our customers and/or third parties computers or systems, and could result in a violation of applicable privacy laws and other laws, litigation exposure, regulatory fines, penalties or intervention, loss of confidence in our security measures, reputational damage, reimbursement or other compensatory costs, additional compliance costs, and could adversely impact our results of operations, liquidity and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In connection with these sales, we or certain of our subsidiaries or legacy companies made various representations and warranties, breaches of which may result in a requirement that we repurchase the mortgage loans, or otherwise make whole or provide other remedies to counterparties.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "At December 31, 2017 , we had 17.6 billion of unresolved repurchase claims, net of duplicate claims and excluding claims where the statute of limitations has expired without litigation being commenced.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have recorded a liability of 1.9 billion for obligations under representations and warranties exposures.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We also have an estimated range of possible loss of up to 1 billion over our recorded liability.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, our recorded liability for representations and warranties exposures and the corresponding estimated range of possible loss do not consider certain losses related to servicing, including foreclosure and related costs, fraud, indemnity or claims (including for residential mortgage-backed securities related to securities law.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For more information about our representations and warranties exposure, including the estimated range of possible loss, see Off- 11 Bank of America 2017 Balance Sheet Arrangements and Contractual Obligations Representations and Warranties in the MD A on page 40 , Consumer Portfolio Credit Risk Management in the MD A on page 54 and Note 7 Representations and Warranties Obligations and Corporate Guarantees to the Consolidated Financial Statements .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We service a portion of the loans we have securitized and also service loans on behalf of third-party securitization vehicles and other investors.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "During 2017, we sold approximately 7.9 billion of loans to Fannie Mae and Freddie Mac.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We cannot predict whether the conservatorships will end, any associated changes to their business structure that could result or whether the conservatorships will end in receivership, privatization or other change in business structure.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Accordingly, uncertainty regarding their future continues to exist, including whether they will continue to exist in their current forms or continue to guarantee mortgages and provide funding for mortgage loans.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our risk management framework depends on a sound risk culture existing throughout the Corporation, and that we manage risks associated with third parties and vendors.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, these regulations and uncertainty surrounding the scope and requirements of the final rules implementing recently enacted and proposed legislation, as well as certain settlements and consent orders we have entered into, have increased and could continue to increase our compliance and operational risks and costs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These laws and regulations significantly affect and have the potential to restrict the scope of our existing businesses, limit our ability to pursue certain business opportunities or make our products and services more expensive for clients and customers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In response to the financial crisis as well as other factors such as technological and market changes, the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "financial regulators and the European Parliament and Commission, have adopted or proposed laws and regulations regarding financial institutions located in their jurisdictions, which have required and could require us to make significant modifications to our non-U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We continue to make adjustments to our business and operations, legal entity structure and capital and liquidity management policies, procedures and controls to comply with these laws and regulations, as well as final rulemaking, guidance and interpretation by regulatory authorities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Accordingly, the cumulative effect of all of the legislation and regulations on our business, operations and profitability remains uncertain.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If these assumptions prove incorrect, we could be subject to increased regulatory and compliance risks and costs Bank of America 2017 12 as well as potential reputational harm.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our regulators prudential and supervisory authority gives them broad power and discretion to direct our actions, and they have assumed an active oversight, inspection and investigatory role across the financial services industry.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The complexity of the federal and state regulatory and enforcement regimes in the U.S., coupled with the global scope of our operations and the aggressiveness of the regulatory environment worldwide also means that a single event or practice or a series of related events or practices may give rise to a large number of overlapping investigations and regulatory proceedings, either by multiple federal and state agencies in the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We face significant legal risks in our business, and the volume of claims and amount of damages, penalties and fines claimed in litigation, and regulatory and government proceedings against us and other financial institutions remain high.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Greater than expected litigation and investigation costs, substantial legal liability or significant regulatory or government action against us could have adverse effects on our financial condition and results of operations or cause significant reputational harm to us, which in turn could adversely impact our liquidity, financial condition and results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We continue to experience a significant volume of litigation and other disputes, including claims for contractual indemnification with counterparties regarding relative rights and responsibilities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Among other things, financial institutions, including us, continue to be the subject of claims alleging anti-competitive conduct with respect to various products and markets, including U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, regulatory authorities have had a supervisory focus on enforcement, including in connection with alleged violations of law and customer harm.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, regulators and government agencies have pursued claims against financial institutions under FIRREA, the False Claims Act, and under the antitrust laws.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The ongoing environment of extensive regulation, regulatory compliance burdens, litigation, and regulatory and government enforcement, combined with uncertainty related to the evolving regulatory environment, have resulted in operational and compliance costs and risks, which may limit our ability to continue providing certain products and services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "federal banking agencies may require us to increase our regulatory capital, total loss absorbing capacity, long-term debt or liquidity requirements, which could result in the need to issue additional qualifying securities or to take other actions, such as to sell company assets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If any of our subsidiary insured depository institutions fails to maintain its status as well capitalized under the applicable regulatory capital rules, the Federal Reserve will require us to agree to bring the insured depository institution back to well-capitalized status.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "13 Bank of America 2017 In the current regulatory environment, capital and liquidity requirements are frequently introduced and amended.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our risk-based capital surcharge (G-SIB surcharge) may increase from current estimates, and we are also subject to a countercyclical capital buffer which, while currently set at zero, may be increased by regulators.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A significant component of regulatory capital ratios is calculating our risk-weighted assets, including operational risk, and our leverage exposure which may increase.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "banking regulators proposed Net Stable Funding Ratio requirements which target longer term liquidity risk and would apply to us and our subsidiary insured depository institutions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Basel Committee on Banking Supervision has also revised several key methodologies for measuring risk-weighted assets, including a standardized approach for credit risk, standardized approach for operational risk, and constraints on the use of internal models as well as a capital floor based on the revised standardized approaches.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As part of its annual CCAR review, the Federal Reserve conducts stress testing on parts of our business using hypothetical economic scenarios prepared by the Federal Reserve.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Those scenarios may affect our CCAR stress test results, which may have an effect on our projected regulatory capital amounts in the annual CCAR submission, including the CCAR capital plan affecting our dividends and stock repurchases.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are also subject to the Federal Reserve s rule effective January 1, 2019 requiring U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "G-SIBs to maintain minimum amounts of external total loss-absorbing capacity (TLAC) to improve the resolvability and resiliency of large, interconnected BHCs, with minimum requirements for TLAC and long-term debt based on our risk-weighted assets, supplementary leverage exposure and G-SIB surcharge.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For more information, see Capital Management Regulatory Capital in the MD A on page 45 .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Accounting standard-setters and those who interpret the accounting standards, the SEC, banking regulators and our independent registered public accounting firm may also amend or even reverse their previous interpretations or positions on how various standards should be applied.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In some cases, we could be required to apply a new or revised standard retrospectively, resulting in us revising prior-period financial statements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In June 2016, the Financial Accounting Standards Board issued a new accounting standard that will require the earlier recognition of credit losses on loans and other financial instruments based on an expected loss model, replacing the incurred loss model that is currently in use.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For more information on some of our critical accounting policies and recent accounting changes, see Complex Accounting Estimates in the MD A on page 84 and Note 1 Summary of Significant Accounting Principles to the Consolidated Financial Statements .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "On December 22, 2017, the President signed into law the Tax Cuts and Jobs Act (the Tax Act) which made significant changes to federal income tax law including, among other things, reducing the statutory corporate income tax rate to 21 percent from 35 percent and changing the taxation of our non-U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have accounted for the effects of the Tax Act using reasonable estimates based on currently available information and our interpretations thereof.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "This accounting may change due to, among other things, changes in interpretations we have made and the issuance of new tax or accounting guidance.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Adverse developments with respect to tax laws or to other material factors, such as prolonged worsening of Europe s capital markets or changes in the ability of our U.K.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Harm to our reputation can arise from various sources, including employee misconduct, security breaches, unethical behavior, litigation or regulatory outcomes, compensation practices, the suitability or reasonableness of recommending particular trading or investment strategies, prohibiting clients from engaging in certain transactions, sales practices, failing to deliver products, standards of service and quality expected by our customers, clients and the community, compliance failures, inadequacy of responsiveness to internal controls, unintended disclosure of confidential information, perception of our environmental, social and governance practices and disclosures, and the activities of our clients, customers and counterparties, including vendors.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, adverse publicity or negative information posted on social media websites, whether or not factually correct, may adversely impact our business prospects or financial results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are subject to complex and evolving laws and regulations regarding privacy, know-your-customer requirements, data protection, including the EU General Data Protection Regulation Bank of America 2017 14 (GDPR), cross-border data movement and other matters.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Further, clients may choose to conduct business with other market participants who engage in business or offer products in areas we deem speculative or risky, such as cryptocurrencies.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Increased competition may negatively affect our earnings by creating pressure to lower prices or credit standards on our products and services requiring additional investment to improve the quality and delivery of our technology and/or reducing our market share, or affecting the willingness of our clients to do business with us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our business model is based on a diversified mix of businesses that provide a broad range of financial products and services, delivered through multiple distribution channels.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the widespread adoption of new technologies, including internet services, cryptocurrencies and payment systems, could require substantial expenditures to modify or adapt our existing products and services as we grow and develop our internet banking and mobile banking channel strategies in addition to remote connectivity solutions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We use proprietary models and strategies extensively to measure and assess capital requirements for credit, country, market, operational and strategic risks and to assess and control 15 Bank of America 2017 our operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These models require oversight and periodic re-validation and are subject to inherent limitations due to the use of historical trends and simplifying assumptions, and uncertainty regarding economic and financial outcomes.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Reforms to and uncertainty regarding LIBOR and certain other indices may adversely affect our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "FCA announced in July 2017 that it will no longer persuade or require banks to submit rates for LIBOR after 2021.",
+    "risk_type": "regulatory",
+    "nature": "new_risk",
+    "style": "concrete"
+  },
+  {
+    "sentence": "This announcement, in conjunction with financial benchmark reforms more generally and changes in the interbank lending markets have resulted in uncertainty about the future of LIBOR and certain other rates or indices which are used as interest rate benchmarks.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "These actions and uncertainties may have the effect of triggering future changes in the rules or methodologies used to calculate benchmarks or lead to the discontinuance or unavailability of benchmarks.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "ICE Benchmark Administration is the administrator of LIBOR and maintains a reference panel of contributor banks, which includes Bank of America, N.A., London branch for certain LIBOR rates.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Uncertainty as to the nature and effect of such reforms and actions, and the potential or actual discontinuance of benchmark quotes, may adversely affect the value of, return on and trading market for our financial assets and liabilities that are based on or are linked to benchmarks, including any LIBOR-based securities, loans and derivatives, or our financial condition or results of operations.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Furthermore, there can be no assurances that we and other market participants will be adequately prepared for an actual discontinuation of benchmarks, including LIBOR, that may have an unpredictable impact on contractual mechanics (including, but not limited to, interest rates to be paid to or by us) and cause significant disruption to financial markets that are relevant to our business segments, particularly Global Banking and Global Markets , among other adverse consequences, which may also result in adversely affecting our financial condition or results of operations.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "vague"
+  }
+]

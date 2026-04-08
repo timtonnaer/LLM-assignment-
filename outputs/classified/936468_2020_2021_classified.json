@@ -1,0 +1,980 @@
+[
+  {
+    "sentence": "Risks Related to our Reliance on Government Contracts We depend heavily on contracts with the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Government s priorities and delays or reductions in spending could have a material adverse effect on our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Current program challenges include, but are not limited to, supplier and partner performance (including COVID-19 related challenges), software development, the availability and receipt of funding for contracts on a timely basis, execution of future flight tests and findings resulting from testing and operating the aircraft, the level of cost associated with life-cycle operations and sustainment and warranties, continuing to reduce the unit production costs, and achieving cost targets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If a government 10 Table of Contents shutdown were to occur and were to continue for an extended period of time, we could be at risk of program cancellations and other disruptions and nonpayment.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Shifting funding priorities, including COVID-19 related spending, or federal budget compromises, could also result in reductions in overall defense spending which could adversely impact our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our business could also be adversely impacted by reductions or delays in spending by non-U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We believe our diverse range of products and services generally make it less likely that cuts in any specific contract or program will affect our business on a long-term basis.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, costs to comply with new government regulations can increase our costs, reduce our margins and affect our competitiveness.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Government may terminate any of our government contracts and subcontracts not only for default based on our performance but also at its convenience.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Upon termination for convenience of a cost-reimbursable contract, we normally are entitled to reimbursement of allowable costs plus a portion of the fee, and allowable costs include our cost to terminate agreements with our suppliers and subcontractors.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As funds are typically appropriated on a fiscal year basis, and because the costs of a termination for convenience may exceed the costs of continuing a program in a given fiscal year, programs occasionally do not have sufficient funds appropriated to cover the termination costs if the government were to terminate them for convenience.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Government often operate for periods of time under Undefinitized Contract Actions (UCAs), which means that we begin performing our obligations before the terms, specifications or price are finally agreed to between the parties.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Government has unilaterally definitized contracts with us in the past, most notably the F-35 LRIP 9 contract in 2016 and more recently two FMS F-16 upgrade proposals in 2020, and may do so in the future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Government generally has the right not to exercise option periods and may decide not to exercise an option period for various reasons.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Government procurement policies and increased emphasis on cost over performance and rapid acquisition could adversely affect our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Government could implement procurement policies that negatively impact our profitability or the ability to win new business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our customers also may pursue non-traditional contract provisions or contract types in negotiation of contracts.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "This increased risk may lead to losses on fixed price development programs or may cause us not to bid on future fixed-price development programs, which could adversely affect our future growth prospects and financial performance.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, given the customer s emphasis on cost, even if we effectively manage program life-cycle and sustainment costs and meet customer affordability targets, the customer may elect to recompete programs at the end of existing contracts, which may result in a lost business opportunity.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Government also has proposed contract terms or taken positions that represent fundamental changes from historical practices or that we believe are inconsistent with the FAR or other laws and regulations and which could adversely affect our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The DoD also is increasingly pursuing rapid development and acquisition of new technologies through rapid acquisition pathways and procedures, including through other transaction authority agreements (OTAs).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While OTAs do not currently represent a significant portion of our overall contracts (less than 2 of total backlog), in recent years the DoD has increased the frequency of use and size of OTAs and we expect this trend to continue in the future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "OTAs are exempt from many traditional procurement laws, including the FAR, and may be used, subject to certain conditions, for research, prototype development and follow on production for a successful prototype.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The conditions to award OTAs include, in certain instances, that a significant portion of the work under the OTA is performed by a non-traditional defense contractor or that a portion of the cost of the protype project is funded by non-governmental sources.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we cannot successfully adapt to the DoD s rapid acquisition processes or if the DoD significantly increases the use of OTAs with non-traditional defense contractors or increasingly mandates cost sharing, then we may lose strategic new business opportunities in high-growth areas and our future performance and results could be adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Shorter life-cycle technologies rather than large platforms could also make our existing portfolio less competitive in the future.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are routinely subject to audit by our customers on government contracts and the results of those audits could have an adverse effect on our business, reputation and results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In 12 Table of Contents addition, we could suffer serious reputational harm if allegations of impropriety were made against us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, certain contracts associated with our Space business segment contain provisions that require us to forfeit fees, pay penalties, or provide replacement systems in the event of performance failure, which could negatively affect our earnings and cash flows.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, competitive bids that do not contain cost-realism evaluation criteria can lead to competitors taking aggressive pricing positions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Government also may not award us large competitive contracts that we otherwise might have won in an effort to maintain a broader industrial base.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Unsuccessful bidders may protest in the hope of being awarded a subcontract for a portion of the work in return for 13 Table of Contents withdrawing the protest.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are experiencing increased competition, including from emerging non-traditional competitors, while, at the same time, many of our customers are facing significant budget pressures, trying to do more with less by cutting costs, using fixed price contracts, deferring large procurements, identifying more affordable solutions, performing certain work internally rather than hiring contractors, and reducing product development cycles.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If emerging competitors can offer faster or lower cost services and products at equivalent or even reduced capabilities, then we may lose new business opportunities or contract recompetes, which could adversely affect our future results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our success in competing and remaining cost-competitive may depend on our ability to adopt and integrate new digital manufacturing and operating technologies and tools into our product lifecycles and processes.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Furthermore, acquisitions in our industry, particularly vertical integration by tier-1 prime contractors, could also result in increased competition or limit our access to certain suppliers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "To remain competitive, we must maintain consistently strong customer relationships, seek to understand customer priorities and provide superior performance, advanced technology solutions and services at an affordable cost with the agility that our customers require to satisfy their mission objectives in an increasingly price competitive environment.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Other Risks Related to our Operations The effects of COVID-19 and other potential future public health crises, epidemics, pandemics or similar events on our business, operating results and cash flows are uncertain.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "and global economies, disrupted global supply chains, resulted in significant travel and transport restrictions, including mandated closures and orders to shelter-in-place and quarantine restrictions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The pandemic has presented unprecedented business challenges, and we have experienced impacts in each of our business areas related to COVID-19, primarily in increased coronavirus-related costs, delays in supplier deliveries, impacts of travel restrictions, site access and quarantine requirements, and the impacts of remote work and adjusted work schedules.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The extent of the impact of the COVID-19 pandemic on our operational and financial performance, including our ability to execute our programs in the expected timeframe, remains uncertain and will depend on future pandemic related developments, including the duration of the pandemic, any potential subsequent waves of COVID-19 infection, the effectiveness, distribution and acceptance of COVID-19 vaccines, and related government actions to prevent and manage disease spread, all of which are uncertain and cannot be predicted.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The long-term impacts of COVID-19 on government budgets and other funding priorities, including international priorities, that impact demand for our products and services and our business are also difficult to predict.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In accordance with the Department of Homeland Security s identification of the Defense Industrial Base as a critical infrastructure sector in March 2020, our U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "production facilities have continued to operate during the pandemic, however, our operations have been adjusted in response to the pandemic, including, most significantly, a reduction in the F-35 production rate primarily due to supplier delays.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Staffing levels at our facilities, our customer facilities, and our supplier facilities have and could continue to fluctuate as a result of COVID-19, which could negatively impact our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "have different responses to the pandemic that can affect our international operations and the operations of our suppliers and customers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "have affected our normal operations and resulted in some schedule delays and future or prolonged occurrences of these could adversely affect our ability to achieve future contract milestones and our results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As described in the risk factor below, we rely on other companies and the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Government to provide materials, major components and products, and to perform a portion of the services that are provided to our customers under the terms of most of our contracts.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Many of these suppliers also supply parts for commercial aviation businesses which have been more significantly impacted by the pandemic due to the impacts on these markets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Global supply chain disruption caused by the response to COVID-19 has impacted some of our programs and could impact our ability to perform on our contracts, in particular in instances where there is not a qualified second source of supply.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have identified a number of suppliers that have experienced delivery impacts due to COVID-19 and have been working to manage those impacts.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "However, if alternatives or other mitigations are not effective, deliveries and other milestones on affected programs could be adversely impacted.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Delays in inspection, acceptance and payment by our customers, many of whom are teleworking, could also affect our sales and cash flows.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "This is particularly an issue with respect to classified work that is unable to be done remotely.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Limitations on government operations can also impact regulatory approvals such as export licenses that are needed for international sales and deliveries.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, we could experience delays in new program starts or awards of future work as well as the uncertain 14 Table of Contents impact of contract modifications to respond to the pandemic.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have been granted some travel exemptions to allow us to continue certain activities but we have no assurance that they will continue or additional restrictions will not be imposed.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If significant portions of our workforce are unable to work effectively, including because of illness, quarantines, absenteeism, government actions, facility closures, travel restrictions or other restrictions due to COVID-19, our operations will be impacted and this could create risks to the effectiveness of our internal controls.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, we have not previously experienced such a significant portion of our workforce working remotely for a prolonged period, so its effects on our long-term operations are unknown.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The impact of COVID-19 could worsen depending on the duration and spread of the COVID-19 pandemic or potential subsequent waves of COVID-19 infection in affected regions after they have begun to experience improvement.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Coronavirus-related costs for us and our suppliers are significant and we are seeking reimbursement of coronavirus-related costs under our U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Government contracts through a combination of equitable adjustments to the contract price and reimbursement of the costs under Section 3610 of the Coronavirus Aid, Relief and Economic Security Act (CARES Act), which allows federal agencies to reimburse contractors for certain COVID-19 related costs from March 27, 2020 through March 31, 2021.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These cost increases, including costs for employees whose jobs cannot be performed remotely and for certain costs incurred prior to March 27, 2020, may not be fully recoverable under our contracts, particularly fixed-price contracts, or adequately covered by insurance.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We also have no assurance that Congress will appropriate funds to cover the reimbursement of defense contractors authorized by the CARES Act, which could reduce funds available for other U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The continued spread of COVID-19 has also led to disruption and volatility in the global capital markets, which depending on future developments could impact our capital resources and liquidity in the future and the investment returns on our pension assets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are also monitoring the impacts of COVID-19 on the fair value of our assets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While we do not currently anticipate any material impairments on our assets as a result of COVID-19, future changes in expectations for sales, earnings and cash flows related to intangible assets and goodwill below our current projections could cause these assets to be impaired.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For more information on the effect of COVID-19 on our operations and our response to COVID-19, see Management s Discussion and Analysis of Financial Condition and Results of Operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Changes in the economic environment, including the COVID-19 pandemic, geopolitical events, defense budgets, trade sanctions and constraints on available financing, and the highly competitive and budget constrained environment in which we operate, may adversely affect the financial stability and viability of our contracting parties or their ability to meet their performance requirements or to provide needed supplies or services on a timely basis.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Some scarce raw materials required for our products are largely controlled by a single country, including rare earth minerals that are largely controlled by China, and therefore can be adversely impacted by potential trade actions involving that country.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A default termination could expose us to liability and affect our ability to compete for 15 Table of Contents future contracts and orders.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A failure by our contracting parties to meet affordability targets could negatively affect our profitability, result in contract losses and affect our ability to win new business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our success depends, in part, on our ability to develop new technologies, products and services and efficiently produce and deliver existing products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "To advance our innovation, we may seek to collaborate with commercial entities that are not accustomed to government contracting and these entities may be unwilling to agree to the government s customary terms, including those governing intellectual property.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Due to the complex and often experimental nature of the products and services we offer, we may experience technical difficulties during the development of new products or technologies.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we fail in our development projects or if our new products or technologies fail to achieve customer acceptance, we may be unsuccessful in procuring new contracts or winning all or a portion of next generation programs, and this could adversely affect our future performance and financial results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We also may not be successful in our efforts to grow in key areas such as hypersonics and mission systems, which could adversely affect our future performance.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "International sales are subject to numerous political and economic factors, budget uncertainty, regulatory requirements, significant competition, taxation, and other risks associated with doing business in foreign countries.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Government purchases products or services from us on behalf of the foreign customer and by direct commercial sales (DCS) to such customers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In 2020, approximately 67 of our sales to international customers were FMS and about 33 were DCS.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "International sales present risks that are different and potentially greater than those encountered in our U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, international procurement and local country rules and regulations, contract laws, and judicial systems differ from those in the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "and, in some cases, may be less developed than in the U.S., which could impair our ability to enforce contracts and increase the risk of adverse or 16 Table of Contents unpredictable outcomes, including the possibility that certain matters that would be considered civil matters in the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In conjunction with defense procurements, some international customers require contractors to comply with industrial cooperation regulations, including entering into industrial participation or industrial development agreements, sometimes referred to as offset agreements, as a condition to obtaining orders for our products and services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Industrial development agreements generally extend over several years and obligate the contractor to perform certain commitments, which may include in-country purchases, technology transfers, local manufacturing support, consulting support to in-country projects, investments in joint ventures and financial support projects.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Expectations as to offset commitments can be substantial, including high-value content, and may exceed existing local technical capability.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Failure to meet these commitments, which can be subjective and outside of our control, may result in significant penalties, and could lead to a reduction in sales to a country.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Furthermore, certain of our existing industrial development agreements are dependent upon the successful operation of joint ventures that we do not control and involve products and services that are outside of our core business, which may increase the risk that we fail to meet our industrial cooperation agreements, expose us to compliance risks of the joint venture and impair our ability to recover our investment.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For more information on our industrial development obligations, including the notional value of our remaining industrial development obligations and potential penalties for non-compliance, see Contractual Commitments and Off-Balance Sheet Arrangements in Management s Discussion and Analysis of Financial Condition and Results of Operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "On July 14, 2020 and again on October 26, 2020, the People s Republic of China (China) announced it may impose sanctions against Lockheed Martin in response to Congressional Notifications of potential Foreign Military Sales to Taiwan.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Government guidance as it relates to sales to Taiwan and do not see a material impact on our sales at this time.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "China has not specified the nature of any such sanctions, but could seek to restrict our commercial sales or supply chain, including our supply of rare earth or other raw materials, and could also impose sanctions on our suppliers, teammates or partners.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The nature, timing and potential impact of any sanctions that may be imposed by China or any other related actions that may be taken are uncertain.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We continue to monitor the effect of the United Kingdom s (UK) departure from the European Union (EU) (commonly referred to as Brexit) on our business operations and financial results.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We anticipate that the most probable near-term effects are likely to reflect the pressure Brexit has placed on the UK government, which may influence the government s ability to make decisions on large complex programs of the type we perform.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The post-Brexit border controls between the UK and EU also may have adverse implications on the movement of products or sustainment activities between the UK and EU or may increase costs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Additionally, our practice is to substantially hedge our transactional currency exposure and therefore, we do not have material currency transaction exposure to the pound sterling or the euro.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Government in the exercise of foreign policy, Congressional oversight or the financing of particular programs, including the prevention or imposition of conditions upon the sale and delivery of our products, the imposition of sanctions, or Congressional action to block sales of our products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Government has imposed certain sanctions on Turkish entities and persons as described in the risk factor below, and could act in the future to prevent or restrict sales to other customers, including the Kingdom of Saudi Arabia and the United Arab Emirates.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Government officials have indicated that the Biden administration is temporarily pausing the implementation of some pending U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "defense transfers and sales to various countries to allow incoming leadership an opportunity to review.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The officials also state that the review is typical with any new administration, but the duration and results of the review are unknown, and if current sales are delayed or canceled or future sales prohibited or restricted, our results from operations, backlog and future performance could be adversely affected.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Sales of military products and any associated industrial cooperation agreements are also affected by defense budgets and U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "foreign policy, including trade restrictions and disputes, and there could be significant delays or other issues in reaching definitive agreements for announced programs and international customer priorities could change.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "17 Table of Contents Additionally, the timing of orders from our international customers can be less predictable than for our U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As a result of Turkey accepting delivery of the Russian S-400 air and missile defense system, the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Government removed Turkey from the F-35 program in 2019 and in December 2020 imposed sanctions on Turkey s defense procurement agency (SSB) and certain of the agency s officers under the Countering America s Adversaries Through Sanctions Act (CAATSA).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "export licenses and authorizations for any goods or technology transferred to the SSB, but does not apply to current, valid export licenses and authorizations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Government to continue to engage Turkey on these issues, but we have no indication that the sanctions will be removed, that additional sanctions will not be imposed or that Turkey will not issue reciprocal sanctions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While we do not expect the current sanctions to have a material effect on our current programs, additional sanctions, reciprocal sanctions or other actions, could be material to our operations, operating results, financial position or cash flows.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition to having committed to purchase up to 100 F-35 aircraft, six of which had completed production at the time of removal, Turkish suppliers continue to produce component parts for the F-35 program, some of which are single-sourced.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have made significant progress transitioning to non-Turkish suppliers, but due to the procedure to qualify new parts and suppliers, this collaborative process between DoD and Lockheed Martin is ongoing.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "During 2020, the DoD publicly confirmed that Turkish suppliers would be permitted to provide certain components for the F-35 through 2022.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Efforts to date have significantly reduced our risk, but final resolution on a limited number of remaining components could affect F-35 deliveries, and any accelerated work stoppage would impact cost.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Government guidance as it relates to completed Turkish aircraft and the export and import of component parts from the Turkish supply chain.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Government sanctions on the SSB and Turkey s removal from the F-35 program do not appear to be significant at this time.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "However, unforeseen actions could impact the timing of orders, disrupt the production of aircraft, delay delivery of aircraft, disrupt delivery of sustainment components produced in Turkey and impact funding on the F-35 program to include the result of any reprogramming of funds that may be necessary to mitigate the impact of alternate sources for component parts made in Turkey.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We currently have programs directly with SSB that include delivery and support of helicopters for Turkish end users.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We also have contracts with Turkish industry for the Turkish Utility Helicopter Program (TUHP), which is overseen by SSB, in support of Turkish industry s production of helicopters for Turkish end users.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Each program has current, valid export licenses that should not be subject to the current sanctions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We expect pending and future export licensing applications and any required modifications, extensions or changes in scope to the existing licenses, where SSB is a party to the transaction, would be denied, adversely affecting our ability to perform the program contracts.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, we have other programs where we work with Turkish industry, including for domestic U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While these commercial relationships are not affected by the current sanctions, they could be adversely affected by the imposition of additional sanctions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Although the current sanctions are not expected to have a material effect on our current programs, they may result in the loss of future sales, and any future sanctions or reciprocal actions by Turkey could result in further restrictions on exports or imports, losses of future sales, reductions in backlog, return of advance payments, costs to develop alternate supply sources, restrictions on payments, force majeure events or contract terminations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "18 Table of Contents We may be unable to benefit fully from or adequately protect our intellectual property rights or use third-party intellectual property, which could negatively affect our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "government is pursuing aggressive positions regarding the types of intellectual property to which government use rights apply and when it is appropriate for the government to insist on broad use rights.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The DoD is also implementing an overarching intellectual property acquisition policy that will require a greater focus and planning as to intellectual property rights for its programs, and we have no assurance as to the potential impacts of this policy or any associated regulatory changes on future acquisitions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Due to the specialized nature of our business, our performance is dependent upon our ability to identify, attract and retain a workforce with the requisite skills in multiple areas including: engineering, science, manufacturing, information technology, cybersecurity, business development and strategy and management.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "19 Table of Contents Our efforts to minimize the likelihood and impact of adverse cybersecurity incidents and to protect data and intellectual property may not be successful and our business could be negatively affected by cyber or other security threats or other disruptions.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If we fail to manage acquisitions, divestitures, equity investments and other transactions, including our proposed acquisition of Aerojet Rocketdyne, successfully or if acquired entities or equity investments fail to perform as expected, our financial results, business and future prospects could be harmed.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "To be successful, we must conduct due diligence to identify valuation issues and potential loss contingencies; negotiate transaction terms; complete and close complex transactions; 20 Table of Contents integrate acquired companies and employees; and realize anticipated operating synergies efficiently and effectively.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Unidentified or identified but un-indemnified pre-closing liabilities could affect our future financial results, particularly through successor liability under procurement laws and regulations such as the False Claims Act or Truth in Negotiations Act, anti-corruption, environmental, tax, import-export and technology transfer laws, which provide for civil and criminal penalties and the potential for debarment.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "On December 20, 2020, we entered into an agreement to acquire Aerojet Rocketdyne Holdings, Inc.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The transaction is expected to close in the second half of 2021 and is subject to the satisfaction of customary closing conditions, including regulatory approvals and approval by Aerojet Rocketdyne s stockholders.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We may be unable to achieve the expected benefits of this transaction as a result of, among other things, the failure to obtain, delays in obtaining, or adverse conditions contained in any required regulatory or other approvals for consummation of the acquisition; the possibility that Aerojet Rocketdyne stockholders may not approve the proposed acquisition; the failure to consummate or a delay in consummating the proposed acquisition for other reasons; the failure by us to obtain any necessary financing on favorable terms or at all; Aerojet Rocketdyne s or our business being disrupted due to transaction-related uncertainty; the failure to successfully and timely integrate Aerojet Rocketdyne and realize the expected synergies, cost savings and other benefits of the acquisition; the risk of litigation relating to the proposed acquisition; competitive responses to the proposed acquisition; unexpected liabilities, costs, charges or expenses resulting from the acquisition; and potential adverse reactions or changes to business relationships from the announcement or completion of the acquisition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The expected cash cost of the acquisition of approximately 4.4 billion also assumes the assumption of net cash on the balance sheet of Aerojet Rocketdyne at closing after payment of outstanding debt, which is subject to uncertainty related to Aerojet Rocketdyne s earnings and costs through the date of closing.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The total equity value of approximately 4.6 billion to be paid by Lockheed Martin for Aerojet Rocketdyne, including Aerojet Rocketdyne s convertible notes on an as-converted basis, assumes the payment by Aerojet Rocketdyne of its announced special cash dividend, which is revocable through the payment date at the election of the Aerojet Rocketdyne board of directors.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "These investments typically face many of the same risks and uncertainties as we do, but in addition may expose us to additional risks not present if we retained full control.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "A joint venture partner may have economic or other business interests that are inconsistent with ours and we may be unable to prevent strategic decisions that may adversely affect our business, financial condition and results of operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We also could be adversely affected by, or liable for, actions taken by these joint ventures that we do not control, including violations of anti-corruption, import and export, taxation and anti-boycott laws.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our operating results are affected by the conduct and performance of businesses over which we do not exercise control and, as a result, we may not be successful in achieving the growth or other intended benefits of strategic investments.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Of our business segments, our equity investments had the greatest impact on our Space business segment where approximately 12 of its 2020 operating profit was derived from its share of earnings from equity method investees, primarily that in United Launch Alliance (ULA).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We also have our 51 ownership interest in AWE Management Limited (AWE), which operates the United Kingdom s nuclear deterrent program.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "This venture generated sales of about 1.4 billion and net earnings of about 29 million in 2020.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "On November 2, 2020, the UK Ministry of Defense announced its intention to re-nationalize the program on June 30, 2021, which is expected to result in the loss of future sales and operating profit attributable to AWE.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "21 Table of Contents Risks Related to Significant Contingencies, Uncertainties and Estimates, including Pension, Environmental and Litigation Costs Pension funding and costs are dependent on several economic assumptions which if changed may cause our future earnings and cash flow to fluctuate significantly as well as affect the affordability of our products and services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Many of our employees and retirees participate in defined benefit pension plans, retiree medical and life insurance plans, and other postemployment plans (collectively, postretirement benefit plans).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For more information on how these factors could impact earnings, financial position, cash flow and stockholders equity, see Critical Accounting Policies - Postretirement Benefit Plans in Management s Discussion and Analysis of Financial Condition and Results of Operations and Note 12 Postretirement Benefit Plans included in our Notes to Consolidated Financial Statements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our estimates and projections may prove to be inaccurate and certain of our assets may be at risk of future impairment.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have 10.8 billion of goodwill assets recorded on our consolidated balance sheet as of December 31, 2020 from previous acquisitions, which represents approximately 21 of our total assets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Beginning in 2022, the Tax Cuts and Jobs Act of 2017 eliminates the option to deduct research and development expenditures currently and requires taxpayers to amortize them over five years.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While it is possible that Congress may modify or repeal this provision before it takes effect and we continue to have ongoing discussions with members of Congress, both on our own and with other industries through coalitions, we have no assurance that these provisions will be modified or repealed.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Furthermore, we are continuing to work with our advisors to refine our legal interpretation of this provision prior to implementation in 2022.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "If these provisions are not repealed and based on current interpretations of the law, initially this would materially decrease our cash from operations based on current assumptions beginning in 2022 by approximately 2.0 billion; and increase our net deferred tax assets by a similar amount.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The largest impact would be on 2022 cash from operations, which would depend on the amount of research and development expenses paid or incurred in 2022 and other factors.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The impact, however, would continue over the five year amortization period but would 22 Table of Contents decrease over the period and be immaterial in year six.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We endeavor to obtain insurance coverage from established insurance carriers to cover these risks and liabilities.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Among the variables management must assess in evaluating costs associated with these cases and remediation sites generally are the status of site assessment, extent of the contamination, impacts on natural resources, changing cost estimates, evolution of technologies used to remediate the site, continually evolving environmental standards and cost allowability issues, including varying efforts by the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For information regarding these matters, including current estimates of the amounts that we believe are required for environmental remediation to the extent probable and estimable, see Critical Accounting Policies - Environmental Matters in Management s Discussion and Analysis of Financial Condition and Results of Operations and Note 15 Legal Proceedings, Commitments and Contingencies included in our Notes to Consolidated Financial Statements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For a description of our current legal proceedings, see Item 3 - Legal Proceedings along with Note 15 Legal Proceedings, Commitments and Contingencies included in our Notes to Consolidated Financial Statements.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Risks Related to Ownership of our Common Stock There can be no assurance that we will continue to increase our dividend or to repurchase shares of our common stock at current levels.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Cash dividend payments and share repurchases are subject to limitations under applicable laws and the discretion of our Board of Directors and are determined after considering then-existing conditions, including earnings, other operating results and capital requirements and cash deployment alternatives.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  }
+]

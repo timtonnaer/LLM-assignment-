@@ -1,0 +1,218 @@
+[
+  {
+    "sentence": "Our Commercial Airplanes and Global Services businesses depend heavily on commercial airlines, and are subject to unique risks.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, the introduction of new aircraft programs and/or derivatives, such as the 777X, involves increased risks associated with meeting development, testing, production and certification schedules.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We have plans to adjust production rates on several of our commercial aircraft programs, while at the same time engaging in significant ongoing development and production of the 777X aircraft.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, we continue to seek opportunities to reduce the costs of building our aircraft, including working with our suppliers to reduce supplier costs, identifying and implementing productivity improvements, and optimizing how we manage inventory.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Bipartisan Budget Act of 2018 raised preexisting spending caps for fiscal years 2018 and 2019 (FY18 and FY19).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The consolidated spending bills signed into law in September 2018 provide defense funding for FY19.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "However, other departments and agencies, including the National Aeronautics and Space Administration (NASA) and the Federal Aviation Administration (FAA), are being temporarily funded at FY18 levels.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Failure to enact a Continuing Resolution or FY19 appropriations by February 15, 2019 would result in a partial government shutdown affecting these departments and agencies.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, reduced discretionary spending limits initially enacted in 2011 would take effect again in fiscal years 2020 and 2021 (FY20 and FY21) unless Congress acts to raise the spending caps or to repeal or suspend the law establishing the reduced limits.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "As a result, continued budget uncertainty and the risk of future sequestration cuts remain and it is likely that U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, there continues to be significant uncertainty with respect to future program-level appropriations for the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While the House and Senate Appropriations Committees included funding for Boeing s major programs, such as F/A-18 Super Hornet, CH-47 Chinook, AH-64 Apache, V-22 Osprey, KC-46A Pegasus Tanker and P-8 Poseidon, in their final FY19 defense appropriations, uncertainty remains about how defense budgets in FY20 and beyond will affect Boeing s programs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Future budget cuts or investment priority changes, including changes associated with the authorizations and appropriations process could result in reductions, cancellations, and/or delays of existing contracts or programs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our BDS and BGS defense businesses generated approximately 65 and 77 of their 2018 revenues from fixed-price contracts.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, during 2018, we recorded reach-forward losses totaling 736 million on the USAF KC-46A Tanker contract primarily reflecting higher estimated costs associated with certification, testing and change incorporation on aircraft, as well as higher than expected effort to meet customer requirements in order to support delivery of the initial aircraft.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, in 2018, in connection with winning the T-X and MQ-25 Stingray competitions, we recorded a loss of 400 million associated with options for 346 T-X Trainer aircraft and a loss of 291 million related to the MQ-25 Stingray Engineering, Manufacturing and Development (EMD) contract.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Fixed-price contracts often contain price incentives and penalties tied to performance which can be difficult to estimate and have significant impacts on margins.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Examples of significant BDS fixed-price development contracts include Commercial Crew, Saudi F-15, USAF KC-46A Tanker , T-X Trainer, VC-25B Presidential Aircraft, MQ-25 Stingray, and commercial and military satellites.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our BDS and BGS defense businesses generated approximately 35 and 23 of their 2018 revenues from cost-type contracting arrangements.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In these cases the associated financial risks are primarily in reduced fees, lower profit rates or program cancellation if cost, schedule or technical 8 Table of Contents performance issues arise.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For example, the 737 program experienced supply chain disruptions in 2018 that impacted the timing of certain deliveries during the year.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Contract and program accounting require judgment relative to assessing risks, estimating revenues and costs and making assumptions for schedule and technical issues.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "To establish the relationship of sales to cost of sales, program 9 Table of Contents accounting requires estimates of (a) the number of units to be produced and sold in a program, (b) the period over which the units can reasonably be expected to be produced and (c) the units expected sales prices, production costs, program tooling and other non-recurring costs, and routine warranty costs for the total program.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "For additional information on our accounting policies for recognizing sales and profits, see our discussion under Management s Discussion and Analysis Critical Accounting Policies Contract Accounting/Program Accounting on pages 43 44 and Note 1 to our Consolidated Financial Statements on pages 54 66 of this Form 10-K.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "customers to finance purchases, including the availability of financing from the Export-Import Bank of the United States; uncertainties and restrictions concerning the availability of funding credit or guarantees; 10 Table of Contents imposition of domestic and international taxes, export controls, tariffs, embargoes, sanctions and other trade restrictions; the difficulty of management and operation of an enterprise spread over many countries; compliance with a variety of non-U.S.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, we are subject to extensive regulation under the laws of the United States and its various states, as well as other jurisdictions in which we operate.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "11 Table of Contents We may be unable to obtain debt to fund our operations and contractual commitments at competitive rates, on commercially reasonable terms or in sufficient amounts.",
+    "risk_type": "financing",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "As of December 31, 2018 and 2017 , our airplane financing commitments totaled 19,462 million and 10,221 million .",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "For example, in 2018 we completed the acquisition of KLX Inc., a provider of aviation parts and services.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Any significant production delays, or any destruction, manipulation or improper 12 Table of Contents use of our data, information systems or networks could impact our sales, increase our expenses and/or have an adverse effect on the reputation of Boeing and of our products and services.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Approximately 54,000 employees, which constitute 35 of our total workforce, were union represented as of December 31, 2018 .",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Our estimates of future costs associated with these benefits are also subject to assumptions, including estimates of the level of medical cost increases.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "For a discussion regarding how our financial statements can be affected by pension and other postretirement plan accounting policies, see Management ' s Discussion and Analysis - Critical Accounting Policies - Pension Plans on page 45 of this Form 10-K.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Although Generally Accepted Accounting Principles in the United States of America (GAAP) expense and pension or other postretirement benefit contributions are not directly related, the key economic factors that affect GAAP expense would also likely affect the amount of cash or stock we would contribute to our plans.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "13 Table of Contents Our operations expose us to the risk of material environmental liabilities.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "For additional information relating to environmental contingencies, see Note 14 to our Consolidated Financial Statements.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  }
+]

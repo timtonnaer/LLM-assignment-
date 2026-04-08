@@ -1,0 +1,464 @@
+[
+  {
+    "sentence": "An investment in the Company s common stock or debt securities involves risks and uncertainties.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company seeks to identify, manage and mitigate risks to our business, but uncertainties and risks are difficult to predict and many are outside of the Company's control and cannot therefore be eliminated.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Risks Related to Our Business, Industry and Operations The Company s businesses operate in highly competitive product markets and competitive pressures could adversely affect the Company s earnings.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "For the Company s pharmaceutical businesses, loss of patent exclusivity for a product often is followed by a substantial reduction in sales as competitors gain regulatory approval for generic and other competing products and enter the market.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company s consumer health businesses face intense competition from other branded products and retailers private-label brands.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company's subsidiaries operate 90 manufacturing facilities as well as sourcing from hundreds of suppliers around the world.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Manufacturing disruptions can occur for many reasons including regulatory action, production quality deviations or safety issues, labor disputes, site-specific incidents (such as fires), natural disasters such as hurricanes and other severe weather events, raw material shortages, political unrest, terrorist attacks and epidemics or pandemics.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any failure by or loss of a third-party manufacturer could result in delays and increased costs, which may adversely affect our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We depend on these third party manufacturers to allocate to us a portion of their manufacturing capacity sufficient to meet our needs, to produce products of acceptable quality and at acceptable manufacturing yields and to deliver those products to us on a timely basis and at acceptable prices.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "However, we cannot guarantee that these third-party manufacturers will be able to meet our near-term or long-term manufacturing requirements, which could result in lost sales and have an adverse effect on our business.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Other risks associated with our reliance on third parties, including the Company s strategic partnership with Jabil in the Medical Devices segment, to manufacture these products include reliance on the third party for regulatory compliance and quality assurance, misappropriation of the Company s intellectual property, limited ability to manage our inventory, possible breach of the manufacturing agreement by the third party and the possible termination or nonrenewal of the manufacturing agreement by the third party at a time that is costly or inconvenient for us.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Moreover, if any of our third party manufacturers suffer any damage to facilities, lose benefits under material agreements, experience power outages, encounter financial difficulties, are unable to secure necessary raw materials from their suppliers or suffer any other reduction in efficiency, the Company may 7 experience significant business disruption.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In the event of any such disruption, the Company would need to seek and source other qualified third-party manufacturers, likely resulting in further delays and increased costs which could affect our business adversely.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Counterfeit medicines pose a risk to patient health and safety because of the conditions under which they are manufactured often in unregulated, unlicensed, uninspected and unsanitary sites as well as the lack of regulation of their contents.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The COVID-19 pandemic has adversely impacted certain aspects of the Company s business and could cause disruptions or future impact to the Company s business, results of operations and financial condition.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We are subject to risks associated with global health crises and pandemics, including the global outbreak of the novel coronavirus and its mutations (COVID-19).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The COVID-19 pandemic has adversely impacted, and is expected to continue to adversely impact, certain aspects of the Company s business, results of operations and financial condition, including lower sales and reduced customer demand and usage of certain of our products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The spread of COVID-19 has caused the Company to modify its business practices (including instituting remote work for many of the Company's employees), and the Company may take further actions as may be required by government authorities or as the Company determines are in the best interests of our patients, customers, employees and business partners.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company continues to monitor the situation and while we have robust business continuity plans in place across our global supply chain network to help mitigate the impact of COVID-19, these efforts may not completely prevent our business from being adversely affected and future impacts remain uncertain.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "and other countries have begun or will begin to reopen their economies, the extent to which COVID-19 will impact the Company's future operations will depend on many factors which cannot be predicted with confidence, including the duration of the outbreak .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any resurgence in COVID-19 infections could result in the imposition of new mandates and prolonged restrictive measures implemented in order to control the spread of the disease.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The continued global spread of COVID-19 could adversely impact the Company's operations, including, among other things, our manufacturing operations, supply chain, including third-party suppliers, sales and marketing and clinical trial operations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any of these factors could adversely affect the Company's business, financial results, and global economic conditions generally.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We also face uncertainties related to our efforts to develop a COVID-19 vaccine candidate, including uncertainties related to the risk that our development programs may not be successful, commercially viable or receive approval or Emergency Use Authorization from regulatory authorities; risks associated with clinical trial data, including further analyses of existing preclinical or clinical trial data that may be inconsistent with the data used for selection of the JNJ-78436735 vaccine candidate and dose level for the Phase 3 (ENSEMBLE) trial; the risk that clinical trial data are subject to differing interpretations and assessments, including during the peer review/publication process, in the scientific community generally, and by regulatory authorities; disruptions in the relationships between us, our third-party suppliers and external manufacturers; the risk that other companies may produce superior or competitive products; the risk that demand for any products we may develop may no longer exist; risks related to the availability of raw materials to manufacture any such products; the risk that we may not be able to recoup costs associated with our R D and manufacturing efforts and risks associated with any changes in the way we approach or provide additional research funding for potential drug development related to COVID-19; the risk that we may not be able to create or scale up manufacturing capacity on a timely basis, that we may experience manufacturing delays once a manufacturing site is activated, or have access to logistics or supply channels commensurate with global demand for any potential approved vaccine or product candidate, which would negatively impact our ability to supply the estimated numbers of doses of our vaccine candidate within the projected time periods indicated, and other challenges and risks associated with the pace of our vaccine development program; and pricing and access challenges for such products, including in the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In addition, to the extent the COVID-19 pandemic adversely affects our business and financial results, it may also have the effect of heightening many of the other risks described in this \"Risk Factors\" section and those incorporated by reference herein, i ncluding risks relating to the Company s effective tax rate as a result of changes in consumption as well as changes in 8 laws relating to supply of the Company s products .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Given that developments concerning the COVID-19 pandemic have been constantly evolving, additional impacts and risks may arise, including litigation, that are not presently known to the Company.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Risk Related to the Government Regulation and Legal Proceedings Global sales in the Company s pharmaceutical and medical devices segments may be negatively impacted by healthcare reforms and increasing pricing pressures.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Outside the U.S., numerous major markets, including the EU, United Kingdom and Japan, have pervasive government involvement in funding healthcare and, in that regard, directly or indirectly impose price controls, limit access to, or reimbursement for, the Company s products, or reduce the value of its intellectual property protection.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company's more significant legal proceedings are described in Note 19, Legal Proceedings under Notes to the Consolidated Financial Statements included in Item 8 of this Report.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Some of these matters may include thousands of plaintiffs, may involve parties seeking large and/or indeterminate amounts, including punitive or exemplary damages, and may remain unresolved for several years.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company does not purchase third-party product liability insurance; however the Company utilizes a wholly-owned captive insurance company subject to certain limits.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Concerns about product safety, whether raised internally or by litigants, regulators or consumer advocates, and whether or not based on scientific evidence, can result in safety alerts, product recalls, governmental investigations, regulatory action on the part of the U.S.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Food and Drug Administration (or its counterpart in other countries), private claims and lawsuits, payment of fines and settlements, declining sales and reputational damage.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company faces significant regulatory scrutiny which imposes significant compliance costs and exposes the Company to government investigations, legal actions and penalties.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Regulatory issues regarding compliance with current Good Manufacturing Practices (cGMP) (and comparable quality regulations in foreign countries) by manufacturers of drugs, devices and consumer products can lead to fines and penalties, product recalls, product shortages, interruptions in production, delays in new product approvals and litigation.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Scrutiny of health care industry business practices by government agencies and state attorneys general in the U.S., and any resulting investigations and prosecutions, carry risk of significant civil and criminal penalties including, but not limited to, debarment from participation in government healthcare programs.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The most significant current investigations and 9 litigation brought by government agencies are described in Note 19, Legal Proceedings-Government Proceedings under Notes to the Consolidated Financial Statements included in Item 8 of this Report.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In connection with the 2015 Organization for Economic Cooperation and Development Base Erosion and Profit Shifting (BEPS) project, companies are required to disclose more information to tax authorities on operations around the world, which may lead to greater audit scrutiny of profits earned in other countries.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Risks Related to Our Intellectual Property The Company may not be able to successfully secure and defend intellectual property rights essential to the Company s businesses.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company owns or licenses a significant number of patents and other proprietary rights, relating to its products and manufacturing processes.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The Company cannot be certain that it will obtain adequate patent protection for new products and technologies in the United States and other important markets or that such protections, once granted, will last as long as originally anticipated.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Competitors routinely challenge the validity or extent of the Company s owned or licensed patents and proprietary rights through litigation, interferences, oppositions and other proceedings, such as inter partes review (IPR) proceedings before the United States Patent Trademark Office (USPTO).",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "In the U.S., manufacturers of generic versions of innovative human pharmaceutical products may challenge the validity, or claim non-infringement, of innovator products through the Abbreviated New Drug Application, or ANDA, process with the FDA and related ANDA litigation.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "The IPR process with the USPTO is also being used by competitors to challenge patents asserted in litigation.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Current legal proceedings involving the Company s patents and other intellectual property rights are described in Note 19, Legal Proceedings Intellectual Property of the Notes to the Consolidated Financial Statements included in Item 8 of this Report.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Risks Related to Product Development, Regulatory Approval and Commercialization Significant challenges or delays in the Company s innovation and development of new products, technologies and indications could have an adverse impact on the Company s long-term success.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "10 The Company s continued growth and success depends on its ability to innovate and develop new and differentiated products and services that address the evolving health care needs of patients, providers and consumers.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "New products introduced within the past five years accounted for approximately 25 of 2020 sales.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Even following initial regulatory approval, the success of a product can be adversely impacted by safety and efficacy findings in larger real-world patient populations, as well as market entry of competitive products.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Risk Related to Financial and Economic Market Conditions The Company faces a variety of risks associated with conducting business internationally .",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Foreign Currency Exchange : In fiscal 2020, approximately 48 of the Company s sales occurred outside of the U.S., with approximately 23 in Europe, 7 in the Western Hemisphere, excluding the U.S., and 18 in the Asia-Pacific and Africa region.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "While the Company uses financial instruments to mitigate the impact of fluctuations in currency exchange rates on its cash flows, unhedged exposures continue to be subject to currency fluctuations.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Also, in many countries outside the U.S., the health care providers who prescribe human pharmaceuticals are employed by the government and the purchasers of human pharmaceuticals are government entities; 11 therefore, the Company s interactions with these prescribers and purchasers are subject to regulation under the FCPA.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Other risks inherent in conducting business globally include: protective economic policies taken by governments such as trade protection measures and import/export licensing requirements; compliance with local regulations and laws including, in some countries, regulatory requirements restricting the Company s ability to manufacture or sell its products in the relevant market; diminished protection of intellectual property and contractual rights in certain jurisdictions; potential nationalization or expropriation of the Company s foreign assets; political or social upheavals, economic instability, repression, or human rights issues; and geopolitical events, including natural disasters, disruptions to markets due to war, armed conflict, terrorism, epidemics or pandemics.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Failure to maintain a satisfactory credit rating could adversely affect our liquidity, capital position, borrowing costs and access to capital markets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "We currently maintain investment grade credit ratings with Moody's Investors Service and Standard Poor's Ratings Services.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Rating agencies routinely evaluate us, and their ratings of our long-term and short-term debt are based on a number of factors.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Any downgrade of our credit ratings by a credit rating agency, whether as a result of our actions or factors which are beyond our control, can increase the cost of borrowing under any indebtedness we may incur, reduce market capacity for our commercial paper or require the posting of additional collateral under our derivative contracts.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "There can be no assurance that we will be able to maintain our credit ratings, and any additional actual or anticipated changes or downgrades in our credit ratings, including any announcement that our ratings are under review for a downgrade, may have a negative impact on our liquidity, capital position and access to capital markets.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Other Risks Our business depends on our ability to recruit and retain talented, highly skilled employees and a diverse workforce.",
+    "risk_type": "unknown",
+    "nature": "unknown",
+    "style": "unknown"
+  },
+  {
+    "sentence": "Our continued growth requires us to recruit and retain talented employees representing diverse backgrounds, experiences, and skill sets.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "The market for highly skilled workers and leaders in our industry is extremely competitive and our ability to compete depends on our ability to hire, develop and motivate highly skilled personnel in all areas of our organization.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Maintaining our brand and reputation, as well as a diverse, equitable and inclusive work environment enables us to attract top talent.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "If we are less successful in our recruiting efforts, or if we cannot retain highly skilled workers and key leaders, our ability to develop and deliver successful products and services may be adversely affected.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Any unsuccessful implementation of our succession plans or failure to ensure effective transfer of knowledge and smooth transitions involving key employees could adversely affect our business, financial condition, or results of operations.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "An information security incident, including a cybersecurity breach, could have a negative impact to the Company s business or reputation.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "To meet business objectives, the Company relies on both internal technology (IT) systems and networks, and those of third parties and their vendors, to process and store sensitive data, including confidential research, business plans, financial information, intellectual property, and personal data that may be subject to legal protection, and ensure the continuity of the Company s supply chain.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The extensive information security and cybersecurity threats, which affect companies globally, pose a risk to the security and availability of these systems and networks, and the confidentiality, integrity, and availability of the Company s sensitive data.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The Company continually assesses these threats and makes investments to increase internal protection, detection, and response capabilities, as well as ensure the Company s third-party providers have required capabilities and controls, to address this risk .",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "This impact could result in reputational, competitive, operational or other business harm as well as financial costs and 12 regulatory action.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The Company maintains cybersecurity insurance in the event of an information security or cyber incident; however, the coverage may not be sufficient to cover all financial, legal, business or reputational losses.",
+    "risk_type": "cyber",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Climate change or legal, regulatory or market measures to address climate change may negatively affect our business and results of operations.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "Climate change resulting from increased concentrations of carbon dioxide and other greenhouse gases in the atmosphere could present risks to our operations, including an adverse impact on global temperatures, weather patterns and the frequency and severity of extreme weather and natural disasters.",
+    "risk_type": "macroeconomic",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Natural disasters and extreme weather conditions, such as a hurricane, tornado, earthquake, wildfire or flooding, may pose physical risks to our facilities and disrupt the operation of our supply chain.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "The impacts of the changing climate on water resources may result in water scarcity, limiting our ability to access sufficient high-quality water in certain locations, which may increase operational costs.",
+    "risk_type": "operational",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Concern over climate change may also result in new or additional legal or regulatory requirements designed to reduce greenhouse gas emissions and/or mitigate the effects of climate change on the environment.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "If such laws or regulations are more stringent than current legal or regulatory obligations, we may experience disruption in, or an increase in the costs associated with sourcing, manufacturing and distribution of our products, which may adversely affect our business, results of operations or financial condition",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  }
+]

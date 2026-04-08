@@ -1,0 +1,50 @@
+[
+  {
+    "sentence": "Congress also passed the Dodd-Frank Wall Street Reform and Consumer Protection Act Dodd-Frank Act in 2010 to reform practices in the financial services industries, including automotive financing and securitizations.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "The Dodd-Frank Act directs federal agencies to adopt rules to regulate the consumer finance industry and the capital markets and, among other things, gives the Consumer Financial Protection Bureau CFPB broad rule-making and enforcement authority for a wide range of consumer financial protection laws that regulate consumer finance businesses, such as Ford Credit s retail automotive financing business.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Effective August 31, 2015, the CFPB has authority to supervise and examine the largest nonbank automotive finance companies, such as Ford Credit, for compliance with consumer financial protection laws.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, the Dodd-Frank Act provides that a nonbank financial company could be designated a systemically important financial institution by the Financial Stability Oversight Council and thus be subject to supervision by the Board of Governors of the Federal Reserve System.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "concrete"
+  },
+  {
+    "sentence": "Such a designation would mean that a nonbank finance company such as Ford Credit, in effect, could be regulated like a bank with respect to capital and other requirements, but without the benefits of being a bank such as the ability to offer Federal Deposit Insurance Corporation FDIC insured deposits.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "The Dodd-Frank Act also creates an alternative liquidation framework under which the FDIC may be appointed as receiver of a nonbank financial company if the U.S.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "bankruptcy law, which could adversely impact securitization markets, including Ford Credit s funding activities, regardless of whether Ford Credit ever is determined to be subject to the Dodd-Frank Act s alternative liquidation framework.",
+    "risk_type": "regulatory",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "In some countries outside the United States, some of Ford Credit s subsidiaries are regulated banking institutions and are required, among other things, to maintain minimum capital and liquidity.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  }
+]

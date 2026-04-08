@@ -1,0 +1,74 @@
+[
+  {
+    "sentence": "Our outstanding indebtedness may have negative consequences on our business, such as requiring us to dedicate a substantial portion of our cash flow from operations to the payment of debt service, reducing the availability of our cash flow to fund working capital, capital expenditures, acquisitions, dividend increases, stock buybacks and other general corporate purposes, as well as increase our vulnerability to adverse economic or industry conditions.",
+    "risk_type": "financing",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "We require all our suppliers to comply with applicable laws, including labor and environmental laws, and otherwise be certified as meeting our required supplier standards of conduct.",
+    "risk_type": "supply_chain",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Political and economic stability in the countries in which foreign suppliers are located, the financial stability of suppliers, suppliers' failure to meet our supplier standards, labor problems experienced by our suppliers, the availability of raw materials to suppliers, currency exchange rates, transport availability and cost, inflation and other 6 factors relating to the suppliers and the countries in which they are located are beyond our control.",
+    "risk_type": "supply_chain",
+    "nature": "expanded_existing",
+    "style": "vague"
+  },
+  {
+    "sentence": "In fiscal years 2019 , 2018 and 2017 , revenue denominated in currencies other than the U.S.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "While we regularly engage in environmental due 7 diligence in connection with acquisitions, we can give no assurance that locations that have been acquired or leased have been operated in compliance with environmental laws and regulations during prior periods or that future uses or conditions will not make us liable under these laws or expose us to third-party actions, including tort suits.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "While we continue to evaluate our internal controls, we cannot be certain that these measures will ensure that we implement and maintain adequate controls over our financial processes and reporting in the future.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Unexpected events, including fires or explosions at facilities, severe weather conditions, natural disasters such as hurricanes and tornadoes, war or terrorist activities, unplanned outages, supply disruptions, failure of equipment or systems or changes in laws and/or regulations impacting our businesses, could adversely affect our consolidated results of operations.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "concrete"
+  },
+  {
+    "sentence": "In addition, negative publicity, whether warranted or not, impacting brand image perception could adversely affect our consolidated results of operations.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "8 We may recognize impairment charges, which could adversely affect our financial condition and results of operations.",
+    "risk_type": "operational",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "The estimated fair value of these assets is impacted by general economic conditions in the locations in which we operate.",
+    "risk_type": "macroeconomic",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Increases in income tax rates, changes in income tax laws or unfavorable resolution of tax matters could adversely impact our financial results.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "vague"
+  },
+  {
+    "sentence": "Changes in tax laws or regulations in the jurisdictions in which we do business, or other tax law implementations or interpretations, could increase our effective tax rate, restrict our ability to repatriate undistributed offshore earnings, or impose new restrictions, costs or prohibitions on our current practices and reduce our net income and adversely affect our cash flows.",
+    "risk_type": "regulatory",
+    "nature": "boilerplate",
+    "style": "concrete"
+  }
+]
