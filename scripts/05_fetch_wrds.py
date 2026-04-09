@@ -13,7 +13,7 @@ import pandas as pd
 import wrds
 from pathlib import Path
 
-PILOT_FIRMS_CSV = Path("/Users/timtonnaer/risk_project/outputs/pilot_firms.csv")
+PILOT_FIRMS_CSV = Path("/Users/timtonnaer/risk_project/outputs/all_firms.csv")
 OUTPUT_COMPUSTAT = Path("/Users/timtonnaer/risk_project/outputs/compustat_panel.csv")
 OUTPUT_CRSP = Path("/Users/timtonnaer/risk_project/outputs/crsp_returns.csv")
 

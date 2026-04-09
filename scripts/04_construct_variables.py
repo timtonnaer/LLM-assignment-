@@ -8,8 +8,8 @@ import json
 import pandas as pd
 from pathlib import Path
 
-DIFF_INDEX_CSV = Path("/Users/timtonnaer/risk_project/outputs/pilot_diff_index.csv")
-PILOT_FIRMS_CSV = Path("/Users/timtonnaer/risk_project/outputs/pilot_firms.csv")
+DIFF_INDEX_CSV = Path("/Users/timtonnaer/risk_project/outputs/all_diff_index.csv")
+PILOT_FIRMS_CSV = Path("/Users/timtonnaer/risk_project/outputs/all_firms.csv")
 CLASSIFIED_DIR = Path("/Users/timtonnaer/risk_project/outputs/classified")
 OUTPUT_CSV = Path("/Users/timtonnaer/risk_project/outputs/firm_year_variables.csv")
 
