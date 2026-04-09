@@ -305,21 +305,19 @@ def classify_with_batch_api(index: pd.DataFrame, client):
             custom_id = f"{prefix}__{chunk_idx}"
             diff_meta[prefix]["chunks"].append((chunk_idx, chunk))
 
-            pending.append(
-                anthropic.types.MessageCreateParamsNonStreaming(
-                    custom_id=custom_id,
-                    params={
-                        "model": client._model,
-                        "max_tokens": 800,
-                        "system": [{
-                            "type": "text",
-                            "text": SYSTEM_PROMPT,
-                            "cache_control": {"type": "ephemeral"},
-                        }],
-                        "messages": [{"role": "user", "content": build_prompt(chunk)}],
-                    }
-                )
-            )
+            pending.append({
+                "custom_id": custom_id,
+                "params": {
+                    "model": client._model,
+                    "max_tokens": 800,
+                    "system": [{
+                        "type": "text",
+                        "text": SYSTEM_PROMPT,
+                        "cache_control": {"type": "ephemeral"},
+                    }],
+                    "messages": [{"role": "user", "content": build_prompt(chunk)}],
+                }
+            })
 
     if skipped:
         logger.info(f"Skipped {skipped} already-classified diffs.")
