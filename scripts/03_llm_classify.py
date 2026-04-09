@@ -43,7 +43,7 @@ INDEX_CSV_MAP = {
 }
 
 # ── Optimisation 3: cheaper model ────────────────────────────────────────────
-DEFAULT_CLAUDE_MODEL = "claude-3-haiku-20240307"   # $0.25/MTok vs $0.80/MTok
+DEFAULT_CLAUDE_MODEL = "claude-haiku-4-5-20251001"
 DEFAULT_OLLAMA_MODEL = "mistral"
 OLLAMA_URL = "http://localhost:11434/api/chat"
 
