@@ -33,9 +33,14 @@ import requests
 import pandas as pd
 from pathlib import Path
 
-DIFF_INDEX_CSV = Path("/Users/timtonnaer/risk_project/outputs/pilot_diff_index.csv")
+OUTPUTS_DIR    = Path("/Users/timtonnaer/risk_project/outputs")
 CLASSIFIED_DIR = Path("/Users/timtonnaer/risk_project/outputs/classified")
 LOG_FILE       = CLASSIFIED_DIR / "classification_log.jsonl"
+
+INDEX_CSV_MAP = {
+    "pilot": OUTPUTS_DIR / "pilot_diff_index.csv",
+    "full":  OUTPUTS_DIR / "all_diff_index.csv",
+}
 
 # ── Optimisation 3: cheaper model ────────────────────────────────────────────
 DEFAULT_CLAUDE_MODEL = "claude-3-haiku-20240307"   # $0.25/MTok vs $0.80/MTok
@@ -489,13 +494,17 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--backend", choices=["claude", "ollama"], default="claude")
     parser.add_argument("--model", default=None)
+    parser.add_argument("--sample", choices=["pilot", "full"], default="pilot",
+                        help="Which diff index to classify (default: pilot)")
     parser.add_argument("--no-batch", action="store_true",
                         help="Use real-time API instead of Batch API (Claude only)")
     parser.add_argument("--batch-size", type=int, default=BATCH_SIZE)
     args = parser.parse_args()
 
+    diff_index_csv = INDEX_CSV_MAP[args.sample]
     CLASSIFIED_DIR.mkdir(parents=True, exist_ok=True)
-    index = pd.read_csv(DIFF_INDEX_CSV)
+    index = pd.read_csv(diff_index_csv)
+    logger.info(f"Sample: {args.sample} | Diffs to process: {len(index)}")
 
     if args.backend == "claude":
         import anthropic
