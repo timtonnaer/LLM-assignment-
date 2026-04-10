@@ -29,6 +29,12 @@ SECTOR_COLORS = {
     "Health Care":             PALETTE[2],
     "Industrials":             PALETTE[3],
     "Information Technology":  PALETTE[4],
+    "Consumer Staples":        "#e377c2",
+    "Energy":                  "#8c564b",
+    "Materials":               "#bcbd22",
+    "Real Estate":             "#17becf",
+    "Utilities":               "#9467bd",
+    "Communication Services":  "#7f7f7f",
 }
 sns.set_theme(style="whitegrid", font_scale=1.1)
 plt.rcParams.update({"figure.dpi": 150, "savefig.bbox": "tight"})
