@@ -1,116 +1,204 @@
-# Do Firms Foreshadow Negative Outcomes Through Changes in Risk Disclosure?
+# Risk Disclosure Change Analysis — S&P 500 10-K Filings
 
-Research project analyzing how S&P 500 firms change their 10-K risk factor disclosures before negative economic outcomes.
+**Research Question:** Do firms subtly expand or modify their 10-K risk disclosures *before* negative economic outcomes — and do those textual signals predict future performance and market reactions?
 
-## Prerequisites
+**Sample:** ~460 S&P 500 firms, 2015–2023 | ~2,300 firm-year observations  
+**Method:** LLM classification (Claude Haiku) of year-over-year risk factor changes → OLS regressions + event study + long-short portfolio
 
-- Python 3.11+
-- [WRDS account](https://wrds-www.wharton.upenn.edu/) (for Compustat + CRSP data)
-- [Anthropic API key](https://console.anthropic.com/) with credits (~$1–2 for full S&P 500)
-- Large data files shared separately (see below)
+---
 
-## Setup
+## Key Findings
+
+| Finding | Effect | Significance |
+|---------|--------|-------------|
+| Cyber risk disclosure → higher future ROA | +0.37pp per sentence | p = 0.002 ** |
+| Supply chain disclosure → higher future ROA | +0.40pp per sentence | p = 0.040 * |
+| Vaguer language → lower future ROA | −2.3pp per unit vagueness | p = 0.061 † |
+| High intensity disclosers face short-term market penalty, recover by d+10 | CAR gap | p = 0.079 † |
+
+**Interpretation:** Firms that name specific risks (cyber, supply chain) outperform peers — consistent with a transparency/preparedness signalling story. Vague, hedged language predicts underperformance. The market initially overreacts to disclosure volume but partially corrects within 10 days, then reverses — suggesting a three-phase information processing dynamic.
+
+---
+
+## Project Structure
+
+```
+risk_project/
+├── scripts/                             # All analysis scripts (run in order)
+│   ├── 01_extract_pilot_firms.py        # Read firm list from Excel
+│   ├── 02_filter_diffs.py               # Index year-over-year diff files
+│   ├── 03_llm_classify.py               # LLM classification via Claude Batch API
+│   ├── 03b_collect_batch.py             # Collect results from existing batch
+│   ├── 03c_fix_unknowns.py              # Re-classify any "unknown" labels
+│   ├── 04_construct_variables.py        # Aggregate to firm-year panel variables
+│   ├── 05_fetch_wrds.py                 # Pull Compustat + CRSP from WRDS
+│   ├── 06_merge_and_analyze.py          # Merge panel, run OLS regressions
+│   ├── 07_visualize_results.py          # General visualisations (11 plots)
+│   ├── 08_event_study.py                # Extended event study [-5, +30] window
+│   ├── 09_portfolio.py                  # Long-short portfolio construction
+│   ├── 10_significant_effects_plots.py  # Detailed plots for significant effects
+│   ├── 11_clean_significant_plots.py    # Simple two-group comparison plots ← start here
+│   └── 12_reversal_plot.py              # Three-phase CAR reversal chart
+│
+├── outputs/
+│   ├── all_firms.csv                    # 460 firms with CIK, ticker, sector
+│   ├── all_diff_index.csv               # 2,273 diff files indexed
+│   ├── firm_year_variables.csv          # Text-based variables (firm × year)
+│   ├── compustat_panel.csv              # WRDS Compustat financials
+│   ├── crsp_returns.csv                 # WRDS CRSP annual returns
+│   ├── final_panel.csv                  # Master merged panel — START HERE for analysis
+│   ├── event_study_data.csv             # CAR data for all 2,341 events
+│   ├── portfolio_returns.csv            # Daily L-S portfolio returns
+│   ├── classified/                      # Per-firm-year LLM classification JSONs
+│   └── analysis/
+│       ├── regression_results.txt       # Full OLS output tables (Reg 1–4)
+│       └── plots/                       # All visualisations (PNG)
+│           ├── A_cyber_disclosers_vs_not.png
+│           ├── B_supply_chain_disclosers_vs_not.png
+│           ├── C_vague_vs_concrete_roa.png
+│           ├── D_event_study_high_vs_low_intensity.png
+│           └── E_car_reversal_three_phases.png   ← most interesting
+│
+├── requirements.txt
+└── README.md
+```
+
+---
+
+## Quickstart — Just Run the Visualisations
+
+If you have been given the pre-processed data files (`final_panel.csv`, `event_study_data.csv`, `portfolio_returns.csv`), you do **not** need an API key or WRDS access. Just clone and plot:
 
 ```bash
-# 1. Clone the repo
-git clone <repo-url>
-cd risk_project
-
-# 2. Create and activate a virtual environment
-python3 -m venv venv
-source venv/bin/activate      # Mac/Linux
-# venv\Scripts\activate       # Windows
-
-# 3. Install dependencies
+git clone https://github.com/timtonnaer/LLM-assignment-.git
+cd LLM-assignment-
+python -m venv venv
+source venv/bin/activate          # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
-# 4. Set your Anthropic API key
-export ANTHROPIC_API_KEY=sk-ant-...
-# Add this to ~/.zshrc to make it permanent
+# Drop the shared data files into outputs/ then:
+python scripts/11_clean_significant_plots.py   # 4 clean two-group charts
+python scripts/12_reversal_plot.py             # CAR three-phase reversal
+python scripts/07_visualize_results.py         # full dashboard
 ```
 
-## Large Data Files (shared separately)
+---
 
-The following directories are **not in git** (too large). Get them from the shared Google Drive / institutional server:
+## Full Pipeline (from scratch)
 
-| Directory | Size | Contents |
-|---|---|---|
-| `data/extracted/` | ~65 GB | Raw SEC EDGAR 10-K filings (2011–2025) |
-| `data/risk_factors/` | ~6 GB | Extracted Risk Factors sections |
-| `outputs/diffs/` | ~1.8 GB | Year-over-year sentence diff JSONs |
+Only needed if you want to re-run LLM classification or extend the sample.
 
-Everything in `outputs/*.csv` and `outputs/classified/` **is** in the repo — you can run scripts 04–08 without re-doing the expensive steps.
-
-## Pipeline
-
-Run scripts in order. Each step is **idempotent** (safe to re-run).
+### Prerequisites
+- **Anthropic API key** — set as `export ANTHROPIC_API_KEY=sk-ant-...`
+- **WRDS account** — prompted on first run of script 05
 
 ```bash
-# Step 1: Extract the 50 pilot firms from the Excel file
-python scripts/01_extract_pilot_firms.py
-
-# Step 2: Index which diff files exist for pilot firms (2015–2023)
-python scripts/02_filter_diffs.py
-
-# Step 3: LLM classification of risk disclosure changes
-# Skips already-classified diffs automatically
-python scripts/03_llm_classify.py --backend claude
-# Or with local Ollama (free, but slower):
-# python scripts/03_llm_classify.py --backend ollama --model llama3.2
-
-# Step 4: Build firm-year variable panel
+python scripts/01_extract_pilot_firms.py --sample full
+python scripts/02_filter_diffs.py        --sample full
+python scripts/03_llm_classify.py        --sample full   # ~$8–10, uses Batch API
+python scripts/03c_fix_unknowns.py                       # fix any failed labels
 python scripts/04_construct_variables.py
-
-# Step 5: Pull Compustat + CRSP data from WRDS
-# Will prompt for WRDS credentials on first run
-python scripts/05_fetch_wrds.py
-
-# Step 6: Merge panel, run regressions, generate plots
+python scripts/05_fetch_wrds.py                          # WRDS credentials required
 python scripts/06_merge_and_analyze.py
-
-# Step 7: Additional visualizations
 python scripts/07_visualize_results.py
-
-# Step 8: Event study (±3 day CAR around 10-K filing dates)
 python scripts/08_event_study.py
+python scripts/09_portfolio.py
+python scripts/10_significant_effects_plots.py
+python scripts/11_clean_significant_plots.py
+python scripts/12_reversal_plot.py
 ```
 
-## Key Outputs
+---
 
-| File | Description |
-|---|---|
-| `outputs/pilot_firms.csv` | 50 pilot firms with CIKs and sectors |
-| `outputs/pilot_diff_index.csv` | Index of available diffs per firm-year |
-| `outputs/classified/` | LLM classification JSONs (one per diff) |
-| `outputs/firm_year_variables.csv` | Key text variables at firm-year level |
-| `outputs/compustat_panel.csv` | Compustat financials (ROA, leverage, etc.) |
-| `outputs/crsp_returns.csv` | CRSP annual stock returns |
-| `outputs/final_panel.csv` | Merged panel — ready for analysis |
-| `outputs/event_study_data.csv` | CAR data for ±3 day event window |
-| `outputs/analysis/regression_results.txt` | OLS regression tables |
-| `outputs/analysis/plots/` | All visualizations (11 PNG files) |
+## Key Columns in `final_panel.csv`
 
-## Key Findings (Pilot — 50 firms, 2015–2023)
+| Column | Description |
+|--------|-------------|
+| `cik`, `ticker`, `sector` | Firm identifiers |
+| `year_new` | Filing year |
+| `risk_update_intensity` | Count of genuinely new/expanded risk sentences |
+| `vagueness_ratio` | Share of vague language (0 = fully concrete, 1 = fully vague) |
+| `boilerplate_ratio` | Share of boilerplate sentences |
+| `risk_cyber` | Count of cyber risk sentences added |
+| `risk_supply_chain` | Count of supply chain risk sentences added |
+| `risk_operational` | Count of operational risk sentences added |
+| `risk_financing` | Count of financing risk sentences added |
+| `risk_regulatory` | Count of regulatory risk sentences added |
+| `risk_macroeconomic` | Count of macro risk sentences added |
+| `roa`, `roa_t1` | Return on assets (current year, next year) |
+| `rev_growth_t1` | Revenue growth next year |
+| `annual_ret`, `annual_ret_t1` | Annual stock return (current, next year) |
+| `leverage`, `log_assets` | Control variables |
 
-1. **Vague risk language predicts higher future ROA** (p=0.018) — concrete disclosures signal genuine trouble
-2. **Financing & regulatory risk disclosures predict lower future ROA** (p<0.05) — real foreshadowing signal
-3. **Markets don't react to risk update quantity at filing time** (event study, p=0.935) — signal is underpriced
-4. **COVID caused a 3× spike in Health Care and IT risk updates** in 2020–2021
-5. **~85% of risk changes are boilerplate** — LLM filtering is essential to isolate signal
+---
 
-## Adding More Companies
+## Ideas for Further Work
 
-1. Add firms to `outputs/pilot_firms.csv` (or update the Excel pilot sheet)
-2. Re-run scripts 02 → 03 → 04 → 06
-   - Script 03 automatically skips already-classified diffs
-   - Cost: ~$0.001 per company per year with Claude Haiku + prompt caching
+### Visualisations
+- **Sector breakdown** of the cyber/supply chain effect — does it hold equally in IT vs Financials?
+- **Year-by-year coefficient plot** — did the cyber effect strengthen post-2020?
+- **Heatmap** of risk type co-occurrence — which risk types appear together?
+- **Firm-level trajectories** — track individual firms' vagueness ratio over time
 
-## Dev Servers
+### Analysis Extensions
+- **Placebo test** — do current-year variables predict *past* ROA? (should be zero)
+- **Non-linear effects** — does very high cyber disclosure eventually backfire?
+- **Interaction effects** — does vagueness × intensity predict outcomes together?
+- **Text similarity** — use the `similarity` column to study year-on-year copy-paste behaviour
+- **Pre/post COVID subsample** — do the effects differ before and after 2020?
+- **Firm size split** — do small and large firms show different disclosure patterns?
 
-```bash
-# JupyterLab (interactive analysis at localhost:8888)
-venv/bin/jupyter lab --no-browser --port=8888 --NotebookApp.token=''
+### Data Extensions
+- Expand to all SEC EDGAR filers (not just S&P 500)
+- Add analyst forecast data — does disclosure reduce forecast dispersion?
+- Add ESG scores — is there a link between risk transparency and ESG ratings?
 
-# Results dashboard (localhost:8050)
-python scripts/dashboard.py
+---
+
+## LLM Classification
+
+Each added/changed sentence in a firm's risk section is classified by `claude-haiku-4-5-20251001`:
+
+- **risk_type:** `operational | cyber | regulatory | supply_chain | financing | macroeconomic | other`
+- **nature:** `new_risk | expanded_existing | boilerplate`
+- **style:** `concrete | vague`
+
+Boilerplate sentences are pre-filtered using 30+ regex patterns before the API call to reduce cost. Uses the Anthropic Message Batches API (50% cheaper than standard). Total cost for ~460 firms × 8 years ≈ $8–10.
+
+---
+
+## Large Data Files (not in git)
+
+The following are too large for GitHub. Shared separately:
+
+| Path | Size | Contents |
+|------|------|----------|
+| `outputs/diffs/` | ~1.8 GB | Year-over-year sentence diff JSONs |
+| `outputs/classified/` | ~500 MB | LLM classification JSONs |
+| `outputs/final_panel.csv` | ~2 MB | Master analysis panel |
+| `outputs/event_study_data.csv` | ~1 MB | CAR event data |
+
+---
+
+## Dependencies
+
 ```
+anthropic>=0.40
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.12
+scipy>=1.10
+statsmodels>=0.14
+wrds>=3.1
+openpyxl>=3.1
+```
+
+Install: `pip install -r requirements.txt`
+
+---
+
+## Contact
+
+Tim Tonnaer — project owner  
+Repository: https://github.com/timtonnaer/LLM-assignment-

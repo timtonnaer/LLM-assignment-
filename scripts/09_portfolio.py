@@ -53,7 +53,13 @@ plt.rcParams.update({"figure.dpi": 150, "savefig.bbox": "tight"})
 def assign_terciles(df, col):
     """Assign tercile ranks (1=bottom, 2=middle, 3=top) for a given column."""
     df = df.copy()
-    df[f"{col}_tercile"] = pd.qcut(df[col], q=3, labels=[1, 2, 3], duplicates="drop")
+    try:
+        df[f"{col}_tercile"] = pd.qcut(df[col], q=3, labels=[1, 2, 3], duplicates="drop")
+    except ValueError:
+        # Fallback: use rank-based tercile when too many duplicates
+        ranks = df[col].rank(method="first", na_option="bottom")
+        n = len(ranks)
+        df[f"{col}_tercile"] = pd.cut(ranks, bins=3, labels=[1, 2, 3])
     return df
 
 
@@ -371,8 +377,13 @@ def main():
     firms    = pd.read_csv(FIRMS_CSV, dtype={"cik": str})
     events   = pd.read_csv(EVENT_DATA_CSV, dtype={"cik": str})
 
-    # Merge ticker into vars
-    vars_df = vars_df.merge(firms[["cik", "ticker"]], on="cik", how="left")
+    # Merge ticker into vars only if not already present
+    if "ticker" not in vars_df.columns:
+        vars_df = vars_df.merge(firms[["cik", "ticker"]], on="cik", how="left")
+    vars_df["cik"] = vars_df["cik"].astype(str)
+
+    # Drop rows with no ticker or key signal columns
+    vars_df = vars_df.dropna(subset=["ticker", "vagueness_ratio", "risk_update_intensity"])
 
     # Build signals
     signals = build_signals(vars_df)
@@ -389,7 +400,7 @@ def main():
     date_max = "2024-12-31"
 
     print(f"Connecting to WRDS for daily returns ({date_min} → {date_max})...")
-    db = wrds.Connection()
+    db = wrds.Connection(wrds_username="timtonnaer10")
     daily, market = fetch_daily_returns(db, all_tickers, date_min, date_max)
     db.close()
     print(f"  Stock returns: {len(daily):,} rows | Market: {len(market):,} rows")
